@@ -12,6 +12,8 @@
   --hud: "Chakra Petch", "Segoe UI", sans-serif;
   --display: "Bebas Neue", "Chakra Petch", sans-serif;
   --bar-h: 56px;
+  /* Marge latérale du cadre de 1100 px : la barre s’aligne sur le contenu. */
+  --gutter: max(16px, calc((100% - 1100px) / 2));
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: auto; }
@@ -39,7 +41,7 @@ body::after {
 /* ---------- Barre HUD ---------- */
 .bar {
   position: sticky; top: 0; z-index: 20; height: var(--bar-h);
-  display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 16px; padding: 0 20px;
+  display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 16px; padding: 0 var(--gutter);
   background: var(--panel); backdrop-filter: blur(14px) saturate(140%);
   border-bottom: 1px solid var(--line);
   transition: transform .3s cubic-bezier(.2, .8, .2, 1);
@@ -72,7 +74,7 @@ body::after {
 
 /* Hors de la barre : son backdrop-filter piégerait le position: fixed du mode mobile. */
 .seg {
-  position: fixed; top: 0; right: 20px; z-index: 21; height: var(--bar-h);
+  position: fixed; top: 0; right: var(--gutter); z-index: 21; height: var(--bar-h);
   display: flex; align-items: center; gap: 4px;
   transition: transform .3s cubic-bezier(.2, .8, .2, 1);
 }
@@ -180,7 +182,7 @@ main:focus, .strip:focus { outline: none; }
   clip-path: polygon(8px 0, 100% 0, 100% calc(100% - 8px), calc(100% - 8px) 100%, 0 100%, 0 8px);
 }
 .nav-link:hover { color: var(--cyan); border-color: var(--cyan); }
-@media (min-width: 761px) { .has-seg .site-nav { margin-right: 260px; } }
+@media (min-width: 761px) { .has-seg .site-nav { margin-right: 210px; } }
 .crumbs { position: relative; z-index: 1; width: min(690px, 100% - 32px); margin: 24px auto 0; font-size: 12px; letter-spacing: .1em; color: var(--muted); text-transform: uppercase; }
 [data-view="both"] .crumbs, :root:not([data-view]) .crumbs { width: min(1100px, 100% - 32px); }
 .crumbs a { color: var(--cyan); text-decoration: none; }
