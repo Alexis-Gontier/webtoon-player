@@ -32,6 +32,30 @@ def test_site_data_is_sorted_with_ids(tmp_path):
     }
 
 
+def test_thumb_window_picks_the_detailed_area(tmp_path):
+    # Page blanche en haut, zone contrastée plus bas : la vignette doit montrer la zone contrastée.
+    page = Image.new("RGB", (800, 4000), "white")
+    for x in range(0, 800, 40):
+        page.paste((0, 0, 0), (x, 2500, x + 20, 3500))
+    src = tmp_path / "p.webp"
+    page.save(src)
+    top = make_viewer.best_window([src])
+    assert top[0] == src
+    assert 1500 <= top[1] <= 3500
+
+
+def test_thumb_window_prefers_detail_over_flat_contrast(tmp_path):
+    # Haut : aplat moitié blanc moitié noir (fort contraste, peu de détail) ; bas : dégradé détaillé.
+    page = Image.new("L", (800, 4000), 255)
+    page.paste(0, (0, 500, 800, 1100))
+    for y in range(2600, 3700):
+        for x in range(0, 800, 4):
+            page.paste((x + y) % 256, (x, y, x + 4, y + 1))
+    src = tmp_path / "p.webp"
+    page.convert("RGB").save(src)
+    assert 1500 <= make_viewer.best_window([src])[1] <= 3700
+
+
 def test_write_site_creates_json_and_thumbs(tmp_path):
     root = fake_repo(tmp_path)
     make_viewer.write_site(root, make_viewer.chapter_data(root))

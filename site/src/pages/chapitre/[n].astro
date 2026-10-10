@@ -97,5 +97,5 @@ const jsonLd = [
         : <a class="end-btn" href="/#chapitres">Dernier chapitre disponible · Accueil</a>}
     </div>
   </section>
-  <Reader client:only="svelte" chapter={n} {total} {prev} {next} {prefetch} />
+  <Reader slot="overlay" client:only="svelte" chapter={n} {total} {prev} {next} {prefetch} />
 </Base>

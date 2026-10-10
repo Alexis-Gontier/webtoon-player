@@ -61,6 +61,8 @@ const {
   <main id="contenu" tabindex="-1">
     <slot />
   </main>
+  <!-- Hors de <main> : son z-index ferait passer les éléments fixes du lecteur sous la barre. -->
+  <slot name="overlay" />
   <Footer />
 </body>
 </html>

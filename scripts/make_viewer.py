@@ -43,13 +43,34 @@ def site_data(chapters):
     return [{"id": c["name"], "n": int(c["name"]), "pages": c["pages"]} for c in chapters if c["pages"]]
 
 
-def make_thumb(src, dest):
-    # Haut de la première page, au ratio de la vignette ; refait seulement si la page a changé.
-    if dest.exists() and dest.stat().st_mtime >= src.stat().st_mtime:
+def best_window(sources):
+    """(page, y) de la zone au ratio de la vignette la plus détaillée : évite les hauts de page vides.
+
+    Entropie de l'histogramme plutôt qu'écart-type : un aplat moitié blanc moitié noir a un fort
+    écart-type mais une entropie faible, un dessin a beaucoup de tons différents.
+    """
+    best = None
+    for src in sources:
+        with Image.open(src) as im:
+            win = round(im.width * THUMB_SIZE[1] / THUMB_SIZE[0])
+            scale = 100 / im.width
+            small = im.convert("L").resize((100, max(1, round(im.height * scale))))
+        win_small = max(1, round(win * scale))
+        for y in range(0, max(1, small.height - win_small + 1), max(1, win_small // 4)):
+            score = small.crop((0, y, small.width, y + win_small)).entropy()
+            if best is None or score > best[0]:
+                best = (score, src, round(y / scale))
+    return best[1], best[2]
+
+
+def make_thumb(sources, dest):
+    # Refaite seulement si une des pages candidates a changé.
+    if dest.exists() and dest.stat().st_mtime >= max(s.stat().st_mtime for s in sources):
         return
+    src, top = best_window(sources)
     with Image.open(src) as im:
-        width = im.width
-        crop = im.convert("RGB").crop((0, 0, width, min(im.height, round(width * THUMB_SIZE[1] / THUMB_SIZE[0]))))
+        bottom = min(im.height, top + round(im.width * THUMB_SIZE[1] / THUMB_SIZE[0]))
+        crop = im.convert("RGB").crop((0, top, im.width, bottom))
         crop.resize(THUMB_SIZE, Image.LANCZOS).save(dest, "WEBP", quality=80)
 
 
@@ -61,7 +82,9 @@ def write_site(root, chapters):
     thumbs = root / "site" / "public" / "thumbs"
     thumbs.mkdir(parents=True, exist_ok=True)
     for c in data:
-        make_thumb(root / c["pages"][0]["fr"], thumbs / f"{c['n']}.webp")
+        # Pages 2 à 4 : la première est souvent un crédit ou une bannière.
+        candidates = c["pages"][1:4] or c["pages"][:1]
+        make_thumb([root / p["fr"] for p in candidates], thumbs / f"{c['n']}.webp")
 
 
 def main():

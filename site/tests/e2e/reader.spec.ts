@@ -29,6 +29,22 @@ test('mode par défaut EN|FR, changement au clavier', async ({ page }) => {
   await expect(page.getByRole('button', { name: 'FR', exact: true })).toHaveAttribute('aria-pressed', 'true');
 });
 
+test('les boutons de mode et le compteur sont au premier plan', async ({ page }) => {
+  await page.goto(`/chapitre/${FIRST}/`);
+  for (const selector of ['.seg button', '.page-hud']) {
+    const target = page.locator(selector).first();
+    await expect(target).toBeVisible();
+    const box = (await target.boundingBox())!;
+    const onTop = await page.evaluate(([x, y, sel]) => {
+      const hit = document.elementFromPoint(x, y);
+      return !!hit?.closest(sel);
+    }, [box.x + box.width / 2, box.y + box.height / 2, selector] as const);
+    expect(onTop, `${selector} recouvert`).toBe(true);
+  }
+  await page.locator('.seg button').last().click();
+  await expect(page.locator('html')).toHaveAttribute('data-view', 'fr');
+});
+
 test('changer de mode garde la page en cours', async ({ page }) => {
   await page.goto(`/chapitre/${FIRST}/`);
   await expect(page.locator('.seg')).toBeVisible();

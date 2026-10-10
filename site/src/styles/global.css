@@ -136,7 +136,7 @@ kbd { font: 600 11px var(--hud); padding: 1px 6px; border: 1px solid var(--line-
 .end .tag { font: 600 11px var(--hud); letter-spacing: .3em; color: var(--karma); }
 .end h2 { margin: 6px 0 24px; font: 400 56px/1 var(--display); letter-spacing: .04em; }
 .end .nav { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
-.end-btn { display: inline-grid; place-items: center; height: 46px; padding: 0 26px; font-size: 14px; }
+.end-btn { display: inline-flex; align-items: center; justify-content: center; white-space: nowrap; height: 46px; padding: 0 26px; font-size: 14px; }
 .end-btn.primary { background: var(--cyan); color: var(--ink); border-color: var(--cyan); box-shadow: 0 0 22px var(--cyan-glow); }
 .end-btn.primary:hover { background: #9ff0ff; color: var(--ink); }
 
