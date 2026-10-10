@@ -1,0 +1,30 @@
+{
+  "name": "player-fr",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.27.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "node scripts/serve.mjs",
+    "check": "astro check",
+    "test": "vitest run tests/unit",
+    "test:dist": "vitest run tests/dist",
+    "e2e": "playwright test"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "3.7.4",
+    "@astrojs/svelte": "9.0.1",
+    "@fontsource/bebas-neue": "^5.3.0",
+    "@fontsource/chakra-petch": "^5.3.0",
+    "astro": "7.3.8",
+    "sirv": "3.0.2",
+    "svelte": "5.57.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@playwright/test": "1.64.0",
+    "typescript": "^6.0.3",
+    "vitest": "5.0.3"
+  }
+}

@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+import ChapterCard from '../components/ChapterCard.astro';
+import { getChapters } from '../lib/chapters';
+import { absolute, chapterPath } from '../lib/urls';
+import { SITE } from '../config';
+
+const chapters = await getChapters();
+const site = Astro.site!;
+const { series } = SITE;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ComicSeries',
+  name: series.title,
+  inLanguage: 'fr',
+  url: absolute('/', site),
+  ...(series.authors.length ? { author: series.authors.map(name => ({ '@type': 'Person', name })) } : {}),
+  ...(series.synopsis ? { description: series.synopsis } : {}),
+  hasPart: chapters.map(c => ({ '@type': 'ComicIssue', issueNumber: c.n, url: absolute(chapterPath(c.n), site) })),
+};
+const first = chapters[0].n, last = chapters.at(-1)!.n;
+---
+<Base title={SITE.name} description={SITE.description} {jsonLd}>
+  <section class="title-card hero">
+    <div class="tag">// WEBTOON · TRADUCTION FRANÇAISE</div>
+    <h1>Player</h1>
+    {series.synopsis && <p class="synopsis">{series.synopsis}</p>}
+    <div class="meta">
+      <span><b>{chapters.length}</b> chapitres</span>
+      <span>Chapitres <b>{first}</b> à <b>{last}</b></span>
+      {series.authors.length > 0 && <span>{series.authors.join(', ')}</span>}
+    </div>
+    <div class="hero-actions">
+      <a class="end-btn primary" id="resume" href={chapterPath(first)} hidden>Reprendre au chapitre&nbsp;<b></b></a>
+      <a class="end-btn" href={chapterPath(first)}>Commencer au chapitre {first}</a>
+    </div>
+  </section>
+
+  <section class="chapters" id="chapitres" aria-labelledby="chapitres-titre">
+    <h2 id="chapitres-titre">Chapitres</h2>
+    <ul class="grid">
+      {chapters.map(c => <ChapterCard n={c.n} pages={c.pages.length} />)}
+    </ul>
+  </section>
+</Base>
+
+<script>
+  import { chapterStatus, createStore } from '../lib/storage';
+  import { chapterPath } from '../lib/urls';
+
+  // Badges « lu » / « en cours » et bouton Reprendre, d’après la progression enregistrée.
+  function decorate() {
+    const store = createStore();
+    document.querySelectorAll<HTMLElement>('[data-chapter-card]').forEach(card => {
+      card.dataset.status = chapterStatus(store, Number(card.dataset.chapterCard)) ?? '';
+    });
+    const resume = document.querySelector<HTMLAnchorElement>('#resume');
+    const last = store.get('chapter');
+    if (!resume || !last || !document.querySelector(`[data-chapter-card="${last}"]`)) return;
+    resume.href = chapterPath(Number(last));
+    resume.querySelector('b')!.textContent = last;
+    resume.hidden = false;
+  }
+  document.addEventListener('astro:page-load', decorate);
+</script>

@@ -1,0 +1,15 @@
+---
+import { chapterPath } from '../lib/urls';
+
+interface Props { n: number; pages: number }
+const { n, pages } = Astro.props;
+---
+<li>
+  <a class="card" href={chapterPath(n)} data-chapter-card={n} data-status="">
+    <img src={`/thumbs/${n}.webp`} width="400" height="560" alt="" loading="lazy" decoding="async" />
+    <span class="card-num">Chapitre {n}</span>
+    <span class="card-meta">{pages} pages</span>
+    <span class="badge badge-read">Lu</span>
+    <span class="badge badge-progress">En cours</span>
+  </a>
+</li>

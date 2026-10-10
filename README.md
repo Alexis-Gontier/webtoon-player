@@ -6,7 +6,11 @@ proches du lettrage d'origine.
 
 ## Lire
 
-Ouvrir `viewer.html` (double-clic) : original à gauche, français à droite, défilement synchronisé.
+Site (Astro + Svelte, une page par chapitre) : `python scripts/make_viewer.py`, puis dans `site/` :
+`pnpm install` (une fois), `pnpm run build`, `pnpm run preview` et ouvrir http://localhost:4321/.
+Développement : `pnpm run dev`. Tests : `pnpm test`, `pnpm run test:dist` (après un build), `pnpm run e2e`.
+
+Ancien lecteur, en attendant la validation du site : `viewer.html` (double-clic).
 
 ## Structure
 
@@ -21,7 +25,9 @@ models/             lama_fp32.onnx : inpainting LaMa (effacement par défaut), h
 fonts/              polices de lettrage (Anime Ace 2 complétée de Ç et Œ, Anton, Mouse Memoirs...)
 docs/               translation-reference.md : règles, glossaire, options du moteur, erreurs résolues
                     audit-2026-10-09.md : audit des règles, points restant à corriger
-viewer.html         lecteur généré par scripts/make_viewer.py
+site/               site Astro + Svelte (pages, lecteur, SEO) ; données écrites par scripts/make_viewer.py
+tests/              tests Python (pytest)
+viewer.html         ancien lecteur généré par scripts/make_viewer.py
 ```
 
 ## Outils
@@ -35,7 +41,7 @@ python scripts/auto_translate.py check N [PPP ...] # contrôle seul
 python scripts/find_missed.py N [N ...]            # texte anglais oublié (détecteur de texte)
 python scripts/audit_render.py N [N ...]           # texte français nettement plus petit que l'anglais
 python scripts/translate_bubbles.py translations/ch225_*.json   # rendu depuis des configs JSON
-python scripts/make_viewer.py                      # régénère viewer.html
+python scripts/make_viewer.py                      # données et vignettes du site (+ viewer.html)
 .\scripts\download-chapter.ps1 -ChapterUrl <url du chapitre>    # télécharge les chapitres suivants
 python scripts/add_french_glyphs.py <src.ttf> <sortie.ttf>      # ajoute Ç/Œ à une police
 ```
