@@ -78,7 +78,8 @@ def write_site(root, chapters):
     data = site_data(chapters)
     out = root / "site" / "src" / "data" / "chapters.json"
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+    # LF forcé : sous Windows, write_text écrirait du CRLF et git verrait le fichier modifié à chaque rendu.
+    out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
     thumbs = root / "site" / "public" / "thumbs"
     thumbs.mkdir(parents=True, exist_ok=True)
     for c in data:
