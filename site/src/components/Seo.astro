@@ -1,0 +1,32 @@
+---
+import { SITE } from '../config';
+import { absolute, chapterPath } from '../lib/urls';
+
+interface Props {
+  title: string;
+  description: string;
+  image: string;
+  type: 'website' | 'article';
+  noindex: boolean;
+  jsonLd: object[];
+  prev: number | null;
+  next: number | null;
+}
+const { title, description, image, type, noindex, jsonLd, prev, next } = Astro.props;
+const site = Astro.site!;
+const canonical = absolute(Astro.url.pathname, site);
+---
+<title>{title}</title>
+<meta name="description" content={description} />
+{noindex ? <meta name="robots" content="noindex" /> : <link rel="canonical" href={canonical} />}
+{prev !== null && <link rel="prev" href={absolute(chapterPath(prev), site)} />}
+{next !== null && <link rel="next" href={absolute(chapterPath(next), site)} />}
+<meta property="og:site_name" content={SITE.name} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonical} />
+<meta property="og:image" content={absolute(image, site)} />
+<meta property="og:type" content={type} />
+<meta property="og:locale" content={SITE.locale} />
+<meta name="twitter:card" content="summary_large_image" />
+{jsonLd.map(data => <script type="application/ld+json" set:html={JSON.stringify(data)} />)}

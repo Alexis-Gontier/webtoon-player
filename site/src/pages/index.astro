@@ -1,0 +1,10 @@
+---
+// Provisoire : remplacé par l'accueil (Tâche 7).
+import Base from '../layouts/Base.astro';
+import { getChapters } from '../lib/chapters';
+import { SITE } from '../config';
+const chapters = await getChapters();
+---
+<Base title={SITE.name} description={SITE.description}>
+  <ul>{chapters.map(c => <li>{c.n} ({c.pages.length} pages)</li>)}</ul>
+</Base>
