@@ -1,0 +1,96 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getChapters, type Chapter } from '../../lib/chapters';
+import { absolute, chapterPath, imageUrl } from '../../lib/urls';
+import { IMAGE_BASE, SITE } from '../../config';
+
+export async function getStaticPaths() {
+  const chapters = await getChapters();
+  return chapters.map((chapter, i) => ({
+    params: { n: String(chapter.n) },
+    props: { chapter, prev: chapters[i - 1]?.n ?? null, next: chapters[i + 1]?.n ?? null },
+  }));
+}
+
+interface Props { chapter: Chapter; prev: number | null; next: number | null }
+const { chapter, prev, next } = Astro.props;
+const { n, pages } = chapter;
+const total = pages.length;
+const site = Astro.site!;
+const LANGS = [
+  { id: 'en', label: 'anglais' },
+  { id: 'fr', label: 'français' },
+] as const;
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ComicIssue',
+    name: `${SITE.series.title}, chapitre ${n}`,
+    issueNumber: n,
+    inLanguage: 'fr',
+    url: absolute(chapterPath(n), site),
+    image: absolute(`/thumbs/${n}.webp`, site),
+    isPartOf: { '@type': 'ComicSeries', name: SITE.series.title, url: absolute('/', site) },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: absolute('/', site) },
+      { '@type': 'ListItem', position: 2, name: `Chapitre ${n}`, item: absolute(chapterPath(n), site) },
+    ],
+  },
+];
+---
+<Base
+  title={`Player — Chapitre ${n}`}
+  description={`Chapitre ${n} de Player en traduction française (${total} pages), lisible seul ou à côté de la version originale anglaise.`}
+  image={`/thumbs/${n}.webp`}
+  type="article"
+  {jsonLd}
+  {prev}
+  {next}
+>
+  <nav class="crumbs" aria-label="Fil d’Ariane"><a href="/">Accueil</a> › <span aria-current="page">Chapitre {n}</span></nav>
+  <section class="title-card">
+    <div class="tag">// CHAPITRE</div>
+    <h1>Chapitre {n}</h1>
+    <div class="meta">
+      <span><b>{total}</b> pages</span>
+      <span class="view-label" data-for="en">Anglais seul</span>
+      <span class="view-label" data-for="both">Anglais · Français</span>
+      <span class="view-label" data-for="fr">Français seul</span>
+      <span class="keys"><kbd>←</kbd> <kbd>→</kbd> chapitres · <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> affichage · <kbd>?</kbd> aide</span>
+    </div>
+  </section>
+
+  <div class="strip" id="strip" tabindex="-1" data-chapter={n} data-total={total}>
+    <div class="col-head en"><i>EN</i> ORIGINAL</div>
+    <div class="col-head fr"><i>FR</i> TRADUCTION</div>
+    {pages.flatMap((p, i) => LANGS.map(lang => (
+      <img
+        class={lang.id}
+        src={imageUrl(IMAGE_BASE, p[lang.id])}
+        width={p.w}
+        height={p.h}
+        alt={`Chapitre ${n}, page ${i + 1} (${lang.label})`}
+        decoding="async"
+        loading={i < 2 ? 'eager' : 'lazy'}
+        fetchpriority={i < 2 ? 'high' : undefined}
+        data-page={i + 1}
+      />
+    )))}
+  </div>
+
+  <section class="end" id="end">
+    <div class="tag">// FIN DU CHAPITRE</div>
+    <h2>Chapitre {n} terminé</h2>
+    <div class="nav">
+      {prev !== null && <a class="end-btn" href={chapterPath(prev)}>‹ Chapitre {prev}</a>}
+      {next !== null
+        ? <a class="end-btn primary" href={chapterPath(next)}>Chapitre {next} ›</a>
+        : <a class="end-btn" href="/#chapitres">Dernier chapitre disponible · Accueil</a>}
+    </div>
+  </section>
+</Base>
