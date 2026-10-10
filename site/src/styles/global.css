@@ -76,7 +76,7 @@ body::after {
   display: flex; align-items: center; gap: 4px;
   transition: transform .3s cubic-bezier(.2, .8, .2, 1);
 }
-.seg button { height: 32px; padding: 0 14px; color: var(--muted); }
+.seg button { height: 32px; padding: 0 14px; white-space: nowrap; color: var(--muted); }
 .seg button:hover { color: var(--text); }
 .seg button[aria-pressed="true"] { color: var(--ink); background: var(--cyan); border-color: var(--cyan); box-shadow: 0 0 16px var(--cyan-glow); }
 
