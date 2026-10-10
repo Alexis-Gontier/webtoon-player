@@ -196,3 +196,28 @@ main:focus, .strip:focus { outline: none; }
 .help h2 { margin: 0 0 16px; font: 400 32px/1 var(--display); letter-spacing: .04em; }
 .help dl { display: grid; grid-template-columns: auto 1fr; gap: 10px 16px; margin: 0 0 20px; }
 .help dd { margin: 0; color: var(--muted); }
+
+/* ---------- Accueil ---------- */
+.hero { width: min(1100px, 100% - 32px); }
+.synopsis { max-width: 60ch; color: var(--text); font-size: 15px; line-height: 1.6; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+.hero-actions [hidden] { display: none; }
+.end h1 { margin: 6px 0 24px; font: 400 56px/1 var(--display); letter-spacing: .04em; }
+.chapters { position: relative; z-index: 1; width: min(1100px, 100% - 32px); margin: 0 auto 64px; }
+.chapters h2 { font: 400 40px/1 var(--display); letter-spacing: .04em; margin: 0 0 20px; }
+.grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+.card {
+  position: relative; display: grid; gap: 4px; text-decoration: none; padding-bottom: 10px;
+  border: 1px solid var(--line); background: var(--panel); transition: border-color .2s, transform .2s;
+}
+.card:hover { border-color: var(--cyan); transform: translateY(-2px); }
+.card img { width: 100%; height: auto; display: block; background: #111; }
+.card-num { padding: 6px 10px 0; font: 400 24px/1 var(--display); letter-spacing: .04em; }
+.card-meta { padding: 0 10px; font-size: 11px; letter-spacing: .12em; color: var(--muted); text-transform: uppercase; }
+.badge {
+  display: none; position: absolute; top: 8px; left: 8px; padding: 3px 8px;
+  font: 700 10px var(--hud); letter-spacing: .2em; text-transform: uppercase;
+}
+.card[data-status="read"] .badge-read { display: block; background: var(--cyan); color: var(--ink); }
+.card[data-status="progress"] .badge-progress { display: block; background: var(--karma); color: #fff; }
+@media (prefers-reduced-motion: reduce) { .card:hover { transform: none; } }
