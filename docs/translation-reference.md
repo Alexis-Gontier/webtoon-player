@@ -451,11 +451,11 @@ python scripts/auto_translate.py check 226   # contrôle seul
   "outline": [0,0,0], "outline_width": 3}` ; garder le `box` dans la bande, sinon un pavé rayé
   apparaît sur le dessin blanc.
 
-## Relecture : `viewer.html`
+## Relecture : le site (`site/`)
 
-Après chaque rendu : `python scripts/make_viewer.py`, puis ouvrir `viewer.html`
-(double-clic). Le chapitre anglais s'affiche à gauche, le français à droite ;
-les deux colonnes défilent ensemble.
+Après chaque rendu : `python scripts/make_viewer.py`, puis dans `site/` `pnpm run build` et
+`pnpm run preview`, et ouvrir http://localhost:4321/chapitre/N/. Le chapitre anglais s'affiche à
+gauche, le français à droite (touches `1` `2` `3` pour EN / les deux / FR).
 
 Un rendu sans `ÉCHEC` peut quand même déborder ou laisser un reste de texte :
 vérifier en petites planches les points signalés par le contrôle, les `box` et

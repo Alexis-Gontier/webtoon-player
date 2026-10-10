@@ -1,9 +1,7 @@
-"""Génère les données du lecteur.
+"""Génère les données du site de lecture (dossier site/) :
+site/src/data/chapters.json et les vignettes site/public/thumbs/N.webp.
 
-- site/src/data/chapters.json et site/public/thumbs/N.webp pour le site Astro (dossier site/) ;
-- viewer.html (ancien lecteur, gardé tant que le site n'est pas validé).
-
-Usage : python scripts/make_viewer.py
+Usage : python scripts/make_viewer.py, puis `pnpm run build` dans site/.
 À relancer après chaque rendu pour mettre à jour la liste des chapitres.
 """
 
@@ -13,7 +11,6 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
-TEMPLATE = Path(__file__).resolve().parent / "viewer_template.html"
 THUMB_SIZE = (400, 560)
 
 
@@ -89,12 +86,8 @@ def write_site(root, chapters):
 
 
 def main():
-    chapters = chapter_data()
-    write_site(ROOT, chapters)
-    template = TEMPLATE.read_text(encoding="utf-8")
-    data = json.dumps(chapters, ensure_ascii=False)
-    (ROOT / "viewer.html").write_text(template.replace("/*DATA*/[]", data), encoding="utf-8")
-    print("site/src/data/chapters.json, vignettes et viewer.html générés")
+    write_site(ROOT, chapter_data())
+    print("site/src/data/chapters.json et vignettes générés ; lancer `pnpm run build` dans site/")
 
 
 if __name__ == "__main__":

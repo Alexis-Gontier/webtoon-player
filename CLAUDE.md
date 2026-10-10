@@ -13,7 +13,7 @@ python scripts/auto_translate.py check N [PPP ...] # contrôle seul
 python scripts/find_missed.py N [N ...]            # texte anglais oublié -> inventaire/chN/oublis.png
 python scripts/audit_render.py N [N ...]           # texte FR trop petit vs anglais -> inventaire/chN/tailles.png
 python scripts/translate_bubbles.py translations/ch225_*.json   # ch. 225 et 259 : JSON manuels, sans txt
-python scripts/make_viewer.py                      # données du site + vignettes (+ viewer.html) après chaque rendu
+python scripts/make_viewer.py                      # données du site + vignettes après chaque rendu
 cd site && pnpm run build && pnpm run preview      # site Astro sur http://localhost:4321/ (pnpm uniquement)
 ```
 
