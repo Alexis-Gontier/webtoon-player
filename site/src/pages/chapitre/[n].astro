@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import Reader from '../../components/Reader.svelte';
 import { getChapters, type Chapter } from '../../lib/chapters';
 import { absolute, chapterPath, imageUrl } from '../../lib/urls';
 import { IMAGE_BASE, SITE } from '../../config';
@@ -17,6 +18,9 @@ const { chapter, prev, next } = Astro.props;
 const { n, pages } = chapter;
 const total = pages.length;
 const site = Astro.site!;
+// Premières pages du chapitre suivant, préchargées par le lecteur.
+const nextChapter = (await getChapters()).find(c => c.n === next);
+const prefetch = (nextChapter?.pages.slice(0, 3) ?? []).map(p => ({ en: imageUrl(IMAGE_BASE, p.en), fr: imageUrl(IMAGE_BASE, p.fr) }));
 const LANGS = [
   { id: 'en', label: 'anglais' },
   { id: 'fr', label: 'français' },
@@ -93,4 +97,5 @@ const jsonLd = [
         : <a class="end-btn" href="/#chapitres">Dernier chapitre disponible · Accueil</a>}
     </div>
   </section>
+  <Reader client:only="svelte" chapter={n} {total} {prev} {next} {prefetch} />
 </Base>
