@@ -61,10 +61,12 @@ CLAUDE.md, README.md                    (Tâche 8)
 
 ---
 
-### Tâche 0 : dépôt git (à confirmer avec l'utilisateur)
+### Tâche 0 : dépôt git — FAITE (commit `c4438a8`, branche `main`)
 
-Le dossier n'est pas un dépôt git. Si l'utilisateur accepte, initialiser pour pouvoir committer chaque
-tâche ; sinon sauter cette tâche et ignorer les étapes « Commit » suivantes.
+Fait le 2026-10-10 : `.gitignore` (planches, modèles ONNX, PNG/journaux d'`inventaire/` exclus ;
+les `inventaire.json` sont gardés), `.gitattributes` (`* text=auto eol=lf`). Les planches seront
+versionnées plus tard sous une forme allégée (décision de l'utilisateur, méthode à choisir).
+Le contenu ci-dessous est l'état d'origine de la tâche, pour mémoire.
 
 **Files :** Create `.gitignore`
 
