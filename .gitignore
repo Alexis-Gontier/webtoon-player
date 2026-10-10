@@ -1,4 +1,5 @@
-# Planches (1,4 Go) : hors du dépôt pour l'instant, à versionner plus tard sous une forme allégée.
+# Planches originales (1,4 Go) : hors du dépôt. Leurs copies allégées (WebP q80, ~600 Mo) sont
+# versionnées dans chapters_web/ (python scripts/compress_pages.py).
 chapters_en/
 chapters_fr/
 

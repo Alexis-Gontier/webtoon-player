@@ -14,6 +14,7 @@ Développement : `pnpm run dev`. Tests : `pnpm test`, `pnpm run test:dist` (apr�
 ```
 chapters_en/        originaux anglais (jamais modifiés)
 chapters_fr/        pages traduites, même nom de fichier que l'original
+chapters_web/       copies WebP q80 des deux dossiers ci-dessus (seules planches versionnées dans git)
 translations/       traductions : chN_fr.txt (+ configs JSON écrites à la main pour les ch. 225 et 259)
 inventaire/         dossier de travail régénérable : OCR, configs générées, images de contrôle, journaux
 scripts/            outils (voir ci-dessous)
@@ -37,6 +38,7 @@ python scripts/find_missed.py N [N ...]            # texte anglais oublié (dét
 python scripts/audit_render.py N [N ...]           # texte français nettement plus petit que l'anglais
 python scripts/translate_bubbles.py translations/ch225_*.json   # rendu depuis des configs JSON
 python scripts/make_viewer.py                      # données et vignettes du site
+python scripts/compress_pages.py                   # copies WebP q80 des planches dans chapters_web/ (git)
 .\scripts\download-chapter.ps1 -ChapterUrl <url du chapitre>    # télécharge les chapitres suivants
 python scripts/add_french_glyphs.py <src.ttf> <sortie.ttf>      # ajoute Ç/Œ à une police
 ```

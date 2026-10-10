@@ -14,6 +14,7 @@ python scripts/find_missed.py N [N ...]            # texte anglais oublié -> in
 python scripts/audit_render.py N [N ...]           # texte FR trop petit vs anglais -> inventaire/chN/tailles.png
 python scripts/translate_bubbles.py translations/ch225_*.json   # ch. 225 et 259 : JSON manuels, sans txt
 python scripts/make_viewer.py                      # données du site + vignettes après chaque rendu
+python scripts/compress_pages.py                   # copies WebP q80 versionnées dans chapters_web/
 cd site && pnpm run build && pnpm run preview      # site Astro sur http://localhost:4321/ (pnpm uniquement)
 ```
 
@@ -32,7 +33,8 @@ Sources : `translations/` (txt + JSON manuels 225/259). Tout le généré va dan
 5. `find_missed.py N` : l'OCR rate les lettrages stylisés et les textes courts (« YEAH! », légendes
    blanches cernées). Regarder `oublis.png` et ajouter les vrais oublis (id 100+).
 6. `audit_render.py N` : texte nettement plus petit que l'anglais, à regarder dans `tailles.png`.
-7. `make_viewer.py`, puis `pnpm run build` dans `site/`, puis chapitre suivant sans demander.
+7. `make_viewer.py` et `compress_pages.py`, puis `pnpm run build` dans `site/`, puis chapitre suivant
+   sans demander.
 
 Retours de l'utilisateur : appliquer la « Méthode de correction » de `docs/translation-reference.md`.
 Un défaut qui revient se corrige dans le moteur, puis rendu de tous les chapitres et repérage
