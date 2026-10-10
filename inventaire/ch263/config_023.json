@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-263/023.webp",
+ "output": "chapters_fr/chapter-263/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET AINSI...",
+   "style": "cartouche",
+   "point": [
+    356,
+    646
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE TERRARIUM DE L’ARÈNE CÉLESTE DISPARUT SANS LAISSER DE TRACE.",
+   "style": "cartouche",
+   "point": [
+    376,
+    1922
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    260,
+    4965,
+    400,
+    5000
+   ],
+   "ink_max": 100,
+   "grow": 2,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

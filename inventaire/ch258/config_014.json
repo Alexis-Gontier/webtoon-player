@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-258/014.webp",
+ "output": "chapters_fr/chapter-258/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DEAN N’ÉCOUTA MÊME PAS UN MOT DE CE QU’ILS DISAIENT.",
+   "style": "cartouche",
+   "point": [
+    300,
+    264
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST AINSI QU’IL PUT ACHEVER SON PROPRE MONDE ET REMPORTER LA VICTOIRE.",
+   "style": "cartouche",
+   "point": [
+    491,
+    644
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DEAN LUI-MÊME...",
+   "style": "cartouche",
+   "point": [
+    410,
+    1418
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...SAIT QUE SON CHOIX ÉTAIT LA SEULE ISSUE POSSIBLE.",
+   "style": "cartouche",
+   "point": [
+    391,
+    3261
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ET POURTANT, S’IL S’EN VEUT, SERAIT-CE...",
+   "style": "cartouche",
+   "point": [
+    391,
+    4214
+   ]
+  }
+ ]
+}

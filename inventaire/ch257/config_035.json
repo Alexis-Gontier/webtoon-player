@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-257/035.webp",
+ "output": "chapters_fr/chapter-257/035.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI, PAR\nHASARD...",
+   "style": "dialogue",
+   "point": [
+    282,
+    664
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LA VOIE QUE NOUS SUIVONS EST LA MAUVAISE...",
+   "style": "dialogue",
+   "point": [
+    461,
+    947
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ALORS, SUR CETTE TERRE FOULÉE PAR LES VRAIES TÉNÈBRES...",
+   "style": "dialogue",
+   "point": [
+    337,
+    1835
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UN VRAI HÉROS NE TARDERA PAS À NAÎTRE.",
+   "style": "dialogue",
+   "point": [
+    522,
+    2197
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BREF...",
+   "style": "dialogue",
+   "point": [
+    345,
+    3220
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TOUT COMME ILS NOUS ONT MIS À L’ÉPREUVE...",
+   "style": "dialogue",
+   "point": [
+    360,
+    4737
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "source": "chapters_en/chapter-264/015.webp",
+ "output": "chapters_fr/chapter-264/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE QUE\nTU VEUX.",
+   "style": "dialogue",
+   "point": [
+    316,
+    32
+   ],
+   "box": [
+    215,
+    0,
+    425,
+    60
+   ],
+   "target": [
+    235,
+    12,
+    405,
+    56
+   ],
+   "ink_max": 160,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 23,
+   "seam": "top"
+  },
+  {
+   "id": 2,
+   "text": "ON TE SOUTIENDRA QUOI QU’IL ARRIVE.",
+   "style": "dialogue",
+   "point": [
+    371,
+    1071
+   ]
+  },
+  {
+   "id": 3,
+   "text": "À LA FIN DU COMBAT, LUCIA A DIT QUE POUR QUE TOUT LE MONDE SE SOUVIENNE D’ELLE ET DE ZICHMUND...",
+   "style": "dialogue",
+   "point": [
+    394,
+    2671
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ELLE LAISSERAIT UNE CICATRICE SUR LE MONDE.",
+   "style": "dialogue",
+   "point": [
+    347,
+    3346
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    150,
+    0,
+    480,
+    16
+   ],
+   "ink_max": 160,
+   "grow": 2,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

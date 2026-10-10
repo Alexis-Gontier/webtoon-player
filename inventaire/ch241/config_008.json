@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-241/008.webp",
+ "output": "chapters_fr/chapter-241/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "30E JOUR DU \"VRAI MOI\".",
+   "style": "dialogue",
+   "point": [
+    308,
+    3112
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE DERNIER JOUR.",
+   "style": "dialogue",
+   "point": [
+    523,
+    3934
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...C’EST TOUT CE QU’IL Y A.",
+   "style": "dialogue",
+   "point": [
+    409,
+    4762
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’ÉTAIT NOTRE VIE.",
+   "style": "dialogue",
+   "point": [
+    397,
+    6280
+   ]
+  },
+  {
+   "id": 6,
+   "text": "OH LÀ, HÉ ! POURQUOI TU PLEURES ?",
+   "style": "italique",
+   "point": [
+    429,
+    9955
+   ]
+  },
+  {
+   "id": 7,
+   "text": "TU CONNAISSAIS DÉJÀ NOTRE HISTOIRE, NON ?",
+   "style": "italique",
+   "point": [
+    481,
+    10363
+   ]
+  },
+  {
+   "id": 8,
+   "text": "EUH, AH. DÉSOLÉ. C’EST JUSTE QUE, QUAND MÊME...",
+   "style": "dialogue",
+   "point": [
+    620,
+    10792
+   ]
+  },
+  {
+   "id": 10,
+   "text": "HEIN ? AH. ATTENDS...",
+   "style": "dialogue",
+   "point": [
+    426,
+    12069
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ASARYUN ! TU N’AS RIEN POUR LA COUVRIR ?",
+   "style": "italique",
+   "point": [
+    326,
+    11660
+   ]
+  }
+ ]
+}

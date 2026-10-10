@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-229/003.webp",
+ "output": "chapters_fr/chapter-229/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOUS CEUX QUI SONT SUR CETTE SCÈNE...",
+   "style": "dialogue",
+   "point": [
+    394,
+    856
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SONT DES GENS QUI ONT ATTEINT LE NIVEAU 100 PAR LEUR PROPRE VOLONTÉ.",
+   "style": "dialogue",
+   "point": [
+    401,
+    2532
+   ]
+  },
+  {
+   "id": 6,
+   "text": "M. DEAN AUSSI...",
+   "style": "dialogue",
+   "point": [
+    311,
+    4849
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ET LIBUR ET MOI AUSSI.",
+   "style": "dialogue",
+   "point": [
+    410,
+    6038
+   ]
+  },
+  {
+   "id": 8,
+   "text": "C’EST ÇA ! DONC PEU IMPORTE LE RÉSULTAT.",
+   "style": "dialogue",
+   "point": [
+    424,
+    8820
+   ]
+  },
+  {
+   "id": 9,
+   "text": "PARCE QUE C’ÉTAIT NOTRE CHOIX !",
+   "style": "dialogue",
+   "point": [
+    449,
+    10401
+   ]
+  },
+  {
+   "id": 10,
+   "text": "NOUS AUSSI, ON VEUT QUE TU AIES CONFIANCE...",
+   "style": "dialogue",
+   "point": [
+    388,
+    11366
+   ]
+  },
+  {
+   "id": 11,
+   "text": "EN CE QU’ON CHOISIT, NOUS AUSSI !",
+   "style": "dialogue",
+   "point": [
+    440,
+    13354
+   ]
+  },
+  {
+   "id": 12,
+   "text": "PAS VRAI ?",
+   "style": "dialogue",
+   "point": [
+    330,
+    14229
+   ]
+  },
+  {
+   "id": 14,
+   "text": "EUH... HUM... OUI ?",
+   "style": "dialogue",
+   "point": [
+    312,
+    14942
+   ]
+  }
+ ]
+}

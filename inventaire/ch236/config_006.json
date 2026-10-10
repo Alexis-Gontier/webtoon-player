@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-236/006.webp",
+ "output": "chapters_fr/chapter-236/006.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "...CE N’EST PAS LE MOMENT DE PLEURNICHER !",
+   "style": "italique",
+   "point": [
+    353,
+    945
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LA PARTIE A DÉJÀ COMMENCÉ !",
+   "style": "italique",
+   "point": [
+    504,
+    1288
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMMENT JE SUIS CENSÉ M’EN SERVIR ?",
+   "style": "italique",
+   "point": [
+    283,
+    2028
+   ]
+  },
+  {
+   "id": 5,
+   "text": "COMMENT J’UTILISE CETTE CAPACITÉ...",
+   "style": "italique",
+   "point": [
+    557,
+    2595
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CETTE SITUATION...",
+   "style": "italique",
+   "point": [
+    317,
+    3151
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE DOIS M’UTILISER MOI-MÊME...",
+   "style": "italique",
+   "point": [
+    509,
+    3784
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TOUT LE MONDE PEUT SURVIVRE ?",
+   "style": "italique",
+   "point": [
+    440,
+    5083
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "source": "chapters_en/chapter-248/026.webp",
+ "output": "chapters_fr/chapter-248/026.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "REGARDE\nTANT QUE TU VEUX !",
+   "style": "cri",
+   "point": [
+    390,
+    2038
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    235,
+    0,
+    510,
+    22
+   ],
+   "ink_max": 100,
+   "max_letter": 30,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

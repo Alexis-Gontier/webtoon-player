@@ -1,0 +1,114 @@
+{
+ "source": "chapters_en/chapter-241/010.webp",
+ "output": "chapters_fr/chapter-241/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST NOUS QUI ÉTIONS HEUREUX, PARCE QUE QUELQU’UN NOUS A ÉCOUTÉS.",
+   "style": "dialogue",
+   "point": [
+    387,
+    1473
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS, AVEC ÇA...",
+   "style": "dialogue",
+   "point": [
+    428,
+    3111
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NOUS TE CONFIONS TOUT NOTRE KARMA.",
+   "style": "dialogue",
+   "point": [
+    370,
+    4904
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA VA ÊTRE UN COMBAT DIFFICILE...",
+   "style": "dialogue",
+   "point": [
+    387,
+    6026
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS TU LE SAIS SÛREMENT MIEUX QUE PERSONNE.",
+   "style": "dialogue",
+   "point": [
+    402,
+    7215
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU POURRAS ALLER JUSQU’AU BOUT, SI C’EST TOI.",
+   "style": "dialogue",
+   "point": [
+    398,
+    8081
+   ]
+  },
+  {
+   "id": 7,
+   "text": "...DIS, TU CROIS QUE SEOL-JIN VA CONTINUER À ACCEPTER TOUT LE MONDE À PARTIR DE MAINTENANT AUSSI ?",
+   "style": "dialogue",
+   "point": [
+    380,
+    9965
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SÛREMENT. AU MOINS JUSQU’AU MOMENT OÙ IL ABANDONNERA LUI-MÊME...",
+   "style": "dialogue",
+   "point": [
+    382,
+    11436
+   ]
+  },
+  {
+   "id": 9,
+   "text": "POUR CET ENFANT, LES \"YEUX QUI VOIENT LES ÂMES\" SONT PLUS UNE MALÉDICTION QU’UN DON.",
+   "style": "dialogue",
+   "point": [
+    485,
+    11860
+   ]
+  },
+  {
+   "id": 10,
+   "text": "...ASARYUN.",
+   "style": "dialogue",
+   "point": [
+    408,
+    12656
+   ]
+  },
+  {
+   "id": 11,
+   "text": "APRÈS NOUS, CE SERA SÛREMENT...",
+   "style": "dialogue",
+   "point": [
+    449,
+    13537
+   ]
+  },
+  {
+   "id": 12,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    455,
+    14221
+   ]
+  }
+ ]
+}

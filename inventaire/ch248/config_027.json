@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/027.webp",
+ "output": "chapters_fr/chapter-248/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAINTENANT, DANS TON ÉTAT...",
+   "style": "dialogue",
+   "point": [
+    349,
+    3059
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUELLE PART DE MOI POURRAS-TU VRAIMENT VOIR ?",
+   "style": "dialogue",
+   "point": [
+    379,
+    4014
+   ]
+  }
+ ]
+}

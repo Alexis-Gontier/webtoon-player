@@ -1,0 +1,134 @@
+{
+ "source": "chapters_en/chapter-247/005.webp",
+ "output": "chapters_fr/chapter-247/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EN VÉRITÉ, JE N’AI\nRIEN OUBLIÉ.",
+   "style": "systeme",
+   "box": [
+    100,
+    540,
+    620,
+    735
+   ],
+   "light": true,
+   "grow": 9,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 2,
+   "text": "JE ME SOUVIENS DE TOUT\nSI CLAIREMENT.",
+   "style": "systeme",
+   "box": [
+    70,
+    1495,
+    640,
+    1650
+   ],
+   "light": true,
+   "grow": 9,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 3,
+   "text": "L’ESPOIR AUQUEL\nJE M’ACCROCHAIS EN\nIGNORANT LE DÉSESPOIR.",
+   "style": "systeme",
+   "box": [
+    128,
+    4468,
+    593,
+    4668
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 100,
+   "text": "JE N’AI PAS PU OUBLIER,\nPAS MÊME\nUNE SECONDE.",
+   "style": "systeme",
+   "box": [
+    80,
+    3130,
+    640,
+    3335
+   ],
+   "light": true,
+   "grow": 9,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  }
+ ]
+}

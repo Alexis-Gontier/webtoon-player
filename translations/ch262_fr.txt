@@ -1,0 +1,295 @@
+# Chapitre 262 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+# Monologue de Lucia en lettres blanches sur fond noir : systeme light. Onomatopées coréennes gardées.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+# EN: I ALREADY KNEW THAT, EVEN BEFORE I HELD IT IN MY HANDS.
+001.3 | systeme {"light": true, "max_letter": 70, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | JE LE SAVAIS DÉJÀ,\nAVANT MÊME DE LE TENIR\nENTRE MES MAINS.
+# EN: YES, OF COURSE.
+001.4 | italique | OUI, BIEN\nSÛR.
+# EN: I SIMPLY YEARNED FOR THAT LIGHT.
+001.5 | italique | JE DÉSIRAIS SEULEMENT CETTE LUMIÈRE.
+# EN: BECAUSE IT WASN'T SOMETHING I ACTUALLY NEEDED.
+001.6 | italique | CAR CE N’ÉTAIT PAS UNE CHOSE DONT J’AVAIS VRAIMENT BESOIN.
+001.7 | dialogue | -
+# EN: AH...
+001.100 | systeme {"box": [250, 4580, 470, 4720], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | AH...
+
+## 002.webp
+# EN: HOW EMPTY...
+002.1 | systeme {"box": [55, 215, 610, 335], "light": true, "max_letter": 90, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | QUEL VIDE...
+# EN: VAN!
+002.2 | systeme {"light": true, "max_letter": 90, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | VAN !
+# EN: YOU KNOW... AFTER YOUR DREAM COMES TRUE...
+002.100 | systeme {"box": [100, 2930, 640, 3150], "light": true, "max_letter": 60, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | DIS-MOI... UNE FOIS\nTON RÊVE RÉALISÉ...
+# EN: AFTER YOU LEAVE... WHAT WILL BECOME OF ME?
+002.3 | systeme {"light": true, "max_letter": 60, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | APRÈS TON DÉPART...\nQUE VAIS-JE\nDEVENIR ?
+
+## 003.webp
+# EN: IT'S SIMPLE, LUCIA.
+003.1 | italique | C’EST SIMPLE,\nLUCIA.
+# EN: NEVER LOOK BACK.
+003.100 | italique {"point": [350, 1725]} | NE REGARDE\nJAMAIS EN\nARRIÈRE.
+# EN: MOVE FORWARD, LOOKING ONLY TOWARD THE FUTURE.
+003.2 | italique | AVANCE, EN NE REGARDANT QUE L’AVENIR.
+
+## 004.webp
+# EN: BECAUSE ONLY THEN...
+004.1 | italique | CAR C’EST\nSEULEMENT ALORS...
+# EN: WILL YOU BE ABLE TO CONQUER WHAT YOU DESIRE.
+004.2 | italique | QUE TU POURRAS CONQUÉRIR CE QUE TU DÉSIRES.
+# EN: WHAT I DESIRE...
+004.3 | italique | CE QUE JE\nDÉSIRE...
+# EN: BUT, VAN...
+004.4 | italique | MAIS, VAN...
+
+## 005.webp
+# EN: ON THE PATH AHEAD OF ME...
+005.1 | systeme {"box": [130, 15, 590, 180], "light": true, "max_letter": 70, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | SUR LE CHEMIN\nDEVANT MOI...
+# EN: YOU ARE NO LONGER THERE.
+005.2 | systeme {"box": [130, 455, 590, 615], "light": true, "max_letter": 70, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | TU N’ES\nPLUS LÀ.
+# EN: EGO WEAPONS LAY AND LIBUR TRANSMOGRIFICATION...
+005.3 | systeme {"box": [30, 1345, 690, 1590], "light": true, "max_letter": 70, "grow": 6, "blur_fill": 12, "colors": [[255,255,255],[255,255,255]]} | ARMES D’EGO\nLAY ET LIBUR\nMÉTAMORPHOSE...
+# EN: FORM: DECISIVE STRIKE
+005.4 | systeme | -
+005.100 | systeme {"box": [160, 2700, 580, 2965], "ink_max": 256, "grow": 0} | (effacer)
+005.101 | systeme {"box": [125, 2965, 600, 3185], "ink_max": 256, "grow": 0} | (effacer)
+005.102 | systeme {"box": [175, 3225, 555, 3445], "ink_max": 256, "grow": 0} | (effacer)
+005.105 | systeme {"box": [40, 2620, 700, 3510], "ink_max": 0, "target": [80, 2660, 660, 3470], "stretch": 3, "colors": [[255, 255, 255], [255, 255, 255]], "outline": [0, 0, 0], "outline_width": 5, "style": "cri"} | FORME :\nFRAPPE\nDÉCISIVE
+
+## 006.webp
+
+## 007.webp
+
+## 008.webp
+# EN: TSK
+008.100 | dialogue {"point": [125, 1700]} | TCH
+# EN: DEAN...!
+008.1 | italique | DEAN...!
+
+## 009.webp
+009.1 | dialogue | -
+
+## 010.webp
+
+## 011.webp
+011.1 | dialogue | -
+
+## 012.webp
+012.1 | dialogue | -
+# EN: AH... IT CAN'T BE.
+012.2 | systeme {"box": [215, 1060, 505, 1200], "light": true, "max_letter": 60, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | AH...\nCE N’EST PAS VRAI.
+# EN: I CAN'T EVEN SEE A SINGLE SECOND INTO THE FUTURE.
+012.3 | systeme {"light": true, "max_letter": 60, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | JE NE VOIS MÊME PAS\nUNE SECONDE\nDE L’AVENIR.
+# EN: AH.
+012.4 | dialogue | AH.
+012.5 | dialogue | AH.
+
+## 013.webp
+# EN: HOW LONG HAS IT BEEN SINCE I FELT A DARKNESS THIS DEEP?!
+013.1 | systeme {"box": [145, 585, 590, 835], "light": true, "max_letter": 60, "grow": 6, "fill": [0,0,0], "colors": [[255,255,255],[255,255,255]]} | DEPUIS QUAND\nN’AI-JE PAS RESSENTI\nDES TÉNÈBRES AUSSI\nPROFONDES ?!
+013.2 | dialogue | AH.
+013.3 | dialogue | AH.
+# EN: THAT'S RIGHT... I HAD FORGOTTEN, VAN.
+013.4 | systeme {"light": true, "max_letter": 60, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | C’EST VRAI...\nJE L’AVAIS OUBLIÉ, VAN.
+# EN: AH...
+013.5 | dialogue | AH...
+# EN: BEFORE I MET YOU, MY WORLD WAS ALWAYS LIKE THIS.
+013.6 | systeme {"light": true, "max_letter": 60, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | AVANT DE TE RENCONTRER,\nMON MONDE ÉTAIT\nTOUJOURS AINSI.
+
+## 014.webp
+
+## 015.webp
+015.1 | dialogue | -
+# EN: CLICK
+015.2 | dialogue | CLIC
+# EN: FINAL BATTLE: END OF THE WAR
+015.3 | systeme | -
+015.100 | systeme {"box": [80, 3310, 650, 3440], "ink_max": 90, "max_letter": 90, "grow": 9, "blur_fill": 20} | (effacer)
+015.101 | systeme {"box": [80, 3226, 640, 3440], "outlined": 6, "ink_max": 110, "light_min": 190, "max_letter": 80, "grow": 8, "target": [95, 3235, 640, 3420], "colors": [[255,255,255],[255,255,255]], "outline": [20,20,40], "outline_width": 3} | BATAILLE FINALE :\nFIN DE LA GUERRE
+
+## 016.webp
+# EN: WINNER
+016.1 | systeme {"box": [160, 2525, 560, 2655], "light": true, "light_min": 200, "max_letter": 120, "grow": 7, "colors": [[255,255,255],[255,255,255]], "outline": [150,30,50], "outline_width": 3} | VAINQUEUR
+# EN: HEO SEOL-JIN
+016.2 | systeme {"box": [50, 3210, 670, 3340], "light": true, "light_min": 200, "max_letter": 120, "grow": 7, "colors": [[255,255,255],[255,255,255]], "outline": [150,30,50], "outline_width": 3} | SEOL-JIN HEO
+
+## 017.webp
+# EN: WAIT.
+017.1 | dialogue | ATTENDEZ.
+# EN: NOT YET...
+017.2 | dialogue | PAS\nENCORE...
+# EN: IT'S NOT OVER YET.
+017.3 | dialogue | CE N’EST PAS\nENCORE FINI.
+# EN: I STILL HAVEN'T RECOVERED...
+017.4 | dialogue | JE N’AI PAS ENCORE RÉCUPÉRÉ...
+# EN: HALF OF THE "WORLD"...!
+017.5 | dialogue {"point": [448, 4200]} | LA MOITIÉ\nDU "MONDE"...!
+
+## 018.webp
+
+## 019.webp
+# EN: NO.
+019.100 | dialogue {"point": [312, 188]} | NON.
+# EN: CRACK
+019.1 | dialogue | CRAC
+019.2 | dialogue | -
+# EN: I WILL USE THIS TO LEAVE A SCAR.
+019.3 | dialogue | JE VAIS M’EN SERVIR POUR LAISSER UNE CICATRICE.
+# EN: SO THAT, EVEN WITHOUT LOOKING BACK...
+019.4 | dialogue | AFIN QUE, MÊME SANS REGARDER EN ARRIÈRE...
+# EN: EVERYONE CAN REMEMBER FOREVER THAT WE WERE HERE.
+019.5 | dialogue | TOUT LE MONDE SE SOUVIENNE À JAMAIS QUE NOUS ÉTIONS LÀ.
+# EN: I WILL LEAVE THE FUTURE TO YOU ALL.
+019.6 | dialogue | JE VOUS LAISSE L’AVENIR.
+
+## 020.webp
+# EN: BUT...
+020.1 | dialogue | MAIS...
+# EN: THE PAST OF THIS WORLD BELONGS TO ME.
+020.2 | dialogue | LE PASSÉ DE CE MONDE M’APPARTIENT.
+
+## 021.webp
+# EN: I WON'T BE GREEDY.
+021.1 | systeme {"light": true, "max_letter": 90, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | JE NE SERAI\nPAS GOURMANDE.
+# EN: CRACK
+021.2 | dialogue | CRAC
+# EN: I'LL ONLY TAKE HALF WITH ME.
+021.3 | systeme {"light": true, "max_letter": 90, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | JE N’EN EMPORTE\nQUE LA MOITIÉ.
+
+## 022.webp
+# EN: THIS IS ALREADY MORE THAN ENOUGH...
+022.1 | systeme {"light": true, "max_letter": 70, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | C’EST DÉJÀ\nBIEN PLUS QUE\nSUFFISANT...
+# EN: IT'S COLLAPSING.
+022.2 | dialogue | ÇA S’EFFONDRE.
+
+## 023.webp
+# EN: LORD ARTHUR'S TOWER...
+023.1 | dialogue | LA TOUR DU SEIGNEUR ARTHUR...
+# EN: SERIOUSLY...! THAT MONSTER...! UNTIL THE VERY LAST MOMENT...!
+023.2 | italique | SÉRIEUX...! CE MONSTRE...! JUSQU’AU TOUT DERNIER MOMENT...!
+# EN: WHY IS SHE DOING THIS TO US?!
+023.3 | italique | POURQUOI ELLE NOUS FAIT ÇA ?!
+# EN: MY SKILL ISN'T WORKING!
+023.4 | italique | MA COMPÉTENCE NE MARCHE PAS !
+# EN: GIRL! IS IT YOU?!
+023.5 | cri | PETITE !\nC’EST\nTOI ?!
+
+## 024.webp
+# EN: SAME HERE. NO... IT'S MORE THAN THAT... HOW CAN I EXPLAIN IT...
+024.1 | dialogue | MOI AUSSI. NON... C’EST PIRE QUE ÇA... COMMENT EXPLIQUER...
+# EN: I CAN'T VISUALIZE THE IMAGES OF THE OTHER FLOORS.
+024.2 | dialogue | JE N’ARRIVE PLUS À VOIR LES IMAGES DES AUTRES ÉTAGES.
+
+## 025.webp
+# EN: AAAH! IT'S THE SAME FOR ME! WHAT ARE WE GOING TO DO?!
+025.1 | dialogue | AAAH ! PAREIL POUR MOI ! QU’EST-CE QU’ON VA FAIRE ?!
+# EN: THE CONNECTION BETWEEN THE FLOORS HAS BEEN COMPLETELY SEVERED.
+025.2 | dialogue | LE LIEN ENTRE LES ÉTAGES EST COMPLÈTEMENT ROMPU.
+# EN: IN OTHER WORDS, THE TOWER'S COLLAPSE IS ACTUALLY HAPPENING.
+025.3 | dialogue | AUTREMENT DIT, LA TOUR EST VRAIMENT EN TRAIN DE S’EFFONDRER.
+# EN: IF THIS CONTINUES... WE WILL ALL DISAPPEAR ALONG WITH THE TOWER.
+025.4 | italique | SI ÇA CONTINUE... NOUS DISPARAÎTRONS TOUS AVEC LA TOUR.
+025.5 | dialogue | -
+# EN: IT LOOKS LIKE THE PORTALS HAVE BEEN BLOCKED TOO!
+025.6 | italique | ON DIRAIT QUE LES PORTAILS SONT BLOQUÉS AUSSI !
+
+## 026.webp
+# EN: HEY, THAT MEANS WE'RE COMPLETELY TRAPPED HERE, DOESN'T IT?!
+026.1 | italique {"point": [348, 480]} | HÉ, ÇA VEUT DIRE QU’ON EST COMPLÈTEMENT PIÉGÉS ICI, NON ?!
+026.2 | dialogue | -
+# EN: DAMN IT, LUCIA...
+026.3 | dialogue | BON SANG,\nLUCIA...
+# EN: YOU PREPARED QUITE THE GRAND PARTING GIFT FOR THE VERY END.
+026.4 | dialogue | TU NOUS AS PRÉPARÉ UN SACRÉ CADEAU D’ADIEU POUR LA FIN.
+# EN: THIS IS PROBLEMATIC...
+026.5 | pensee {"point": [348, 3062]} | VOILÀ QUI\nPOSE PROBLÈME...
+# EN: IN A SITUATION LIKE THIS...
+026.6 | pensee | DANS UNE SITUATION PAREILLE...
+
+## 027.webp
+# EN: THAT PERSON WILL OBVIOUSLY...
+027.1 | pensee | CETTE PERSONNE VA FORCÉMENT...
+# EN: LIBUR, LAY. I HAVE A REQUEST.
+027.2 | italique | LIBUR, LAY. J’AI UNE FAVEUR À VOUS DEMANDER.
+
+## 028.webp
+# EN: PROTECT THE OTHERS.
+028.1 | italique | PROTÉGEZ LES AUTRES.
+# EN: WAIT...
+028.2 | dialogue | ATTENDS...
+# EN: SEOL-JIN...?
+028.3 | dialogue | SEOL-JIN...?
+# EN: YOU...
+028.4 | dialogue | TOI...
+# EN: WHAT ARE YOU PLANNING TO DO?
+028.5 | dialogue | QU’EST-CE QUE TU COMPTES FAIRE ?
+
+## 029.webp
+# EN: WE DON'T HAVE TIME TO THINK.
+029.1 | dialogue | ON N’A PAS LE TEMPS DE RÉFLÉCHIR.
+# EN: THE ONLY OPTION IS TO NULLIFY THIS BY USING THE SAME AMOUNT OF KARMA THAT LUCIA USED.
+029.2 | dialogue | LA SEULE SOLUTION, C’EST DE L’ANNULER EN UTILISANT AUTANT DE KARMA QUE LUCIA.
+# EN: WAIT, SEOL-JIN! THAT'S TOO DANGEROUS!
+029.3 | italique | ATTENDS, SEOL-JIN ! C’EST TROP DANGEREUX !
+# EN: IF YOU CONSUME ANY / MORE KARMA IN THIS STATE, YOU'LL...! (bulle coupée entre les pages 29 et 30)
+029.4 | italique | -
+029.100 | italique {"box": [150, 4905, 570, 5000], "target": [175, 4915, 545, 4995], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "italique"} | SI TU CONSOMMES\nENCORE DU KARMA
+
+## 030.webp
+030.100 | italique {"box": [130, 0, 590, 95], "target": [160, 5, 560, 60], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "italique"} | DANS CET ÉTAT,\nTU VAS...!
+
+## 031.webp
+# EN: THE SAME GOES FOR EVERYONE ELSE.
+031.1 | dialogue | C’EST PAREIL POUR TOUS LES AUTRES.
+031.2 | dialogue | -
+031.3 | dialogue | -
+# EN: WE'VE FOUGHT SO HARD TO GET THIS FAR.
+031.4 | dialogue | ON S’EST TELLEMENT BATTUS POUR ARRIVER JUSQU’ICI.
+# EN: I'M THE ONE WHO HAS TO DO THIS.
+031.5 | dialogue | C’EST À MOI DE LE FAIRE.
+# EN: AS LONG AS THERE'S A GLIMMER OF HOPE...
+031.6 | dialogue | TANT QU’IL RESTE UNE LUEUR D’ESPOIR...
+
+## 032.webp
+# EN: I WILL NEVER GIVE UP.
+032.1 | dialogue | JE N’ABANDONNERAI JAMAIS.
+# EN: IT'S GOING TO BE OKAY.
+032.2 | dialogue | TOUT IRA BIEN.
+# EN: SO...
+032.3 | dialogue | ALORS...
+
+## 033.webp
+# EN: ...!
+033.100 | dialogue {"point": [375, 1325]} | ...!
+# EN: SERIOUSLY...
+033.1 | dialogue | FRANCHEMENT...
+033.2 | dialogue | -
+# EN: YOU WERE BARELY ABLE TO STOP SOMETHING OF THIS LEVEL, AND YOU STILL THINK YOU CAN DO MORE?
+033.3 | dialogue | TU AS À PEINE PU ARRÊTER UN COUP DE CE NIVEAU, ET TU CROIS ENCORE POUVOIR FAIRE PLUS ?
+
+## 034.webp
+# EN: WHAT ARE YOU DOING, LAY?!
+034.100 | italique {"point": [400, 175]} | QU’EST-CE QUE\nTU FAIS,\nLAY ?!
+# EN: THERE'S NO POINT TRYING TO CONVINCE THIS IDIOT.
+034.1 | dialogue | INUTILE D’ESSAYER DE CONVAINCRE CET IDIOT.
+# EN: THIS IS THE BEST POSSIBLE DECISION.
+034.2 | dialogue | C’EST LA MEILLEURE DÉCISION POSSIBLE.
+# EN: LIBUR...
+034.3 | dialogue | LIBUR...
+# EN: YOU'RE IN THE SAME STATE AS HIM, AREN'T YOU?
+034.4 | dialogue | TU ES DANS LE MÊME ÉTAT QUE LUI, NON ?
+034.5 | dialogue | -
+# EN: !
+034.101 | dialogue {"point": [372, 4550]} | !
+
+## 035.webp
+# EN: THAT'S WHY...
+035.1 | dialogue | C’EST\nPOURQUOI...
+# EN: LEAVE THE FINAL OUTCOME TO ME.
+035.2 | italique | LAISSEZ-MOI\nLE DÉNOUEMENT.
+# EN: BECAUSE THIS IS THE OPTION WITH THE HIGHEST CHANCE OF SUCCESS.
+035.3 | italique | CAR C’EST L’OPTION QUI A LE PLUS DE CHANCES DE RÉUSSIR.
+
+## 036.webp

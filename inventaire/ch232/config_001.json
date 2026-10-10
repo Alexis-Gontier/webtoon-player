@@ -1,0 +1,89 @@
+{
+ "source": "chapters_en/chapter-232/001.webp",
+ "output": "chapters_fr/chapter-232/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MON CHER VAN, JE SUIS HEUREUSE DE VOIR QUE TU T’AMUSES.",
+   "style": "dialogue",
+   "point": [
+    389,
+    754
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS ALLER PLUS LOIN SERAIT DANGEREUX.",
+   "style": "dialogue",
+   "point": [
+    383,
+    1840
+   ]
+  },
+  {
+   "id": 3,
+   "text": "\"CŒUR.\"",
+   "style": "dialogue",
+   "point": [
+    278,
+    4496
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE DEVRAIS LE GARDER.",
+   "style": "dialogue",
+   "point": [
+    495,
+    5336
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR L’\"INSTANT FINAL\".",
+   "style": "dialogue",
+   "point": [
+    300,
+    6101
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LA MACHINE... S’EST ARRÊTÉE, NON ?",
+   "style": "dialogue",
+   "point": [
+    450,
+    7003
+   ]
+  },
+  {
+   "id": 7,
+   "text": "...OUI, LUCIA. ÇA SUFFIT MAINTENANT...",
+   "style": "dialogue",
+   "point": [
+    393,
+    8494
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SI TU CLIGNES DES YEUX, TU VAS LE RATER.",
+   "style": "dialogue",
+   "point": [
+    435,
+    8829
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 9,
+   "text": "VAN ZICHMUND !",
+   "style": "dialogue",
+   "point": [
+    399,
+    10221
+   ],
+   "erase_color": true
+  }
+ ]
+}

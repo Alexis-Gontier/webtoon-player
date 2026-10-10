@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-236/010.webp",
+ "output": "chapters_fr/chapter-236/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HEIN ? C’EST \"LA PORTE...\"",
+   "style": "dialogue",
+   "point": [
+    478,
+    4401
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UN COMPLICE DE L’\"ACTE ILLÉGAL\".",
+   "style": "dialogue",
+   "point": [
+    441,
+    5568
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU AS ENFIN MONTRÉ LE BOUT DE TA QUEUE !",
+   "style": "dialogue",
+   "point": [
+    423,
+    6246
+   ]
+  }
+ ]
+}

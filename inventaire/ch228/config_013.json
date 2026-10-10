@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-228/013.webp",
+ "output": "chapters_fr/chapter-228/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIENTÔT, UN HÉROS SURGIT DE LA FRONTIÈRE DU NORD, ET UNE NATION NAQUIT.",
+   "style": "dialogue",
+   "point": [
+    401,
+    464
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UN HÉROS À QUI DIEU AVAIT DONNÉ DES POUVOIRS SURNATURELS.",
+   "style": "dialogue",
+   "point": [
+    309,
+    1282
+   ]
+  },
+  {
+   "id": 3,
+   "text": "GRÂCE À CE POUVOIR, IL FIT FONDRE LA TERRE GELÉE...",
+   "style": "dialogue",
+   "point": [
+    499,
+    1599
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ET RENDIT CETTE TERRE ABONDANTE.",
+   "style": "dialogue",
+   "point": [
+    396,
+    3706
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET LONGTEMPS APRÈS, QUAND LE HÉROS MOURUT...",
+   "style": "dialogue",
+   "point": [
+    392,
+    6025
+   ]
+  }
+ ]
+}

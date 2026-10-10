@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-250/025.webp",
+ "output": "chapters_fr/chapter-250/025.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "JE NE LE REGRETTE PAS.",
+   "style": "italique",
+   "point": [
+    282,
+    1689
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOUS LES AUTRES ONT DÉJÀ TOUT RISQUÉ.",
+   "style": "italique",
+   "point": [
+    470,
+    2103
+   ]
+  },
+  {
+   "id": 4,
+   "text": "J’ÉTAIS BÊTE DE CROIRE QUE JE FERAIS EXCEPTION.",
+   "style": "italique",
+   "point": [
+    282,
+    2486
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST ÇA.",
+   "style": "italique",
+   "point": [
+    368,
+    3106
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SI C’EST POUR ATTEINDRE L’AVENIR QUE NOUS ESPÉRONS TOUS...",
+   "style": "italique",
+   "point": [
+    374,
+    4014
+   ]
+  }
+ ]
+}

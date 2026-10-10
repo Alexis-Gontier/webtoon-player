@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-254/010.webp",
+ "output": "chapters_fr/chapter-254/010.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "EXCALIBUR...\nNON,",
+   "style": "dialogue",
+   "point": [
+    362,
+    1185
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DOIS-JE T’APPELER \"LIBUR\" ?",
+   "style": "dialogue",
+   "point": [
+    379,
+    2543
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUI,\nC’EST ÇA !",
+   "style": "cri",
+   "point": [
+    355,
+    4279
+   ]
+  }
+ ]
+}

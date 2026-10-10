@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/041.webp",
+ "output": "chapters_fr/chapter-251/041.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DONC...",
+   "style": "pensee",
+   "point": [
+    290,
+    414
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA VEUT\nDIRE...",
+   "style": "pensee",
+   "point": [
+    529,
+    1455
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HÉ.",
+   "style": "dialogue",
+   "point": [
+    409,
+    2197
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUOI ?!",
+   "style": "dialogue",
+   "point": [
+    386,
+    3597
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-239/021.webp",
+ "output": "chapters_fr/chapter-239/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "FINISSONS-EN VITE.",
+   "style": "dialogue",
+   "point": [
+    402,
+    302
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE NE SUIS PAS D’HUMEUR, LÀ.",
+   "style": "dialogue",
+   "point": [
+    401,
+    2407
+   ]
+  }
+ ]
+}

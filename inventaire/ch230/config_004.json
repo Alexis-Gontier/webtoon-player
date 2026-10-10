@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-230/004.webp",
+ "output": "chapters_fr/chapter-230/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HA !",
+   "style": "dialogue",
+   "point": [
+    412,
+    2391
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST QUOI CE BORDEL ?!",
+   "style": "dialogue",
+   "point": [
+    416,
+    4134
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST COMME VENIR AVEC UN COUTEAU À UNE FUSILLADE, NON ?",
+   "style": "dialogue",
+   "point": [
+    412,
+    5550
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA ZONE SOUS MON PIED...",
+   "style": "dialogue",
+   "point": [
+    387,
+    11541
+   ]
+  },
+  {
+   "id": 5,
+   "text": "EST UN \"ESPACE\" RIEN QUE POUR LUCIA ET MOI.",
+   "style": "dialogue",
+   "point": [
+    413,
+    14188
+   ]
+  }
+ ]
+}

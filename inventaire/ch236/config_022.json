@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-236/022.webp",
+ "output": "chapters_fr/chapter-236/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE PIRE SCÉNARIO POSSIBLE...",
+   "style": "italique",
+   "point": [
+    363,
+    230
+   ]
+  },
+  {
+   "id": 2,
+   "text": "S’EST RÉALISÉ... !",
+   "style": "italique",
+   "point": [
+    403,
+    1497
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST FINI... ! TOUT EST FINI !",
+   "style": "italique",
+   "point": [
+    405,
+    2294
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ATTENDS.",
+   "style": "dialogue",
+   "point": [
+    327,
+    3159
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUEL CRIME J’AI COMMIS, AU JUSTE ?",
+   "style": "italique",
+   "point": [
+    473,
+    4035
+   ]
+  },
+  {
+   "id": 6,
+   "text": "POUR ARRÊTER L’ARME D’EGO,",
+   "style": "italique",
+   "point": [
+    350,
+    4804
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ON DOIT ABATTRE SON MAÎTRE !",
+   "style": "italique",
+   "point": [
+    479,
+    5157
+   ]
+  },
+  {
+   "id": 8,
+   "text": "AU RAPPORT, SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    401,
+    6613
+   ]
+  }
+ ]
+}

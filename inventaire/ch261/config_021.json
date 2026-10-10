@@ -1,0 +1,43 @@
+{
+ "source": "chapters_en/chapter-261/021.webp",
+ "output": "chapters_fr/chapter-261/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NOUS NE CESSONS\nJAMAIS D’AVANCER.",
+   "style": "systeme",
+   "box": [
+    125,
+    540,
+    700,
+    720
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "NOUS\nCONTINUONS...",
+   "style": "cri",
+   "point": [
+    413,
+    2897
+   ]
+  }
+ ]
+}

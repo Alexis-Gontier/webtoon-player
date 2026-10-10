@@ -1,0 +1,67 @@
+{
+ "source": "chapters_en/chapter-249/001.webp",
+ "output": "chapters_fr/chapter-249/001.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "IL FAIT\nSI NOIR...",
+   "style": "pensee",
+   "point": [
+    308,
+    3077
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS TANT QUE JE RESTE ICI, JE NE SERAI PAS BLESSÉE...",
+   "style": "pensee",
+   "point": [
+    315,
+    4060
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PARCE QUE",
+   "style": "pensee",
+   "point": [
+    402,
+    4964
+   ],
+   "box": [
+    230,
+    4930,
+    570,
+    5000
+   ],
+   "target": [
+    300,
+    4940,
+    500,
+    4990
+   ],
+   "ink_max": 120,
+   "max_letter": 55,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 30,
+   "seam": "bottom"
+  }
+ ]
+}

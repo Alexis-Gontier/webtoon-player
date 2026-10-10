@@ -1,0 +1,70 @@
+{
+ "source": "chapters_en/chapter-262/015.webp",
+ "output": "chapters_fr/chapter-262/015.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "CLIC",
+   "style": "dialogue",
+   "point": [
+    530,
+    876
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    80,
+    3310,
+    650,
+    3440
+   ],
+   "ink_max": 90,
+   "max_letter": 90,
+   "grow": 9,
+   "blur_fill": 20
+  },
+  {
+   "id": 101,
+   "text": "BATAILLE FINALE :\nFIN DE LA GUERRE",
+   "style": "systeme",
+   "box": [
+    80,
+    3226,
+    640,
+    3440
+   ],
+   "outlined": 6,
+   "ink_max": 110,
+   "light_min": 190,
+   "max_letter": 80,
+   "grow": 8,
+   "target": [
+    95,
+    3235,
+    640,
+    3420
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    40
+   ],
+   "outline_width": 3
+  }
+ ]
+}

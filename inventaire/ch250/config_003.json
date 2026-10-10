@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-250/003.webp",
+ "output": "chapters_fr/chapter-250/003.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "PUTAIN...!",
+   "style": "dialogue",
+   "point": [
+    374,
+    4808
+   ]
+  }
+ ]
+}

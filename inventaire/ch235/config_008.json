@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-235/008.webp",
+ "output": "chapters_fr/chapter-235/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MO !",
+   "style": "dialogue",
+   "point": [
+    413,
+    1889
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VOUS...",
+   "style": "dialogue",
+   "point": [
+    526,
+    2928
+   ]
+  },
+  {
+   "id": 4,
+   "text": "VOUS M’ENCOURAGEZ VRAIMENT ?",
+   "style": "dialogue",
+   "point": [
+    383,
+    4243
+   ]
+  },
+  {
+   "id": 100,
+   "text": "MOKIKO !",
+   "style": "cri",
+   "point": [
+    386,
+    7305
+   ]
+  }
+ ]
+}

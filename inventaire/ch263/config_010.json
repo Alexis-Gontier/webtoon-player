@@ -1,0 +1,40 @@
+{
+ "source": "chapters_en/chapter-263/010.webp",
+ "output": "chapters_fr/chapter-263/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VOUS EN PRIE,\nPARDONNEZ MA DÉCISION.",
+   "style": "systeme",
+   "box": [
+    65,
+    75,
+    655,
+    265
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 90,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  }
+ ]
+}

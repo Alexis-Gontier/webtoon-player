@@ -1,0 +1,84 @@
+{
+ "source": "chapters_en/chapter-253/011.webp",
+ "output": "chapters_fr/chapter-253/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI TU AS BESOIN D’AIDE, TU PEUX COMPTER SUR MOI.",
+   "style": "dialogue",
+   "point": [
+    359,
+    227
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POUR LA RENAISSANCE DU CLAN, JE VEUX BIEN RETROUSSER MES MANCHES POUR T’AIDER.",
+   "style": "dialogue",
+   "point": [
+    389,
+    2033
+   ]
+  },
+  {
+   "id": 5,
+   "text": "HAHA, PARDON. JE ME SUIS UN PEU EMBALLÉE, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    331,
+    4492
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "italique",
+   "box": [
+    240,
+    2840,
+    670,
+    3115
+   ],
+   "ink_max": 120,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "HÉ ! TU VAS\nTROP LOIN AVEC\nCETTE BLAGUE !\nTU COMPTES\nL’HUMILIER ENCORE\nCOMBIEN ?!",
+   "style": "italique",
+   "box": [
+    230,
+    2800,
+    680,
+    3140
+   ],
+   "target": [
+    245,
+    2825,
+    665,
+    3120
+   ],
+   "line_spacing": 1.2,
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 50
+  }
+ ]
+}

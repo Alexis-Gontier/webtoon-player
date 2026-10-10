@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-230/007.webp",
+ "output": "chapters_fr/chapter-230/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PARCE QUE DEAN EST CE GENRE DE TYPE.",
+   "style": "dialogue",
+   "point": [
+    425,
+    295
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET LES CAPACITÉS",
+   "style": "dialogue",
+   "point": [
+    403,
+    5724
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DE VAN ZICHMUND SONT ENVELOPPÉES D’UN RIDEAU.",
+   "style": "dialogue",
+   "point": [
+    413,
+    6971
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LES SEULES INFOS CONNUES SUR LUI SONT SA \"CLASSE\" ET SON \"RIDEAU NOIR\"...",
+   "style": "dialogue",
+   "point": [
+    429,
+    11023
+   ]
+  },
+  {
+   "id": 7,
+   "text": "PAS BESOIN D’EXPLIQUER QUEL CAMP A L’AVANTAGE.",
+   "style": "dialogue",
+   "point": [
+    425,
+    12146
+   ]
+  }
+ ]
+}

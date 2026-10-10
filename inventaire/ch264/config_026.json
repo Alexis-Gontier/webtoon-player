@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-264/026.webp",
+ "output": "chapters_fr/chapter-264/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE TEMPS S’ÉCOULE SANS JAMAIS S’ARRÊTER...",
+   "style": "cartouche",
+   "point": [
+    359,
+    566
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET LES INSTANTS QUI BRILLAIENT FINISSENT PAR PÂLIR ET DEVENIR DES SOUVENIRS.",
+   "style": "cartouche",
+   "point": [
+    361,
+    1547
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POURTANT...",
+   "style": "cartouche",
+   "point": [
+    363,
+    2355
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CE N’EST EN RIEN UNE CHOSE TRISTE...",
+   "style": "cartouche",
+   "point": [
+    371,
+    3759
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CAR SUR LE CHEMIN QUI S’ÉTEND DEVANT NOUS TOUS,",
+   "style": "cartouche",
+   "point": [
+    264,
+    4637
+   ]
+  },
+  {
+   "id": 6,
+   "text": "UN NOUVEL AVENIR NOUS ATTEND.",
+   "style": "cartouche",
+   "point": [
+    427,
+    4942
+   ]
+  }
+ ]
+}

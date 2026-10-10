@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/024.webp",
+ "output": "chapters_fr/chapter-257/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’ÉTAIT ÉTRANGE.",
+   "style": "cartouche",
+   "point": [
+    359,
+    1175
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MÊME SES YEUX...",
+   "style": "cartouche",
+   "point": [
+    417,
+    2777
+   ]
+  },
+  {
+   "id": 4,
+   "text": "NE VOYAIENT RIEN DE L’AVENIR DE CET HOMME.",
+   "style": "cartouche",
+   "point": [
+    413,
+    3891
+   ]
+  }
+ ]
+}

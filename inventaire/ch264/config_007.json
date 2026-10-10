@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-264/007.webp",
+ "output": "chapters_fr/chapter-264/007.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "QUANT À CE QUI T’INQUIÈTE...",
+   "style": "dialogue",
+   "point": [
+    353,
+    1162
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE SUIS SÛRE QUE TOUT S’ARRANGERA À LA FIN.",
+   "style": "italique",
+   "point": [
+    350,
+    2739
+   ]
+  },
+  {
+   "id": 4,
+   "text": "APRÈS TOUT, LE SEIGNEUR ARTHUR A PROMIS UNE FIN HEUREUSE.",
+   "style": "italique",
+   "point": [
+    371,
+    4316
+   ]
+  },
+  {
+   "id": 100,
+   "text": "!",
+   "style": "dialogue",
+   "point": [
+    370,
+    1850
+   ]
+  }
+ ]
+}

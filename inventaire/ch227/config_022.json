@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-227/022.webp",
+ "output": "chapters_fr/chapter-227/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HAHAHA, QUEL SALAUD CRUEL.",
+   "style": "dialogue",
+   "point": [
+    351,
+    243
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NORMALEMENT, MÊME UN DÉCHET LAISSERAIT QUELQUE CHOSE DERRIÈRE LUI.",
+   "style": "dialogue",
+   "point": [
+    362,
+    1382
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST ÇA QU’ILS APPELAIENT UN \"DIEU\" CRUEL ?",
+   "style": "dialogue",
+   "point": [
+    486,
+    1723
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LE TEMPS QUE CE TYPE A PASSÉ LÀ-DEDANS ÉTAIT \"UNE ÈRE ENTIÈRE\".",
+   "style": "italique",
+   "point": [
+    329,
+    2673
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CRAC",
+   "style": "cri",
+   "point": [
+    262,
+    3182
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AUTREMENT DIT, SI CE TYPE N’AVAIT PAS ABANDONNÉ, ALORS MOI...",
+   "style": "italique",
+   "point": [
+    478,
+    3527
+   ]
+  },
+  {
+   "id": 8,
+   "text": "UN TYPE QUI A DE FORTES CHANCES DE \"CROISSANCE MENTALE\" ET PEU DE \"DÉGÂTS PHYSIQUES\"...",
+   "style": "italique",
+   "point": [
+    312,
+    4386
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ÇA VEUT DIRE QU’ON S’AFFRONTERA UN JOUR...",
+   "style": "italique",
+   "point": [
+    456,
+    5624
+   ]
+  }
+ ]
+}

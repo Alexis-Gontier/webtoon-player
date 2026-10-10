@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-235/010.webp",
+ "output": "chapters_fr/chapter-235/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE T’EN PRIE,",
+   "style": "italique",
+   "point": [
+    347,
+    226
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI QUELQU’UN REGARDE, RÉPONDS-MOI.",
+   "style": "italique",
+   "point": [
+    470,
+    1016
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE MOI D’AUJOURD’HUI...",
+   "style": "italique",
+   "point": [
+    424,
+    2096
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LEUR RESSEMBLE, HEIN ?",
+   "style": "italique",
+   "point": [
+    420,
+    3185
+   ]
+  }
+ ]
+}

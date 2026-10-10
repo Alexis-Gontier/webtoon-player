@@ -1,0 +1,83 @@
+{
+ "source": "chapters_en/chapter-257/043.webp",
+ "output": "chapters_fr/chapter-257/043.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "N’OUBLIE\nJAMAIS...",
+   "style": "italique",
+   "point": [
+    405,
+    1167
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MÊME SI J’AI FORGÉ MES TÉNÈBRES DE MES PROPRES MAINS...",
+   "style": "italique",
+   "point": [
+    359,
+    2305
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST TON INDIFFÉRENCE QUI A DONNÉ À CES TÉNÈBRES UN LIEU OÙ HABITER.",
+   "style": "italique",
+   "point": [
+    433,
+    3994
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "italique",
+   "box": [
+    300,
+    0,
+    715,
+    88
+   ],
+   "ink_max": 130,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ÊTRE AUSSI\nINDIFFÉRENT ?",
+   "style": "italique",
+   "box": [
+    300,
+    0,
+    715,
+    88
+   ],
+   "target": [
+    320,
+    2,
+    695,
+    82
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 40
+  }
+ ]
+}

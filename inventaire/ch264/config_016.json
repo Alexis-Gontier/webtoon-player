@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-264/016.webp",
+ "output": "chapters_fr/chapter-264/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VU COMME ELLE ÉTAIT...",
+   "style": "dialogue",
+   "point": [
+    372,
+    175
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST DUR DE CROIRE QUE LA TOUR A VRAIMENT ÉTÉ DÉTRUITE.",
+   "style": "dialogue",
+   "point": [
+    375,
+    1179
+   ]
+  },
+  {
+   "id": 5,
+   "text": "VOILÀ DONC CE QUI SE CACHE DERRIÈRE TES PAROLES ?",
+   "style": "dialogue",
+   "point": [
+    371,
+    2546
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BREF, LA TOUR N’A PAS ÉTÉ \"DÉTRUITE\", MAIS PLUTÔT \"TRANSFÉRÉE\", C’EST ÇA ?",
+   "style": "dialogue",
+   "point": [
+    360,
+    3306
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST UNE HYPOTHÈSE LOGIQUE.",
+   "style": "dialogue",
+   "point": [
+    361,
+    4618
+   ]
+  }
+ ]
+}

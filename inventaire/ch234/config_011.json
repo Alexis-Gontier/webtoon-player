@@ -1,0 +1,98 @@
+{
+ "source": "chapters_en/chapter-234/011.webp",
+ "output": "chapters_fr/chapter-234/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ELLE NE MONTRE PAS VRAIMENT LA GRANDEUR DE LA TRIBU DU FEU ?",
+   "style": "dialogue",
+   "point": [
+    421,
+    674
+   ],
+   "cut": [
+    [
+     158,
+     430
+    ],
+    [
+     517,
+     430
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-CE QUE ÇA A À VOIR AVEC LA \"GRANDEUR\" ?!",
+   "style": "italique",
+   "point": [
+    445,
+    2303
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BON, NE T’EN FAIS PAS TROP.",
+   "style": "dialogue",
+   "point": [
+    351,
+    3255
+   ]
+  },
+  {
+   "id": 5,
+   "text": "L’ESSENCE DE MON POUVOIR N’EST PAS LE \"FEU\".",
+   "style": "dialogue",
+   "point": [
+    355,
+    4331
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MAIS \"LA BÊTE QUI MANIE LE FEU\".",
+   "style": "dialogue",
+   "point": [
+    473,
+    4662
+   ]
+  },
+  {
+   "id": 7,
+   "text": "PORTER UNE TENUE PLUS PROCHE DE MA VRAIE NATURE EN COMBAT T’AIDERA AUSSI À UTILISER MON POUVOIR.",
+   "style": "dialogue",
+   "point": [
+    392,
+    5614
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SÛREMENT !",
+   "style": "italique",
+   "point": [
+    393,
+    8727
+   ]
+  },
+  {
+   "id": 100,
+   "text": "OUI !",
+   "style": "dialogue",
+   "point": [
+    339,
+    294
+   ],
+   "cut": [
+    [
+     158,
+     430
+    ],
+    [
+     517,
+     430
+    ]
+   ]
+  }
+ ]
+}

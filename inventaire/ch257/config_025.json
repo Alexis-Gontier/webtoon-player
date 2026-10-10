@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-257/025.webp",
+ "output": "chapters_fr/chapter-257/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ELLE NE VOYAIT QUE LE GRAND RÊVE QU’IL PORTAIT.",
+   "style": "cartouche",
+   "point": [
+    305,
+    101
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SA MALVEILLANCE INFINIE ENVERS L’ÊTRE ABSOLU...",
+   "style": "cartouche",
+   "point": [
+    467,
+    387
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SA CERTITUDE ET SON OBSESSION.",
+   "style": "cartouche",
+   "point": [
+    427,
+    918
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET ENFIN, DANS LES YEUX DE CET HOMME...",
+   "style": "cartouche",
+   "point": [
+    428,
+    1751
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ELLE SE VIT ELLE-MÊME, ET EN FUT CAPTIVÉE.",
+   "style": "cartouche",
+   "point": [
+    480,
+    3161
+   ]
+  }
+ ]
+}

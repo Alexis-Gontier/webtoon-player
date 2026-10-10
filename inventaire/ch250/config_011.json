@@ -1,0 +1,19 @@
+{
+ "source": "chapters_en/chapter-250/011.webp",
+ "output": "chapters_fr/chapter-250/011.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    150,
+    4950,
+    580,
+    5000
+   ],
+   "light": true,
+   "grow": 5
+  }
+ ]
+}

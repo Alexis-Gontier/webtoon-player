@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-250/009.webp",
+ "output": "chapters_fr/chapter-250/009.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MAIN-\nTENANT !",
+   "style": "cri",
+   "point": [
+    377,
+    2558
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SEIGNEUR\nARTHUR !",
+   "style": "cri",
+   "point": [
+    380,
+    4396
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-249/024.webp",
+ "output": "chapters_fr/chapter-249/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DE TOUTE FAÇON, QU’EST-CE QUE TU CROIS CHANGER EN Y ALLANT ?",
+   "style": "dialogue",
+   "point": [
+    336,
+    1023
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LÂCHE-MOI. JE LE SAIS DÉJÀ.",
+   "style": "dialogue",
+   "point": [
+    377,
+    2033
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI ON N’EST QUE DES SPECTATEURS, POURQUOI NE PAS SE CONTENTER DE REGARDER ?",
+   "style": "dialogue",
+   "point": [
+    234,
+    2715
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DÉSOLÉE, MAIS JE NE PEUX PAS.",
+   "style": "dialogue",
+   "point": [
+    319,
+    3557
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE NE SUIS PAS DU GENRE À REGARDER MES AMIS SE FAIRE MASSACRER SANS RIEN FAIRE.",
+   "style": "dialogue",
+   "point": [
+    482,
+    3882
+   ]
+  }
+ ]
+}

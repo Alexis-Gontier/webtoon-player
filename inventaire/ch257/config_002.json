@@ -1,0 +1,37 @@
+{
+ "source": "chapters_en/chapter-257/002.webp",
+ "output": "chapters_fr/chapter-257/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UN KARMA VINT HABITER\nLES TÉNÈBRES LES PLUS PROFONDES\nSOUS CETTE OMBRE.",
+   "style": "systeme",
+   "box": [
+    87,
+    918,
+    836,
+    1122
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    40
+   ],
+   "outline_width": 3
+  }
+ ]
+}

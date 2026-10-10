@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-251/007.webp",
+ "output": "chapters_fr/chapter-251/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "POUR QUELQU’UN COMME MOI, RONGÉ PAR LE DOUTE...",
+   "style": "dialogue",
+   "point": [
+    380,
+    180
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST ABSOLUMENT IMPOSSIBLE.",
+   "style": "dialogue",
+   "point": [
+    417,
+    1395
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AUTREMENT\nDIT,",
+   "style": "italique",
+   "point": [
+    402,
+    2315
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI J’INTERVIENS SANS MÊME SAVOIR À QUOI PENSENT CES GAMINS QUAND ILS SOURIENT...",
+   "style": "italique",
+   "point": [
+    304,
+    3099
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE NE SERAI QU’UNE GÊNE QUI GÂCHE L’AMUSEMENT D’ARTHUR.",
+   "style": "italique",
+   "point": [
+    463,
+    3515
+   ]
+  }
+ ]
+}

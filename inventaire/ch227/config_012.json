@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/012.webp",
+ "output": "chapters_fr/chapter-227/012.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "AU MOMENT OÙ L’\"ATOUT\" CACHÉ DE MIRAGE FUT UTILISÉ,",
+   "style": "dialogue",
+   "point": [
+    299,
+    3617
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE KARMA TORDU RETOURNA L’ARÈNE CÉLESTE.",
+   "style": "dialogue",
+   "point": [
+    523,
+    3928
+   ]
+  },
+  {
+   "id": 4,
+   "text": "WAOUH, QUELLE AVIDITÉ.",
+   "style": "dialogue",
+   "point": [
+    304,
+    4547
+   ]
+  },
+  {
+   "id": 7,
+   "text": "TU AS PIÉGÉ COMBIEN DE GENS, AU JUSTE ?",
+   "style": "dialogue",
+   "point": [
+    461,
+    5596
+   ]
+  }
+ ]
+}

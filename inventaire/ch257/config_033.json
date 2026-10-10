@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-257/033.webp",
+ "output": "chapters_fr/chapter-257/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL EFFAÇA LA FOI QUI S’ÉTAIT ENRACINÉE À L’ENTRÉE DE LA TOUR.",
+   "style": "cartouche",
+   "point": [
+    416,
+    257
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU VOIS, LUCIA ?",
+   "style": "dialogue",
+   "point": [
+    339,
+    4723
+   ]
+  }
+ ]
+}

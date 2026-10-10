@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/010.webp",
+ "output": "chapters_fr/chapter-248/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’Y A-T-IL ?",
+   "style": "dialogue",
+   "point": [
+    342,
+    903
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU ESPÉRAIS DES RETROUVAILLES EN LARMES ?",
+   "style": "dialogue",
+   "point": [
+    381,
+    2528
+   ]
+  }
+ ]
+}

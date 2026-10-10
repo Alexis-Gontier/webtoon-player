@@ -1,0 +1,123 @@
+{
+ "source": "chapters_en/chapter-232/005.webp",
+ "output": "chapters_fr/chapter-232/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UN CŒUR PRÊT À ÉCLATER.",
+   "style": "dialogue",
+   "point": [
+    229,
+    277
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UNE EXALTATION DÉFERLANTE.",
+   "style": "dialogue",
+   "point": [
+    576,
+    643
+   ]
+  },
+  {
+   "id": 4,
+   "text": "L’ATTENTE DU POINT CULMINANT.",
+   "style": "dialogue",
+   "point": [
+    555,
+    2017
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LA PRÉSENCE\nDE DEAN,\nPORTÉE PAR\nLA PULSATION,",
+   "style": "dialogue",
+   "box": [
+    84,
+    2870,
+    466,
+    3034
+   ],
+   "target": [
+    85,
+    2835,
+    465,
+    3075
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150,
+   "max_letter": 70
+  },
+  {
+   "id": 6,
+   "text": "SE MIT À FAIRE TREMBLER TOUTE L’ARÈNE.",
+   "style": "dialogue",
+   "point": [
+    523,
+    4273
+   ]
+  },
+  {
+   "id": 7,
+   "text": "DEAN !!! VAS-Y !!! GAGNE !!!",
+   "style": "italique",
+   "point": [
+    204,
+    8815
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU PEUX LE FAIRE !!!",
+   "style": "italique",
+   "point": [
+    565,
+    9145
+   ]
+  },
+  {
+   "id": 10,
+   "text": "TOUT LE MONDE, MERCI.",
+   "style": "dialogue",
+   "point": [
+    318,
+    10348
+   ]
+  },
+  {
+   "id": 12,
+   "text": "MERCI DE M’ENCOURAGER DE TOUTES VOS FORCES !",
+   "style": "dialogue",
+   "point": [
+    383,
+    11681
+   ]
+  },
+  {
+   "id": 100,
+   "text": "UN DÉSIR BRÛLANT\nDE VICTOIRE.",
+   "style": "dialogue",
+   "point": [
+    219,
+    920
+   ]
+  }
+ ]
+}

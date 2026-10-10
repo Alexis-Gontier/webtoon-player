@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-262/016.webp",
+ "output": "chapters_fr/chapter-262/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VAINQUEUR",
+   "style": "systeme",
+   "box": [
+    160,
+    2525,
+    560,
+    2655
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 120,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    150,
+    30,
+    50
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 2,
+   "text": "SEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    50,
+    3210,
+    670,
+    3340
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 120,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    150,
+    30,
+    50
+   ],
+   "outline_width": 3
+  }
+ ]
+}

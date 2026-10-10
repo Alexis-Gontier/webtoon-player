@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-248/024.webp",
+ "output": "chapters_fr/chapter-248/024.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "NE LE PERDS PAS DE VUE. ANTICIPE SON PROCHAIN COUP...",
+   "style": "italique",
+   "point": [
+    378,
+    2065
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI JE FRAPPE MAINTENANT, JE PEUX GAGNER.",
+   "style": "italique",
+   "point": [
+    396,
+    3636
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OBSERVE TOUT ATTENTIVEMENT.",
+   "style": "italique",
+   "point": [
+    340,
+    4544
+   ]
+  }
+ ]
+}

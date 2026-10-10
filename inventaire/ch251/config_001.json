@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/001.webp",
+ "output": "chapters_fr/chapter-251/001.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "QU’EST-CE QUE...",
+   "style": "dialogue",
+   "point": [
+    392,
+    3020
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QU’EST-CE QUI SE PASSE, BON SANG ?",
+   "style": "dialogue",
+   "point": [
+    371,
+    4074
+   ]
+  }
+ ]
+}

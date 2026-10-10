@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-236/018.webp",
+ "output": "chapters_fr/chapter-236/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE JUGEMENT EST...",
+   "style": "dialogue",
+   "point": [
+    399,
+    167
+   ]
+  },
+  {
+   "id": 3,
+   "text": "\"EXÉCUTION IMMÉDIATE.\"",
+   "style": "dialogue",
+   "point": [
+    384,
+    2284
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BIEN...",
+   "style": "italique",
+   "point": [
+    325,
+    3114
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST PARFAIT.",
+   "style": "italique",
+   "point": [
+    450,
+    3965
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MA VICTOIRE !",
+   "style": "italique",
+   "point": [
+    408,
+    4668
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE PLAN A RÉUSSI.",
+   "style": "dialogue",
+   "point": [
+    296,
+    5508
+   ]
+  },
+  {
+   "id": 8,
+   "text": "EN VÉRITÉ, HACHE AVAIT COMPLÈTEMENT OUBLIÉ DE SE MÉFIER DE CE QU’IL Y AVAIT DERRIÈRE LA PORTE.",
+   "style": "dialogue",
+   "point": [
+    496,
+    6447
+   ]
+  }
+ ]
+}

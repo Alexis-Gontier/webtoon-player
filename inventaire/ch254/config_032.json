@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/032.webp",
+ "output": "chapters_fr/chapter-254/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA DOMINATION DE VAN ZICHMUND,",
+   "style": "cartouche",
+   "point": [
+    343,
+    176
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET L’ÉPÉE DE DEAN EN ÉTAIENT L’EXEMPLE MÊME.",
+   "style": "cartouche",
+   "point": [
+    348,
+    1346
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AU BOUT DE TOUTE CETTE CONVICTION ET DE CETTE OBSESSION, LA LUMIÈRE DU KARMA QU’ILS PORTAIENT...",
+   "style": "cartouche",
+   "point": [
+    371,
+    3171
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SEMBLAIT ABRITER UN MONDE ENTIER EN ELLE.",
+   "style": "cartouche",
+   "point": [
+    359,
+    4786
+   ]
+  }
+ ]
+}

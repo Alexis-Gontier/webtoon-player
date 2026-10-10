@@ -1,0 +1,150 @@
+{
+ "source": "chapters_en/chapter-230/011.webp",
+ "output": "chapters_fr/chapter-230/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UN CHAGRIN VIOLENT !",
+   "style": "italique",
+   "point": [
+    290,
+    571
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UNE CHARGE DÉSESPÉRÉE VERS MON RÊVE !",
+   "style": "italique",
+   "point": [
+    505,
+    1087
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUEL CHARME DE GAMIN !",
+   "style": "italique",
+   "point": [
+    349,
+    1695
+   ]
+  },
+  {
+   "id": 4,
+   "text": "KYAA, MON VAN EST TROP CLASSE~",
+   "style": "dialogue",
+   "point": [
+    406,
+    2367
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IL A ENFIN SORTI ÇA.",
+   "style": "italique",
+   "point": [
+    646,
+    4856
+   ]
+  },
+  {
+   "id": 6,
+   "text": "L’ARME D’EGO DE ZICHMUND, \"LUCIA\" !",
+   "style": "italique",
+   "point": [
+    382,
+    5871
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST TROP INQUIÉTANT QU’ELLE SOIT DU MÊME TYPE QUE LIBUR !",
+   "style": "italique",
+   "point": [
+    412,
+    6650
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE DÉTESTE ÇA !",
+   "style": "italique",
+   "point": [
+    396,
+    7465
+   ]
+  },
+  {
+   "id": 9,
+   "text": "VAN, TU L’AIMES BIEN, CE TYPE ?",
+   "style": "dialogue",
+   "point": [
+    431,
+    8506
+   ]
+  },
+  {
+   "id": 10,
+   "text": "BIEN SÛR, JE N’AI AUCUNE RAISON DE LE DÉTESTER.",
+   "style": "dialogue",
+   "point": [
+    361,
+    9566
+   ]
+  },
+  {
+   "id": 11,
+   "text": "DANS CETTE TOUR, C’EST CE QUI SE RAPPROCHE LE PLUS D’UN HÉROS.",
+   "style": "dialogue",
+   "point": [
+    460,
+    9927
+   ]
+  },
+  {
+   "id": 12,
+   "text": "HMM... ÇA VEUT DIRE QU’AU BOUT DU COMPTE...",
+   "style": "dialogue",
+   "point": [
+    349,
+    10652
+   ]
+  },
+  {
+   "id": 13,
+   "text": "CE N’EST PAS UN \"HÉROS\", HEIN ?",
+   "style": "dialogue",
+   "point": [
+    393,
+    11907
+   ]
+  },
+  {
+   "id": 14,
+   "text": "...C’EST ÇA, LUCIA. MALHEUREUSEMENT,",
+   "style": "dialogue",
+   "point": [
+    407,
+    12728
+   ]
+  },
+  {
+   "id": 15,
+   "text": "IL N’A PAS ÉTÉ CHOISI PAR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    397,
+    13814
+   ]
+  },
+  {
+   "id": 16,
+   "text": "DIS, ON PEUT SORTIR ENSEMBLE APRÈS LE COMBAT ?",
+   "style": "dialogue",
+   "point": [
+    399,
+    14610
+   ]
+  }
+ ]
+}

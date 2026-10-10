@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-256/041.webp",
+ "output": "chapters_fr/chapter-256/041.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MERCI DE M’AVOIR ACCOMPAGNÉ JUSQU’ICI,",
+   "style": "dialogue",
+   "point": [
+    312,
+    372
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MES CHERS\n\"PLAYERS\" !",
+   "style": "dialogue",
+   "point": [
+    442,
+    757
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’ÉTAIT LA MEILLEURE DES HISTOIRES.",
+   "style": "dialogue",
+   "point": [
+    470,
+    4321
+   ]
+  }
+ ]
+}

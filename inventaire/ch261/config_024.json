@@ -1,0 +1,85 @@
+{
+ "source": "chapters_en/chapter-261/024.webp",
+ "output": "chapters_fr/chapter-261/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AUTANT DE\nPUISSANCE ?!",
+   "style": "italique",
+   "point": [
+    316,
+    55
+   ],
+   "box": [
+    150,
+    0,
+    490,
+    115
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "target": [
+    150,
+    0,
+    490,
+    115
+   ],
+   "max_size": 32,
+   "seam": "top"
+  },
+  {
+   "id": 2,
+   "text": "COMMENT UNE ARME D’EGO PEUT-ELLE FAIRE ÇA SANS SON MAÎTRE...?!",
+   "style": "italique",
+   "point": [
+    477,
+    966
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOUT\nVA BIEN !",
+   "style": "italique",
+   "point": [
+    393,
+    1848
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMME\nJE L’AI DIT...",
+   "style": "dialogue",
+   "point": [
+    443,
+    2709
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IL SUFFIT DE FAIRE CONFIANCE À CELUI QUI TE MANIE !",
+   "style": "dialogue",
+   "point": [
+    400,
+    4732
+   ]
+  }
+ ]
+}

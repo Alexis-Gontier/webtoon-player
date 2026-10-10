@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-253/002.webp",
+ "output": "chapters_fr/chapter-253/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE...",
+   "style": "dialogue",
+   "point": [
+    373,
+    2600
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...NE RENONCERAI\nÀ...",
+   "style": "dialogue",
+   "point": [
+    307,
+    3728
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...PERSONNE.",
+   "style": "dialogue",
+   "point": [
+    422,
+    4120
+   ]
+  }
+ ]
+}

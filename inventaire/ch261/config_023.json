@@ -1,0 +1,77 @@
+{
+ "source": "chapters_en/chapter-261/023.webp",
+ "output": "chapters_fr/chapter-261/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE SEUL CHEMIN\nVERS L’AVENIR\nDONT NOUS RÊVONS.",
+   "style": "systeme",
+   "point": [
+    399,
+    1019
+   ],
+   "box": [
+    80,
+    890,
+    720,
+    1150
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ELLE A ENCORE",
+   "style": "italique",
+   "box": [
+    150,
+    4930,
+    490,
+    5000
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "target": [
+    150,
+    4930,
+    490,
+    5000
+   ],
+   "max_size": 32,
+   "seam": "bottom"
+  }
+ ]
+}

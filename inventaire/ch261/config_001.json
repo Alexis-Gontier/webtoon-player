@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-261/001.webp",
+ "output": "chapters_fr/chapter-261/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "SEOL-JIN\nHEO...",
+   "style": "dialogue",
+   "point": [
+    418,
+    1483
+   ]
+  }
+ ]
+}

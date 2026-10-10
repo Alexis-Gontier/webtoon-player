@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/004.webp",
+ "output": "chapters_fr/chapter-227/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUELLE HONTE.",
+   "style": "dialogue",
+   "point": [
+    411,
+    1179
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET TOI, ALORS ? OFFRIR LES ÂMES DE 100 ARMES D’EGO...",
+   "style": "dialogue",
+   "point": [
+    489,
+    3342
+   ]
+  },
+  {
+   "id": 3,
+   "text": "REMPLIR CES CONDITIONS PRENDRAIT DES CENTAINES D’ANNÉES, TU SAIS ?",
+   "style": "dialogue",
+   "point": [
+    495,
+    3783
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET S’ILS Y ARRIVAIENT ?",
+   "style": "dialogue",
+   "point": [
+    476,
+    6101
+   ]
+  }
+ ]
+}

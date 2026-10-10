@@ -1,0 +1,123 @@
+{
+ "source": "chapters_en/chapter-226/012.webp",
+ "output": "chapters_fr/chapter-226/012.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "ÇA, C’EST...",
+   "style": "dialogue",
+   "point": [
+    372,
+    7310
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...EMBÊTANT.",
+   "style": "dialogue",
+   "point": [
+    445,
+    8594
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE TE L’AVAIS DIT, NON ? QUE JE TE RENVERRAIS AU TAPIS.",
+   "style": "dialogue",
+   "point": [
+    415,
+    13442
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MAINTENANT, SERS-T’EN... DE TA MAIN DROITE !",
+   "style": "italique",
+   "point": [
+    425,
+    14735
+   ]
+  },
+  {
+   "id": 100,
+   "text": "NIVEAU CACHÉ",
+   "style": "titre",
+   "box": [
+    170,
+    1915,
+    630,
+    2045
+   ],
+   "target": [
+    185,
+    1930,
+    615,
+    2030
+   ],
+   "outlined": 4,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  },
+  {
+   "id": 101,
+   "text": "VOILE DE LAVE DU VOLCAN\nRASPA, GARDIEN DES\nFLAMMES ÉTERNELLES",
+   "style": "titre",
+   "box": [
+    40,
+    4855,
+    770,
+    5210
+   ],
+   "target": [
+    75,
+    4905,
+    735,
+    5120
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  }
+ ]
+}

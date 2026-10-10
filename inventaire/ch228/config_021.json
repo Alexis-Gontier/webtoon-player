@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-228/021.webp",
+ "output": "chapters_fr/chapter-228/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST DIFFÉRENT QUAND LA QUÊTE EST VIOLÉE.",
+   "style": "dialogue",
+   "point": [
+    401,
+    230
+   ]
+  },
+  {
+   "id": 2,
+   "text": "À LA FIN, ON SE REVERRA, \"ARTHUR\".",
+   "style": "italique",
+   "point": [
+    451,
+    1989
+   ]
+  },
+  {
+   "id": 3,
+   "text": "UNNAME...",
+   "style": "dialogue",
+   "point": [
+    392,
+    2774
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SE DIRIGEA VERS LA TOUR.",
+   "style": "dialogue",
+   "point": [
+    398,
+    3438
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR TROUVER LA SOLUTION ULTIME AU PROBLÈME.",
+   "style": "dialogue",
+   "point": [
+    428,
+    4022
+   ]
+  }
+ ]
+}

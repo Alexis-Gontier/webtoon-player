@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-260/012.webp",
+ "output": "chapters_fr/chapter-260/012.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "ARGH...",
+   "style": "cri",
+   "point": [
+    275,
+    100
+   ]
+  }
+ ]
+}

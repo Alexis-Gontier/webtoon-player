@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-262/034.webp",
+ "output": "chapters_fr/chapter-262/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "INUTILE D’ESSAYER DE CONVAINCRE CET IDIOT.",
+   "style": "dialogue",
+   "point": [
+    222,
+    1494
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST LA MEILLEURE DÉCISION POSSIBLE.",
+   "style": "dialogue",
+   "point": [
+    388,
+    1803
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LIBUR...",
+   "style": "dialogue",
+   "point": [
+    350,
+    2672
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU ES DANS LE MÊME ÉTAT QUE LUI, NON ?",
+   "style": "dialogue",
+   "point": [
+    342,
+    3598
+   ]
+  },
+  {
+   "id": 100,
+   "text": "QU’EST-CE QUE\nTU FAIS,\nLAY ?!",
+   "style": "italique",
+   "point": [
+    400,
+    175
+   ]
+  },
+  {
+   "id": 101,
+   "text": "!",
+   "style": "dialogue",
+   "point": [
+    372,
+    4550
+   ]
+  }
+ ]
+}

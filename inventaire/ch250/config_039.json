@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-250/039.webp",
+ "output": "chapters_fr/chapter-250/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HÉ !",
+   "style": "dialogue",
+   "point": [
+    392,
+    84
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TON CERVEAU A BUGUÉ OU QUOI ?",
+   "style": "dialogue",
+   "point": [
+    399,
+    1251
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HAA, IDIOT !",
+   "style": "dialogue",
+   "point": [
+    372,
+    1903
+   ]
+  },
+  {
+   "id": 4,
+   "text": "REGARDE TA TÊTE !",
+   "style": "dialogue",
+   "point": [
+    371,
+    3436
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QU’EST-CE QUI SE PASSE LÀ-DEDANS ?",
+   "style": "dialogue",
+   "point": [
+    346,
+    4326
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-245/003.webp",
+ "output": "chapters_fr/chapter-245/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUAIS...",
+   "style": "dialogue",
+   "point": [
+    399,
+    1231
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...FRANCHEMENT, VOUS ALORS !",
+   "style": "dialogue",
+   "point": [
+    425,
+    4689
+   ]
+  }
+ ]
+}

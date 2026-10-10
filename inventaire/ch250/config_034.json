@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-250/034.webp",
+ "output": "chapters_fr/chapter-250/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS,\nSEOL-JIN...",
+   "style": "dialogue",
+   "point": [
+    390,
+    1711
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI TU PEUX ACCEPTER QUELQU’UN COMME MOI...",
+   "style": "dialogue",
+   "point": [
+    367,
+    3269
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OUI.",
+   "style": "dialogue",
+   "point": [
+    280,
+    4030
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ALLONS-Y ENSEMBLE, LIBUR.",
+   "style": "dialogue",
+   "point": [
+    359,
+    4303
+   ]
+  }
+ ]
+}

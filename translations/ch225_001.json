@@ -1,0 +1,43 @@
+{
+  "source": "chapters_en/chapter-225/001.webp",
+  "output": "chapters_fr/chapter-225/001.webp",
+  "bubbles": [
+    {
+      "point": [
+        425,
+        1150
+      ],
+      "text": "MERCI À TOUS D’AVOIR ATTENDU SI LONGTEMPS."
+    },
+    {
+      "point": [
+        347,
+        2750
+      ],
+      "text": "BIEN, AVANT DE COMMENCER..."
+    },
+    {
+      "point": [
+        413,
+        4833
+      ],
+      "text": "JE VAIS EXAUCER VOTRE SOUHAIT.",
+      "max_size": 62
+    },
+    {
+      "point": [
+        385,
+        13008
+      ],
+      "text": "MON DIEU !"
+    },
+    {
+      "point": [
+        413,
+        14025
+      ],
+      "text": "H-HAAA !",
+      "max_size": 62
+    }
+  ]
+}

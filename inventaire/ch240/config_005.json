@@ -1,0 +1,151 @@
+{
+ "source": "chapters_en/chapter-240/005.webp",
+ "output": "chapters_fr/chapter-240/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE N’AURAIS JAMAIS DÛ\nENGAGER CETTE\nCONVERSATION.",
+   "style": "systeme",
+   "box": [
+    134,
+    183,
+    668,
+    396
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 2,
+   "text": "LE \"KARMA\" QUE TU M’AS ACCORDÉ PREND LA FORME D’UNE FLAMME.",
+   "style": "dialogue",
+   "point": [
+    336,
+    1161
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SA NATURE EST, EN FAIT, EXACTEMENT LA MÊME.",
+   "style": "dialogue",
+   "point": [
+    521,
+    1930
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS CE POUVOIR N’EST, AU FOND, QU’UN ÉNORME BLOC D’ÂME.",
+   "style": "dialogue",
+   "point": [
+    326,
+    2600
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LA \"NATURE\" DE CETTE FLAMME EST NÉE AU CONTACT DE MON ÂME.",
+   "style": "dialogue",
+   "point": [
+    344,
+    2899
+   ]
+  },
+  {
+   "id": 6,
+   "text": "...C’EST CE QUE JE CROIS.",
+   "style": "dialogue",
+   "point": [
+    376,
+    3997
+   ],
+   "cut": [
+    [
+     293,
+     4160
+    ],
+    [
+     553,
+     4160
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    381,
+    5698
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TOI QUI M’AS RÉCUPÉRÉ, POURRAS-TU CONTRÔLER MES CAPACITÉS ?",
+   "style": "dialogue",
+   "point": [
+    395,
+    6827
+   ]
+  },
+  {
+   "id": 9,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    382,
+    9520
+   ]
+  },
+  {
+   "id": 10,
+   "text": "TU DÉSIRES DES POUVOIRS TIRÉS DE MOI ?",
+   "style": "dialogue",
+   "point": [
+    367,
+    11414
+   ]
+  },
+  {
+   "id": 12,
+   "text": "...OUAIS ?",
+   "style": "dialogue",
+   "point": [
+    400,
+    13115
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PAS VRAI ?",
+   "style": "dialogue",
+   "point": [
+    425,
+    4256
+   ],
+   "cut": [
+    [
+     293,
+     4160
+    ],
+    [
+     553,
+     4160
+    ]
+   ]
+  }
+ ]
+}

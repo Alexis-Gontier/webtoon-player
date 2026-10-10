@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/032.webp",
+ "output": "chapters_fr/chapter-251/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU DEMANDES SI ON LE FAIT EN CE MOMENT ?",
+   "style": "dialogue",
+   "point": [
+    341,
+    205
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OU SI ON L’A DÉJÀ FAIT ?",
+   "style": "dialogue",
+   "point": [
+    399,
+    1965
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI TU VEUX UNE RÉPONSE...",
+   "style": "dialogue",
+   "point": [
+    356,
+    2903
+   ]
+  },
+  {
+   "id": 5,
+   "text": "NON. PAS CETTE FOIS, EN TOUT CAS.",
+   "style": "dialogue",
+   "point": [
+    420,
+    4845
+   ]
+  }
+ ]
+}

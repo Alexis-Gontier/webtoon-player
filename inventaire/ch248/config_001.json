@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-248/001.webp",
+ "output": "chapters_fr/chapter-248/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "VITE,\nSEOL-JIN.",
+   "style": "dialogue",
+   "point": [
+    285,
+    2900
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-248/017.webp",
+ "output": "chapters_fr/chapter-248/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ARTHUR...",
+   "style": "cri",
+   "point": [
+    388,
+    2100
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POUR ÊTRE\nFRANC...",
+   "style": "cri",
+   "point": [
+    366,
+    3239
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE T’AI DÉTESTÉ\nDÈS LE DÉBUT.",
+   "style": "cri",
+   "point": [
+    344,
+    4289
+   ]
+  }
+ ]
+}

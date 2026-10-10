@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-264/032.webp",
+ "output": "chapters_fr/chapter-264/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’ÉTAIT DONC POSSIBLE !",
+   "style": "dialogue",
+   "point": [
+    411,
+    377
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUANT À NOUS TRANSPORTER JUSQU’À L’ENDROIT EN QUESTION...",
+   "style": "dialogue",
+   "point": [
+    273,
+    1138
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA A DEMANDÉ DU TRAVAIL, MAIS COMME JE CONNAISSAIS DÉJÀ CETTE TECHNOLOGIE...",
+   "style": "dialogue",
+   "point": [
+    313,
+    1452
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET COMME ON A AUSSI UNE ASSISTANTE GÉNIALE, CE N’ÉTAIT PAS IMPOSSIBLE.",
+   "style": "dialogue",
+   "point": [
+    447,
+    2340
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LE PROBLÈME, C’EST LA SUITE...",
+   "style": "dialogue",
+   "point": [
+    350,
+    3834
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PARMI LES 17 SIGNAUX REÇUS...",
+   "style": "dialogue",
+   "point": [
+    346,
+    4537
+   ]
+  }
+ ]
+}

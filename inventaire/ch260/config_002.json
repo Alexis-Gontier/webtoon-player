@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-260/002.webp",
+ "output": "chapters_fr/chapter-260/002.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ESPÈCE DE\nGARCE !",
+   "style": "dialogue",
+   "point": [
+    419,
+    2458
+   ]
+  },
+  {
+   "id": 100,
+   "text": "À ME LE\nRENDRE...",
+   "style": "dialogue",
+   "box": [
+    200,
+    0,
+    600,
+    115
+   ],
+   "target": [
+    240,
+    10,
+    560,
+    105
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 32,
+   "seam": "top"
+  },
+  {
+   "id": 101,
+   "text": "97E GÉNÉRATION",
+   "style": "systeme",
+   "box": [
+    140,
+    4880,
+    660,
+    5000
+   ],
+   "max_letter": 100,
+   "light": true,
+   "light_min": 200,
+   "grow": 8,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    30,
+    80
+   ],
+   "outline_width": 3
+  }
+ ]
+}

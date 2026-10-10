@@ -1,0 +1,49 @@
+{
+ "source": "chapters_en/chapter-257/006.webp",
+ "output": "chapters_fr/chapter-257/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ELLE CONNUT L’ÉMOTION\nQU’ON APPELLE\nLE DÉSIR.",
+   "style": "systeme",
+   "box": [
+    111,
+    268,
+    713,
+    497
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI, VOICI...",
+   "style": "cartouche",
+   "point": [
+    421,
+    2329
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LEUR HISTOIRE, QUI COMMENCE AU PLUS PROFOND DU TERRARIUM...",
+   "style": "cartouche",
+   "point": [
+    404,
+    3692
+   ]
+  }
+ ]
+}

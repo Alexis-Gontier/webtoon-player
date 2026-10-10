@@ -1,0 +1,200 @@
+# Chapitre 236. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | SOYEZ PRÊTS,
+001.2 | dialogue | AU-DELÀ DE LA PORTE, C’EST NOUS QUI CHASSONS.
+001.3 | dialogue | ...!
+001.4 | dialogue | ALORS, QUOI QU’IL ARRIVE,
+001.5 | dialogue | NE VOUS ARRÊTEZ PAS.
+001.6 | dialogue | CHACUN FAIT DE SON MIEUX DANS SON RÔLE.
+001.7 | italique | LE COMBAT...
+001.8 | dialogue | -
+001.9 | italique | COMMENCE.
+002.1 | italique | ESSAYER DE FAIRE COMME SI TOUT ALLAIT BIEN,
+002.2 | dialogue | AVEC UNE CAPACITÉ AUSSI PITOYABLE...
+002.3 | dialogue | JE L’AI ENTENDU DE MIRAGE.
+002.4 | dialogue | -
+002.5 | dialogue {"point": [352, 4361], "cut": [[355, 4561], [595, 4561]]} | TA CAPACITÉ EST "LE JOUET DU FOU".
+002.6 | dialogue | -
+002.7 | dialogue | C’EST QUOI CE DÉLIRE, TOUT D’UN COUP ?
+002.100 | dialogue {"point": [478, 4665], "cut": [[355, 4561], [595, 4561]]} | PAS VRAI ?
+003.1 | dialogue | JE SUIS "UNRANKER".
+003.2 | dialogue | TON "ENNEMI".
+003.3 | dialogue | ...!
+003.4 | dialogue | JE TE PRÊTE MA CAPACITÉ.
+003.5 | dialogue | CE N’EST PAS EN LA GARDANT POUR MOI QUE ÇA M’AIDERA, PAS VRAI ?
+003.6 | italique | ...CE GAMIN A VRAIMENT RÉUSSI À EMPRUNTER LA CAPACITÉ...
+003.7 | italique | NE ME DIS PAS QUE CE GAMIN A RÉUSSI À FAIRE CHANGER D’AVIS LE JUGE...
+003.8 | italique | LE FAIT QU’ELLE AFFRONTE UNE "ARME DE DIEU"...
+003.9 | italique | ÇA A INFLUENCÉ LA DÉCISION DU JUGE... ?
+003.10 | italique | ...NON, LE JUGE A ÉTÉ CONVAINCU.
+004.1 | italique | CE QUE LE JUGE A RÉPONDU...
+004.2 | italique | ÉTAIT L’"ENNEMI" QUE JE CACHAIS AU FOND DE MOI...
+004.3 | cri | UNRANKER.
+004.4 | dialogue | ...COMPRIS, PARTENAIRE.
+004.5 | dialogue | -
+004.6 | dialogue | CONCENTRE-TOI SUR CE QUI EST DEVANT TOI AU LIEU DE PENSÉES INUTILES, D’ACCORD ?
+005.1 | italique | QUAND J’AI DÉCIDÉ D’UTILISER "ÇA" UNE SEULE FOIS, CE GROS COUP,
+005.2 | italique | JE ME SUIS DIT QUE JE POURRAIS M’EN SERVIR CINQ FOIS, PEUT-ÊTRE...
+005.3 | italique | LE NOM DE LA CAPACITÉ EST "INCONNU". L’IDENTITÉ DE L’UTILISATEUR AUSSI.
+005.4 | italique | TOUT CE QUE JE SAIS, C’EST L’APPARENCE DE L’UTILISATEUR ET QUE C’EST UNE CAPACITÉ DE "TÉLÉPORTATION DIMENSIONNELLE".
+005.5 | italique | C’EST VICIEUX.
+005.6 | italique | IL Y A TROP PEU D’INFOS SUR LA FAÇON DE L’ACTIVER.
+005.7 | italique | ALORS, IMPOSSIBLE DE VOYAGER ENTRE LES ÉTAGES.
+005.8 | italique | LA DISTANCE MAXIMALE EST LIMITÉE À 300 MÈTRES...
+005.9 | italique | ET EN PLUS, SEULEMENT VERS DES LIEUX BIEN GRAVÉS DANS MA MÉMOIRE... !
+005.10 | dialogue | ALORS C’EST TOUT CE QUE J’AI TIRÉ DE "L’INVOCATION SUPÉRIEURE"... ?!
+005.11 | dialogue | CE GAMIN, MAIS QUELLE CHANCE IL A EUE JUSQU’ICI ?!
+006.1 | dialogue | -
+006.2 | italique | ...CE N’EST PAS LE MOMENT DE PLEURNICHER !
+006.3 | italique | LA PARTIE A DÉJÀ COMMENCÉ !
+006.4 | italique | COMMENT JE SUIS CENSÉ M’EN SERVIR ?
+006.5 | italique | COMMENT J’UTILISE CETTE CAPACITÉ...
+006.6 | italique | CETTE SITUATION...
+006.7 | italique | JE DOIS M’UTILISER MOI-MÊME...
+006.8 | italique | TOUT LE MONDE PEUT SURVIVRE ?
+007.1 | dialogue | JE LE SAVAIS !
+007.2 | dialogue | IL Y A ENCORE UN MOYEN !
+008.1 | dialogue | ALORS, C’ÉTAIT TOI ?
+008.2 | dialogue | HUMAIN !
+# EN: NOW! (oubli)
+008.100 | cri {"point": [402, 3507]} | MAINTENANT !
+008.3 | italique | OPÉRATION LANCÉE !
+009.1 | dialogue | JE VOIS...
+009.2 | dialogue | ALORS TU AS JUSTE...
+009.3 | dialogue | PAS... TIS... !
+009.4 | dialogue | S’IL TE PLAÎT...
+009.5 | dialogue | BIEN JOUÉ, LILLET.
+009.6 | dialogue | C’ÉTAIT UNE EXCELLENTE FEINTE !
+010.1 | dialogue | HEIN ? C’EST "LA PORTE..."
+010.2 | dialogue | UN COMPLICE DE L’"ACTE ILLÉGAL".
+010.3 | dialogue | TU AS ENFIN MONTRÉ LE BOUT DE TA QUEUE !
+011.1 | italique | BIEN. AVEC ÇA, TOUS LES LEURRES SONT EN PLACE.
+011.2 | dialogue | -
+011.3 | italique | IL NE RESTE PLUS QUE LE PLAN...
+011.4 | italique | POUR CONVAINCRE LA "MÈRE DES FLAMMES"... !
+011.5 | dialogue | ...HOHO ! VOILÀ QUI EST SURPRENANT !
+011.6 | dialogue | NE ME DIS PAS QUE TU VAS VRAIMENT RÉUSSIR ÇA SANS UNE SEULE VICTIME !
+011.7 | dialogue | BIEN, ALORS.
+011.8 | dialogue | MAINTENANT, ÉLIMINE LA COMPLICE.
+011.9 | dialogue | -
+011.10 | dialogue | ?!
+011.11 | italique | A-ATTENDS ! QU’EST-CE QUE TU RACONTES ?! TU NE PEUX PAS LA FERMER MAINTENANT !
+011.12 | italique | PASTIS N’EST PAS ENCORE ARRIVÉ !
+012.1 | dialogue | QU’EST-CE QUE TU RACONTES ? C’EST LA FILLE D’UN GOBELIN.
+012.2 | dialogue | SI ELLE PASSE LA PORTE, QUI VA LA GARDER ?
+012.3 | dialogue | ...POURQUOI ?
+012.4 | dialogue | ET... PASTIS EST TOUT SEUL...
+012.5 | dialogue | ...JE VOIS.
+012.6 | dialogue | ALORS MON RÔLE... C’EST DE CONVAINCRE CETTE ENFANT.
+013.1 | italique | UNE SITUATION SANS AUTRE CHOIX...
+013.2 | italique | "LE FOU."
+013.3 | italique | ALORS MÊME ÇA FAISAIT PARTIE DE TON PLAN.
+013.4 | dialogue | S’IL LE FAUT, LILLET SE SACRIFIERA.
+013.5 | dialogue | À CE MOMENT-LÀ...
+013.6 | dialogue | SUMAMA, JE COMPTE SUR TOI.
+013.7 | dialogue | ESPÈCE DE SALAUD... !
+013.8 | italique | MAIS DANS TON PLAN...
+013.9 | italique | IL Y A UNE VARIABLE BIEN TROP GROSSE POUR L’IGNORER.
+013.10 | italique | IL Y A UNE VARIABLE BIEN TROP GROSSE POUR L’IGNORER.
+013.11 | italique | J’ESPÈRE QUE TU N’AS PAS NÉGLIGÉ CE FAIT.
+014.1 | dialogue | -
+014.2 | dialogue | -
+014.3 | dialogue | C’EST QUOI CES BÊTISES ?
+# EN: SUMAMA! (oubli)
+014.100 | dialogue {"point": [387, 235]} | SUMAMA !
+014.4 | dialogue | LE PLAN DE PASTIS ÉTAIT COMME UN FILET.
+014.5 | dialogue | COMPÉTENCE, "GUILLOTINE".
+014.6 | dialogue | ACTIVATION !
+014.7 | dialogue | !!!
+015.1 | dialogue | FERMEZ LA PORTE !
+015.2 | dialogue | ET ÇA, ALORS ? MA CAPACITÉ PEUT AUSSI FAIRE ÇA !
+015.3 | dialogue | -
+015.4 | dialogue | CETTE FOIS, JE VAIS FAIRE ENCORE PLUS GROS !
+016.1 | dialogue | INTÉRESSANT !
+016.2 | dialogue | -
+016.3 | dialogue | VAS-Y, JE VAIS L’ESQUIVER !
+016.4 | dialogue | TELLEMENT NAÏF !
+016.5 | dialogue | POURQUOI J’ESQUIVERAIS UNE ATTAQUE ÉVITABLE ?
+016.6 | dialogue | DES TIRS IRRÉFLÉCHIS.
+016.7 | dialogue | ET LA PUISSANCE DE LES EXÉCUTER.
+016.8 | italique | BON, ELLE A BIEN MORDU À L’HAMEÇON !
+016.9 | italique | J’AI ASSEZ MONTRÉ MA CAPACITÉ. MAINTENANT, TOUT CE QUI RESTE...
+017.1 | dialogue | -
+017.2 | dialogue | -
+017.3 | dialogue | AU FINAL,
+017.4 | dialogue | MÊME LA DÉCISION DE SACRIFIER SA PROPRE VIE.
+017.5 | dialogue | UN.
+017.6 | dialogue | LE CRIME D’AVOIR FUI L’"ARÈNE CÉLESTE" EN VIOLANT L’"ORDRE DE CONCENTRATION GÉNÉRALE" DE DAME ASHA.
+017.7 | dialogue | -
+017.8 | dialogue | DEUX.
+017.9 | dialogue | LE CRIME DE "TRICHERIE" EN AIDANT LE COMBAT DE "DEAN", PARTICIPANT DU DEUXIÈME ROUND DE LA BATAILLE FINALE.
+018.1 | dialogue | LE JUGEMENT EST...
+018.2 | dialogue | -
+018.3 | dialogue | "EXÉCUTION IMMÉDIATE."
+018.4 | italique | BIEN...
+018.5 | italique | C’EST PARFAIT.
+018.6 | italique | MA VICTOIRE !
+018.7 | dialogue | LE PLAN A RÉUSSI.
+018.8 | dialogue | EN VÉRITÉ, HACHE AVAIT COMPLÈTEMENT OUBLIÉ DE SE MÉFIER DE CE QU’IL Y AVAIT DERRIÈRE LA PORTE.
+019.1 | dialogue | LES ARMES D’EGO, QUI AVAIENT VU QUELQU’UN PORTEUR D’UNE "MENACE POTENTIELLE" ET DU "BUT QUI LES AVAIT AMENÉES ICI",
+019.2 | dialogue | N’AVAIENT PLUS AUCUNE RAISON NI BESOIN
+019.3 | dialogue | D’OUVRIR LA PORTE AU-DELÀ.
+019.4 | dialogue | HACHE, TOUT GARDER POUR TOI, C’EST DE LA TRICHE.
+019.5 | dialogue | DOMMAGE, IL EST MORT SUR LE COUP.
+019.6 | dialogue | HÉ ! LÈVE-TOI ! MONTRE-NOUS LE TRUC DE TOUT À L’HEURE !
+019.7 | dialogue | MAIS MÊME AINSI...
+019.8 | dialogue | ON NE PEUT PAS CONTRÔLER MÊME LA PLUS SIMPLE RÉACTION ÉMOTIONNELLE D’UN INDIVIDU.
+019.9 | dialogue | -
+019.10 | dialogue | PASTIS...
+019.11 | dialogue | N’EST PAS UN DIEU.
+020.1 | italique | UNE MINUTE, NON, MÊME JUSTE DIX SECONDES DE PLUS... !
+020.2 | dialogue | PAR BONHEUR, PEU DE TEMPS APRÈS,
+020.3 | dialogue | RYUJIN ARRIVA.
+020.4 | dialogue | POURQUOI TOUT LE MONDE... ?
+021.1 | dialogue | AH, SEIGNEUR ARTHUR !
+021.2 | dialogue | -
+021.3 | dialogue | JE NE PENSAIS PAS QUE VOUS VIENDRIEZ SI VITE.
+021.4 | dialogue | -
+021.5 | italique | ATTENDS, ARTHUR... EST VENU EN PERSONNE ?
+021.6 | italique | CE GENRE DE SITUATION DÉPASSE DE LOIN CE QUE J’AVAIS PRÉVU... !
+022.1 | italique | LE PIRE SCÉNARIO POSSIBLE...
+022.2 | italique | S’EST RÉALISÉ... !
+022.3 | italique | C’EST FINI... ! TOUT EST FINI !
+022.4 | dialogue | ATTENDS.
+022.5 | italique | QUEL CRIME J’AI COMMIS, AU JUSTE ?
+022.6 | italique | POUR ARRÊTER L’ARME D’EGO,
+022.7 | italique | ON DOIT ABATTRE SON MAÎTRE !
+022.8 | dialogue | AU RAPPORT, SEIGNEUR ARTHUR.
+023.1 | dialogue | LES QUATRE ARMES D’EGO, MOI COMPRISE, ONT ÉTÉ ACCUSÉES DE "TRICHERIE".
+023.2 | dialogue | -
+023.3 | dialogue | POUR APPLIQUER LA SANCTION, ON NOUS A ENVOYÉS À CET ÉTAGE...
+023.4 | dialogue | HO HISSE !
+023.5 | dialogue | -
+023.6 | dialogue | BANNISSEMENT... ÉTERNEL ?
+024.1 | dialogue | S-SEIGNEUR ARTHUR ! ÉCOUTEZ-NOUS !
+# 024.2-024.3 : une seule phrase coupée en deux bulles (« WE— / JUST FOLLOW... ») : les armes d’ego plaident.
+024.2 | dialogue | NOUS...
+024.3 | dialogue | ...N’AVONS FAIT QU’OBÉIR...
+024.4 | dialogue | -
+025.1 | dialogue | QUOI ?! TU ENTRES DANS LE COMBAT FINAL ?!
+025.2 | dialogue | -
+025.3 | dialogue | JE NE T’EN EMPÊCHERAI PAS, MAIS... POURQUOI, SÉRIEUX ?!
+025.4 | dialogue | CE DERNIER PARI...
+025.5 | dialogue | JE VAIS SUIVRE LA VOIE QUE JE CROIS JUSTE...
+025.6 | dialogue | SI JE DONNE TOUT, QUI SAIT COMMENT ÇA FINIRA, HEIN ?
+025.7 | dialogue | -
+025.8 | italique | J’AVAIS TORT, DEAN.
+025.9 | italique | NOUS NE SOMMES QUE DES PIONS JETABLES.
+025.10 | italique | D’UNE SIMPLE PICHENETTE DU DIEU ABSOLU, LES GENS COMME NOUS SERAIENT...
+026.1 | dialogue | BIEN, L’HOMME AUX BISCUITS.
+026.2 | dialogue | J’AI BIEN NETTOYÉ MON CACA ?
+026.3 | dialogue | LE NETTOYAGE, EH BIEN...
+026.4 | dialogue | DÉBROUILLE-TOI ET FAIS-LE BIEN.
+026.5 | dialogue | DIS-MOI,
+026.6 | dialogue | DEAN.
+027.1 | dialogue | NOTRE COMBAT...
+027.2 | dialogue | A-T-IL VRAIMENT UN SENS... ?
+027.3 | italique | ...C’EST LE DERNIER.
+027.4 | italique | AVEC UN SEUL COUP DE PLUS,
+027.5 | italique | IL EST TEMPS DE DÉCIDER DU VAINQUEUR.
+027.6 | dialogue | -
+027.7 | dialogue | -

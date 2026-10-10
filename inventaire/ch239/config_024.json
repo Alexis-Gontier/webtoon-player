@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-239/024.webp",
+ "output": "chapters_fr/chapter-239/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "\"COLLECTE.\"",
+   "style": "dialogue",
+   "point": [
+    406,
+    1089
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-254/009.webp",
+ "output": "chapters_fr/chapter-254/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AUCUN DOUTE, C’EST CETTE LUMIÈRE !",
+   "style": "italique",
+   "point": [
+    267,
+    921
+   ]
+  },
+  {
+   "id": 2,
+   "text": "L’AUTORITÉ DE\nGUÉRISON !",
+   "style": "italique",
+   "point": [
+    400,
+    1169
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU T’ES ENFIN CHOISI UN MAÎTRE, \"CAPE DU DRAGON\" ?!",
+   "style": "dialogue",
+   "point": [
+    349,
+    2440
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE VOIS. JE ME DEMANDAIS CE QUE TU AVAIS FAIT...",
+   "style": "dialogue",
+   "point": [
+    298,
+    3265
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET JE VOIS QUE TU AS RÉUSSI À L’ACHEVER.",
+   "style": "dialogue",
+   "point": [
+    393,
+    4291
+   ]
+  }
+ ]
+}

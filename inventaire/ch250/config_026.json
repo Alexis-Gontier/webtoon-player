@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-250/026.webp",
+ "output": "chapters_fr/chapter-250/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NE ME LAISSE PAS,\nSEOL-JIN HEO !",
+   "style": "cri",
+   "point": [
+    366,
+    362
+   ]
+  }
+ ]
+}

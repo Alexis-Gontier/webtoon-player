@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-264/037.webp",
+ "output": "chapters_fr/chapter-264/037.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE NE SAIS MÊME PAS PAR OÙ COMMENCER CETTE HISTOIRE...",
+   "style": "cartouche",
+   "point": [
+    355,
+    2274
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE FUT UNE PÉRIODE QUI, BIEN QUE LONGUE...",
+   "style": "cartouche",
+   "point": [
+    228,
+    4275
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PARUT INCROYABLEMENT COURTE.",
+   "style": "cartouche",
+   "point": [
+    450,
+    4880
+   ]
+  }
+ ]
+}

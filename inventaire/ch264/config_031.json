@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-264/031.webp",
+ "output": "chapters_fr/chapter-264/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMMENÇONS PAR L’ESSENTIEL...",
+   "style": "dialogue",
+   "point": [
+    374,
+    601
+   ]
+  },
+  {
+   "id": 3,
+   "text": "RETROUVER LA TOUR A ÉTÉ SIMPLE.",
+   "style": "dialogue",
+   "point": [
+    394,
+    1731
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE NE SAIS PAS SI C’EST DÛ À L’INFLUENCE QUE TOI ET LE SEIGNEUR ARTHUR AVEZ EUE SUR LA TOUR...",
+   "style": "dialogue",
+   "point": [
+    317,
+    2400
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS PAR CHANCE, NOUS AVONS CAPTÉ UN SIGNAL DE L’ÉQUIPEMENT DE DEAN, QU’ON CROYAIT DÉTRUIT.",
+   "style": "dialogue",
+   "point": [
+    414,
+    3454
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ON PEUT DIRE QUE LE KARMA GARDÉ EN RÉSERVE COMME SOURCE D’ÉNERGIE DE SECOURS A FINI PAR SERVIR.",
+   "style": "dialogue",
+   "point": [
+    379,
+    4225
+   ]
+  }
+ ]
+}

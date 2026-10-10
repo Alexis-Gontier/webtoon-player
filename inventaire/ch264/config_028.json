@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-264/028.webp",
+ "output": "chapters_fr/chapter-264/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LES AMIS...",
+   "style": "dialogue",
+   "point": [
+    353,
+    171
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE SUIS\nRENTRÉE.",
+   "style": "dialogue",
+   "point": [
+    330,
+    1594
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OH, TU REVIENS PILE À TEMPS !",
+   "style": "dialogue",
+   "point": [
+    358,
+    4847
+   ]
+  }
+ ]
+}

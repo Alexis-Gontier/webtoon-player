@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/025.webp",
+ "output": "chapters_fr/chapter-258/025.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "...ÇA NE SERAIT\nPAS...",
+   "style": "dialogue",
+   "point": [
+    405,
+    809
+   ]
+  },
+  {
+   "id": 3,
+   "text": "REPRENDS-\nTOI.",
+   "style": "italique",
+   "point": [
+    410,
+    1938
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI TU ES AUSSI UNE ARME D’EGO, TU LE SAIS DÉJÀ, NON ?",
+   "style": "italique",
+   "point": [
+    412,
+    4456
+   ]
+  }
+ ]
+}

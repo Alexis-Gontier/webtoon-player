@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-264/033.webp",
+ "output": "chapters_fr/chapter-264/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL Y EN AVAIT UN BIEN PLUS INTENSE QUE LES AUTRES.",
+   "style": "dialogue",
+   "point": [
+    375,
+    490
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AUTREMENT\nDIT...",
+   "style": "dialogue",
+   "point": [
+    327,
+    1232
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUELQU’UN A INJECTÉ ARTIFICIELLEMENT DU KARMA DANS L’UN DES FRAGMENTS.",
+   "style": "dialogue",
+   "point": [
+    397,
+    2083
+   ]
+  },
+  {
+   "id": 4,
+   "text": "IL POURRAIT Y AVOIR D’AUTRES POSSIBILITÉS...",
+   "style": "dialogue",
+   "point": [
+    357,
+    2780
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MAIS ON DOIT SUPPOSER QUE C’EST UN \"PLAYER\".",
+   "style": "dialogue",
+   "point": [
+    355,
+    4121
+   ]
+  }
+ ]
+}

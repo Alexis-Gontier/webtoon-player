@@ -1,0 +1,91 @@
+{
+ "source": "chapters_en/chapter-261/028.webp",
+ "output": "chapters_fr/chapter-261/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS\nBIEN SÛR !",
+   "style": "cri",
+   "point": [
+    574,
+    455
+   ]
+  },
+  {
+   "id": 110,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    160,
+    3625,
+    640,
+    3925
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 111,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    160,
+    3925,
+    655,
+    4225
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 112,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    30,
+    4225,
+    780,
+    4515
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 115,
+   "text": "ARMES D’EGO\nLAY ET LIBUR\nMÉTAMORPHOSE...",
+   "style": "cri",
+   "box": [
+    20,
+    3600,
+    780,
+    4560
+   ],
+   "ink_max": 0,
+   "target": [
+    40,
+    3640,
+    765,
+    4505
+   ],
+   "stretch": 3,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 5
+  }
+ ]
+}

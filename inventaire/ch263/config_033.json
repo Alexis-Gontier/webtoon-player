@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-263/033.webp",
+ "output": "chapters_fr/chapter-263/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ARTIFICIELLE.",
+   "style": "italique",
+   "box": [
+    265,
+    0,
+    620,
+    95
+   ],
+   "target": [
+    280,
+    8,
+    585,
+    75
+   ],
+   "ink_max": 100,
+   "max_letter": 38,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 32,
+   "seam": "top"
+  },
+  {
+   "id": 2,
+   "text": "PLUS STUPÉFIANT ENCORE, LE PHÉNOMÈNE NE SE LIMITE PAS À LA CORÉE.",
+   "style": "italique",
+   "point": [
+    298,
+    1575
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DES STRUCTURES FLOTTANTES GÉANTES SEMBLABLES SONT AUSSI OBSERVÉES DANS PLUSIEURS PAYS...",
+   "style": "italique",
+   "point": [
+    427,
+    1930
+   ]
+  }
+ ]
+}

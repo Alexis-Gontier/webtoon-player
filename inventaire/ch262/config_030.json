@@ -1,0 +1,45 @@
+{
+ "source": "chapters_en/chapter-262/030.webp",
+ "output": "chapters_fr/chapter-262/030.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "DANS CET ÉTAT,\nTU VAS...!",
+   "style": "italique",
+   "box": [
+    130,
+    0,
+    590,
+    95
+   ],
+   "target": [
+    160,
+    5,
+    560,
+    60
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 28,
+   "seam": "top"
+  }
+ ]
+}

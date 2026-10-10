@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-253/012.webp",
+ "output": "chapters_fr/chapter-253/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CELA DIT, MA FILLE... JE NE ME SOUVIENS PAS D’AVOIR PLAISANTÉ, TU SAIS ?",
+   "style": "dialogue",
+   "point": [
+    294,
+    179
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ARRÊTE ! SI TU DEVIENS ENCORE PLUS DÉPRAVÉE, JE NE POURRAI PLUS REGARDER PAPA ET MAMAN EN FACE !",
+   "style": "italique",
+   "point": [
+    330,
+    1060
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CET ESPRIT... JE NE VEUX SURTOUT PAS L’AVOIR POUR ENNEMIE.",
+   "style": "pensee",
+   "point": [
+    392,
+    2420
+   ]
+  }
+ ]
+}

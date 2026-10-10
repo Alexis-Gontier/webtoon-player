@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-261/002.webp",
+ "output": "chapters_fr/chapter-261/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE T’EN PRIE...",
+   "style": "dialogue",
+   "point": [
+    411,
+    57
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UTILISE-MOI.",
+   "style": "cri",
+   "point": [
+    386,
+    3923
+   ]
+  }
+ ]
+}

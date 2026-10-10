@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-249/007.webp",
+ "output": "chapters_fr/chapter-249/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UN COMBAT\nDIGNE DE\nMA FIN !",
+   "style": "italique",
+   "point": [
+    348,
+    338
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÉPÉE\nDÉCHIRANTE.",
+   "style": "cri",
+   "point": [
+    353,
+    3694
+   ]
+  }
+ ]
+}

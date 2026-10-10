@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-235/014.webp",
+ "output": "chapters_fr/chapter-235/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS !",
+   "style": "italique",
+   "point": [
+    427,
+    2671
+   ]
+  },
+  {
+   "id": 2,
+   "text": "N’UTILISE PAS TON AUTORITÉ D’ADMINISTRATEUR",
+   "style": "italique",
+   "point": [
+    366,
+    3775
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POUR TE MÊLER DU COMBAT DE MES CAMARADES !",
+   "style": "italique",
+   "point": [
+    437,
+    4177
+   ]
+  },
+  {
+   "id": 4,
+   "text": "NETTOIE LE BORDEL QUE TU AS FOUTU, COMPRIS ?!",
+   "style": "italique",
+   "point": [
+    368,
+    5175
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU COMPRENDS, ENFOIRÉ ?!",
+   "style": "italique",
+   "point": [
+    411,
+    6754
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-249/014.webp",
+ "output": "chapters_fr/chapter-249/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON ! PASSONS AUX CHOSES SÉRIEUSES !",
+   "style": "dialogue",
+   "point": [
+    347,
+    883
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE RÉCEPTACLE EST ENDOMMAGÉ...",
+   "style": "italique",
+   "point": [
+    285,
+    1664
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE DOIS—",
+   "style": "italique",
+   "point": [
+    403,
+    3136
+   ]
+  }
+ ]
+}

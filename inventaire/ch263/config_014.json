@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-263/014.webp",
+ "output": "chapters_fr/chapter-263/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "FÉLICITATIONS, PLAYERS.",
+   "style": "dialogue",
+   "point": [
+    346,
+    202
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LA VICTOIRE\nEST À VOUS !",
+   "style": "dialogue",
+   "point": [
+    370,
+    1250
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ALORS...",
+   "style": "dialogue",
+   "point": [
+    347,
+    1901
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE VAIS VEILLER À CE QUE VOUS AYEZ AU MOINS UNE FIN HEUREUSE CORRECTE !",
+   "style": "dialogue",
+   "point": [
+    367,
+    2644
+   ]
+  }
+ ]
+}

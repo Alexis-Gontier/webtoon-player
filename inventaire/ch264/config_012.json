@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-264/012.webp",
+ "output": "chapters_fr/chapter-264/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOUS AVEZ ENTENDU LES RUMEURS ? IL PARAÎT QU’ILS RECRUTENT DE NOUVEAUX CANDIDATS \"PLAYERS\".",
+   "style": "dialogue",
+   "point": [
+    313,
+    1812
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ILS DISENT DES TRUCS COMME : \"MÊME SI LA TOUR A DISPARU, L’AVENTURE N’EST PAS ENCORE FINIE.\"",
+   "style": "dialogue",
+   "point": [
+    422,
+    2909
+   ]
+  }
+ ]
+}

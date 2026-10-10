@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-249/027.webp",
+ "output": "chapters_fr/chapter-249/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DIGNE DU NUMÉRO 2 DU GROUPE...!",
+   "style": "italique",
+   "point": [
+    344,
+    206
+   ]
+  },
+  {
+   "id": 2,
+   "text": "T’ES FOU ?! POURQUOI TU PARLES DE ÇA MAINTENANT ?!",
+   "style": "italique",
+   "point": [
+    415,
+    893
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BAH, NE T’EN FAIS PAS TROP.",
+   "style": "dialogue",
+   "point": [
+    280,
+    2415
+   ]
+  },
+  {
+   "id": 6,
+   "text": "L’ESPOIR QU’ILS M’ONT MONTRÉ...",
+   "style": "dialogue",
+   "point": [
+    294,
+    3575
+   ]
+  },
+  {
+   "id": 7,
+   "text": "N’EST PAS FRAGILE AU POINT DE S’EFFONDRER POUR SI PEU.",
+   "style": "dialogue",
+   "point": [
+    440,
+    3845
+   ]
+  }
+ ]
+}

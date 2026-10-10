@@ -1,0 +1,78 @@
+{
+  "source": "chapters_en/chapter-259/002.jpg",
+  "output": "chapters_fr/chapter-259/002.jpg",
+  "bubbles": [
+    {
+      "point": [
+        336,
+        1955
+      ],
+      "text": "VAN... TU VAS ME FÉLICITER, PAS VRAI ?",
+      "style": "italique"
+    },
+    {
+      "point": [
+        420,
+        3660
+      ],
+      "text": "COMME PROMIS...",
+      "style": "italique"
+    },
+    {
+      "point": [
+        420,
+        5330
+      ],
+      "text": "J’AI APPORTÉ LA FIN DE CE MONDE.",
+      "style": "italique"
+    },
+    {
+      "point": [
+        440,
+        7800
+      ],
+      "text": "TOUT LE MONDE,\nN’ABANDONNEZ\nPAS !",
+      "style": "cri"
+    },
+    {
+      "point": [
+        440,
+        9380
+      ],
+      "text": "CEUX DONT LE KARMA EST ÉPUISÉ, APPROCHEZ-VOUS DE MOI !",
+      "style": "cri"
+    },
+    {
+      "point": [
+        380,
+        11580
+      ],
+      "text": "TCH... !",
+      "style": "cri"
+    },
+    {
+      "point": [
+        410,
+        12560
+      ],
+      "text": "MÊME EN POUSSANT LE KARMA À CE NIVEAU, LA COMPÉTENCE NE S’ACTIVE PAS !",
+      "style": "italique"
+    },
+    {
+      "point": [
+        350,
+        13380
+      ],
+      "text": "L’INFLUENCE DE LUCIA NE CESSE DE GRANDIR.",
+      "style": "italique"
+    },
+    {
+      "point": [
+        500,
+        14180
+      ],
+      "text": "SI ÇA CONTINUE\nCOMME ÇA...",
+      "style": "italique"
+    }
+  ]
+}

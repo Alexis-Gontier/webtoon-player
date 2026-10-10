@@ -1,0 +1,146 @@
+{
+ "source": "chapters_en/chapter-228/017.webp",
+ "output": "chapters_fr/chapter-228/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE POUVOIR REVENU CONTENAIT\nAUSSI LA NATURE HUMAINE,\nMÊME POUR LES DIEUX.",
+   "style": "systeme",
+   "point": [
+    335,
+    1994
+   ],
+   "box": [
+    60,
+    1920,
+    740,
+    2250
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 80
+  },
+  {
+   "id": 3,
+   "text": "LE KARMA\nQUI ÉTAIT SCELLÉ\nDANS SON CORPS,",
+   "style": "systeme",
+   "point": [
+    139,
+    3988
+   ],
+   "box": [
+    30,
+    3900,
+    530,
+    4170
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 80
+  },
+  {
+   "id": 4,
+   "text": "CHANGE SELON\nL’\"AVIDITÉ\"\nDE L’HUMANITÉ.",
+   "style": "systeme",
+   "point": [
+    530,
+    5141
+   ],
+   "box": [
+    250,
+    5030,
+    795,
+    5290
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 80
+  },
+  {
+   "id": 100,
+   "text": "ET EN ÉCHANGE, ILS\nREÇOIVENT UNE PROMESSE.",
+   "style": "systeme",
+   "box": [
+    140,
+    40,
+    660,
+    185
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 80
+  }
+ ]
+}

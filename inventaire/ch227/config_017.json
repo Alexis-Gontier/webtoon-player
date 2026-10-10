@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-227/017.webp",
+ "output": "chapters_fr/chapter-227/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UN PHÉNOMÈNE INTÉRESSANT SE PRODUISIT.",
+   "style": "dialogue",
+   "point": [
+    304,
+    2301
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DIRE QUE LE TEMPS D’\"ÉQUITÉ ABSOLUE\", AJOUTÉ DE FORCE COMME FONCTION AUXILIAIRE POUR RENFORCER LA FORCE CONTRAIGNANTE DU",
+   "style": "dialogue",
+   "point": [
+    481,
+    3412
+   ]
+  },
+  {
+   "id": 3,
+   "text": "\"CONTRAT\", SERAIT EMPLOYÉ DE CETTE FAÇON...",
+   "style": "dialogue",
+   "point": [
+    434,
+    3795
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EN ACTIVANT LE CONTRAT DE MES PROPRES MAINS, J’AI DONNÉ MON \"CONSENTEMENT IMPLICITE\" AU PROCESSUS.",
+   "style": "italique",
+   "point": [
+    353,
+    4686
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE NE PEUX PAS INTERROMPRE LE \"CONTRAT D’ÉQUITÉ\", QUI EST UN \"PROCESSUS ABSOLU\".",
+   "style": "italique",
+   "point": [
+    477,
+    5743
+   ]
+  }
+ ]
+}

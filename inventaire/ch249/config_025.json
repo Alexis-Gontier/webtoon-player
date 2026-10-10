@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-249/025.webp",
+ "output": "chapters_fr/chapter-249/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI TU VEUX TE REPOSER, RESTE ASSIS LÀ TOUT SEUL.",
+   "style": "dialogue",
+   "point": [
+    317,
+    221
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DÉSOLÉ, PASTIS, MAIS JE SUIS DE SON AVIS.",
+   "style": "dialogue",
+   "point": [
+    429,
+    1345
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON, SI DEAN N’A PAS PU L’ARRÊTER, MOI NON PLUS.",
+   "style": "dialogue",
+   "point": [
+    329,
+    2258
+   ]
+  },
+  {
+   "id": 4,
+   "text": "FAUT CROIRE QU’ON N’A PAS LE CHOIX : ON VA AIDER AUSSI.",
+   "style": "dialogue",
+   "point": [
+    484,
+    2586
+   ]
+  }
+ ]
+}

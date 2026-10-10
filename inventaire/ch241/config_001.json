@@ -1,0 +1,309 @@
+{
+ "source": "chapters_en/chapter-241/001.webp",
+ "output": "chapters_fr/chapter-241/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE MOYEN LE PLUS SIMPLE\nD’ÉCHAPPER À UNE LOURDE\nRESPONSABILITÉ ET AU KARMA...",
+   "style": "systeme",
+   "box": [
+    40,
+    1453,
+    720,
+    1652
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 2,
+   "text": "DÉTOURNER LE REGARD.",
+   "style": "systeme",
+   "point": [
+    289,
+    5678
+   ],
+   "box": [
+    95,
+    5620,
+    705,
+    5750
+   ],
+   "target": [
+    110,
+    5630,
+    690,
+    5740
+   ],
+   "light": true,
+   "solid": 7,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 3,
+   "text": "TAIS-TOI !",
+   "style": "dialogue",
+   "point": [
+    309,
+    6634
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TAIS-TOI, TAIS-TOI...",
+   "style": "dialogue",
+   "point": [
+    420,
+    6863
+   ]
+  },
+  {
+   "id": 7,
+   "text": "FERME\nTA GUEULE !",
+   "style": "cri",
+   "point": [
+    334,
+    8797
+   ],
+   "box": [
+    175,
+    8705,
+    495,
+    8890
+   ],
+   "target": [
+    190,
+    8722,
+    480,
+    8872
+   ],
+   "ink_max": 90,
+   "max_letter": 90,
+   "grow": 7,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 8,
+   "text": "OUAIS",
+   "style": "systeme",
+   "point": [
+    400,
+    9157
+   ],
+   "box": [
+    250,
+    9090,
+    550,
+    9225
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 9,
+   "text": "QU’EST-CE QUE\nTU EN SAIS ?",
+   "style": "systeme",
+   "box": [
+    165,
+    9638,
+    636,
+    9820
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 10,
+   "text": "TU NE SAIS RIEN, ET\nPOURTANT TU ME\nCRITIQUES ?",
+   "style": "systeme",
+   "box": [
+    75,
+    10342,
+    726,
+    10565
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 11,
+   "text": "PERSONNE N’A\nLE DROIT DE\nME RENIER !",
+   "style": "systeme",
+   "box": [
+    64,
+    11217,
+    656,
+    11567
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 12,
+   "text": "PERSONNE !",
+   "style": "systeme",
+   "point": [
+    399,
+    12142
+   ],
+   "box": [
+    60,
+    12030,
+    740,
+    12250
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4,
+   "max_letter": 200
+  },
+  {
+   "id": 100,
+   "text": "C’EST...",
+   "style": "systeme",
+   "box": [
+    300,
+    5115,
+    485,
+    5235
+   ],
+   "target": [
+    310,
+    5130,
+    475,
+    5220
+   ],
+   "light": true,
+   "grow": 5,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

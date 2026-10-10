@@ -1,0 +1,74 @@
+{
+ "source": "chapters_en/chapter-263/030.webp",
+ "output": "chapters_fr/chapter-263/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AINSI...",
+   "style": "systeme",
+   "box": [
+    160,
+    3895,
+    560,
+    3995
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 70,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    150,
+    20,
+    40
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 2,
+   "text": "S’ACHÈVE L’ÈRE\nDES PLAYERS.",
+   "style": "systeme",
+   "box": [
+    65,
+    4690,
+    655,
+    4860
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 70,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    150,
+    20,
+    40
+   ],
+   "outline_width": 3
+  }
+ ]
+}

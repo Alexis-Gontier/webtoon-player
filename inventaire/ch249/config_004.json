@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-249/004.webp",
+ "output": "chapters_fr/chapter-249/004.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MAÎTRE, VOUS PALPITEZ SI VIOLEMMENT~",
+   "style": "dialogue",
+   "point": [
+    434,
+    4196
+   ]
+  },
+  {
+   "id": 3,
+   "text": "L’ÉQUILIBRE DU MONDE BASCULE.",
+   "style": "dialogue",
+   "point": [
+    347,
+    4856
+   ]
+  }
+ ]
+}

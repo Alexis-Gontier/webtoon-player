@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-254/036.webp",
+ "output": "chapters_fr/chapter-254/036.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON COMPTE SUR VOUS, SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    367,
+    1415
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PUISQUE TOUT LE MONDE ICI A L’AIR D’AVOIR DEUX MOTS À VOUS DIRE.",
+   "style": "dialogue",
+   "point": [
+    383,
+    3313
+   ]
+  }
+ ]
+}

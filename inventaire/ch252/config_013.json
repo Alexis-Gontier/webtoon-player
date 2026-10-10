@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/013.webp",
+ "output": "chapters_fr/chapter-252/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS...",
+   "style": "italique",
+   "point": [
+    279,
+    208
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COMMENT VONT-ELLES RÉAGIR ?!",
+   "style": "italique",
+   "point": [
+    359,
+    1745
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ELLES NE SONT PAS SI DIFFÉRENTES DE LUI...",
+   "style": "italique",
+   "point": [
+    368,
+    2765
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LEUR PATIENCE A DÛ ATTEINDRE SES LIMITES DEPUIS LONGTEMPS !",
+   "style": "italique",
+   "point": [
+    345,
+    4609
+   ]
+  }
+ ]
+}

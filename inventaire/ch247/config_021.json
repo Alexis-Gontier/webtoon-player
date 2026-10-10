@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-247/021.webp",
+ "output": "chapters_fr/chapter-247/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMBIEN DE TEMPS TU VAS RESTER LÀ À ENCAISSER ?",
+   "style": "dialogue",
+   "point": [
+    348,
+    422
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU NE DEVAIS PAS ME BATTRE ET HÉRITER DE CE MONDE ?",
+   "style": "dialogue",
+   "point": [
+    363,
+    1068
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-235/019.webp",
+ "output": "chapters_fr/chapter-235/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST UN ÉNORME SUCCÈS !",
+   "style": "italique",
+   "point": [
+    442,
+    236
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUOI...",
+   "style": "dialogue",
+   "point": [
+    292,
+    6951
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST QUOI CE BORDEL... ?!",
+   "style": "dialogue",
+   "point": [
+    480,
+    8042
+   ]
+  },
+  {
+   "id": 100,
+   "text": "...HEIN ?",
+   "style": "dialogue",
+   "point": [
+    407,
+    5385
+   ]
+  }
+ ]
+}

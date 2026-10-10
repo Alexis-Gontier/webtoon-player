@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-235/007.webp",
+ "output": "chapters_fr/chapter-235/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU CROIS QUE JE COURS À MA MORT PARCE QUE J’EN AI ENVIE ?!",
+   "style": "italique",
+   "point": [
+    442,
+    231
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MOI AUSSI, J’ESPÈRE QUE QUELQU’UN MOURRA À MA PLACE !",
+   "style": "italique",
+   "point": [
+    382,
+    1808
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...MAIS QU’EST-CE QUE JE PEUX FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    359,
+    2770
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ILS CROIENT ENCORE EN MOI EN CE MOMENT MÊME,",
+   "style": "dialogue",
+   "point": [
+    427,
+    4130
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CHACUN DE NOUS RISQUE SA VIE POUR ACCOMPLIR SON DEVOIR... !",
+   "style": "dialogue",
+   "point": [
+    406,
+    6151
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LAISSE-MOI SERRER QUELQU’UN DANS MES BRAS, RIEN QU’UNE FOIS, D’ACCORD... ?!",
+   "style": "dialogue",
+   "point": [
+    413,
+    9506
+   ]
+  },
+  {
+   "id": 100,
+   "text": "JE T’EN PRIE...",
+   "style": "dialogue",
+   "point": [
+    386,
+    7584
+   ]
+  }
+ ]
+}

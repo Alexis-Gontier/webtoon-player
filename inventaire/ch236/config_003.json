@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-236/003.webp",
+ "output": "chapters_fr/chapter-236/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE SUIS \"UNRANKER\".",
+   "style": "dialogue",
+   "point": [
+    370,
+    276
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TON \"ENNEMI\".",
+   "style": "dialogue",
+   "point": [
+    414,
+    1978
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...!",
+   "style": "dialogue",
+   "point": [
+    440,
+    3087
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE TE PRÊTE MA CAPACITÉ.",
+   "style": "dialogue",
+   "point": [
+    354,
+    3973
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CE N’EST PAS EN LA GARDANT POUR MOI QUE ÇA M’AIDERA, PAS VRAI ?",
+   "style": "dialogue",
+   "point": [
+    459,
+    4319
+   ]
+  },
+  {
+   "id": 6,
+   "text": "...CE GAMIN A VRAIMENT RÉUSSI À EMPRUNTER LA CAPACITÉ...",
+   "style": "italique",
+   "point": [
+    392,
+    6332
+   ]
+  },
+  {
+   "id": 7,
+   "text": "NE ME DIS PAS QUE CE GAMIN A RÉUSSI À FAIRE CHANGER D’AVIS LE JUGE...",
+   "style": "italique",
+   "point": [
+    522,
+    6677
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LE FAIT QU’ELLE AFFRONTE UNE \"ARME DE DIEU\"...",
+   "style": "italique",
+   "point": [
+    344,
+    7888
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ÇA A INFLUENCÉ LA DÉCISION DU JUGE... ?",
+   "style": "italique",
+   "point": [
+    476,
+    8236
+   ]
+  },
+  {
+   "id": 10,
+   "text": "...NON, LE JUGE A ÉTÉ CONVAINCU.",
+   "style": "italique",
+   "point": [
+    374,
+    9474
+   ]
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "source": "chapters_en/chapter-257/003.webp",
+ "output": "chapters_fr/chapter-257/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA PREMIÈRE CHOSE QU’ELLE VIT\nEN OUVRANT LES YEUX...",
+   "style": "systeme",
+   "box": [
+    77,
+    858,
+    752,
+    1065
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "FUT LE RÉCEPTACLE\nDU DESTIN DU MONDE.",
+   "style": "systeme",
+   "box": [
+    99,
+    3344,
+    729,
+    3501
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

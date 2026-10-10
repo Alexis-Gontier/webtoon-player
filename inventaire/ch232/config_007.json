@@ -1,0 +1,115 @@
+{
+ "source": "chapters_en/chapter-232/007.webp",
+ "output": "chapters_fr/chapter-232/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LUCIA !",
+   "style": "cri",
+   "point": [
+    420,
+    1436
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AVERTISSEMENT.\nUTILISER CETTE\nUNITÉ COMME RAMPE\nDE LANCEMENT\nEST DÉCONSEILLÉ.",
+   "style": "systeme",
+   "point": [
+    391,
+    3603
+   ],
+   "box": [
+    130,
+    3495,
+    690,
+    3730
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90,
+   "target": [
+    185,
+    3525,
+    595,
+    3730
+   ],
+   "stretch": 2
+  },
+  {
+   "id": 3,
+   "text": "BIEN ! UN COUP FRANC, ET LE \"CORPS PRINCIPAL\" A ENFIN BOUGÉ !",
+   "style": "italique",
+   "point": [
+    455,
+    4897
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...ELLE EST CONTENTE DE ÇA ?",
+   "style": "italique",
+   "point": [
+    461,
+    7337
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BIEN,",
+   "style": "dialogue",
+   "point": [
+    344,
+    8204
+   ]
+  },
+  {
+   "id": 6,
+   "text": "COMMENT ON ATTAQUE ÇA ?",
+   "style": "dialogue",
+   "point": [
+    375,
+    9446
+   ]
+  },
+  {
+   "id": 8,
+   "text": "DIS, VAN, TU VOIS ÇA, HEIN... ?",
+   "style": "dialogue",
+   "point": [
+    417,
+    10805
+   ]
+  },
+  {
+   "id": 100,
+   "text": "KYAA~ QU’EST-CE\nQU’ON FAIT,\nVAN ?",
+   "style": "italique",
+   "point": [
+    360,
+    5700
+   ]
+  },
+  {
+   "id": 101,
+   "text": "D-DU SANG !\nIL Y A DU SANG~ !",
+   "style": "italique",
+   "point": [
+    432,
+    6050
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-237/005.webp",
+ "output": "chapters_fr/chapter-237/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "S’IL TE PLAÎT.",
+   "style": "dialogue",
+   "point": [
+    425,
+    914
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUVRE-NOUS L’AVENIR.",
+   "style": "italique",
+   "point": [
+    411,
+    2008
+   ]
+  },
+  {
+   "id": 3,
+   "text": "L’AVENIR...",
+   "style": "dialogue",
+   "point": [
+    342,
+    4376
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HAHA, N’IMPORTE QUOI.",
+   "style": "dialogue",
+   "point": [
+    475,
+    5685
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CETTE LUMIÈRE...",
+   "style": "italique",
+   "point": [
+    401,
+    6993
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PFIOU...",
+   "style": "italique",
+   "box": [
+    585,
+    285,
+    745,
+    410
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 60,
+   "grow": 4,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

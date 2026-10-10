@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-253/021.webp",
+ "output": "chapters_fr/chapter-253/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN\nSÛR...",
+   "style": "dialogue",
+   "point": [
+    257,
+    1792
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE SERAIS\nTRÈS HEUREUX !",
+   "style": "dialogue",
+   "point": [
+    341,
+    2076
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS UNE DÉCLARATION...",
+   "style": "dialogue",
+   "point": [
+    373,
+    3766
+   ]
+  }
+ ]
+}

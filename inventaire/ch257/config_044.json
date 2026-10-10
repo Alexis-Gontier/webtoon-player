@@ -1,0 +1,70 @@
+{
+ "source": "chapters_en/chapter-257/044.webp",
+ "output": "chapters_fr/chapter-257/044.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET ALORS...",
+   "style": "cartouche",
+   "point": [
+    339,
+    234
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LEUR DÉSIR\nDE TOUJOURS...",
+   "style": "cartouche",
+   "point": [
+    523,
+    500
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÉCLOT ENFIN.",
+   "style": "cartouche",
+   "point": [
+    418,
+    1353
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ARME D’EGO LUCIA,\nCHANGEMENT DE FORME :",
+   "style": "cri",
+   "point": [
+    405,
+    3860
+   ],
+   "box": [
+    95,
+    3740,
+    720,
+    3980
+   ],
+   "light": true,
+   "light_min": 190,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "angle": 4
+  }
+ ]
+}

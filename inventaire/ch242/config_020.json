@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-242/020.webp",
+ "output": "chapters_fr/chapter-242/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS, GAMIN.",
+   "style": "dialogue",
+   "point": [
+    406,
+    357
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU VAS LE PARTAGER AVEC MOI ?",
+   "style": "dialogue",
+   "point": [
+    452,
+    1905
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’AIMERAIS BIEN, MAIS...",
+   "style": "dialogue",
+   "point": [
+    369,
+    3093
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE DOIS PASSER EN PREMIER.",
+   "style": "dialogue",
+   "point": [
+    425,
+    4514
+   ]
+  },
+  {
+   "id": 6,
+   "text": "DÉSOLÉ, MAIS TU POURRAIS ATTENDRE UN PEU ?",
+   "style": "dialogue",
+   "point": [
+    413,
+    5384
+   ]
+  },
+  {
+   "id": 7,
+   "text": "...QUOI ?",
+   "style": "dialogue",
+   "point": [
+    453,
+    6368
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU NE T’ENNUIERAS PAS.",
+   "style": "dialogue",
+   "point": [
+    395,
+    7235
+   ]
+  }
+ ]
+}

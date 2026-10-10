@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-258/001.webp",
+ "output": "chapters_fr/chapter-258/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "AH...",
+   "style": "dialogue",
+   "point": [
+    416,
+    1330
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST SI VIDE ET SI GLORIEUX...!",
+   "style": "dialogue",
+   "point": [
+    416,
+    2426
+   ]
+  }
+ ]
+}

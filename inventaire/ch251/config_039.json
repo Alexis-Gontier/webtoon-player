@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-251/039.webp",
+ "output": "chapters_fr/chapter-251/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE CONNAIS SEOL-JIN DEPUIS BIEN AVANT TOI !",
+   "style": "dialogue",
+   "point": [
+    270,
+    206
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS ARRÊTE D’ESSAYER DE T’IMMISCER ENTRE NOUS !",
+   "style": "dialogue",
+   "point": [
+    317,
+    644
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET ALORS ? LE TEMPS NE DÉFINIT PAS LA PROFONDEUR D’UNE RELATION.",
+   "style": "dialogue",
+   "point": [
+    433,
+    2705
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QU’EST-CE QUI SE PASSE, LÀ ?",
+   "style": "italique",
+   "point": [
+    323,
+    3744
+   ]
+  },
+  {
+   "id": 6,
+   "text": "POURQUOI ELLES AGISSENT COMME ÇA ?",
+   "style": "italique",
+   "point": [
+    518,
+    4548
+   ]
+  }
+ ]
+}

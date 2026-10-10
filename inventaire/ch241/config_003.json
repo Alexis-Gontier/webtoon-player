@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-241/003.webp",
+ "output": "chapters_fr/chapter-241/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "\"UNNAME...\"",
+   "style": "dialogue",
+   "point": [
+    392,
+    1046
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POURQUOI ALLER AUSSI LOIN...",
+   "style": "dialogue",
+   "point": [
+    355,
+    1998
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PANIQUE PAS, ABRUTI. AUSSI DINGUE QUE ÇA AIT L’AIR, ÇA NE PEUT PAS PERCER LA BARRIÈRE QU’A DRESSÉE LE SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    466,
+    8783
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EUH, TORCHE-NIM...",
+   "style": "dialogue",
+   "point": [
+    288,
+    9627
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CE MONSTRE EST VRAIMENT LE MÊME GENRE D’\"ARME D’EGO\" QUE NOUS... ?",
+   "style": "dialogue",
+   "point": [
+    397,
+    9980
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BON, ÇA A L’AIR DANGEREUX POUR N’IMPORTE QUI.",
+   "style": "dialogue",
+   "point": [
+    393,
+    11147
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST UNE \"ARME\" FAITE D’UNE ÂME MATÉRIALISÉE. CETTE FORME AUSSI, ENFIN...",
+   "style": "dialogue",
+   "point": [
+    467,
+    11500
+   ]
+  },
+  {
+   "id": 8,
+   "text": "QUAND MÊME, C’EST INATTENDU.",
+   "style": "dialogue",
+   "point": [
+    345,
+    12297
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-258/010.webp",
+ "output": "chapters_fr/chapter-258/010.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "POUR FAIRE SIMPLE... C’EST EXACTEMENT ÇA.",
+   "style": "dialogue",
+   "point": [
+    394,
+    941
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MÊME SI ELLE DOIT TUER TOUT LE MONDE,",
+   "style": "dialogue",
+   "point": [
+    329,
+    3571
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ELLE COMPTE RÉALISER SON PROPRE SOUHAIT.",
+   "style": "dialogue",
+   "point": [
+    454,
+    4442
+   ]
+  },
+  {
+   "id": 100,
+   "text": "CE SABLIER.",
+   "style": "dialogue",
+   "box": [
+    280,
+    0,
+    640,
+    55
+   ],
+   "ink_max": 100,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "target": [
+    280,
+    0,
+    640,
+    55
+   ],
+   "max_size": 31,
+   "seam": "top"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "source": "chapters_en/chapter-233/008.webp",
+ "output": "chapters_fr/chapter-233/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOUT\nMON ÊTRE !",
+   "style": "italique",
+   "point": [
+    411,
+    320
+   ],
+   "box": [
+    215,
+    150,
+    640,
+    420
+   ],
+   "target": [
+    255,
+    190,
+    600,
+    400
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 70,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ESPÈCE DE VOYOU !!!",
+   "style": "dialogue",
+   "point": [
+    195,
+    4976
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 4,
+   "text": "OUI~♥",
+   "style": "dialogue",
+   "point": [
+    576,
+    5126
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALERTE : ACTIVATION\nDU CONTACT D’URGENCE.",
+   "style": "systeme",
+   "point": [
+    307,
+    7797
+   ],
+   "box": [
+    120,
+    7640,
+    495,
+    7900
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90,
+   "target": [
+    150,
+    7735,
+    465,
+    7860
+   ],
+   "stretch": 1.3
+  },
+  {
+   "id": 6,
+   "text": "LIEU D’ÉMISSION :\nFORGE GENNOS\nCONNEXION AUDIO.",
+   "style": "systeme",
+   "box": [
+    235,
+    8600,
+    680,
+    8800
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 7,
+   "text": "QUOI ?! JE SUIS OCCUPÉE, LÀ !",
+   "style": "italique",
+   "point": [
+    290,
+    9332
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SI CE N’EST PAS URGENT, PLUS TARD !",
+   "style": "italique",
+   "point": [
+    475,
+    10941
+   ]
+  },
+  {
+   "id": 10,
+   "text": "QUOI ?!",
+   "style": "dialogue",
+   "point": [
+    425,
+    12696
+   ]
+  },
+  {
+   "id": 11,
+   "text": "L’ARME D’EGO D’ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    399,
+    13685
+   ]
+  }
+ ]
+}

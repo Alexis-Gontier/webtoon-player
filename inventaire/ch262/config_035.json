@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-262/035.webp",
+ "output": "chapters_fr/chapter-262/035.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST\nPOURQUOI...",
+   "style": "dialogue",
+   "point": [
+    352,
+    819
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LAISSEZ-MOI\nLE DÉNOUEMENT.",
+   "style": "italique",
+   "point": [
+    371,
+    1817
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CAR C’EST L’OPTION QUI A LE PLUS DE CHANCES DE RÉUSSIR.",
+   "style": "italique",
+   "point": [
+    389,
+    3933
+   ]
+  }
+ ]
+}

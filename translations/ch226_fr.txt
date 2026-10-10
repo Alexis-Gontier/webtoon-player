@@ -1,0 +1,177 @@
+# Chapitre 226. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | -LE DIVIN FRUIT DU BIEN ET DU MAL-
+001.2 | dialogue | UN POUVOIR ACCORDÉ À MIRAGE PAR "UNNAME".
+001.3 | dialogue | QUAND LE "FRUIT DU BIEN ET DU MAL" SYMBOLIQUE DU CONTRAT EST CRÉÉ,
+001.4 | dialogue | LES TERMES DU CONTRAT ACCEPTÉS PAR LES DEUX PARTIES SONT TRANSMIS.
+001.5 | dialogue | QUELLE QUE SOIT LA SITUATION, UNE FOIS LE CONTRAT ACTIVÉ,
+001.6 | dialogue | ON DISPOSE D’ASSEZ DE TEMPS POUR COMPRENDRE LA MOINDRE CLAUSE COMPLEXE.
+001.7 | dialogue | UNE COMPRÉHENSION MUTUELLE TOTALE EST ESSENTIELLE À L’ÉQUITÉ DU CONTRAT.
+001.8 | dialogue | SELON TAE-WON KIM, QUI A FAIT L’EXPÉRIENCE DE CE CONTRAT,
+001.9 | dialogue | ON A L’IMPRESSION, À CE MOMENT-LÀ, DE VOIR UN ÉCRAN DE JEU EN PAUSE.
+001.10 | dialogue | AU COURS DE SA VIE, MIRAGE
+001.11 | dialogue | A CONCLU AVEC SUCCÈS D’INNOMBRABLES "CONTRATS".
+001.12 | dialogue | LE TEMPS DE LA "LECTURE DU CONTRAT" EST...
+001.13 | dialogue | -
+002.1 | dialogue | UNE CORVÉE POUR MIRAGE.
+002.2 | dialogue | TANT QUE L’AUTRE PARTIE N’AVAIT PAS TOUT COMPRIS,
+002.3 | dialogue | MIRAGE DEVAIT SUBIR AVEC ELLE CE "TEMPS FIGÉ".
+002.4 | italique | À CE RYTHME, JE VAIS MOURIR DE VIEILLESSE. ILS SONT BÊTES À CE POINT ?
+002.5 | dialogue | PENDANT CE TEMPS, MIRAGE
+002.6 | dialogue | EUT UNE IDÉE ÉTRANGE.
+002.7 | dialogue | LES CONTRATS ACCUMULÉS AU FIL DU TEMPS
+002.8 | dialogue | SE MIRENT À S’ACTIVER TOUS EN MÊME TEMPS À PARTIR D’UN CERTAIN MOMENT.
+002.9 | dialogue | DES CONTRATS "ACTIVÉS" MAIS PAS ENCORE "UTILISÉS".
+002.10 | dialogue | GRÂCE À EUX, MIRAGE...
+003.1 | dialogue | CHERCHAIT À INFLUER SUR LE COURS DU TEMPS DANS LA TOUR.
+003.2 | dialogue | EN PIÉGEANT LA TOUR DANS LE TEMPS DE "LECTURE DU CONTRAT" QU’IL AVAIT VÉCU,
+003.3 | dialogue | IL VOULAIT ACCÉLÉRER LA TOUR ET PRÉCIPITER SA FIN INÉVITABLE.
+003.4 | systeme {"target": [175, 4271, 628, 4399], "light": true, "grow": 6, "colors": [[255, 255, 255], [255, 255, 255]], "outline": [0, 0, 0], "outline_width": 3, "max_letter": 90, "stretch": 1.4} | EN EFFET. C’ÉTAIT\nUNE IDÉE INSENSÉE.
+003.5 | dialogue | CES EFFORTS AURAIENT-ILS LE MOINDRE EFFET SUR LA TOUR, DITE "IMMORTELLE" ?
+003.6 | dialogue | À VRAI DIRE, MIRAGE N’EN AVAIT AUCUNE CERTITUDE.
+003.7 | dialogue | POUR ÊTRE EXACT...
+003.8 | dialogue | CES QUESTIONS N’AVAIENT AUCUNE IMPORTANCE POUR LUI.
+003.9 | dialogue | CE QUI COMPTAIT VRAIMENT...
+003.10 | dialogue | C’ÉTAIT DE SAVOIR SI SON MESSAGE ATTEINDRAIT "DIEU".
+003.11 | dialogue | -
+004.1 | dialogue | C’ÉTAIT DONC ÇA.
+004.2 | dialogue | CELUI QUI M’A FAIT RESSENTIR ÇA...
+004.3 | dialogue | C’ÉTAIT LUI, DEPUIS LE DÉBUT !
+004.4 | dialogue | QU’EST-CE QUE... ? IL Y A DEUX MIRAGE... ?
+004.5 | dialogue | -
+004.6 | dialogue | NON, L’AFFICHE A CHANGÉ. ÇA DIT "UNNAME"... T’EN AS DÉJÀ ENTENDU PARLER ?
+004.7 | dialogue | ON EST CENSÉS ENCOURAGER QUI, MAINTENANT ?
+004.8 | dialogue | MIRAGE... !
+005.1 | dialogue | ALORS QUE LE COMBAT DÉCISIF COMMENÇAIT,
+005.2 | dialogue | LES CONTRATS "INUTILISÉS" QUI AVAIENT REMPLI LEUR RÔLE
+005.3 | dialogue | COMMENCÈRENT À CONVERGER EN UN SEUL.
+005.4 | dialogue | POUR SE CONSUMER EN CET UNIQUE INSTANT,
+005.5 | dialogue | UN INSTANT QU’ILS CROYAIENT NE JAMAIS VOIR ARRIVER.
+005.6 | dialogue | "SALUT, MIRAGE DE PACOTILLE."
+005.7 | cri {"box": [64, 8915, 778, 9145], "light": true, "light_min": 180, "grow": 5, "max_letter": 130, "colors": [[255, 255, 255], [255, 255, 255]], "target": [90, 8935, 720, 9125]} | -LE DIVIN FRUIT DU\nBIEN ET DU MAL-
+005.8 | dialogue | "UNNAME"... C’EST VRAIMENT TON VRAI NOM ?
+006.1 | dialogue | EH BIEN, PLUTÔT QU’UN NOM...
+006.2 | dialogue | -
+006.3 | dialogue | C’EST PLUTÔT UN TITRE DONNÉ PAR CETTE ÉPOQUE.
+006.4 | dialogue | QUOI, TU TIENS TANT QUE ÇA À ME CONNAÎTRE ?
+006.5 | dialogue | ET MÊME SI C’ÉTAIT LE CAS, QU’EST-CE QUE ÇA CHANGERAIT À LA VIE QUE TU AS VÉCUE ?
+006.6 | dialogue | BON SANG, TOUT CE CINÉMA POUR UN SIMPLE NOM.
+006.7 | italique | SI TU VEUX PAS RÉPONDRE, ALORS RÉPONDS PAS, ENFOIRÉ.
+006.8 | cri | FRANCHEMENT,\nJE M’EN FICHE\nCOMPLÈTEMENT !
+007.1 | dialogue | -
+007.2 | italique | MIRAGE-NIM...
+007.3 | italique | VOUS NE POUVEZ PAS PERDRE, QUOI QU’IL ARRIVE !
+007.4 | dialogue | -
+007.5 | italique | CE SERPENT... MA MAIN GAUCHE L’A TOUCHÉ.
+007.6 | italique | ET POURTANT, LA "RÉCUPÉRATION" NE S’ACTIVE PAS.
+007.7 | dialogue | INTÉRESSANT.
+007.8 | dialogue | ON DIRAIT QUE TU T’ES PRÉPARÉ PLUS SÉRIEUSEMENT QUE PRÉVU...
+008.1 | dialogue | MERCI... POUR CETTE TÊTE DE MERDE.
+008.2 | systeme {"fill": [255, 255, 255]} | CARTOUCHE OUVERTE
+008.3 | italique | GRÂCE À ÇA, ÇA ME FAIT MOINS MAL DE DÉMOLIR MON PROPRE VISAGE~ !
+008.4 | dialogue | -
+008.5 | titre {"box": [110, 4320, 700, 4560], "target": [126, 4355, 690, 4548], "vfill": true, "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4} | ARTICLE 1 :\nCONTRAT DE PLAYER
+008.6 | dialogue | RENFORCER SES CAPACITÉS PHYSIQUES PAR UN USAGE EXCESSIF DES CONTRATS.
+008.7 | dialogue | UN STYLE DE COMBAT QUE LE VRAI MIRAGE N’AURAIT PAS PU SUPPORTER.
+008.8 | dialogue | UN CHOIX IMPOSSIBLE S’IL N’AVAIT PAS EMPRUNTÉ LE CORPS DE TAE-WON KIM.
+008.9 | dialogue | MIRAGE DÉCIDA DE PROFITER DES EFFORTS ACCUMULÉS PAR TAE-WON.
+008.10 | dialogue | C’ÉTAIT PEUT-ÊTRE POUR ÇA.
+008.11 | dialogue | OU PEUT-ÊTRE QUE, PARTAGEANT LE MÊME RÉCEPTACLE, LEURS ÂMES S’ÉTAIENT MISES À RÉSONNER.
+008.12 | systeme {"target": [108, 13262, 659, 13400]} | MIRAGE NE POUVAIT PLUS\nDÉTOURNER LE REGARD.
+008.13 | dialogue | DÉSOLÉ, TAE-WON KIM.
+009.1 | dialogue | CE RÉCEPTACLE N’ÉTAIT PAS FAIT POUR ÊTRE ACHEVÉ POUR UNE CHOSE PAREILLE.
+009.2 | dialogue | ET... MERCI.
+009.3 | dialogue | DE M’AVOIR DONNÉ L’OCCASION
+009.4 | dialogue | D’AFFRONTER CELUI QUE J’ÉTAIS.
+009.5 | cri {"box": [70, 4790, 750, 5115], "fill": [190, 190, 190], "ink_max": 100, "grow": 3, "max_letter": 150, "colors": [[0, 0, 0], [0, 0, 0]]} | "TOUT CELA\nN’A AUCUN SENS."
+009.6 | dialogue | ...JE VOIS.
+009.7 | dialogue | SI C’EST TON CHOIX.
+009.8 | titre {"box": [85, 9700, 710, 9880], "target": [113, 9732, 700, 9867], "vfill": true, "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4} | EX-RANG 74 - CLASSE :\nCONTRAT DE MAÎTRE DE L’ONDE
+009.9 | titre {"box": [100, 10200, 700, 10370], "target": [111, 10227, 691, 10366], "vfill": true, "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4} | EX-RANG 22 - CLASSE :\nCONTRAT DE CORPS-À-CORPS
+009.10 | titre {"box": [140, 11280, 650, 11515], "target": [157, 11285, 634, 11505], "vfill": true, "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4} | EX-RANG 9 -\nCLASSE : CONTRAT DE\nDANSEUR D’ÉPÉE
+009.100 | titre {"box": [90, 10705, 712, 10885], "target": [110, 10728, 695, 10868], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4, "vfill": true} | EX-RANG 18 -\nCLASSE : CONTRAT DE DÉMONIDE
+010.1 | italique | J’AI HORREUR DE L’ADMETTRE, MAIS J’AI VÉCU EN RÊVANT DE CE JOUR.
+010.2 | dialogue | CARTOUCHE OUVERTE !
+010.3 | italique | AUTREMENT DIT,
+010.4 | titre {"box": [100, 5565, 700, 5770], "target": [147, 5576, 645, 5768], "vfill": true, "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4} | ARTICLE 2 : CONTRAT AVEC DES\nMENACES DOUÉES DE RAISON\n(CI-APRÈS, MONSTRES)
+010.5 | dialogue | EN TANT QUE CELUI QUI COMPREND L’EXISTENCE DE CE SALAUD MIEUX QUE PERSONNE...
+010.6 | italique | JE SUIS L’HUMAIN QUI A LE PLUS DE CHANCES DE LE VAINCRE !
+010.7 | systeme {"box": [50, 12660, 750, 13000], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 5, "blur_fill": 25} | DÉPLOIEMENT\nMASSIF
+010.100 | systeme {"box": [0, 7230, 130, 9140], "fill": [255, 255, 255], "ink_max": 250, "grow": 3} | (effacer)
+010.101 | systeme {"box": [130, 7322, 775, 9140], "fill": [255, 255, 255], "ink_max": 250, "grow": 3} | (effacer)
+010.102 | systeme {"box": [684, 7833, 766, 9125], "target": [689, 7838, 761, 9120], "angle": -90, "ink_max": 250, "colors": [[0, 0, 0], [70, 1, 162]]} | NIVEAU DE MENACE B+ - CLAN DES GÉANTS
+010.103 | systeme {"box": [645, 7327, 707, 8155], "target": [650, 7332, 702, 8150], "angle": -90, "ink_max": 250, "colors": [[157, 157, 157], [157, 157, 157]]} | NIVEAU DE MENACE S - ROI DES FOURMIS
+010.104 | systeme {"box": [560, 7492, 626, 8555], "target": [565, 7497, 621, 8550], "angle": -90, "ink_max": 250, "colors": [[0, 0, 0], [70, 1, 162]]} | NIVEAU DE MENACE A - COLONIE DE HARPIES
+010.105 | systeme {"box": [424, 7664, 496, 8705], "target": [429, 7669, 491, 8700], "angle": -90, "ink_max": 250, "colors": [[0, 0, 0], [70, 1, 162]]} | NIVEAU DE MENACE C - HOMONCULE
+010.106 | systeme {"box": [294, 7356, 379, 8455], "target": [299, 7361, 374, 8450], "angle": -90, "ink_max": 250, "colors": [[157, 157, 157], [203, 172, 239]]} | NIVEAU DE MENACE A - CYCLOPE
+010.107 | systeme {"box": [238, 7792, 285, 9125], "target": [243, 7797, 280, 9120], "angle": -90, "ink_max": 250, "colors": [[0, 0, 0], [70, 1, 162]]} | NIVEAU DE MENACE B+ - CHEF DE LA TRIBU DES LOUPS CROC-DE-GIVRE
+010.108 | systeme {"box": [141, 7479, 203, 8655], "target": [146, 7484, 198, 8650], "angle": -90, "ink_max": 250, "colors": [[0, 0, 0], [0, 0, 0]]} | NIVEAU DE MENACE A - BÊTE À DÉFENSES DE GIGIN
+010.109 | systeme {"box": [34, 7232, 103, 8095], "target": [39, 7237, 98, 8090], "angle": -90, "ink_max": 250, "colors": [[186, 186, 186], [186, 186, 186]]} | NIVEAU DE MENACE S - SORCIÈRE DÉMONIAQUE
+010.110 | systeme {"box": [0, 8090, 41, 9130], "target": [3, 8095, 36, 9125], "angle": -90, "ink_max": 250, "colors": [[186, 186, 186], [70, 1, 162]]} | NIVEAU DE MENACE A - DÉMON DE L’ORACLE
+011.1 | italique | LA VRAIE IDENTITÉ D’UNNAME EST SANS DOUTE...
+011.2 | dialogue | -
+011.3 | dialogue | -
+011.4 | italique | L’ORIGINE DE TOUT KARMA.
+011.5 | italique | SI CETTE HYPOTHÈSE EST JUSTE,
+011.6 | italique | SON "RÉCEPTACLE" QUASI INFINI S’EXPLIQUE.
+011.7 | italique | MAIS POUR UNE RAISON INCONNUE, IL A PERDU L’ESSENTIEL DE SON KARMA ET CHERCHE À RÉCUPÉRER CE POUVOIR.
+011.8 | italique | SA PREMIÈRE TENTATIVE DE RÉCUPÉRATION...
+011.9 | italique | ÇA A ÉTÉ PAR LE CONTACT AVEC MOI.
+011.10 | italique {"cut": [[290, 10062], [530, 10062]]} | C’EST POUR ÇA QU’IL ÉVITE DE DÉPENSER SON POUVOIR.
+011.11 | italique {"cut": [[290, 10062], [530, 10062]]} | PARCE QUE SON BUT EST UNIQUEMENT DE SE RESTAURER !
+011.12 | dialogue | -
+011.13 | dialogue | -
+011.14 | italique | AUTREMENT DIT, LE MOMENT OÙ IL S’EN SERVIRA... C’EST QUAND LES CHOSES DÉPASSERONT SES PRÉVISIONS !
+011.15 | cri | CARTOUCHE\nOUVERTE !
+# EN: CARTRIDGE ENTRY 3: CONTRACTS WITH CONSENT AND HIERARCHY (oubli : texte translucide, toute la zone est effacée)
+011.101 | titre {"box": [25, 13005, 775, 13270], "ink_max": 256, "grow": 0, "colors": [[215,205,225],[190,180,205]], "outline": [50,30,70], "outline_width": 3} | ENTRÉE DE CARTOUCHE 3 :\nCONTRATS AVEC CONSENTEMENT\nET HIÉRARCHIE
+011.100 | titre {"box": [80, 14440, 725, 14650], "target": [95, 14455, 710, 14635], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4} | CONTRAT AVEC LA\n44E PORTE ROUGE
+012.1 | dialogue | -
+012.2 | dialogue | -
+012.3 | dialogue | ÇA, C’EST...
+012.4 | dialogue | ...EMBÊTANT.
+012.5 | dialogue | JE TE L’AVAIS DIT, NON ? QUE JE TE RENVERRAIS AU TAPIS.
+012.6 | italique | MAINTENANT, SERS-T’EN... DE TA MAIN DROITE !
+012.100 | titre {"box": [170, 1915, 630, 2045], "target": [185, 1930, 615, 2030], "outlined": 4, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[255, 255, 255], [255, 255, 255]], "outline": [0, 0, 0], "outline_width": 3, "stretch": 1.4} | NIVEAU CACHÉ
+012.101 | titre {"box": [40, 4855, 770, 5210], "target": [75, 4905, 735, 5120], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0, 0, 0], [0, 0, 0]], "outline": [255, 255, 255], "outline_width": 3, "stretch": 1.4} | VOILE DE LAVE DU VOLCAN\nRASPA, GARDIEN DES\nFLAMMES ÉTERNELLES
+013.1 | italique | JE T’AURAIS ÉTÉ RECONNAISSANT DE RESTER À TERRE, MAIS ÇA N’ARRIVERA PAS, HEIN ?
+013.2 | italique | CE GENRE DE CHOSE NE COMPTE PAS VRAIMENT POUR TOI, HEIN ?
+013.3 | italique | ALLEZ, MONTRE-TOI !
+013.4 | italique | SAVOURE !
+013.5 | italique | SOIS ARROGANT !
+013.6 | italique | ET ENSUITE... CONTRE-ATTAQUE !
+013.7 | italique {"cut": [[100, 6880], [720, 6880]]} | JE TE RÉCOMPENSERAI AVEC MON ATOUT !
+013.8 | dialogue | -
+013.9 | dialogue | -
+013.10 | dialogue | -
+013.11 | dialogue | -
+013.12 | dialogue | ...HEIN ?
+014.1 | dialogue | QU’EST-CE QUE... COMMENT... ?!
+014.2 | dialogue | LE POUVOIR DE MIRAGE... ?
+014.3 | dialogue | UN...\nNAME... !
+014.4 | dialogue | -
+014.5 | dialogue | ESPÈCE... D’ENFOIRÉ... !
+014.6 | dialogue | POURQUOI T’ES SI SURPRIS ?
+014.7 | dialogue | UTILISER TON POUVOIR AVEC TON PROPRE CORPS...
+015.1 | dialogue | C’EST NORMAL, NON ?
+015.2 | dialogue | TU T’ES BIEN BATTU, MIRAGE.
+015.3 | dialogue | MÊME SI... TU AS UN PEU EXAGÉRÉ, DANS L’ENSEMBLE, PAS MAL.
+015.4 | dialogue | MAIS IL Y A UNE CHOSE.
+015.5 | dialogue | CE "SERPENT D’ÉDEN"...
+015.6 | dialogue | -
+015.7 | dialogue | -
+015.8 | dialogue | TU T’ES DONNÉ TANT DE MAL POUR LE CRÉER, ET TU NE T’EN ES JAMAIS SERVI.
+015.9 | dialogue | COMME SI
+015.10 | dialogue | C’ÉTAIT TON VRAI ATOUT.
+015.11 | dialogue | -
+015.12 | dialogue | BON, VOYONS... C’ÉTAIT COMME ÇA ?
+016.1 | cri | CARTOUCHE\nOUVERTE.
+016.2 | dialogue | -
+016.3 | dialogue | C’EST ÇA.
+016.4 | dialogue | -
+016.5 | cri | AH...
+016.6 | dialogue | VOILÀ OÙ S’ARRÊTE...
+016.7 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 160} | LE PLAN\nDE MIRAGE.
+017.1 | dialogue | -
+017.2 | dialogue | ...OÙ SUIS-JE ?
+017.3 | dialogue | -
+017.4 | dialogue | -

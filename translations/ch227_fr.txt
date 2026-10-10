@@ -1,0 +1,112 @@
+# Chapitre 227. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | TU VEUX CHANGER LE PASSÉ ?
+001.2 | dialogue | "MAÎTRE ÉPÉISTE" ASARYUN.
+002.1 | dialogue | JE M’APPELLE MIRAGE.
+002.2 | dialogue | JE TE PROPOSE UN "CONTRAT".
+003.1 | dialogue | BON, AVEC ÇA, J’AI RÉUSSI UN SACRÉ COUP~ !
+003.2 | dialogue | -
+003.3 | dialogue | -
+003.4 | dialogue | OUF, C’EST INTENSE !
+003.5 | dialogue | QUELLE HONTE, MIRAGE.
+004.1 | dialogue | QUELLE HONTE.
+004.2 | dialogue | ET TOI, ALORS ? OFFRIR LES ÂMES DE 100 ARMES D’EGO...
+004.3 | dialogue | REMPLIR CES CONDITIONS PRENDRAIT DES CENTAINES D’ANNÉES, TU SAIS ?
+004.4 | dialogue | ET S’ILS Y ARRIVAIENT ?
+005.1 | dialogue | ALORS...
+005.2 | dialogue | -
+005.3 | dialogue | MON ÂME EXPIERA.
+006.1 | dialogue | BIEN, SORCIÈRE DU LAC DE L’OUEST.
+006.2 | dialogue | COMME LE PRÉVOYAIT LE CONTRAT, J’AI LIBÉRÉ LA CLASSE "ARME D’EGO" QUE VOTRE ENTÊTEMENT AVAIT ENFERMÉE DANS LA TOUR.
+006.3 | dialogue {"max_size": 30, "cut": [[200, 2462], [580, 2462]]} | J’AI FIDÈLEMENT RESPECTÉ LES TERMES DE NOTRE CONTRAT.
+006.4 | dialogue {"cut": [[200, 2462], [580, 2462]]} | C’EST MAINTENANT À VOUS D’HONORER VOTRE PART.
+006.5 | dialogue | UN AUTRE DRAGON DE LA MORT CAPTURÉ.
+006.6 | dialogue | -
+006.7 | dialogue | VEILLEZ À BIEN L’EXÉCUTER.
+007.1 | dialogue | QUE C’EST PITOYABLE, MIRAGE !
+007.2 | dialogue | TU VEUX QUE JE TE DISE UN TRUC INTÉRESSANT ?
+007.3 | dialogue | AUX YEUX D’ASARYUN, TU AS DÛ RESSEMBLER À UN DIEU IMPUISSANT !
+008.1 | dialogue | C’EST VRAIMENT DRÔLE, NON ?
+008.2 | dialogue | TU AURAIS DÛ ACCEPTER LA RÉALITÉ ET PASSER À AUTRE CHOSE.
+008.3 | dialogue | C’EST COMME ÇA QUE LE MONDE FONCTIONNE, TU SAIS.
+008.4 | dialogue | MENSONGE OU VÉRITÉ.
+008.5 | dialogue | TU NE PEUX PAS T’EMPÊCHER DE T’ACCROCHER À UNE CHOSE AUSSI VAINE,
+008.6 | dialogue | À NIER, VOLER ET TROMPER D’INNOMBRABLES AUTRES RIEN QUE POUR AFFIRMER TA PROPRE EXISTENCE...
+008.7 | dialogue | ET MÊME À TE JUSTIFIER AVEC UNE BELLE EXCUSE, COMME ÊTRE UN "CHERCHEUR DE VÉRITÉ"...
+009.1 | dialogue | AU BOUT DU COMPTE,
+009.2 | dialogue | TU AS FINI PAR RESSEMBLER À CE QUE TU MÉPRISAIS LE PLUS.
+009.3 | dialogue | MIRAGE.
+009.4 | dialogue | CELUI QUI T’ENTRAÎNE DANS L’ABÎME, C’EST TOI ET PERSONNE D’AUTRE.
+009.5 | dialogue | J’AI TELLEMENT HÂTE DE VOIR.
+010.1 | dialogue | QUELLE FIN T’ATTEND ?
+011.1 | dialogue | C’EST ÇA !
+012.1 | dialogue | -
+012.2 | dialogue | AU MOMENT OÙ L’"ATOUT" CACHÉ DE MIRAGE FUT UTILISÉ,
+012.3 | dialogue | LE KARMA TORDU RETOURNA L’ARÈNE CÉLESTE.
+012.4 | dialogue | WAOUH, QUELLE AVIDITÉ.
+012.5 | dialogue | -
+012.6 | dialogue | -
+012.7 | dialogue | TU AS PIÉGÉ COMBIEN DE GENS, AU JUSTE ?
+013.1 | dialogue | POUR UN PLAYER QUI REGARDAIT CETTE SCÈNE,
+013.2 | dialogue | IMPOSSIBLE DE NE PAS LE REMARQUER.
+013.3 | dialogue | CE QUE MIRAGE AVAIT UTILISÉ POUR OBTENIR...
+013.4 | dialogue | -
+013.5 | dialogue | LA VICTOIRE...
+015.1 | dialogue | L’ÉQUIVALENT DE 1000 PERSONNES."
+015.2 | dialogue | -
+015.3 | dialogue | LE "TEMPS" QUE J’AI PASSÉ MA VIE À VOLER AUX PLAYERS.
+015.4 | dialogue | SAVOURE-LE TANT QUE TU VEUX, UNNAME.
+015.5 | dialogue | UNE "AGONIE" PROCHE DE L’ÉTERNITÉ.
+016.1 | dialogue | MA VENGEANCE... !
+016.2 | dialogue | DISTORSION SPATIALE DU "CONTRAT D’ÉQUITÉ ABSOLUE", 400 HEURES ÉCOULÉES.
+017.1 | dialogue | UN PHÉNOMÈNE INTÉRESSANT SE PRODUISIT.
+017.2 | dialogue | DIRE QUE LE TEMPS D’"ÉQUITÉ ABSOLUE", AJOUTÉ DE FORCE COMME FONCTION AUXILIAIRE POUR RENFORCER LA FORCE CONTRAIGNANTE DU
+017.3 | dialogue | "CONTRAT", SERAIT EMPLOYÉ DE CETTE FAÇON...
+017.4 | italique | EN ACTIVANT LE CONTRAT DE MES PROPRES MAINS, J’AI DONNÉ MON "CONSENTEMENT IMPLICITE" AU PROCESSUS.
+017.5 | italique | JE NE PEUX PAS INTERROMPRE LE "CONTRAT D’ÉQUITÉ", QUI EST UN "PROCESSUS ABSOLU".
+018.1 | italique | AUTREMENT DIT, POUR SORTIR DE CET ESPACE...
+018.2 | italique | "LA PARTIE ADVERSE", AUTREMENT DIT "MIRAGE", DOIT SOIT RECONNAÎTRE LA RUPTURE DU CONTRAT, SOIT...
+018.3 | italique | TOUT CE TEMPS...
+018.4 | italique | DOIT ÊTRE ÉPUISÉ.
+018.5 | dialogue | ÇA, C’EST... JUSTE.
+018.6 | dialogue | C’EST TA VENGEANCE POUR "CE JOUR-LÀ" ?
+019.1 | dialogue | APRÈS AVOIR PLEINEMENT SAISI LA SITUATION,
+019.2 | dialogue | LA PREMIÈRE RÉACTION D’UNNAME...
+019.3 | dialogue | PFFF !
+019.4 | dialogue | FUT DE RIRE.
+020.1 | dialogue | BIEN, J’ATTENDRAI.
+020.2 | dialogue | MIRAGE !
+020.3 | dialogue | J’AI HÂTE DU JOUR OÙ ON SE REVERRA.
+022.1 | dialogue | HAHAHA, QUEL SALAUD CRUEL.
+022.2 | dialogue | -
+022.3 | dialogue | NORMALEMENT, MÊME UN DÉCHET LAISSERAIT QUELQUE CHOSE DERRIÈRE LUI.
+022.4 | dialogue | C’EST ÇA QU’ILS APPELAIENT UN "DIEU" CRUEL ?
+022.5 | italique | LE TEMPS QUE CE TYPE A PASSÉ LÀ-DEDANS ÉTAIT "UNE ÈRE ENTIÈRE".
+022.6 | cri | CRAC
+022.7 | italique | AUTREMENT DIT, SI CE TYPE N’AVAIT PAS ABANDONNÉ, ALORS MOI...
+022.8 | italique | UN TYPE QUI A DE FORTES CHANCES DE "CROISSANCE MENTALE" ET PEU DE "DÉGÂTS PHYSIQUES"...
+022.9 | italique | ÇA VEUT DIRE QU’ON S’AFFRONTERA UN JOUR...
+023.1 | dialogue | LE MOMENT CRUCIAL...
+023.2 | dialogue | LE MOMENT OÙ L’"ESPRIT" REGAGNE LE "CORPS".
+023.3 | italique | SI J’UTILISE LE DERNIER CONTRAT QUI ME RESTE, LA VICTOIRE EST CERTAINE.
+023.4 | italique | MAIS UTILISER "ÇA", ÇA VEUT DIRE...
+023.5 | italique | ENCORE UNE FOIS, POUR ATTEINDRE MON BUT...
+024.1 | italique | JE LES TRAHIS.
+024.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | ET LES AVALA.
+025.1 | dialogue | MIRAGE... !
+025.2 | systeme {"box": [110, 6010, 720, 6230], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 200} | ACCEPTE-LE.
+026.1 | dialogue | BIEN...
+026.2 | dialogue | JUSQU’AU BOUT.
+026.3 | dialogue | TIENS TA PROMESSE.
+026.4 | dialogue | -
+026.5 | cri | CARTOUCHE\nOUVERTE.
+027.1 | dialogue | LE PRIX, C’EST LE CONTRAT D’ASARYUN.
+027.2 | dialogue | QUOI... ?
+027.3 | dialogue | CE QUE J’ESPÈRE...
+027.4 | dialogue | "L’ÉPÉE DE L’ÂME."
+027.5 | dialogue | -
+028.1 | systeme {"box": [80, 2735, 770, 3040], "target": [95, 2750, 755, 3030], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4, "max_letter": 85} | LA MALÉDICTION DIVINE\nACCORDÉE\nPAR LES DIEUX.
+# EN: SOUL SWORD, FORGED WITH 99 BORROWED SOULS. (ratée par l'OCR, comme ch. 228 033.2)
+028.100 | systeme {"box": [62, 4500, 765, 4830], "target": [100, 4515, 720, 4815], "light": true, "light_min": 200, "max_letter": 76, "grow": 6, "stretch": 1.6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4} | L’ÉPÉE DE L’ÂME, FORGÉE\nAVEC 99 ÂMES\nEMPRUNTÉES.
+029.1 | systeme {"box": [85, 660, 740, 960], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 200} | PLUS DE\nRETOUR EN ARRIÈRE.
+029.2 | dialogue | -
+029.3 | dialogue | -

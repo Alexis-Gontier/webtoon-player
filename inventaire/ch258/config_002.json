@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-258/002.webp",
+ "output": "chapters_fr/chapter-258/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ENFIN.",
+   "style": "italique",
+   "point": [
+    396,
+    412
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MON SOUHAIT S’EST RÉALISÉ.",
+   "style": "italique",
+   "point": [
+    411,
+    2175
+   ]
+  },
+  {
+   "id": 3,
+   "text": "RÉJOUISSEZ-\nVOUS...",
+   "style": "italique",
+   "point": [
+    305,
+    2946
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...ESCLAVES DU KARMA.",
+   "style": "italique",
+   "point": [
+    506,
+    4036
+   ]
+  }
+ ]
+}

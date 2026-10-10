@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-236/026.webp",
+ "output": "chapters_fr/chapter-236/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN, L’HOMME AUX BISCUITS.",
+   "style": "dialogue",
+   "point": [
+    370,
+    190
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’AI BIEN NETTOYÉ MON CACA ?",
+   "style": "dialogue",
+   "point": [
+    458,
+    1305
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE NETTOYAGE, EH BIEN...",
+   "style": "dialogue",
+   "point": [
+    440,
+    2041
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DÉBROUILLE-TOI ET FAIS-LE BIEN.",
+   "style": "dialogue",
+   "point": [
+    389,
+    3968
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DIS-MOI,",
+   "style": "dialogue",
+   "point": [
+    268,
+    7716
+   ]
+  }
+ ]
+}

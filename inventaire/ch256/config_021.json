@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-256/021.webp",
+ "output": "chapters_fr/chapter-256/021.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "SEIGNEUR...\nARTHUR ?!",
+   "style": "dialogue",
+   "point": [
+    411,
+    3647
+   ]
+  }
+ ]
+}

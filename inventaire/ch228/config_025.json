@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-228/025.webp",
+ "output": "chapters_fr/chapter-228/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI TU ES UN \"EXPLORATEUR\", TU DEVRAIS COMPRENDRE CE QUE JE VEUX DIRE.",
+   "style": "dialogue",
+   "point": [
+    406,
+    247
+   ]
+  },
+  {
+   "id": 2,
+   "text": "NE TE FÂCHE PAS TROP.",
+   "style": "dialogue",
+   "point": [
+    340,
+    2523
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JUSTE UN MOMENT, POUR ARTHUR,",
+   "style": "dialogue",
+   "point": [
+    324,
+    3658
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JUSTE POUR SON PLAISIR...",
+   "style": "dialogue",
+   "point": [
+    471,
+    4000
+   ]
+  }
+ ]
+}

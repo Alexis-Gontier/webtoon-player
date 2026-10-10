@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/003.webp",
+ "output": "chapters_fr/chapter-251/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VAS TE\nJOINDRE AU\nCOMBAT ?",
+   "style": "dialogue",
+   "point": [
+    432,
+    859
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PASTIS.",
+   "style": "dialogue",
+   "point": [
+    412,
+    3012
+   ]
+  }
+ ]
+}

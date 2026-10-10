@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-253/014.webp",
+ "output": "chapters_fr/chapter-253/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUAIS. JE VIENS DE M’EN RENDRE COMPTE UNE FOIS DE PLUS...",
+   "style": "dialogue",
+   "point": [
+    433,
+    894
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU ES\nSÛRE...",
+   "style": "dialogue",
+   "point": [
+    353,
+    2762
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...DE NE PAS VOULOIR PARTIR AVEC NOUS ?",
+   "style": "dialogue",
+   "point": [
+    433,
+    4218
+   ]
+  }
+ ]
+}

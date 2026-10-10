@@ -1,0 +1,1132 @@
+{
+ "001.webp": [
+  {
+   "text": "HTTPS://DISCORD.GG/TY6EDWKC4G",
+   "box": [
+    34,
+    455,
+    304,
+    467
+   ],
+   "point": [
+    169,
+    461
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 12
+  },
+  {
+   "text": "YOU",
+   "box": [
+    343,
+    4903,
+    443,
+    4953
+   ],
+   "point": [
+    393,
+    4928
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 50
+  }
+ ],
+ "002.webp": [
+  {
+   "text": "UIM BACK...",
+   "box": [
+    251,
+    51,
+    536,
+    101
+   ],
+   "point": [
+    393,
+    76
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 50
+  },
+  {
+   "text": "you BITCU!",
+   "box": [
+    162,
+    2406,
+    677,
+    2510
+   ],
+   "point": [
+    419,
+    2458
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 104
+  }
+ ],
+ "003.webp": [
+  {
+   "text": "RSJOI Ts LI",
+   "box": [
+    278,
+    0,
+    688,
+    103
+   ],
+   "point": [
+    483,
+    51
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 103
+  }
+ ],
+ "004.webp": [],
+ "005.webp": [
+  {
+   "text": "SO/ WHAT DO YOU THINK OF MY COMPANIONS?",
+   "box": [
+    253,
+    3864,
+    548,
+    3994
+   ],
+   "point": [
+    400,
+    3929
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    390,
+    4792,
+    575,
+    4987
+   ],
+   "id": 2,
+   "point": [
+    482,
+    4889
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "006.webp": [
+  {
+   "text": "INCREDIBLE/ ISN'T IT?",
+   "box": [
+    221,
+    311,
+    529,
+    441
+   ],
+   "point": [
+    375,
+    376
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 55
+  },
+  {
+   "text": "Ugh...",
+   "box": [
+    136,
+    2306,
+    248,
+    2369
+   ],
+   "point": [
+    192,
+    2337
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 63
+  },
+  {
+   "text": "COM.. PA.. NIONS...",
+   "box": [
+    213,
+    2488,
+    563,
+    2640
+   ],
+   "point": [
+    388,
+    2564
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 64
+  }
+ ],
+ "007.webp": [
+  {
+   "text": "LOOKS THE TIME HAS FINALLY COME.",
+   "box": [
+    288,
+    983,
+    554,
+    1111
+   ],
+   "point": [
+    421,
+    1047
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "HEY/ BIG GUY. THEY'RE LOOKING FOR YOU.",
+   "box": [
+    217,
+    1892,
+    541,
+    2032
+   ],
+   "point": [
+    379,
+    1962
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    262,
+    2204,
+    532,
+    2490
+   ],
+   "id": 3,
+   "point": [
+    397,
+    2347
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "epa",
+   "box": [
+    278,
+    2623,
+    392,
+    2694
+   ],
+   "point": [
+    335,
+    2658
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 71
+  },
+  {
+   "text": "GO ON/ BEAT IT! UURRY UP!",
+   "box": [
+    249,
+    3295,
+    578,
+    3393
+   ],
+   "point": [
+    413,
+    3344
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 42
+  }
+ ],
+ "008.webp": [
+  {
+   "text": "ARTHUR...",
+   "box": [
+    208,
+    833,
+    578,
+    909
+   ],
+   "point": [
+    393,
+    871
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 76
+  },
+  {
+   "text": "you.,.",
+   "box": [
+    226,
+    1754,
+    388,
+    1806
+   ],
+   "point": [
+    307,
+    1780
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 52
+  },
+  {
+   "text": "ARE YOU SURE YOU'RE NOT COMING ALONG?",
+   "box": [
+    207,
+    2017,
+    573,
+    2154
+   ],
+   "point": [
+    390,
+    2085
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    393,
+    2327,
+    685,
+    2619
+   ],
+   "id": 4,
+   "point": [
+    539,
+    2473
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "l've ALREADY SEEN EVERYTUING INTERESTING.",
+   "box": [
+    245,
+    3879,
+    575,
+    4028
+   ],
+   "point": [
+    410,
+    3953
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 38
+  }
+ ],
+ "009.webp": [
+  {
+   "text": "IT'S ANNOYING HAVING MY SPOT AS THE FINAL BOSS STOLEN, BUT WHAT CAN 1 DO ABOUT IT?",
+   "box": [
+    150,
+    829,
+    578,
+    1066
+   ],
+   "point": [
+    364,
+    947
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "ANYWAY/ ANYWAY/ GIVE IT YOUR ALL/ IT YOUR ALL/ SEOL-JIN. UEO SEOL-JIN. Ill",
+   "box": [
+    207,
+    1817,
+    589,
+    2440
+   ],
+   "point": [
+    398,
+    2128
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 72
+  },
+  {
+   "text": "JUST LIKE YOU'VE BEEN DOING LINTIL NOW.",
+   "box": [
+    219,
+    3209,
+    586,
+    3358
+   ],
+   "point": [
+    402,
+    3283
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 44
+  }
+ ],
+ "010.webp": [
+  {
+   "text": "YOU GOT",
+   "box": [
+    249,
+    1450,
+    524,
+    1506
+   ],
+   "point": [
+    386,
+    1478
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 56
+  },
+  {
+   "text": "THEN„.",
+   "box": [
+    296,
+    3233,
+    519,
+    3295
+   ],
+   "point": [
+    407,
+    3264
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 62
+  },
+  {
+   "text": "L/6H...",
+   "box": [
+    82,
+    4696,
+    227,
+    4745
+   ],
+   "point": [
+    154,
+    4720
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 49
+  }
+ ],
+ "011.webp": [
+  {
+   "text": "GO AND COME BACK SAFELY!",
+   "box": [
+    258,
+    398,
+    538,
+    492
+   ],
+   "point": [
+    398,
+    445
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "FW005H",
+   "box": [
+    594,
+    2820,
+    680,
+    2843
+   ],
+   "point": [
+    637,
+    2831
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 23
+  }
+ ],
+ "012.webp": [],
+ "013.webp": [
+  {
+   "text": "hhdl",
+   "box": [
+    217,
+    1072,
+    282,
+    1127
+   ],
+   "point": [
+    249,
+    1099
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 55
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    437,
+    2906,
+    714,
+    3023
+   ],
+   "id": 2,
+   "point": [
+    575,
+    2964
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "014.webp": [
+  {
+   "text": "AAAK..",
+   "box": [
+    200,
+    1638,
+    389,
+    1698
+   ],
+   "point": [
+    294,
+    1668
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 60
+  },
+  {
+   "text": "UWA....",
+   "box": [
+    329,
+    2912,
+    645,
+    3006
+   ],
+   "point": [
+    487,
+    2959
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 94
+  },
+  {
+   "text": "How CAN YOU SMTNE SO",
+   "box": [
+    232,
+    3658,
+    574,
+    3755
+   ],
+   "point": [
+    403,
+    3706
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 41
+  }
+ ],
+ "015.webp": [
+  {
+   "text": "IT REALW",
+   "box": [
+    261,
+    1405,
+    519,
+    1451
+   ],
+   "point": [
+    390,
+    1428
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "THE OF A",
+   "box": [
+    227,
+    2644,
+    594,
+    2684
+   ],
+   "point": [
+    410,
+    2664
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 40
+  }
+ ],
+ "016.webp": [],
+ "017.webp": [],
+ "018.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    41,
+    0,
+    530,
+    253
+   ],
+   "id": 1,
+   "point": [
+    285,
+    126
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "019.webp": [],
+ "020.webp": [],
+ "021.webp": [
+  {
+   "text": "rrurr",
+   "box": [
+    371,
+    1923,
+    624,
+    1987
+   ],
+   "point": [
+    497,
+    1955
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 64
+  }
+ ],
+ "022.webp": [
+  {
+   "text": "LOOK AT ME WITH THOSE EYES,..",
+   "box": [
+    267,
+    1706,
+    532,
+    1871
+   ],
+   "point": [
+    399,
+    1788
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "YOU'LL END UP SEEING",
+   "box": [
+    206,
+    2890,
+    618,
+    2928
+   ],
+   "point": [
+    412,
+    2909
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 38
+  }
+ ],
+ "023.webp": [
+  {
+   "text": "THE FIRST TIME...",
+   "box": [
+    378,
+    3347,
+    584,
+    3512
+   ],
+   "point": [
+    481,
+    3429
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 74
+  }
+ ],
+ "024.webp": [],
+ "025.webp": [
+  {
+   "text": "SEOL-JIN,",
+   "box": [
+    196,
+    132,
+    450,
+    185
+   ],
+   "point": [
+    323,
+    158
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 53
+  },
+  {
+   "text": "THIS IS...",
+   "box": [
+    249,
+    1155,
+    508,
+    1214
+   ],
+   "point": [
+    378,
+    1184
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 59
+  },
+  {
+   "text": "YESI",
+   "box": [
+    318,
+    3971,
+    466,
+    4054
+   ],
+   "point": [
+    392,
+    4012
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 83
+  },
+  {
+   "text": "WE HAVE NO",
+   "box": [
+    272,
+    4950,
+    520,
+    4991
+   ],
+   "point": [
+    396,
+    4970
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 41
+  }
+ ],
+ "026.webp": [
+  {
+   "text": "CHOICE BUT TO CUT THROUGU.",
+   "box": [
+    238,
+    11,
+    556,
+    113
+   ],
+   "point": [
+    397,
+    62
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "YOU UEAR THAT/ EVERYONE?",
+   "box": [
+    217,
+    2508,
+    544,
+    2612
+   ],
+   "point": [
+    380,
+    2560
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "vtcF,so«.",
+   "box": [
+    326,
+    4257,
+    535,
+    4344
+   ],
+   "point": [
+    430,
+    4300
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 87
+  }
+ ],
+ "027.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    638,
+    606,
+    708,
+    630
+   ],
+   "id": 1,
+   "point": [
+    673,
+    618
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    216,
+    858,
+    337,
+    901
+   ],
+   "id": 2,
+   "point": [
+    276,
+    879
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "FOR THE SAKE OF OUR PROTAGONIST...",
+   "box": [
+    224,
+    1644,
+    558,
+    1789
+   ],
+   "point": [
+    391,
+    1716
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "LETIS SET THE BEST STAGE POSSIBLE FOR UIM!",
+   "box": [
+    236,
+    4432,
+    626,
+    4575
+   ],
+   "point": [
+    431,
+    4503
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 36
+  }
+ ],
+ "028.webp": [
+  {
+   "text": "WHAT A WASTE.",
+   "box": [
+    168,
+    2654,
+    361,
+    2754
+   ],
+   "point": [
+    264,
+    2704
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "TO JUST SPLIT THE \"AALF\" you WORKED SO NARD TO GET THAT.",
+   "box": [
+    301,
+    3585,
+    646,
+    3754
+   ],
+   "point": [
+    473,
+    3669
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 31
+  },
+  {
+   "text": "T KNOW.",
+   "box": [
+    183,
+    4580,
+    436,
+    4635
+   ],
+   "point": [
+    309,
+    4607
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 55
+  },
+  {
+   "text": "THAT FIRST STRIKE YOU HAD,",
+   "box": [
+    297,
+    4865,
+    684,
+    4995
+   ],
+   "point": [
+    490,
+    4930
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 35
+  }
+ ],
+ "029.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    369,
+    0,
+    581,
+    181
+   ],
+   "id": 1,
+   "point": [
+    475,
+    90
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "SO THENI WHAT ARE YOU GOINC",
+   "box": [
+    243,
+    3154,
+    541,
+    3245
+   ],
+   "point": [
+    392,
+    3199
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "WITH YOUR CURRENT KARMA/ YOU WON'T BE ABLE TO CUT ME...",
+   "box": [
+    204,
+    4267,
+    582,
+    4472
+   ],
+   "point": [
+    393,
+    4369
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 39
+  }
+ ],
+ "030.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    241,
+    0,
+    478,
+    138
+   ],
+   "id": 1,
+   "point": [
+    359,
+    69
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "031.webp": [
+  {
+   "text": "BUT...",
+   "box": [
+    210,
+    171,
+    439,
+    252
+   ],
+   "point": [
+    324,
+    211
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 81
+  },
+  {
+   "text": "YES",
+   "box": [
+    382,
+    1276,
+    556,
+    1366
+   ],
+   "point": [
+    469,
+    1321
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 90
+  },
+  {
+   "text": "utttl",
+   "box": [
+    295,
+    1510,
+    359,
+    1555
+   ],
+   "point": [
+    327,
+    1532
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "/F/T'S YOU... THEN CERTA/NLY...",
+   "box": [
+    154,
+    2063,
+    441,
+    2140
+   ],
+   "point": [
+    297,
+    2101
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 31
+  }
+ ],
+ "032.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    181,
+    262,
+    361,
+    470
+   ],
+   "id": 1,
+   "point": [
+    271,
+    366
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "swovoF",
+   "box": [
+    256,
+    913,
+    619,
+    1042
+   ],
+   "point": [
+    437,
+    977
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 129
+  },
+  {
+   "text": "AH!O",
+   "box": [
+    66,
+    2594,
+    153,
+    2644
+   ],
+   "point": [
+    109,
+    2619
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 50
+  },
+  {
+   "text": "HAPPYREADING,",
+   "box": [
+    332,
+    4879,
+    466,
+    4909
+   ],
+   "point": [
+    399,
+    4894
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 30
+  }
+ ],
+ "033.webp": []
+}

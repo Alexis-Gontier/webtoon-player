@@ -1,0 +1,131 @@
+# Chapitre 232. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | MON CHER VAN, JE SUIS HEUREUSE DE VOIR QUE TU T’AMUSES.
+001.2 | dialogue | MAIS ALLER PLUS LOIN SERAIT DANGEREUX.
+001.3 | dialogue | "CŒUR."
+001.4 | dialogue | JE DEVRAIS LE GARDER.
+001.5 | dialogue | POUR L’"INSTANT FINAL".
+001.6 | dialogue | LA MACHINE... S’EST ARRÊTÉE, NON ?
+001.7 | dialogue | ...OUI, LUCIA. ÇA SUFFIT MAINTENANT...
+001.8 | dialogue {"erase_color": true} | SI TU CLIGNES DES YEUX, TU VAS LE RATER.
+001.9 | dialogue {"erase_color": true} | VAN ZICHMUND !
+002.1 | italique | IL L’A PERCÉ ?
+002.2 | dialogue | -
+002.3 | italique | L’"ESPACE" OÙ SEULS LUCIA ET MOI POUVIONS ENTRER... ?!
+002.4 | italique | UNE LUMIÈRE QUI REPOUSSE LES TÉNÈBRES...
+002.5 | italique | C’EST ÇA QUE J’APPELLE DE L’"IMAGINATION" !
+002.6 | systeme {"box": [75, 6135, 530, 6370], "target": [101, 6196, 514, 6360], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90, "stretch": 1.25} | PROJET : ESPOIR\nSYSTÈME D’APPUI\nAU COMBAT ACTIVÉ.
+002.7 | systeme {"box": [290, 6490, 700, 6710], "target": [307, 6530, 678, 6685], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90, "stretch": 1.25} | FOURNITURE D’UNE\nARME ADAPTÉE\nÀ LA SITUATION.
+002.8 | dialogue | UN FUSIL... POUR UN "ÉPÉISTE..." ?!
+002.9 | dialogue | MARY, ESPÈCE DE FOLLE, TU AS COMPLÈTEMENT PERDU LA TÊTE !
+002.10 | dialogue {"box": [205, 11545, 600, 11695], "fill": [253,253,253], "ink_max": 150, "max_letter": 60, "colors": [[0,0,0],[0,0,0]]} | CHEF-D’ŒUVRE\nDE MARY GENNOS
+003.1 | dialogue | -
+003.2 | italique | MADEMOISELLE NABI, VAN ZICHMUND...
+003.3 | dialogue | -
+003.4 | italique | OUAIS ! POUR LA PREMIÈRE FOIS, IL N’A PAS BLOQUÉ, IL A ESQUIVÉ !
+003.5 | italique | ÇA A COMMENCÉ.
+003.6 | dialogue | -
+003.7 | italique | LE RYTHME DE DEAN !
+004.1 | dialogue | ON DIRAIT UN RÊVE.
+004.2 | dialogue | DE POUVOIR ME BATTRE SANS M’INQUIÉTER DE MON...
+004.3 | dialogue | BON, MAINTENANT...
+004.4 | dialogue | ON PASSE À ÇA, ENSUITE ?
+004.5 | dialogue | LE NOYAU DE DEAN, ALIMENTÉ PAR LA V16,
+004.6 | dialogue | FONCTIONNE AU-DELÀ DE SES LIMITES.
+004.7 | dialogue {"box": [190, 8930, 596, 9228], "target": [235, 9030, 535, 9160], "fill": [255,255,255], "ink_max": 150, "max_letter": 70, "colors": [[0,0,0],[0,0,0]]} | CE\nRÉGIME...
+004.8 | dialogue | PRODUISIT UN RUGISSEMENT À PERCER LES TYMPANS.
+004.9 | dialogue | FAUT-IL Y VOIR L’EFFET DE LA V16 ?
+005.1 | dialogue | UN CŒUR PRÊT À ÉCLATER.
+005.2 | dialogue | UNE EXALTATION DÉFERLANTE.
+# EN: A BURNING DESIRE FOR VICTORY. (oubli)
+005.100 | dialogue {"point": [219, 920]} | UN DÉSIR BRÛLANT\nDE VICTOIRE.
+005.3 | dialogue | -
+005.4 | dialogue | L’ATTENTE DU POINT CULMINANT.
+005.5 | dialogue {"box": [84, 2870, 466, 3034], "target": [85, 2835, 465, 3075], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150, "max_letter": 70} | LA PRÉSENCE\nDE DEAN,\nPORTÉE PAR\nLA PULSATION,
+005.6 | dialogue | SE MIT À FAIRE TREMBLER TOUTE L’ARÈNE.
+005.7 | italique | DEAN !!! VAS-Y !!! GAGNE !!!
+005.8 | italique | TU PEUX LE FAIRE !!!
+005.9 | dialogue | -
+005.10 | dialogue | TOUT LE MONDE, MERCI.
+005.11 | dialogue | -
+005.12 | dialogue | MERCI DE M’ENCOURAGER DE TOUTES VOS FORCES !
+006.1 | dialogue | -
+006.2 | dialogue | -
+006.3 | dialogue | MOI AUSSI, DE TOUTES MES FORCES...
+006.4 | dialogue | J’ESSAIERAI D’ÊTRE À LA HAUTEUR DE VOS ATTENTES !
+006.5 | dialogue | -
+006.100 | dialogue {"point": [400, 9161]} | SI ÇA CONTINUE COMME ÇA~
+# EN: N-NO WAY~ (oubli)
+006.101 | dialogue {"point": [400, 8241]} | P-PAS QUESTION~
+007.1 | cri | LUCIA !
+007.2 | systeme {"box": [130, 3495, 690, 3730], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90, "target": [185, 3525, 595, 3730], "stretch": 2} | AVERTISSEMENT.\nUTILISER CETTE\nUNITÉ COMME RAMPE\nDE LANCEMENT\nEST DÉCONSEILLÉ.
+007.3 | italique | BIEN ! UN COUP FRANC, ET LE "CORPS PRINCIPAL" A ENFIN BOUGÉ !
+007.4 | italique | ...ELLE EST CONTENTE DE ÇA ?
+# EN: KYA~ WHAT SHOULD WE DO, VAN? / B-BLOOD! THERE'S BLOOD~! (oublis)
+007.100 | italique {"point": [360, 5700]} | KYAA~ QU’EST-CE\nQU’ON FAIT,\nVAN ?
+007.101 | italique {"point": [432, 6050]} | D-DU SANG !\nIL Y A DU SANG~ !
+007.5 | dialogue | BIEN,
+007.6 | dialogue | COMMENT ON ATTAQUE ÇA ?
+007.7 | dialogue | -
+007.8 | dialogue | DIS, VAN, TU VOIS ÇA, HEIN... ?
+008.1 | dialogue | LE FAIT QUE TU M’APPELLES DIRECTEMENT...
+008.2 | dialogue | -
+008.3 | dialogue {"point": [393, 2190], "cut": [[460, 2476], [580, 2476]]} | ÇA VEUT DIRE QUE\nTU ME DEMANDES\nDE L’AIDE... ?\nJ-JE VEUX DIRE...
+008.4 | dialogue {"point": [400, 2600], "cut": [[460, 2476], [580, 2476]]} | JE VEUX DIRE, TU VAS VRAIMENT~
+008.5 | dialogue | OUAIS.
+008.6 | dialogue | JE ME SUIS TROMPÉ, LUCIA.
+008.7 | dialogue | -
+008.8 | dialogue | -
+008.9 | dialogue | CE GARÇON EST UN HÉROS !
+008.10 | dialogue {"cut": [[455, 9706], [545, 9706]]} | VRAIMENT, VAN ?
+008.11 | dialogue | -
+008.12 | dialogue {"point": [530, 9900], "cut": [[455, 9706], [545, 9706]]} | J’Y VAIS À FOND !
+008.13 | dialogue | -
+008.14 | dialogue | ÇA VA... SI J’ARRÊTE DE ME RETENIR, MAINTENANT... ?
+008.15 | dialogue | OUI, LUCIA !
+009.1 | dialogue | C’EST LE VRAI HÉROS,
+009.2 | dialogue | -
+009.3 | dialogue | CELUI QUI INCARNERA NOS RÊVES.
+009.4 | dialogue | BATTONS-NOUS ENSEMBLE.
+009.5 | dialogue | LUCIA !
+009.6 | dialogue | QUAND CE COMBAT SERA FINI,
+009.7 | dialogue | -
+009.8 | dialogue | NOUS NE FERONS PLUS QU’UN POUR TOUJOURS.
+009.9 | dialogue | AH~
+009.10 | dialogue | AAH~
+010.1 | dialogue | AH~
+010.2 | dialogue | AAH~
+010.3 | dialogue | ENFIN~~~
+010.4 | dialogue | DINGUE...
+010.5 | dialogue | C’EST QUOI CE BORDEL ?
+010.6 | dialogue | DEAN, FAIS-NOUS CONFIANCE~
+010.7 | dialogue | NOUS SERONS TON PLUS GRAND MÉCHANT~
+010.8 | dialogue | TU DOIS VRAIMENT NOUS TUER ?
+011.1 | italique | RIEN QUE CROISER LEUR REGARD
+011.2 | italique | ME REND LE CORPS LOURD... !
+011.3 | dialogue | -
+011.4 | dialogue | -
+011.5 | dialogue | -
+011.6 | dialogue | -
+012.1 | italique | JE T’EN PRIE.
+012.2 | dialogue | -
+012.3 | dialogue | -
+012.4 | italique | JE T’EN SUPPLIE,
+012.5 | italique | PERSONNE NE DOIT GÂCHER CE MOMENT !
+012.6 | dialogue | -
+012.7 | dialogue | AH...
+012.8 | dialogue | LA VOILÀ.
+013.1 | dialogue | CE TROU... IL EST BIEN TROP GRAND ET OUVERT POUR ÊTRE UN PIÈGE...
+013.2 | dialogue | C’EST UN PASSAGE VERS UN AUTRE ÉTAGE.
+013.3 | dialogue | ...COMME PRÉVU.
+013.4 | dialogue | ÇA VEUT DIRE QUE QUELQU’UN AIDE UN PARTICIPANT DEPUIS "L’EXTÉRIEUR DE L’ARÈNE".
+013.5 | dialogue | HOHO~ ! ALORS C’EST... C’EST... COMMENT ON DIT...
+013.6 | dialogue | -
+013.7 | dialogue | ÇA S’APPELLE "TRICHER".
+013.8 | dialogue | T-TRICHER... ! ALORS LES GENS DANS LES TRIBUNES... ?!
+013.9 | dialogue | Q-QU’EST-CE QU’ON FAIT, ALORS ?
+013.10 | dialogue | QUOI D’AUTRE ?
+013.11 | dialogue | JE DOIS LEUR MONTRER MON VRAI POUVOIR.
+013.12 | dialogue | POUR QU’UNE CHOSE PAREILLE N’ARRIVE PLUS JAMAIS.
+014.1 | dialogue | -
+014.2 | dialogue | -
+008.100 | dialogue {"point": [425, 9515], "cut": [[455, 9706], [545, 9706]]} | ALORS...

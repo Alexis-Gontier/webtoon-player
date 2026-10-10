@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-246/015.webp",
+ "output": "chapters_fr/chapter-246/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NON,\nSEOL-JIN !",
+   "style": "cri",
+   "point": [
+    388,
+    705
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CETTE ATTAQUE\nNE VA PAS...!",
+   "style": "cri",
+   "point": [
+    449,
+    1792
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DIEU DE\nL’ÉPÉE...",
+   "style": "cri",
+   "point": [
+    402,
+    2223
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DANSE !",
+   "style": "cri",
+   "point": [
+    442,
+    4278
+   ]
+  }
+ ]
+}

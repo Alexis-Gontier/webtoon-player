@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-228/012.webp",
+ "output": "chapters_fr/chapter-228/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS...",
+   "style": "dialogue",
+   "point": [
+    325,
+    206
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA A UN PRIX.",
+   "style": "dialogue",
+   "point": [
+    468,
+    1388
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MOI... !",
+   "style": "dialogue",
+   "point": [
+    396,
+    2560
+   ]
+  }
+ ]
+}

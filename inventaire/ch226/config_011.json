@@ -1,0 +1,197 @@
+{
+ "source": "chapters_en/chapter-226/011.webp",
+ "output": "chapters_fr/chapter-226/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA VRAIE IDENTITÉ D’UNNAME EST SANS DOUTE...",
+   "style": "italique",
+   "point": [
+    295,
+    2599
+   ]
+  },
+  {
+   "id": 4,
+   "text": "L’ORIGINE DE TOUT KARMA.",
+   "style": "italique",
+   "point": [
+    473,
+    3529
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI CETTE HYPOTHÈSE EST JUSTE,",
+   "style": "italique",
+   "point": [
+    398,
+    4551
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SON \"RÉCEPTACLE\" QUASI INFINI S’EXPLIQUE.",
+   "style": "italique",
+   "point": [
+    427,
+    6060
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MAIS POUR UNE RAISON INCONNUE, IL A PERDU L’ESSENTIEL DE SON KARMA ET CHERCHE À RÉCUPÉRER CE POUVOIR.",
+   "style": "italique",
+   "point": [
+    323,
+    6811
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SA PREMIÈRE TENTATIVE DE RÉCUPÉRATION...",
+   "style": "italique",
+   "point": [
+    502,
+    7638
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ÇA A ÉTÉ PAR LE CONTACT AVEC MOI.",
+   "style": "italique",
+   "point": [
+    409,
+    8303
+   ]
+  },
+  {
+   "id": 10,
+   "text": "C’EST POUR ÇA QU’IL ÉVITE DE DÉPENSER SON POUVOIR.",
+   "style": "italique",
+   "point": [
+    461,
+    9851
+   ],
+   "cut": [
+    [
+     290,
+     10062
+    ],
+    [
+     530,
+     10062
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "text": "PARCE QUE SON BUT EST UNIQUEMENT DE SE RESTAURER !",
+   "style": "italique",
+   "point": [
+    378,
+    10316
+   ],
+   "cut": [
+    [
+     290,
+     10062
+    ],
+    [
+     530,
+     10062
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "text": "AUTREMENT DIT, LE MOMENT OÙ IL S’EN SERVIRA... C’EST QUAND LES CHOSES DÉPASSERONT SES PRÉVISIONS !",
+   "style": "italique",
+   "point": [
+    413,
+    11625
+   ]
+  },
+  {
+   "id": 15,
+   "text": "CARTOUCHE\nOUVERTE !",
+   "style": "cri",
+   "point": [
+    436,
+    12427
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ENTRÉE DE CARTOUCHE 3 :\nCONTRATS AVEC CONSENTEMENT\nET HIÉRARCHIE",
+   "style": "titre",
+   "box": [
+    25,
+    13005,
+    775,
+    13270
+   ],
+   "ink_max": 256,
+   "grow": 0,
+   "colors": [
+    [
+     215,
+     205,
+     225
+    ],
+    [
+     190,
+     180,
+     205
+    ]
+   ],
+   "outline": [
+    50,
+    30,
+    70
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 100,
+   "text": "CONTRAT AVEC LA\n44E PORTE ROUGE",
+   "style": "titre",
+   "box": [
+    80,
+    14440,
+    725,
+    14650
+   ],
+   "target": [
+    95,
+    14455,
+    710,
+    14635
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  }
+ ]
+}

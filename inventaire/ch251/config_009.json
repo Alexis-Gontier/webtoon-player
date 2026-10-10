@@ -1,0 +1,58 @@
+{
+ "source": "chapters_en/chapter-251/009.webp",
+ "output": "chapters_fr/chapter-251/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS... OUAIS.",
+   "style": "systeme",
+   "point": [
+    399,
+    760
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST POUR ÇA.",
+   "style": "systeme",
+   "point": [
+    399,
+    2826
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

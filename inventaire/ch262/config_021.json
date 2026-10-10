@@ -1,0 +1,67 @@
+{
+ "source": "chapters_en/chapter-262/021.webp",
+ "output": "chapters_fr/chapter-262/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE NE SERAI\nPAS GOURMANDE.",
+   "style": "systeme",
+   "box": [
+    135,
+    1194,
+    588,
+    1421
+   ],
+   "light": true,
+   "max_letter": 90,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CRAC",
+   "style": "dialogue",
+   "point": [
+    547,
+    2531
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE N’EN EMPORTE\nQUE LA MOITIÉ.",
+   "style": "systeme",
+   "box": [
+    81,
+    2666,
+    636,
+    2871
+   ],
+   "light": true,
+   "max_letter": 90,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-255/037.webp",
+ "output": "chapters_fr/chapter-255/037.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU REGARDES, VAN ?",
+   "style": "dialogue",
+   "point": [
+    424,
+    216
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA SE PASSE EXACTEMENT COMME TU L’AVAIS DIT.",
+   "style": "dialogue",
+   "point": [
+    347,
+    1994
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CELUI QUI BRISERA LE RÉCEPTACLE DU DIEU ABSOLU...",
+   "style": "dialogue",
+   "point": [
+    300,
+    2875
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LE VRAI HÉROS EST APPARU...!",
+   "style": "dialogue",
+   "point": [
+    407,
+    3742
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MERCI D’AVOIR\nTENU PAROLE,\nVAN.",
+   "style": "italique",
+   "point": [
+    467,
+    4662
+   ]
+  }
+ ]
+}

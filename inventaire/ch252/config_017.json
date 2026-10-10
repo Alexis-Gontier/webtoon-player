@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/017.webp",
+ "output": "chapters_fr/chapter-252/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS BIEN D’EN ÊTRE INCAPABLE !",
+   "style": "cartouche",
+   "point": [
+    418,
+    155
+   ]
+  },
+  {
+   "id": 2,
+   "text": "À CE STADE...",
+   "style": "cartouche",
+   "point": [
+    279,
+    1179
+   ]
+  },
+  {
+   "id": 4,
+   "text": "APRÈS ÊTRE ARRIVÉES SI LOIN...",
+   "style": "cartouche",
+   "point": [
+    427,
+    1663
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SURTOUT DANS CETTE SITUATION, OÙ TOUTES SORTES DE PROVOCATIONS INTENSES ONT DÉJÀ EU LIEU...",
+   "style": "cartouche",
+   "point": [
+    292,
+    2606
+   ]
+  }
+ ]
+}

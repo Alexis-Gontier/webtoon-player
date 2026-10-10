@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/038.webp",
+ "output": "chapters_fr/chapter-248/038.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "APRÈS TOUT, NOS OBJECTIFS SONT LES MÊMES.",
+   "style": "dialogue",
+   "point": [
+    426,
+    1059
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU TE SOUVIENS COMMENT T’EN SERVIR, PAS VRAI ?",
+   "style": "dialogue",
+   "point": [
+    362,
+    2380
+   ]
+  }
+ ]
+}

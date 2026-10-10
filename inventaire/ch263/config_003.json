@@ -1,0 +1,59 @@
+{
+ "source": "chapters_en/chapter-263/003.webp",
+ "output": "chapters_fr/chapter-263/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "L’ONT FAIT\nPOUR MOI.",
+   "style": "italique",
+   "point": [
+    354,
+    142
+   ],
+   "box": [
+    180,
+    0,
+    540,
+    185
+   ],
+   "ink_max": 100,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LAY, CE N’EST\nPAS JUSTE !",
+   "style": "italique",
+   "point": [
+    385,
+    3062
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VAIS AIDER\nAUSSI ! ALORS...!",
+   "style": "italique",
+   "point": [
+    393,
+    4746
+   ]
+  }
+ ]
+}

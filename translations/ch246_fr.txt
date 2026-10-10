@@ -1,0 +1,287 @@
+# Chapitre 246 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+# EN: THE FINAL BATTLE (titre blanc cerné de rose)
+001.100 | systeme {"box": [80, 1600, 720, 2235], "unsat": 30, "light_min": 170, "grow": 10, "blur_fill": 15, "stretch": 2.2, "colors": [[255,255,255],[255,255,255]], "outline": [200,80,120], "outline_width": 3} | LA BATAILLE\nFINALE
+# EN: HEO SEOL-JIN (ARTHUR et VS gardés)
+001.101 | systeme {"box": [120, 3365, 690, 3495], "unsat": 30, "light_min": 200, "grow": 7, "colors": [[255,255,255],[255,255,255]]} | SEOL-JIN HEO
+001.3 | systeme | -
+001.4 | dialogue | -
+# EN: WHAT IS THIS... THIS FEELING?
+001.5 | italique | QU’EST-CE QUE C’EST... CETTE SENSATION ?
+001.6 | dialogue | -
+# EN: MY HEART...!
+001.7 | italique | MON CŒUR...!
+# EN: IT'S NOT JUST THAT HE'S MASSIVE.
+001.8 | italique | CE N’EST PAS SEULEMENT QU’IL EST IMMENSE.
+# EN: THIS KARMA... SINCE WHEN WAS IT THIS INTENSE?!
+001.9 | italique | CE KARMA... DEPUIS QUAND EST-IL AUSSI INTENSE ?!
+
+## 002.webp
+# EN: IT'S DIFFERENT.
+002.1 | dialogue | C’EST DIFFÉRENT.
+# EN: YET THIS KARMA FEELS SO FAMILIAR.
+002.2 | dialogue | ET POURTANT, CE KARMA M’EST SI FAMILIER.
+# EN: THE GAP BETWEEN THE TWO IS DRIVING ME CRAZY.
+002.3 | dialogue | L’ÉCART ENTRE LES DEUX ME REND DINGUE.
+# EN: HOW DO I EVEN DESCRIBE THIS?
+002.4 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | COMMENT\nDÉCRIRE\nÇA ?
+# EN: PRESSURE?
+002.5 | dialogue | PRESSION ?
+# EN: FEAR?
+002.6 | dialogue | PEUR ?
+# EN: DESPAIR?
+002.7 | dialogue | DÉSESPOIR ?
+# EN: TERROR?
+002.8 | dialogue {"point": [471, 6244]} | TERREUR ?
+# EN: NO. IT'S SOMETHING ELSE.
+002.9 | italique | NON. C’EST AUTRE CHOSE.
+# EN: THIS FEELING IS...!
+002.10 | italique | CETTE SENSATION, C’EST...!
+
+## 003.webp
+# EN: IN THE STANDS, ONE PLAYER FOUND THE ANSWER FASTER THAN ANYONE.
+003.1 | dialogue | DANS LES TRIBUNES, UN PLAYER TROUVA LA RÉPONSE PLUS VITE QUE QUICONQUE.
+# EN: IT WAS RYUJIN- THE MAN WHO HAD FELT THE ABSOLUTE GOD'S MALICE FIRSTHAND.
+003.2 | dialogue | C’ÉTAIT RYUJIN, L’HOMME QUI AVAIT SUBI EN PERSONNE LA MALVEILLANCE DU DIEU ABSOLU.
+# EN: I REMEMBER NOW.
+003.3 | italique | JE M’EN\nSOUVIENS.
+# EN: THIS SENSATION.
+003.4 | italique | CETTE SENSATION.
+# EN: IT'S EXACTLY HOW I FELT WHEN I FIRST STEPPED INTO THE TOWER!
+003.5 | italique | C’EST EXACTEMENT CE QUE J’AI RESSENTI EN ENTRANT POUR LA PREMIÈRE FOIS DANS LA TOUR !
+# EN: AWE. (lettres blanches cernées de noir sur un écho bleu)
+003.100 | systeme {"box": [40, 5585, 790, 5905], "ink_max": 256, "grow": 0} | (effacer)
+003.101 | systeme {"box": [70, 5600, 730, 5885], "target": [90, 5640, 710, 5860], "ink_max": 0, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4} | RÉVÉRENCE.
+003.6 | dialogue | -
+# EN: YES. THAT'S WHAT IT IS.
+003.7 | dialogue | OUI. C’EST ÇA.
+
+## 004.webp
+# EN: TO STAND AGAINST THE ABSOLUTE GOD, ARTHUR...
+004.1 | dialogue | AFFRONTER LE DIEU ABSOLU, ARTHUR...
+# EN: SKY CASTLE TERRARIUM.
+004.2 | dialogue | DANS LE TERRARIUM DU CHÂTEAU CÉLESTE,
+# EN: MEANS MAKING EVERYTHING IN THAT PLACE YOUR ENEMY.
+004.3 | dialogue | C’EST FAIRE DE TOUT CE QUI S’Y TROUVE SON ENNEMI.
+# EN: AND YET,
+004.4 | dialogue | ET POURTANT,
+# EN: THE FLAME OF HOPE REFUSES TO DIE.
+004.5 | dialogue | LA FLAMME DE L’ESPOIR REFUSE DE S’ÉTEINDRE.
+
+## 005.webp
+# EN: AREN'T YOU SCARED, HEO SEOL-JIN?
+005.1 | dialogue | TU N’AS PAS PEUR, SEOL-JIN HEO ?
+005.2 | dialogue | -
+# EN: OF COURSE I AM!
+005.3 | dialogue | BIEN SÛR\nQUE SI !
+# EN: BUT...
+005.4 | dialogue {"point": [453, 7080]} | MAIS...
+005.5 | dialogue | -
+
+## 006.webp
+# EN: I'M NOT JUST SCARED!
+006.1 | cri | JE N’AI PAS\nQUE PEUR !
+# EN: IS THAT SO~?
+006.2 | dialogue | VRAIMENT~ ?
+
+## 007.webp
+# EN: OPENING OF WAR (PLAYER gardé)
+007.100 | systeme {"box": [40, 1665, 760, 2295], "light": true, "light_min": 200, "grow": 6, "blur_fill": 12, "colors": [[255,255,255],[255,255,255]]} | OUVERTURE\nDES HOSTILITÉS
+007.1 | dialogue | -
+
+## 008.webp
+# EN: ALRIGHT~ I'VE DECIDED!
+008.1 | dialogue | BON~\nC’EST DÉCIDÉ !
+# EN: I'LL PLAY ALONG UNTIL I WIPE THAT SMILE OFF YOUR FACE.
+008.2 | dialogue | JE VAIS JOUER LE JEU JUSQU’À T’EFFACER CE SOURIRE DU VISAGE.
+008.3 | dialogue | -
+# EN: THAT MAKES IT 1-0!
+008.4 | dialogue | ÇA FAIT\n1-0 !
+# EN: WHAT ARE YOU DOING? GET UP.
+008.5 | dialogue | QU’EST-CE QUE TU FAIS ? LÈVE-TOI.
+
+## 009.webp
+# EN: HO~ IMPRESSIVE!
+009.1 | dialogue | OH~\nIMPRESSIONNANT !
+# EN: SO, YOU EXPECTED THIS KIND OF GAP?
+009.2 | dialogue | ALORS, TU T’ATTENDAIS À UN TEL ÉCART ?
+009.3 | dialogue | -
+
+## 010.webp
+# EN: YOU REMEMBER THE PLAN, RAY?
+010.1 | dialogue | TU TE SOUVIENS DU PLAN, RAY ?
+# EN: YES, MASTER ARTHUR. I'LL KEEP THE OUTPUT LOW ENOUGH TO NOT WRECK THE ARENA.
+010.2 | dialogue | OUI, MAÎTRE ARTHUR. JE GARDERAI UNE PUISSANCE ASSEZ FAIBLE POUR NE PAS DÉTRUIRE L’ARÈNE.
+# EN: PARRY (lettres cyan penchées sur le dessin)
+010.100 | systeme {"box": [120, 5940, 730, 6225], "ink_red_max": 120, "grow": 5, "angle": -12, "colors": [[60,200,235],[40,170,225]]} | PARADE
+
+## 011.webp
+011.1 | dialogue | -
+
+## 012.webp
+# EN: SPATULA! PROTECT THE AUDIENCE!
+012.1 | cri | SPATULE !\nPROTÈGE\nLE PUBLIC !
+# EN: Y-YES, SIR!!
+012.2 | cri | À-À VOS\nORDRES !!
+# EN: HEY, LOWER THE OUTPUT MORE. I DON'T WANT HIM BREAKING BEFORE I EVEN GET TO HAVE SOME FUN.
+012.3 | dialogue | HÉ, BAISSE ENCORE LA PUISSANCE. JE NE VEUX PAS QU’IL CASSE AVANT MÊME QUE J’AIE PU M’AMUSER.
+# EN: UNDERSTOOD, MASTER ARTHUR.
+012.4 | dialogue | COMPRIS, MAÎTRE ARTHUR.
+
+## 013.webp
+# EN: ...WHAT HAPPENED?
+013.1 | dialogue | ...QUE S’EST-IL PASSÉ ?
+# EN: THE IMPACT... IT'S LIGHTER THAN I THOUGHT.
+013.2 | italique | L’IMPACT... EST PLUS LÉGER QUE JE NE LE PENSAIS.
+# EN: DAMMIT, THIS IS INSANE! HOW THE HELL ARE WE SUPPOSED TO BEAT A MONSTER LIKE THAT?
+013.3 | italique | BON SANG, C’EST DINGUE ! COMMENT ON EST CENSÉS BATTRE UN MONSTRE PAREIL ?
+# EN: IF WE GET CLOSER, WE MIGHT SPOT A WEAKNESS!
+013.4 | italique | SI ON S’APPROCHE, ON REPÉRERA PEUT-ÊTRE UNE FAIBLESSE !
+# EN: W-WAIT! PLEASE STOP!
+013.5 | italique | A-ATTENDEZ ! ARRÊTEZ, S’IL VOUS PLAÎT !
+# EN: IT'S DANGEROUS NEAR THE RAILING!
+013.6 | italique | C’EST DANGEREUX PRÈS DE LA RAMBARDE !
+# EN: THOSE KIDS ARE FULL OF ENERGY... DON'T THEY KNOW WHAT FEAR IS?
+013.7 | italique | CES GAMINS DÉBORDENT D’ÉNERGIE... ILS NE CONNAISSENT DONC PAS LA PEUR ?
+013.8 | dialogue | -
+013.9 | dialogue | -
+# EN: HA! LOOK AT YOU.
+013.10 | dialogue | HA ! REGARDE-TOI.
+# EN: YOU ACTUALLY BLOCKED THAT?
+013.11 | dialogue | TU AS VRAIMENT BLOQUÉ ÇA ?
+
+## 014.webp
+# EN: LET'S SEE...
+014.1 | dialogue | VOYONS...
+# EN: IS THE NEXT PATTERN JUST A WARM-UP?
+014.2 | dialogue | LE PROCHAIN ENCHAÎNEMENT N’EST QU’UN ÉCHAUFFEMENT ?
+# EN: ...DAMN, HE READ ME!
+014.3 | italique | ...ZUT, IL M’A\nPERCÉ À JOUR !
+# EN: AT THIS RATE, BEFORE I CAN EVEN USE A SKILL...!
+014.4 | italique | À CE RYTHME, AVANT MÊME QUE JE PUISSE UTILISER UNE COMPÉTENCE...!
+# EN: MASTER ARTHUR.
+014.5 | dialogue | MAÎTRE\nARTHUR.
+# EN: YEAH?
+014.6 | dialogue | OUI ?
+# EN: LET HIM USE IT.
+014.7 | dialogue | LAISSE-LE\nL’UTILISER.
+
+## 015.webp
+# EN: NO, SEOL-JIN!
+015.1 | cri | NON,\nSEOL-JIN !
+# EN: THAT ATTACK WON'T...!
+015.2 | cri | CETTE ATTAQUE\nNE VA PAS...!
+# EN: SWORD GOD...
+015.3 | cri | DIEU DE\nL’ÉPÉE...
+# EN: DANCE!
+015.4 | cri | DANSE !
+
+## 016.webp
+# EN: NOT YET.
+016.1 | italique | PAS ENCORE.
+# EN: I'M NOT DONE YET!
+016.2 | italique | JE N’AI PAS\nENCORE FINI !
+# EN: OOH, I LIKE THAT LOOK ON YOUR FACE!
+016.3 | dialogue | OH, J’AIME BIEN CETTE TÊTE QUE TU FAIS !
+016.4 | dialogue | -
+# EN: THINK YOU CAN HANDLE THIS TOO?
+016.5 | dialogue | TU CROIS POUVOIR ENCAISSER ÇA AUSSI ?
+# EN: HUP!
+016.100 | dialogue {"point": [405, 4280]} | HOP !
+016.6 | dialogue | -
+
+## 017.webp
+# EN: URGH...
+017.100 | cri {"point": [205, 238]} | ARGH...
+# EN: I TOLD YOU IT'S DANGEROUS! GET BACK FOR NOW!
+017.1 | italique | JE T’AI DIT QUE C’EST DANGEREUX ! RECULE POUR L’INSTANT !
+# EN: THEY SAY YOU CAN READ A HEART BY CLASHING BLADES...
+017.2 | dialogue | ON DIT QU’ON PEUT LIRE DANS UN CŒUR EN CROISANT LE FER...
+# EN: I SEE.
+017.3 | dialogue | JE VOIS.
+# EN: YOU.
+017.4 | dialogue | TOI.
+
+## 018.webp
+# EN: YOU'RE HESITATING.
+018.1 | dialogue | TU HÉSITES.
+# EN: HOLDING YOUR MASTER BACK... YOU REALLY ARE A 'DEFECTIVE PRODUCT.'
+018.2 | dialogue | TU RETIENS TON MAÎTRE... TU ES VRAIMENT UN "PRODUIT DÉFECTUEUX".
+018.3 | dialogue | -
+# EN: NO WONDER ARTHUR-NIM NEVER BOTHERED USING YOU.
+018.4 | dialogue | PAS ÉTONNANT QU’ARTHUR N’AIT JAMAIS PRIS LA PEINE DE T’UTILISER.
+# EN: WHAT...?!
+018.5 | dialogue | QUOI...?!
+018.6 | dialogue | -
+
+## 019.webp
+019.1 | dialogue | -
+# EN: PATTERN.
+019.2 | dialogue | ENCHAÎNEMENT.
+# EN: COUNTERED!
+019.3 | dialogue | CONTRÉ !
+019.4 | dialogue | -
+019.5 | dialogue | -
+
+## 020.webp
+# EN: ALRIGHT, THAT MAKES IT 2-0.
+020.1 | dialogue | BIEN, ÇA FAIT 2-0.
+020.2 | dialogue | -
+# EN: TIME TO PULL IT OUT, DON'T YOU THINK?
+020.3 | dialogue | IL EST TEMPS DE LA SORTIR, TU NE CROIS PAS ?
+# EN: THAT SWORD YOU GOT FROM DEAN.
+020.4 | dialogue | CETTE ÉPÉE QUE TU AS REÇUE DE DEAN.
+# EN: HEO SEOL-JIN, WAKE UP! WHERE'S THAT FIRE YOU HAD WHEN YOU FOUGHT DEAN?!
+020.5 | italique | SEOL-JIN HEO, RÉVEILLE-TOI ! OÙ EST PASSÉE LA FLAMME QUE TU AVAIS CONTRE DEAN ?!
+020.6 | dialogue | -
+020.7 | dialogue | -
+# EN: ...I SEE. HE'S 'NOT READY' YET.
+020.8 | dialogue | ...JE VOIS. IL N’EST "PAS ENCORE PRÊT".
+# EN: ARE YOU WAITING FOR IT,
+020.9 | dialogue | TU L’ATTENDS,
+# EN: HEO SEOL-JIN...!
+020.10 | dialogue | SEOL-JIN\nHEO...!
+
+## 021.webp
+# EN: LIBUR...
+021.1 | dialogue | LIBUR...
+# EN: ...IT'S MY FAULT.
+021.2 | dialogue | ...C’EST\nMA FAUTE.
+# EN: BECAUSE I HESITATED...!
+021.3 | dialogue | PARCE QUE\nJ’AI HÉSITÉ...!
+# EN: GET UP, HEO SEOL-JIN.
+021.4 | dialogue | LÈVE-TOI, SEOL-JIN HEO.
+
+## 022.webp
+# EN: IT'S TOO EARLY TO STAY DOWN, ISN'T IT?
+022.1 | dialogue | C’EST TROP TÔT POUR RESTER À TERRE, NON ?
+022.2 | dialogue | -
+# EN: YOU CAN STILL GO, RIGHT?
+022.3 | cri | TU PEUX\nENCORE CONTINUER,\nPAS VRAI ?
+
+## 023.webp
+023.1 | dialogue | -
+# EN: MASTER ARTHUR...!
+023.2 | dialogue | MAÎTRE\nARTHUR...!
+# EN: IT'S OKAY, LIBUR.
+023.3 | dialogue | ÇA VA,\nLIBUR.
+
+## 024.webp
+# EN: JUST LIKE YOU'VE ALWAYS DONE FOR ME,
+024.1 | dialogue | COMME TU L’AS TOUJOURS FAIT POUR MOI,
+# EN: THIS TIME, I'LL STAND IN FRONT AND PROTECT YOU.
+024.2 | dialogue | CETTE FOIS, C’EST MOI QUI ME METTRAI DEVANT POUR TE PROTÉGER.
+# EN: UNTIL YOUR FIGHT...
+024.3 | cri | JUSQU’À CE QUE\nTON COMBAT...
+
+## 025.webp
+# EN: ...IS FINALLY OVER!
+025.1 | cri | ...SOIT ENFIN\nTERMINÉ !
+# EN: MY... FIGHT?
+025.2 | dialogue | MON... COMBAT ?
+# EN: THE BATTLE BEGINS
+025.3 | systeme {"light": true, "light_min": 150, "grow": 7, "colors": [[255,240,200],[255,225,170]], "outline": [190,40,30], "outline_width": 3} | LE COMBAT\nCOMMENCE
+025.4 | systeme | -

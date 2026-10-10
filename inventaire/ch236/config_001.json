@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-236/001.webp",
+ "output": "chapters_fr/chapter-236/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SOYEZ PRÊTS,",
+   "style": "dialogue",
+   "point": [
+    393,
+    436
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AU-DELÀ DE LA PORTE, C’EST NOUS QUI CHASSONS.",
+   "style": "dialogue",
+   "point": [
+    399,
+    1434
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...!",
+   "style": "dialogue",
+   "point": [
+    462,
+    3507
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ALORS, QUOI QU’IL ARRIVE,",
+   "style": "dialogue",
+   "point": [
+    375,
+    4358
+   ]
+  },
+  {
+   "id": 5,
+   "text": "NE VOUS ARRÊTEZ PAS.",
+   "style": "dialogue",
+   "point": [
+    391,
+    5360
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CHACUN FAIT DE SON MIEUX DANS SON RÔLE.",
+   "style": "dialogue",
+   "point": [
+    422,
+    6178
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE COMBAT...",
+   "style": "italique",
+   "point": [
+    325,
+    7551
+   ]
+  },
+  {
+   "id": 9,
+   "text": "COMMENCE.",
+   "style": "italique",
+   "point": [
+    446,
+    8596
+   ]
+  }
+ ]
+}

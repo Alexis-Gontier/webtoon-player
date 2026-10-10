@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-231/006.webp",
+ "output": "chapters_fr/chapter-231/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL ESSAIE DE RÉSISTER...",
+   "style": "italique",
+   "point": [
+    303,
+    4072
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AUX TÉNÈBRES DE LUCIA AVEC UNE SIMPLE \"LUMIÈRE\" ?",
+   "style": "italique",
+   "point": [
+    477,
+    5058
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE SUIS DÉSOLÉ.",
+   "style": "dialogue",
+   "point": [
+    397,
+    5896
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EXCALIBUR N’AURAIT PAS DÛ ÊTRE CONFIÉE À UN GAMIN IGNORANT COMME TOI,",
+   "style": "dialogue",
+   "point": [
+    404,
+    7484
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ELLE AURAIT DÛ REVENIR À UN VRAI HÉROS COMME MOI.",
+   "style": "dialogue",
+   "point": [
+    417,
+    9425
+   ]
+  },
+  {
+   "id": 7,
+   "text": "GARDONS LES BAVARDAGES INUTILES POUR PLUS TARD.",
+   "style": "dialogue",
+   "point": [
+    391,
+    10543
+   ]
+  },
+  {
+   "id": 8,
+   "text": "PARCE QUE JE TE RESSUSCITERAI SANS FAUTE DANS MON \"PROCHAIN MONDE\".",
+   "style": "dialogue",
+   "point": [
+    436,
+    14354
+   ]
+  }
+ ]
+}

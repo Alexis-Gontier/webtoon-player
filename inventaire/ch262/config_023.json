@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-262/023.webp",
+ "output": "chapters_fr/chapter-262/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA TOUR DU SEIGNEUR ARTHUR...",
+   "style": "dialogue",
+   "point": [
+    370,
+    751
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SÉRIEUX...! CE MONSTRE...! JUSQU’AU TOUT DERNIER MOMENT...!",
+   "style": "italique",
+   "point": [
+    358,
+    1489
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POURQUOI ELLE NOUS FAIT ÇA ?!",
+   "style": "italique",
+   "point": [
+    397,
+    2721
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MA COMPÉTENCE NE MARCHE PAS !",
+   "style": "italique",
+   "point": [
+    358,
+    3424
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PETITE !\nC’EST\nTOI ?!",
+   "style": "cri",
+   "point": [
+    406,
+    4393
+   ]
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "source": "chapters_en/chapter-253/031.webp",
+ "output": "chapters_fr/chapter-253/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET PUIS...",
+   "style": "dialogue",
+   "point": [
+    379,
+    199
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU N’ES PLUS UN OBSTACLE, NI POUR MOI NI POUR MES AMIS.",
+   "style": "dialogue",
+   "point": [
+    357,
+    1704
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ON DIRAIT\nBIEN...",
+   "style": "dialogue",
+   "point": [
+    409,
+    3908
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA VEUT DIRE\nQUE DANS\nLEURS ÂMES,",
+   "style": "dialogue",
+   "point": [
+    229,
+    4681
+   ],
+   "cut": [
+    [
+     105,
+     4802
+    ],
+    [
+     375,
+     4764
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "IL N’Y A PLUS\nDE PLACE OÙ",
+   "style": "dialogue",
+   "box": [
+    100,
+    4870,
+    520,
+    5000
+   ],
+   "target": [
+    130,
+    4900,
+    490,
+    5000
+   ],
+   "max_size": 28,
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "seam": "bottom"
+  }
+ ]
+}

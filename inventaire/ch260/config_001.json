@@ -1,0 +1,45 @@
+{
+ "source": "chapters_en/chapter-260/001.webp",
+ "output": "chapters_fr/chapter-260/001.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "TU AS\nINTÉRÊT",
+   "style": "dialogue",
+   "box": [
+    230,
+    4890,
+    580,
+    5000
+   ],
+   "target": [
+    250,
+    4900,
+    560,
+    4995
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 32,
+   "seam": "bottom"
+  }
+ ]
+}

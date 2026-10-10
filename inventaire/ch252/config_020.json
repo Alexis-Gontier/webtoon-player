@@ -1,0 +1,110 @@
+{
+ "source": "chapters_en/chapter-252/020.webp",
+ "output": "chapters_fr/chapter-252/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE DOIS JUSTE FAIRE UN PAS EN AVANT AVANT LILLET !",
+   "style": "italique",
+   "point": [
+    413,
+    442
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI, C’EST\nUNE OCCASION !",
+   "style": "italique",
+   "point": [
+    373,
+    1657
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MAIS,\nMALHEUREUSEMENT...",
+   "style": "cartouche",
+   "point": [
+    378,
+    2198
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LE TEMPS EST\nÉCOULÉ.",
+   "style": "cartouche",
+   "point": [
+    374,
+    3309
+   ]
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    100,
+    4840,
+    640,
+    5000
+   ],
+   "ink_max": 100,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 102,
+   "text": "À-À VRAI\nDIRE,",
+   "style": "dialogue",
+   "box": [
+    130,
+    4850,
+    610,
+    4998
+   ],
+   "target": [
+    150,
+    4860,
+    590,
+    4990
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 55
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    200,
+    4975,
+    560,
+    5000
+   ],
+   "ink_max": 100,
+   "grow": 2,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

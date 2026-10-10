@@ -1,0 +1,63 @@
+{
+  "source": "chapters_en/chapter-259/005.jpg",
+  "output": "chapters_fr/chapter-259/005.jpg",
+  "bubbles": [
+    {
+      "point": [
+        296,
+        105
+      ],
+      "text": "GAMINE, TU VEUX BIEN ARRÊTER DE ME GÊNER ?"
+    },
+    {
+      "point": [
+        340,
+        1400
+      ],
+      "text": "JE NE VEUX PAS RESTER UNE SEULE SECONDE DE PLUS...",
+      "cut": [
+        [
+          300,
+          1592
+        ],
+        [
+          515,
+          1528
+        ]
+      ]
+    },
+    {
+      "point": [
+        470,
+        1760
+      ],
+      "text": "DANS UN MONDE OÙ MON VAN N’EXISTE PAS.",
+      "cut": [
+        [
+          300,
+          1592
+        ],
+        [
+          515,
+          1528
+        ]
+      ]
+    },
+    {
+      "point": [
+        394,
+        4210
+      ],
+      "text": "C’EST TOI QUI DEVRAIS ARRÊTER DE GÊNER.",
+      "style": "cri"
+    },
+    {
+      "point": [
+        420,
+        6080
+      ],
+      "text": "NOTRE HISTOIRE N’EST PAS ENCORE FINIE !",
+      "style": "cri"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-257/049.webp",
+ "output": "chapters_fr/chapter-257/049.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ENFIN♥",
+   "style": "dialogue",
+   "point": [
+    534,
+    690
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE L’AI ENFIN ENTRE LES MAINS",
+   "style": "dialogue",
+   "point": [
+    441,
+    1639
+   ]
+  }
+ ]
+}

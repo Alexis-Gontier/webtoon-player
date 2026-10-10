@@ -1,0 +1,168 @@
+{
+ "source": "chapters_en/chapter-250/005.webp",
+ "output": "chapters_fr/chapter-250/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MÊME MAINTENANT...",
+   "style": "systeme",
+   "point": [
+    359,
+    52
+   ],
+   "box": [
+    100,
+    0,
+    620,
+    100
+   ],
+   "target": [
+    110,
+    15,
+    610,
+    92
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’HÉSITE ENCORE ?\nJE M’INQUIÈTE\nPOUR L’ENNEMI ?",
+   "style": "systeme",
+   "point": [
+    359,
+    859
+   ],
+   "box": [
+    90,
+    760,
+    630,
+    960
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET AU BOUT DU COMPTE...",
+   "style": "systeme",
+   "point": [
+    357,
+    1483
+   ],
+   "box": [
+    75,
+    1440,
+    640,
+    1528
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE NE PEUX MÊME PAS\nPROTÉGER CE QUI\nCOMPTE VRAIMENT !",
+   "style": "systeme",
+   "point": [
+    359,
+    2435
+   ],
+   "box": [
+    80,
+    2330,
+    640,
+    2540
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUEL MINABLE !",
+   "style": "systeme",
+   "box": [
+    80,
+    3040,
+    640,
+    3150
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

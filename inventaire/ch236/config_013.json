@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-236/013.webp",
+ "output": "chapters_fr/chapter-236/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNE SITUATION SANS AUTRE CHOIX...",
+   "style": "italique",
+   "point": [
+    273,
+    235
+   ]
+  },
+  {
+   "id": 2,
+   "text": "\"LE FOU.\"",
+   "style": "italique",
+   "point": [
+    372,
+    1119
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ALORS MÊME ÇA FAISAIT PARTIE DE TON PLAN.",
+   "style": "italique",
+   "point": [
+    505,
+    1406
+   ]
+  },
+  {
+   "id": 4,
+   "text": "S’IL LE FAUT, LILLET SE SACRIFIERA.",
+   "style": "dialogue",
+   "point": [
+    359,
+    1950
+   ]
+  },
+  {
+   "id": 5,
+   "text": "À CE MOMENT-LÀ...",
+   "style": "dialogue",
+   "point": [
+    505,
+    2226
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SUMAMA, JE COMPTE SUR TOI.",
+   "style": "dialogue",
+   "point": [
+    398,
+    3218
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ESPÈCE DE SALAUD... !",
+   "style": "dialogue",
+   "point": [
+    364,
+    4100
+   ]
+  },
+  {
+   "id": 8,
+   "text": "MAIS DANS TON PLAN...",
+   "style": "italique",
+   "point": [
+    426,
+    5048
+   ]
+  },
+  {
+   "id": 9,
+   "text": "IL Y A UNE VARIABLE BIEN TROP GROSSE POUR L’IGNORER.",
+   "style": "italique",
+   "point": [
+    417,
+    5928
+   ]
+  },
+  {
+   "id": 11,
+   "text": "J’ESPÈRE QUE TU N’AS PAS NÉGLIGÉ CE FAIT.",
+   "style": "italique",
+   "point": [
+    385,
+    6855
+   ]
+  }
+ ]
+}

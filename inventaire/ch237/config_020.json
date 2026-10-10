@@ -1,0 +1,50 @@
+{
+ "source": "chapters_en/chapter-237/020.webp",
+ "output": "chapters_fr/chapter-237/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE COMPATIS SINCÈREMENT,",
+   "style": "dialogue",
+   "point": [
+    423,
+    328
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAÎTRE D’AVALON, VAN ZICHMUND.",
+   "style": "dialogue",
+   "point": [
+    411,
+    2012
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BATAILLE FINALE\nDEUXIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    42,
+    5400,
+    756,
+    5626
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  }
+ ]
+}

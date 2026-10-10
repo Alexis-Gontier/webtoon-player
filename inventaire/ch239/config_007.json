@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-239/007.webp",
+ "output": "chapters_fr/chapter-239/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LES AMIS, VOUS ÊTES OÙ ? IL Y A TROP DE MONDE, JE NE VOIS RIEN...",
+   "style": "dialogue",
+   "point": [
+    426,
+    256
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ARRÊTE DE REGARDER PARTOUT, ON N’EST PAS LÀ POUR TRAÎNER...",
+   "style": "dialogue",
+   "point": [
+    468,
+    1675
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUAND MÊME, JE VOULAIS DIRE BONJOUR AVANT QUE ÇA COMMENCE ! SI TU AS LE TEMPS DE DIRE ÇA, AIDE-MOI À CHERCHER !",
+   "style": "dialogue",
+   "point": [
+    381,
+    2161
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QU’EST-CE QU’ELLE FAIT ?",
+   "style": "dialogue",
+   "point": [
+    265,
+    4151
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ATTENDS... ELLE NOUS CHERCHE VRAIMENT... ?",
+   "style": "dialogue",
+   "point": [
+    472,
+    4520
+   ]
+  },
+  {
+   "id": 100,
+   "text": "...",
+   "style": "dialogue",
+   "point": [
+    218,
+    3965
+   ]
+  }
+ ]
+}

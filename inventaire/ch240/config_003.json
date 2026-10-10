@@ -1,0 +1,114 @@
+{
+ "source": "chapters_en/chapter-240/003.webp",
+ "output": "chapters_fr/chapter-240/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PEU APRÈS TON DÉPART...",
+   "style": "dialogue",
+   "point": [
+    315,
+    205
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’AI BRÛLÉ CETTE CABANE.",
+   "style": "dialogue",
+   "point": [
+    491,
+    1102
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CETTE CABANE ME FAISAIT PENSER À \"CE MOMENT\" QUI FINIRAIT PAR ARRIVER...",
+   "style": "dialogue",
+   "point": [
+    507,
+    1855
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ELLE ME RAPPELAIT \"L’HEURE CONVENUE\".",
+   "style": "dialogue",
+   "point": [
+    364,
+    3025
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS IL Y A TROIS ANS.",
+   "style": "dialogue",
+   "point": [
+    310,
+    3800
+   ]
+  },
+  {
+   "id": 6,
+   "text": "QUAND J’AI COMPRIS QU’IL NE ME RESTAIT PLUS BEAUCOUP DE TEMPS...",
+   "style": "dialogue",
+   "point": [
+    427,
+    4137
+   ]
+  },
+  {
+   "id": 7,
+   "text": "J’AI RECONSTRUIT CETTE CABANE.",
+   "style": "dialogue",
+   "point": [
+    422,
+    5095
+   ]
+  },
+  {
+   "id": 8,
+   "text": "AVEC EXACTEMENT LES MÊMES MATÉRIAUX QU’AVANT,",
+   "style": "dialogue",
+   "point": [
+    325,
+    6740
+   ]
+  },
+  {
+   "id": 9,
+   "text": "AU MÊME ENDROIT. AVEC LA MÊME FORME.",
+   "style": "dialogue",
+   "point": [
+    487,
+    7529
+   ]
+  },
+  {
+   "id": 10,
+   "text": "JE L’AI RECONSTRUITE.",
+   "style": "dialogue",
+   "point": [
+    321,
+    8470
+   ]
+  },
+  {
+   "id": 11,
+   "text": "CET ENDROIT.",
+   "style": "dialogue",
+   "point": [
+    448,
+    9798
+   ]
+  },
+  {
+   "id": 13,
+   "text": "C’EST TOUJOURS LE MÊME ENDROIT OÙ NOUS NOUS SOMMES RENCONTRÉS, NON ?",
+   "style": "dialogue",
+   "point": [
+    380,
+    11491
+   ]
+  }
+ ]
+}

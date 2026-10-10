@@ -1,0 +1,75 @@
+{
+ "source": "chapters_en/chapter-239/041.webp",
+ "output": "chapters_fr/chapter-239/041.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MIRAGE !",
+   "style": "italique",
+   "point": [
+    428,
+    814
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST DRÔLE.",
+   "style": "dialogue",
+   "point": [
+    260,
+    2471
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 3,
+   "text": "MÊME APRÈS AVOIR SURVÉCU EN SACRIFIANT TANT DE TEMPS, TON ÂME A FINI COMPLÈTEMENT VIDE.",
+   "style": "dialogue",
+   "point": [
+    334,
+    2840
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 4,
+   "text": "QU’AS-TU FAIT JUSQU’À MAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    532,
+    3315
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 5,
+   "text": "TAE-WON KIM ET MIRAGE T’ONT DONNÉ UNE CHANCE.",
+   "style": "dialogue",
+   "point": [
+    290,
+    3796
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 6,
+   "text": "IL N’EST PAS TEMPS DE TE RÉVEILLER ?",
+   "style": "dialogue",
+   "point": [
+    516,
+    4226
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 7,
+   "text": "TU T’ES TROMPÉ D’ADVERSAIRE.",
+   "style": "dialogue",
+   "point": [
+    275,
+    4672
+   ],
+   "erase_color": true
+  }
+ ]
+}

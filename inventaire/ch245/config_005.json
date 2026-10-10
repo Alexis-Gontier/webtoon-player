@@ -1,0 +1,62 @@
+{
+ "source": "chapters_en/chapter-245/005.webp",
+ "output": "chapters_fr/chapter-245/005.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ENFIN,",
+   "style": "systeme",
+   "box": [
+    190,
+    7540,
+    610,
+    7670
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ON Y EST ARRIVÉS.",
+   "style": "systeme",
+   "box": [
+    130,
+    3400,
+    690,
+    3530
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "source": "chapters_en/chapter-238/001.webp",
+ "output": "chapters_fr/chapter-238/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BATAILLE FINALE\nDEUXIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    63,
+    558,
+    714,
+    786
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 4,
+   "text": "VAINQUEUR\nDEAN",
+   "style": "systeme",
+   "box": [
+    198,
+    1861,
+    612,
+    2281
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 200
+  },
+  {
+   "id": 5,
+   "text": "DIEU MERCI,",
+   "style": "dialogue",
+   "point": [
+    493,
+    3022
+   ]
+  },
+  {
+   "id": 6,
+   "text": "J’AI ARRÊTÉ ZICHMUND.",
+   "style": "dialogue",
+   "point": [
+    389,
+    4563
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ÇA DEVRAIT SUFFIRE.",
+   "style": "dialogue",
+   "point": [
+    344,
+    7356
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LE POULS DU NOYAU S’EST ARRÊTÉ.",
+   "style": "dialogue",
+   "point": [
+    463,
+    8296
+   ]
+  },
+  {
+   "id": 9,
+   "text": "MAINTENANT, JE NE PEUX PLUS RIEN FAIRE...",
+   "style": "italique",
+   "point": [
+    401,
+    8966
+   ]
+  }
+ ]
+}

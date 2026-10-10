@@ -1,0 +1,75 @@
+{
+  "source": "chapters_en/chapter-259/001.jpg",
+  "output": "chapters_fr/chapter-259/001.jpg",
+  "bubbles": [
+    {
+      "point": [
+        355,
+        410
+      ],
+      "text": "QUE VAS-TU\nFAIRE ?",
+      "cut": [
+        [
+          345,
+          616
+        ],
+        [
+          485,
+          580
+        ]
+      ]
+    },
+    {
+      "point": [
+        470,
+        750
+      ],
+      "text": "SEOL-JIN\nHEO.",
+      "cut": [
+        [
+          345,
+          616
+        ],
+        [
+          485,
+          580
+        ]
+      ]
+    },
+    {
+      "point": [
+        405,
+        2190
+      ],
+      "text": "BATTONS-NOUS\nJUSQU’AU BOUT."
+    },
+    {
+      "point": [
+        405,
+        3825
+      ],
+      "text": "À NOTRE MANIÈRE."
+    },
+    {
+      "point": [
+        405,
+        4860
+      ],
+      "text": "TU VAS AIDER\nAUSSI, PAS VRAI,\nARTHUR ?"
+    },
+    {
+      "point": [
+        400,
+        9510
+      ],
+      "text": "ARGH, SÉRIEUX... !"
+    },
+    {
+      "point": [
+        400,
+        10725
+      ],
+      "text": "FRANCHEMENT, CE TYPE EST INCROYABLE."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+# Chapitre 230. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | italique | CHERS HUMAINS IDIOTS~ ! QUE DIRIEZ-VOUS D’UN BON VERRE DE BIÈRE BIEN FRAÎCHE~ ?
+001.2 | dialogue | -
+001.3 | dialogue | -
+001.4 | italique | AVEC LE DIEU ABSOLU, LE SEIGNEUR ARTHUR, VOUS POUVEZ MÊME EN PROFITER TRANQUILLEMENT JUSQU’À VOTRE TOUR~
+001.5 | italique | M-MADEMOISELLE~ ! JE PEUX AVOIR UN VERRE DE COLA... ?
+001.6 | italique | AH, OUI~ ! BIEN SÛR !
+001.7 | dialogue | JE PEUX AVOIR UNE POIGNÉE DE MAIN AUSSI...
+001.100 | dialogue {"point": [560, 5720]} | A-ALORS...
+001.8 | dialogue | UNE C-CHAISE VIDE... ?
+001.9 | dialogue | FORGE GENNOS
+002.1 | dialogue | TU ES SÛRE QUE ÇA VA DE NE PAS REGARDER LE COMBAT DE M. DEAN, JE VEUX DIRE ?
+002.2 | dialogue | PEU IMPORTE.
+002.3 | dialogue | QUE JE LE REGARDE OU NON, JE SERAI JUSTE ENCORE PLUS FRUSTRÉE.
+002.4 | dialogue | MÊME SÉPARÉS, ON SAURA QUAND MÊME COMMENT VA L’AUTRE.
+002.5 | dialogue | BON, ON Y EST.
+003.1 | dialogue | C’EST UN ESPACE RÉSERVÉ À LA FAMILLE GENNOS.
+003.2 | dialogue | ICI, ON EST AU NIVEAU LE PLUS BAS DE LA FORGE.
+003.3 | dialogue | ET PUISQUE J’AI ACTIVÉ LA LUMIÈRE DE DEAN...
+003.4 | dialogue | -
+003.5 | dialogue | MOI AUSSI, JE DOIS...
+003.6 | dialogue | ASSUMER MES RESPONSABILITÉS JUSQU’AU BOUT.
+003.7 | dialogue | POUR MON HÉROS !
+003.8 | dialogue | -
+# EN: PROJECT: HOPE ONLINE (titre dessiné, traduit à la demande de l'utilisateur)
+003.100 | systeme {"box": [120, 6060, 720, 6620], "light": true, "light_min": 225, "max_letter": 200, "grow": 5, "colors": [[255,255,255],[255,250,235]], "outline": [215,120,45], "outline_width": 2} | PROJET :\nESPOIR\nEN LIGNE
+004.1 | dialogue | HA !
+004.2 | dialogue | C’EST QUOI CE BORDEL ?!
+004.3 | dialogue | C’EST COMME VENIR AVEC UN COUTEAU À UNE FUSILLADE, NON ?
+004.4 | dialogue | LA ZONE SOUS MON PIED...
+004.5 | dialogue | EST UN "ESPACE" RIEN QUE POUR LUCIA ET MOI.
+005.1 | dialogue | "NOUS" N’AVONS JAMAIS LAISSÉ AUCUN ÊTRE APPROCHER DE CET ENDROIT...
+005.2 | dialogue | JUSQU’À MAINTENANT.
+005.3 | dialogue | DEAN.
+005.4 | dialogue | TU CROIS QUE TU PEUX NOUS BATTRE ?
+005.5 | dialogue | TU CROIS QUE J’EN SUIS INCAPABLE ?
+005.6 | dialogue | BIEN SÛR !
+005.7 | dialogue | ALORS
+005.8 | dialogue | PROUVE-LE-MOI.
+005.9 | dialogue {"box": [195, 8690, 615, 9000], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150, "max_letter": 90} | NE BOUGE PAS\nDE LÀ, VAN\nZICHMUND !
+# EN: AND DON'T MAKE ANY EXCUSES AFTER YOU LOSE! (contresens corrigé : « TROUVE-TOI DES EXCUSES »)
+005.10 | dialogue {"box": [165, 11660, 670, 11995], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150, "max_letter": 90} | ET PAS\nD’EXCUSES\nSI TU\nPERDS !
+005.11 | dialogue | HUHU, DES EXCUSES ?!
+006.1 | dialogue | JE SAVAIS QUE ÇA SERAIT AMUSANT.
+006.2 | systeme {"box": [40, 2180, 775, 3020], "ink_max": 256, "grow": 0, "colors": [[255,255,255],[255,255,255]], "stretch": 1.8} | QUE LE\nCOMBAT\nCOMMENCE !
+006.3 | italique | DEAN CONTRE ZICHMUND.
+006.4 | dialogue | -
+006.5 | italique | QUI AURAIT CRU QUE J’ASSISTERAIS VRAIMENT À UN DUEL QU’ON ÉVOQUAIT POUR RIRE... !
+006.6 | italique | QUI AURAIT CRU QUE J’ASSISTERAIS VRAIMENT À UN DUEL QU’ON ÉVOQUAIT POUR RIRE... !
+006.7 | italique | J’AI HONTE DE L’AVOUER, MAIS EN FAIT, J’ATTENDAIS ÇA AVEC IMPATIENCE.
+006.8 | dialogue | -
+006.9 | italique | LOUISE, TU RESSENS LA MÊME CHOSE, HEIN ?
+006.10 | dialogue | S’IL Y A UN COMBAT...
+006.11 | dialogue | CELUI QUI ATTAQUE EN PREMIER, CE SERA FORCÉMENT DEAN.
+006.12 | dialogue | LA STRATÉGIE EST SIMPLE : UN COMBAT DIRECT FONDÉ SUR LA MOBILITÉ ET LA PUISSANCE.
+006.13 | dialogue | C’EST TOUT.
+007.1 | dialogue | PARCE QUE DEAN EST CE GENRE DE TYPE.
+007.2 | dialogue | ET LES CAPACITÉS
+007.3 | dialogue | DE VAN ZICHMUND SONT ENVELOPPÉES D’UN RIDEAU.
+007.4 | dialogue | -
+007.5 | dialogue | LES SEULES INFOS CONNUES SUR LUI SONT SA "CLASSE" ET SON "RIDEAU NOIR"...
+007.6 | dialogue | -
+007.7 | dialogue | PAS BESOIN D’EXPLIQUER QUEL CAMP A L’AVANTAGE.
+008.1 | dialogue | DIS, MADEMOISELLE NABI, C’EST ÇA, LE "RIDEAU" ?
+008.2 | dialogue | NON, LE "RIDEAU" EST TOUJOURS RELIÉ AU SOL.
+008.3 | dialogue | ÇA, CE N’EST PAS UNE COMPÉTENCE, C’EST JUSTE UNE BOULE DE KARMA STUPIDE QUE CET IDIOT A LANCÉE.
+008.4 | dialogue | AFFRONTER UN MONSTRE PAREIL SANS AUCUNE INFORMATION...
+008.5 | dialogue | C’EST TELLEMENT INJUSTE.
+008.6 | dialogue | "INJUSTE", TU DIS...
+008.7 | dialogue | C’EST AUSSI CE QUE LOUISE A DIT.
+008.8 | dialogue | MAIS DEAN...
+008.9 | dialogue | S’EST TOUJOURS BATTU DE TOUTES SES FORCES !
+008.10 | dialogue | ALORS, QUI VA GAGNER, À TON AVIS ?
+008.11 | dialogue | -
+008.12 | dialogue | FUFU...
+008.13 | dialogue | BIEN SÛR...
+008.14 | dialogue | ON PENSE LA MÊME CHOSE.
+009.1 | dialogue | VOILÀ L’ESPRIT !
+# EN: YEAH! (oubli)
+009.100 | cri {"point": [411, 2529]} | OUAIS !
+009.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | TU LE SENS,\nDEAN ?
+009.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | MON KARMA\nQUI TE TOURMENTE...
+009.4 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | L’ÉCART ÉCRASANT\nENTRE TOI\nET MOI !
+010.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | OUAIS, IMPOSSIBLE\nQUE TU NE L’AIES\nPAS REMARQUÉ.
+010.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | PARCE QUE JE L’AI\nSENTI AUSSI.
+010.3 | dialogue | -
+010.4 | titre {"box": [90, 10400, 640, 10745], "ink_max": 110, "solid": 7, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3} | TON\nKARMA...
+010.5 | dialogue | -
+010.6 | titre {"box": [80, 14100, 740, 14430], "ink_max": 110, "solid": 7, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3} | EST UNE VICTOIRE\nASSURÉE !
+011.1 | italique | UN CHAGRIN VIOLENT !
+011.2 | italique | UNE CHARGE DÉSESPÉRÉE VERS MON RÊVE !
+011.3 | italique | QUEL CHARME DE GAMIN !
+011.4 | dialogue | KYAA, MON VAN EST TROP CLASSE~
+011.5 | italique | IL A ENFIN SORTI ÇA.
+011.6 | italique | L’ARME D’EGO DE ZICHMUND, "LUCIA" !
+011.7 | italique | C’EST TROP INQUIÉTANT QU’ELLE SOIT DU MÊME TYPE QUE LIBUR !
+011.8 | italique | JE DÉTESTE ÇA !
+011.9 | dialogue | VAN, TU L’AIMES BIEN, CE TYPE ?
+011.10 | dialogue | BIEN SÛR, JE N’AI AUCUNE RAISON DE LE DÉTESTER.
+011.11 | dialogue | DANS CETTE TOUR, C’EST CE QUI SE RAPPROCHE LE PLUS D’UN HÉROS.
+011.12 | dialogue | HMM... ÇA VEUT DIRE QU’AU BOUT DU COMPTE...
+011.13 | dialogue | CE N’EST PAS UN "HÉROS", HEIN ?
+011.14 | dialogue | ...C’EST ÇA, LUCIA. MALHEUREUSEMENT,
+011.15 | dialogue | IL N’A PAS ÉTÉ CHOISI PAR ARTHUR.
+011.16 | dialogue | DIS, ON PEUT SORTIR ENSEMBLE APRÈS LE COMBAT ?
+012.1 | dialogue | ...MOI AUSSI,
+012.2 | dialogue | JE TIENS LE COUP EN PENSANT À ÇA !
+012.3 | dialogue | KYAH~
+012.4 | dialogue | -
+012.5 | dialogue | -
+012.6 | dialogue | TU ES JALOUSE ? QUE C’EST MIGNON~
+012.7 | dialogue | TU ES PLUTÔT ADORABLE DE PRÈS.
+012.8 | dialogue | MAIS TU N’ES PAS MON GENRE~
+013.1 | dialogue | -
+013.2 | dialogue | -
+014.1 | dialogue | DEAN !
+014.2 | systeme {"box": [100, 4760, 700, 4980], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | BIEN,\nVAN ZICHMUND.
+014.3 | systeme {"box": [92, 5975, 690, 6190], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | COMME PROMIS,\nJE TIENDRAI PAROLE,
+014.4 | systeme {"box": [113, 6650, 687, 6940], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | JE VAIS PROUVER\nQUE JE PEUX TE BATTRE,\nCETTE FOIS,
+014.5 | dialogue | HA ! ESPÈCE D’ENFOIRÉ !
+014.6 | dialogue | TU NE SAIS MÊME PAS UN TRUC AUSSI BASIQUE... ?
+014.7 | dialogue | DEAN.
+015.1 | dialogue | C’EST LA PLUS GRANDE MARQUE DE RESPECT...
+015.2 | dialogue | QUE JE PUISSE TE MONTRER EN TANT QUE PLAYER.
+015.3 | dialogue | "RIDEAU."
+015.4 | dialogue | -
+015.5 | cri | DÉPLOIEMENT.
+015.6 | dialogue | -
+# EN: EGO WEAPON LUCIA (oubli : lettres noires cernées de blanc). « HE- » / « HEHE » gardés d'origine (choix de l'utilisateur) :
+# titre effacé par rectangles qui évitent les deux bulles, une ligne par entrée pour ne pas les recouvrir.
+015.103 | titre {"box": [120, 5455, 552, 5800], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 10} | (effacer)
+015.104 | titre {"box": [120, 5800, 695, 6338], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 10} | (effacer)
+015.107 | titre {"box": [265, 5465, 545, 5735], "target": [275, 5475, 535, 5725], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "stretch": 3} | ARME
+015.110 | titre {"box": [150, 5800, 680, 6060], "target": [160, 5810, 670, 6050], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "stretch": 3} | D’EGO
+015.111 | titre {"box": [300, 6055, 620, 6330], "target": [305, 6065, 610, 6320], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "stretch": 3} | LUCIA
+# EN: COMPLETE LIBERATION OF THE SOUL (oubli : même lettrage, plus bas)
+015.112 | titre {"box": [70, 7790, 740, 8870], "target": [90, 7810, 720, 8850], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 10, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "stretch": 3} | LIBÉRATION\nCOMPLÈTE\nDE L’ÂME
+016.1 | dialogue | -
+016.2 | dialogue | -

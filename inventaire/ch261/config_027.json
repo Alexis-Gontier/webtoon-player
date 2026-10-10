@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-261/027.webp",
+ "output": "chapters_fr/chapter-261/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET MAINTENANT,\nLE COUP DE\nGRÂCE~ !",
+   "style": "cri",
+   "point": [
+    396,
+    1473
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CETTE FOIS, IL FAUT L’ACHEVER POUR DE BON, HEIN ?!",
+   "style": "italique",
+   "point": [
+    430,
+    3792
+   ]
+  }
+ ]
+}

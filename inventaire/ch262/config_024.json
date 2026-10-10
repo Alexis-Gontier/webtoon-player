@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-262/024.webp",
+ "output": "chapters_fr/chapter-262/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MOI AUSSI. NON... C’EST PIRE QUE ÇA... COMMENT EXPLIQUER...",
+   "style": "dialogue",
+   "point": [
+    368,
+    111
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE N’ARRIVE PLUS À VOIR LES IMAGES DES AUTRES ÉTAGES.",
+   "style": "dialogue",
+   "point": [
+    373,
+    1124
+   ]
+  }
+ ]
+}

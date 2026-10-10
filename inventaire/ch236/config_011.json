@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-236/011.webp",
+ "output": "chapters_fr/chapter-236/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN. AVEC ÇA, TOUS LES LEURRES SONT EN PLACE.",
+   "style": "italique",
+   "point": [
+    418,
+    223
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL NE RESTE PLUS QUE LE PLAN...",
+   "style": "italique",
+   "point": [
+    388,
+    1253
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POUR CONVAINCRE LA \"MÈRE DES FLAMMES\"... !",
+   "style": "italique",
+   "point": [
+    412,
+    2051
+   ]
+  },
+  {
+   "id": 5,
+   "text": "...HOHO ! VOILÀ QUI EST SURPRENANT !",
+   "style": "dialogue",
+   "point": [
+    377,
+    3680
+   ]
+  },
+  {
+   "id": 6,
+   "text": "NE ME DIS PAS QUE TU VAS VRAIMENT RÉUSSIR ÇA SANS UNE SEULE VICTIME !",
+   "style": "dialogue",
+   "point": [
+    503,
+    4067
+   ]
+  },
+  {
+   "id": 7,
+   "text": "BIEN, ALORS.",
+   "style": "dialogue",
+   "point": [
+    449,
+    5022
+   ]
+  },
+  {
+   "id": 8,
+   "text": "MAINTENANT, ÉLIMINE LA COMPLICE.",
+   "style": "dialogue",
+   "point": [
+    412,
+    5849
+   ]
+  },
+  {
+   "id": 10,
+   "text": "?!",
+   "style": "dialogue",
+   "point": [
+    336,
+    6849
+   ]
+  },
+  {
+   "id": 11,
+   "text": "A-ATTENDS ! QU’EST-CE QUE TU RACONTES ?! TU NE PEUX PAS LA FERMER MAINTENANT !",
+   "style": "italique",
+   "point": [
+    513,
+    7559
+   ]
+  },
+  {
+   "id": 12,
+   "text": "PASTIS N’EST PAS ENCORE ARRIVÉ !",
+   "style": "italique",
+   "point": [
+    417,
+    8777
+   ]
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "source": "chapters_en/chapter-229/004.webp",
+ "output": "chapters_fr/chapter-229/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’EST-CE QU’IL Y A, SEOL-JIN HEO ? POURQUOI TU ME REGARDES COMME ÇA ?",
+   "style": "dialogue",
+   "point": [
+    413,
+    684
+   ]
+  },
+  {
+   "id": 2,
+   "text": "H-HEIN... ? JE T’AI JUSTE REGARDÉE ET TU AS DIT UN TRUC, NON... ?",
+   "style": "dialogue",
+   "point": [
+    350,
+    1944
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AU FAIT, LIBUR, TU N’ES PAS UN PEU TROP PRÈS... ?",
+   "style": "dialogue",
+   "point": [
+    473,
+    2368
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET ALORS ?\nON SE TIENT\nTOUJOURS LA MAIN\nQUAND ON SE BAT,\nNON ?",
+   "style": "dialogue",
+   "box": [
+    85,
+    3110,
+    485,
+    3370
+   ],
+   "target": [
+    95,
+    3120,
+    475,
+    3360
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150,
+   "max_letter": 45
+  },
+  {
+   "id": 5,
+   "text": "C’EST PAS\nPAREIL !",
+   "style": "italique",
+   "point": [
+    512,
+    3585
+   ],
+   "box": [
+    360,
+    3540,
+    660,
+    3700
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 6,
+   "text": "...HAHA, LES AMIS !",
+   "style": "dialogue",
+   "point": [
+    393,
+    4761
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ASARYUN ! ET NOUS AUSSI~",
+   "style": "dialogue",
+   "point": [
+    389,
+    5588
+   ]
+  },
+  {
+   "id": 8,
+   "text": "EN TANT QU’AÎNÉS, ON DEVRAIT SAUVER LA FACE, NON ?",
+   "style": "dialogue",
+   "point": [
+    397,
+    7204
+   ]
+  },
+  {
+   "id": 9,
+   "text": "...OUAIS !",
+   "style": "dialogue",
+   "point": [
+    388,
+    8847
+   ]
+  },
+  {
+   "id": 10,
+   "text": "SEOL-JIN, LIBUR. VOUS NOUS AVEZ SAUVÉS.",
+   "style": "dialogue",
+   "point": [
+    327,
+    9860
+   ]
+  },
+  {
+   "id": 11,
+   "text": "ALORS MAINTENANT, C’EST À NOUS DE VOUS AIDER.",
+   "style": "dialogue",
+   "point": [
+    471,
+    10711
+   ]
+  },
+  {
+   "id": 12,
+   "text": "VOUS POUVEZ UTILISER NOS ÂMES...",
+   "style": "dialogue",
+   "point": [
+    389,
+    11600
+   ]
+  },
+  {
+   "id": 13,
+   "text": "DANS VOTRE COMBAT.",
+   "style": "dialogue",
+   "point": [
+    425,
+    13485
+   ]
+  },
+  {
+   "id": 14,
+   "text": "AU NOM...",
+   "style": "dialogue",
+   "point": [
+    308,
+    14619
+   ]
+  }
+ ]
+}

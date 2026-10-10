@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-260/027.webp",
+ "output": "chapters_fr/chapter-260/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH...♥",
+   "style": "dialogue",
+   "point": [
+    673,
+    618
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POUR NOTRE HÉROS...",
+   "style": "dialogue",
+   "point": [
+    391,
+    1716
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OFFRONS-LUI LA PLUS BELLE SCÈNE POSSIBLE !",
+   "style": "dialogue",
+   "point": [
+    431,
+    4503
+   ]
+  }
+ ]
+}

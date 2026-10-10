@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-262/019.webp",
+ "output": "chapters_fr/chapter-262/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CRAC",
+   "style": "dialogue",
+   "point": [
+    214,
+    1010
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VAIS M’EN SERVIR POUR LAISSER UNE CICATRICE.",
+   "style": "dialogue",
+   "point": [
+    356,
+    1626
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AFIN QUE, MÊME SANS REGARDER EN ARRIÈRE...",
+   "style": "dialogue",
+   "point": [
+    292,
+    2436
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TOUT LE MONDE SE SOUVIENNE À JAMAIS QUE NOUS ÉTIONS LÀ.",
+   "style": "dialogue",
+   "point": [
+    454,
+    3466
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE VOUS LAISSE L’AVENIR.",
+   "style": "dialogue",
+   "point": [
+    366,
+    4255
+   ]
+  },
+  {
+   "id": 100,
+   "text": "NON.",
+   "style": "dialogue",
+   "point": [
+    312,
+    188
+   ]
+  }
+ ]
+}

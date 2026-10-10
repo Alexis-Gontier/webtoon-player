@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-242/015.webp",
+ "output": "chapters_fr/chapter-242/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU ES CURIEUX ?",
+   "style": "dialogue",
+   "point": [
+    216,
+    1273
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VOUS... VRAIMENT...",
+   "style": "dialogue",
+   "point": [
+    426,
+    3167
+   ]
+  },
+  {
+   "id": 3,
+   "text": "À VOIR VOS TÊTES, VOUS AVEZ L’AIR D’ALLER BIEN.",
+   "style": "dialogue",
+   "point": [
+    434,
+    4159
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BON, CETTE TÊTE DE DÉTERRÉ TE VA À MERVEILLE.",
+   "style": "dialogue",
+   "point": [
+    445,
+    5272
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BIEN, ALORS.",
+   "style": "dialogue",
+   "point": [
+    437,
+    6003
+   ]
+  }
+ ]
+}

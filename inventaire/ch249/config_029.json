@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-249/029.webp",
+ "output": "chapters_fr/chapter-249/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON DIRAIT...",
+   "style": "pensee",
+   "point": [
+    390,
+    851
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE JE NE FAIS PAS CONFIANCE À SEOL-JIN.",
+   "style": "pensee",
+   "point": [
+    393,
+    1885
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE N’EST PAS ÇA...",
+   "style": "pensee",
+   "point": [
+    340,
+    2487
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST JUSTE QUE...",
+   "style": "pensee",
+   "point": [
+    359,
+    3513
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU VEUX LE REJOINDRE ?",
+   "style": "dialogue",
+   "point": [
+    320,
+    4815
+   ]
+  }
+ ]
+}

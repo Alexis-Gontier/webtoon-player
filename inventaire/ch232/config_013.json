@@ -1,0 +1,105 @@
+{
+ "source": "chapters_en/chapter-232/013.webp",
+ "output": "chapters_fr/chapter-232/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE TROU... IL EST BIEN TROP GRAND ET OUVERT POUR ÊTRE UN PIÈGE...",
+   "style": "dialogue",
+   "point": [
+    314,
+    206
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST UN PASSAGE VERS UN AUTRE ÉTAGE.",
+   "style": "dialogue",
+   "point": [
+    434,
+    1158
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...COMME PRÉVU.",
+   "style": "dialogue",
+   "point": [
+    360,
+    1655
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA VEUT DIRE QUE QUELQU’UN AIDE UN PARTICIPANT DEPUIS \"L’EXTÉRIEUR DE L’ARÈNE\".",
+   "style": "dialogue",
+   "point": [
+    338,
+    2431
+   ]
+  },
+  {
+   "id": 5,
+   "text": "HOHO~ ! ALORS C’EST... C’EST... COMMENT ON DIT...",
+   "style": "dialogue",
+   "point": [
+    415,
+    3559
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ÇA S’APPELLE \"TRICHER\".",
+   "style": "dialogue",
+   "point": [
+    409,
+    5292
+   ]
+  },
+  {
+   "id": 8,
+   "text": "T-TRICHER... ! ALORS LES GENS DANS LES TRIBUNES... ?!",
+   "style": "dialogue",
+   "point": [
+    225,
+    6072
+   ]
+  },
+  {
+   "id": 9,
+   "text": "Q-QU’EST-CE QU’ON FAIT, ALORS ?",
+   "style": "dialogue",
+   "point": [
+    603,
+    6847
+   ]
+  },
+  {
+   "id": 10,
+   "text": "QUOI D’AUTRE ?",
+   "style": "dialogue",
+   "point": [
+    392,
+    7607
+   ]
+  },
+  {
+   "id": 11,
+   "text": "JE DOIS LEUR MONTRER MON VRAI POUVOIR.",
+   "style": "dialogue",
+   "point": [
+    389,
+    9913
+   ]
+  },
+  {
+   "id": 12,
+   "text": "POUR QU’UNE CHOSE PAREILLE N’ARRIVE PLUS JAMAIS.",
+   "style": "dialogue",
+   "point": [
+    410,
+    10910
+   ]
+  }
+ ]
+}

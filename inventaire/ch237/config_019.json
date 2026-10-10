@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-237/019.webp",
+ "output": "chapters_fr/chapter-237/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUEL DOMMAGE.",
+   "style": "dialogue",
+   "point": [
+    334,
+    7794
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MÊME EN ESSAYANT, TE COMPRENDRE TOTALEMENT EST IMPOSSIBLE.",
+   "style": "dialogue",
+   "point": [
+    373,
+    9269
+   ]
+  }
+ ]
+}

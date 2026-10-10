@@ -1,0 +1,81 @@
+{
+ "source": "chapters_en/chapter-227/006.webp",
+ "output": "chapters_fr/chapter-227/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN, SORCIÈRE DU LAC DE L’OUEST.",
+   "style": "dialogue",
+   "point": [
+    457,
+    220
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COMME LE PRÉVOYAIT LE CONTRAT, J’AI LIBÉRÉ LA CLASSE \"ARME D’EGO\" QUE VOTRE ENTÊTEMENT AVAIT ENFERMÉE DANS LA TOUR.",
+   "style": "dialogue",
+   "point": [
+    500,
+    667
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’AI FIDÈLEMENT RESPECTÉ LES TERMES DE NOTRE CONTRAT.",
+   "style": "dialogue",
+   "point": [
+    407,
+    2256
+   ],
+   "max_size": 30,
+   "cut": [
+    [
+     200,
+     2462
+    ],
+    [
+     580,
+     2462
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST MAINTENANT À VOUS D’HONORER VOTRE PART.",
+   "style": "dialogue",
+   "point": [
+    474,
+    2705
+   ],
+   "cut": [
+    [
+     200,
+     2462
+    ],
+    [
+     580,
+     2462
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "UN AUTRE DRAGON DE LA MORT CAPTURÉ.",
+   "style": "dialogue",
+   "point": [
+    415,
+    3683
+   ]
+  },
+  {
+   "id": 7,
+   "text": "VEILLEZ À BIEN L’EXÉCUTER.",
+   "style": "dialogue",
+   "point": [
+    411,
+    5609
+   ]
+  }
+ ]
+}

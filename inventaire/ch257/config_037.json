@@ -1,0 +1,133 @@
+{
+ "source": "chapters_en/chapter-257/037.webp",
+ "output": "chapters_fr/chapter-257/037.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "CELA SEUL...",
+   "style": "cartouche",
+   "point": [
+    358,
+    1367
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SUFFISAIT POUR QU’ELLE LUI FASSE CONFIANCE ET SE DÉVOUE À LUI.",
+   "style": "cartouche",
+   "point": [
+    485,
+    2468
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET AINSI...",
+   "style": "cartouche",
+   "point": [
+    430,
+    3915
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    90,
+    0,
+    545,
+    90
+   ],
+   "ink_max": 130,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    253,
+    253,
+    253
+   ]
+  },
+  {
+   "id": 101,
+   "text": "TOURMENTÉE LUI APPARTENAIT\nTOUT ENTIÈRE...",
+   "style": "cartouche",
+   "box": [
+    90,
+    0,
+    545,
+    90
+   ],
+   "target": [
+    105,
+    0,
+    530,
+    82
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 40
+  },
+  {
+   "id": 102,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    275,
+    268,
+    740,
+    468
+   ],
+   "ink_max": 130,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    253,
+    253,
+    253
+   ]
+  },
+  {
+   "id": 103,
+   "text": "ET QU’UN JOUR,\nIL ASSOUVIRAIT\nSA FAIM.",
+   "style": "cartouche",
+   "box": [
+    275,
+    268,
+    740,
+    468
+   ],
+   "target": [
+    290,
+    278,
+    725,
+    458
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 60
+  }
+ ]
+}

@@ -1,0 +1,2841 @@
+{
+ "001.webp": [
+  {
+   "text": "SPATIAL DICTORTION OF \"CONTRACT OF FAIRNECC.\" 83256 HOURC EIAPCED.",
+   "box": [
+    221,
+    1294,
+    575,
+    1439
+   ],
+   "point": [
+    398,
+    1366
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 31
+  }
+ ],
+ "002.webp": [
+  {
+   "text": "OH/ YOU'RE BACK TO YOUR SENSES.",
+   "box": [
+    257,
+    141,
+    542,
+    288
+   ],
+   "point": [
+    399,
+    214
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "KID/ YOU BARELY ESCAPED",
+   "box": [
+    243,
+    1128,
+    595,
+    1229
+   ],
+   "point": [
+    419,
+    1178
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "WHAT WERE YOU DOING?",
+   "box": [
+    226,
+    3213,
+    576,
+    3341
+   ],
+   "point": [
+    401,
+    3277
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 55
+  },
+  {
+   "text": "IN THIS KIND OF WEATUER.",
+   "box": [
+    245,
+    4094,
+    590,
+    4217
+   ],
+   "point": [
+    417,
+    4155
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 53
+  }
+ ],
+ "003.webp": [
+  {
+   "text": "YOU WERE LUCKY,",
+   "box": [
+    168,
+    1247,
+    437,
+    1371
+   ],
+   "point": [
+    302,
+    1309
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 52
+  },
+  {
+   "text": "THERE ARE UARDLY ANY PEOPLE IN THE REMOTE NORTUERN REGION.",
+   "box": [
+    291,
+    2243,
+    650,
+    2393
+   ],
+   "point": [
+    470,
+    2318
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 30
+  },
+  {
+   "text": "FORTUNATELY, THERE WAS A VILLAGE NEAR TO WHERE YOU COLLAPSED.",
+   "box": [
+    154,
+    2982,
+    487,
+    3139
+   ],
+   "point": [
+    320,
+    3060
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "IT'S A PLACE WHERE THOSE WHO HAVE LOST THEIR WAY GATHER.",
+   "box": [
+    356,
+    4142,
+    698,
+    4315
+   ],
+   "point": [
+    527,
+    4228
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "IT MAY BE AN EXAGGEUTJON/ BUT-",
+   "box": [
+    163,
+    4824,
+    465,
+    4963
+   ],
+   "point": [
+    314,
+    4893
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "I'M THE ONE LEADING THAT VILLAGE,",
+   "box": [
+    305,
+    5963,
+    624,
+    6131
+   ],
+   "point": [
+    464,
+    6047
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 46
+  }
+ ],
+ "004.webp": [
+  {
+   "text": "DRINK UP.",
+   "box": [
+    161,
+    199,
+    464,
+    264
+   ],
+   "point": [
+    312,
+    231
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 65
+  },
+  {
+   "text": "IT'LL WARM YOUR BODY.",
+   "box": [
+    328,
+    1323,
+    608,
+    1502
+   ],
+   "point": [
+    468,
+    1412
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 48
+  },
+  {
+   "text": "...GRAPE VINE, WHAT A RARE HOSPITALITY.",
+   "box": [
+    147,
+    3520,
+    655,
+    3635
+   ],
+   "point": [
+    401,
+    3577
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 53
+  },
+  {
+   "text": "AS EXPECTED! YOU RECOGNIZE",
+   "box": [
+    128,
+    4388,
+    399,
+    4464
+   ],
+   "point": [
+    263,
+    4426
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "YOU ALMOST BECAME FOOD FOR SCAVENGERS EARLIER.",
+   "box": [
+    283,
+    5266,
+    595,
+    5372
+   ],
+   "point": [
+    439,
+    5319
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 28
+  }
+ ],
+ "005.webp": [
+  {
+   "text": "THIS GRAPE WINE IS A SPECIALTY OF THE SOUTUERN EMPIRE.",
+   "box": [
+    215,
+    177,
+    584,
+    298
+   ],
+   "point": [
+    399,
+    237
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "1 VISITED THERE ONCE BEFORE.",
+   "box": [
+    211,
+    1591,
+    506,
+    1762
+   ],
+   "point": [
+    358,
+    1676
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "THE SILVER-UAIRED LADY OF SERENE UEIGUTS.",
+   "box": [
+    161,
+    2323,
+    539,
+    2473
+   ],
+   "point": [
+    350,
+    2398
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    477,
+    3385,
+    544,
+    3496
+   ],
+   "id": 4,
+   "point": [
+    510,
+    3440
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "IT WAS A LAND OF ABUNDANCE.",
+   "box": [
+    247,
+    3858,
+    619,
+    3967
+   ],
+   "point": [
+    433,
+    3912
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 46
+  }
+ ],
+ "006.webp": [
+  {
+   "text": "BUT AT SOME POINT BEFORE THE STONE AGE,",
+   "box": [
+    240,
+    158,
+    536,
+    277
+   ],
+   "point": [
+    388,
+    217
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "IT SUDDENLY COLLAPSED.",
+   "box": [
+    389,
+    892,
+    661,
+    994
+   ],
+   "point": [
+    525,
+    943
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "ACCORDING TO RUMORS, NOTHING REMAINS IN THAT LAND.",
+   "box": [
+    141,
+    1562,
+    455,
+    1731
+   ],
+   "point": [
+    298,
+    1646
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    336,
+    3131,
+    672,
+    3285
+   ],
+   "id": 4,
+   "point": [
+    504,
+    3208
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "PERHAPS BECAUSE OF THAT/ PEOPLE BELIEVE THAT THE CAUSE OF THE DESTRUCTION...",
+   "box": [
+    102,
+    3775,
+    440,
+    3906
+   ],
+   "point": [
+    271,
+    3840
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 26
+  },
+  {
+   "text": "WAS A OODEMON,\"",
+   "box": [
+    366,
+    4570,
+    636,
+    4698
+   ],
+   "point": [
+    501,
+    4634
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 56
+  }
+ ],
+ "007.webp": [
+  {
+   "text": "HE...",
+   "box": [
+    338,
+    719,
+    454,
+    768
+   ],
+   "point": [
+    396,
+    743
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 49
+  },
+  {
+   "text": "LOOKS LIKE THERE'S SOMETHING HE ME TO KNOW.",
+   "box": [
+    135,
+    920,
+    635,
+    1106
+   ],
+   "point": [
+    385,
+    1013
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 52
+  },
+  {
+   "text": "THREE DAYS...",
+   "box": [
+    288,
+    2747,
+    480,
+    2881
+   ],
+   "point": [
+    384,
+    2814
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 57
+  },
+  {
+   "text": "IT'S BEEN SNOWING FOR THREE DAYS.",
+   "box": [
+    259,
+    3551,
+    571,
+    3706
+   ],
+   "point": [
+    415,
+    3628
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 43
+  }
+ ],
+ "008.webp": [
+  {
+   "text": "WHEN 1 FOUND YOU...",
+   "box": [
+    302,
+    136,
+    515,
+    321
+   ],
+   "point": [
+    408,
+    228
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "1 NEVER THOUGHT YOU'D STILL BE ALIVE.",
+   "box": [
+    220,
+    1731,
+    605,
+    1901
+   ],
+   "point": [
+    412,
+    1816
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "1 ONLY REALIZED IT AFTER BRINGING YOU UERE.",
+   "box": [
+    156,
+    2391,
+    457,
+    2510
+   ],
+   "point": [
+    306,
+    2450
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "THE FACT THAT YOU WERE NEVER ONCE SCARED.",
+   "box": [
+    358,
+    3217,
+    643,
+    3342
+   ],
+   "point": [
+    500,
+    3279
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "AND THAT EXPRESSION OF YOURS.",
+   "box": [
+    239,
+    3832,
+    561,
+    3981
+   ],
+   "point": [
+    400,
+    3906
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 40
+  }
+ ],
+ "009.webp": [
+  {
+   "text": "YOU/",
+   "box": [
+    239,
+    148,
+    400,
+    225
+   ],
+   "point": [
+    319,
+    186
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 77
+  },
+  {
+   "text": "WHO ARE",
+   "box": [
+    286,
+    1122,
+    547,
+    1177
+   ],
+   "point": [
+    416,
+    1149
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 55
+  }
+ ],
+ "010.webp": [
+  {
+   "text": "THE OLDE ON TOP OF THE HILL.",
+   "box": [
+    191,
+    1017,
+    452,
+    1179
+   ],
+   "point": [
+    321,
+    1098
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "THE OLDEST OF DARKNESS.",
+   "box": [
+    351,
+    1638,
+    666,
+    1742
+   ],
+   "point": [
+    508,
+    1690
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "THE SAGE OF THE EAST,",
+   "box": [
+    139,
+    2348,
+    429,
+    2449
+   ],
+   "point": [
+    284,
+    2398
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "A MAN WITH FORESJGHT,",
+   "box": [
+    372,
+    2928,
+    632,
+    3033
+   ],
+   "point": [
+    502,
+    2980
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "PROPUET OF THE END.",
+   "box": [
+    148,
+    3509,
+    429,
+    3610
+   ],
+   "point": [
+    288,
+    3559
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "AND NOW„.",
+   "box": [
+    335,
+    4515,
+    657,
+    4572
+   ],
+   "point": [
+    496,
+    4543
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 57
+  },
+  {
+   "text": "THE DEMON.",
+   "box": [
+    165,
+    5173,
+    577,
+    5249
+   ],
+   "point": [
+    371,
+    5211
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 76
+  },
+  {
+   "text": "...THAT'S WHAT THEY CALLED ME.",
+   "box": [
+    243,
+    7308,
+    594,
+    7528
+   ],
+   "point": [
+    418,
+    7418
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 61
+  }
+ ],
+ "011.webp": [
+  {
+   "text": "YOU.",
+   "box": [
+    205,
+    426,
+    341,
+    486
+   ],
+   "point": [
+    273,
+    456
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 60
+  },
+  {
+   "text": "EVEN KNOWING EVERYTUING, INITIATING A CONVERSATION MEANS...",
+   "box": [
+    171,
+    690,
+    526,
+    842
+   ],
+   "point": [
+    348,
+    766
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 31
+  },
+  {
+   "text": "THERE IS SOMETHING you DESIRE.",
+   "box": [
+    237,
+    1986,
+    559,
+    2139
+   ],
+   "point": [
+    398,
+    2062
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 56
+  },
+  {
+   "text": "SO/ WHAT IS IT?",
+   "box": [
+    210,
+    2715,
+    546,
+    2894
+   ],
+   "point": [
+    378,
+    2804
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 87
+  },
+  {
+   "text": "WHATEVER IT IS/ GRANT IT.",
+   "box": [
+    185,
+    4922,
+    602,
+    5045
+   ],
+   "point": [
+    393,
+    4983
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 56
+  }
+ ],
+ "012.webp": [
+  {
+   "text": "BUT...",
+   "box": [
+    219,
+    168,
+    431,
+    245
+   ],
+   "point": [
+    325,
+    206
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 77
+  },
+  {
+   "text": "IT HAS A PRICE.",
+   "box": [
+    334,
+    1307,
+    603,
+    1470
+   ],
+   "point": [
+    468,
+    1388
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 68
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    275,
+    2499,
+    518,
+    2621
+   ],
+   "id": 3,
+   "point": [
+    396,
+    2560
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "013.webp": [
+  {
+   "text": "COON) A HERO EMERGED FROM THE NORTHERN FRONTIER) AND A NATION WAC BORN.",
+   "box": [
+    226,
+    358,
+    576,
+    571
+   ],
+   "point": [
+    401,
+    464
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "A HERO WAC GIVEN CUPERNATURAL POWERS BY GOD.",
+   "box": [
+    142,
+    1223,
+    476,
+    1341
+   ],
+   "point": [
+    309,
+    1282
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "WITH THAT POWER) HE MELTED THE FROZEN GROUND...",
+   "box": [
+    318,
+    1538,
+    680,
+    1661
+   ],
+   "point": [
+    499,
+    1599
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    332,
+    2546,
+    483,
+    2717
+   ],
+   "id": 4,
+   "point": [
+    407,
+    2631
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "AND MAD PLACE ABUNDANT.",
+   "box": [
+    202,
+    3651,
+    590,
+    3762
+   ],
+   "point": [
+    396,
+    3706
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "AND AFTER A LONG TIME) WREN THE HERO PACCED AWAY...",
+   "box": [
+    229,
+    5968,
+    556,
+    6083
+   ],
+   "point": [
+    392,
+    6025
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 34
+  }
+ ],
+ "014.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    156,
+    384,
+    339,
+    471
+   ],
+   "id": 1,
+   "point": [
+    247,
+    427
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "THE COUNTRY FELL INTO RUIN.",
+   "box": [
+    217,
+    1159,
+    585,
+    1261
+   ],
+   "point": [
+    401,
+    1210
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 45
+  }
+ ],
+ "015.webp": [
+  {
+   "text": "UMM...",
+   "box": [
+    355,
+    108,
+    524,
+    157
+   ],
+   "point": [
+    439,
+    132
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "AS EXPECTED, A MALE BODY TASTES BETTER.",
+   "box": [
+    180,
+    1637,
+    565,
+    1771
+   ],
+   "point": [
+    372,
+    1704
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "NOW/",
+   "box": [
+    225,
+    2401,
+    408,
+    2479
+   ],
+   "point": [
+    316,
+    2440
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 78
+  },
+  {
+   "text": "dll",
+   "box": [
+    337,
+    3088,
+    403,
+    3131
+   ],
+   "point": [
+    370,
+    3109
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    334,
+    3318,
+    752,
+    3754
+   ],
+   "id": 5,
+   "point": [
+    543,
+    3536
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "WHERE SHOULD WE GO NEXT?",
+   "box": [
+    247,
+    4842,
+    607,
+    5065
+   ],
+   "point": [
+    427,
+    4953
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 59
+  },
+  {
+   "text": "THUS, THE MOMENT OF REPENS ITSELF Foi A LONG TIME.",
+   "box": [
+    147,
+    6203,
+    654,
+    6355
+   ],
+   "point": [
+    400,
+    6279
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 48
+  }
+ ],
+ "016.webp": [],
+ "017.webp": [
+  {
+   "text": "THE powü",
+   "box": [
+    208,
+    1960,
+    463,
+    2029
+   ],
+   "point": [
+    335,
+    1994
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 69
+  },
+  {
+   "text": "' éiEN THE GODS.",
+   "box": [
+    140,
+    2145,
+    608,
+    2208
+   ],
+   "point": [
+    374,
+    2176
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 63
+  },
+  {
+   "text": "THE THAT HAb WITHIN",
+   "box": [
+    42,
+    3914,
+    237,
+    4062
+   ],
+   "point": [
+    139,
+    3988
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "RESPONiATO HUMANITY'S",
+   "box": [
+    280,
+    5108,
+    780,
+    5174
+   ],
+   "point": [
+    530,
+    5141
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 66
+  }
+ ],
+ "018.webp": [
+  {
+   "text": "THE ONE WHO BREAKC THE WORLDIC ORDER IC THAT PERSON.",
+   "box": [
+    145,
+    99,
+    471,
+    258
+   ],
+   "point": [
+    308,
+    178
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "THEY ARE DRAWN TO THIC TEMPTATION.",
+   "box": [
+    374,
+    401,
+    638,
+    531
+   ],
+   "point": [
+    506,
+    466
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "TRUC) THE LADY BECAME A RENOWNED EXPLORER",
+   "box": [
+    119,
+    4527,
+    480,
+    4657
+   ],
+   "point": [
+    299,
+    4592
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "AND TOOK ON A LONG AND ARDUOUC LIFE.",
+   "box": [
+    317,
+    4840,
+    636,
+    4963
+   ],
+   "point": [
+    476,
+    4901
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 35
+  }
+ ],
+ "019.webp": [
+  {
+   "text": "UNTIL \"THAT DAY\" COMES.",
+   "box": [
+    126,
+    486,
+    675,
+    640
+   ],
+   "point": [
+    400,
+    563
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 69
+  },
+  {
+   "text": "THE CYCLE OF KARMA IC NOW CUT OFF.",
+   "box": [
+    221,
+    2531,
+    587,
+    2713
+   ],
+   "point": [
+    404,
+    2622
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 52
+  },
+  {
+   "text": "THE PROMISE OF IC SOMETHING THAT CAN NEVER BE UNDONE.",
+   "box": [
+    130,
+    4535,
+    497,
+    4718
+   ],
+   "point": [
+    313,
+    4626
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "SOMETHING IC CONTROLLING DEATH.",
+   "box": [
+    329,
+    4890,
+    662,
+    5040
+   ],
+   "point": [
+    495,
+    4965
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 42
+  }
+ ],
+ "020.webp": [
+  {
+   "text": "EVERY CONTUCTORS„.",
+   "box": [
+    232,
+    185,
+    587,
+    285
+   ],
+   "point": [
+    409,
+    235
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "COME THIS FAR TOWARD THE TOWER?",
+   "box": [
+    236,
+    2226,
+    601,
+    2383
+   ],
+   "point": [
+    418,
+    2304
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "UNNAMED WAC RECOGNIZED BY THE TOWER EARLY ON.",
+   "box": [
+    150,
+    3093,
+    514,
+    3236
+   ],
+   "point": [
+    332,
+    3164
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "THERE)C ALCO A RUMOR ABOUT ARTHUR.",
+   "box": [
+    342,
+    3974,
+    659,
+    4123
+   ],
+   "point": [
+    500,
+    4048
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "BUT 1 REFRAINED FROM APPROACHING",
+   "box": [
+    125,
+    4631,
+    474,
+    4712
+   ],
+   "point": [
+    299,
+    4671
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "BECAUCE AC A FELLOW EXPLORER) 1 DIDN)T WANT TO DICTURB ARTHUR.",
+   "box": [
+    324,
+    4893,
+    645,
+    5071
+   ],
+   "point": [
+    484,
+    4982
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    340,
+    5252,
+    426,
+    5355
+   ],
+   "id": 7,
+   "point": [
+    383,
+    5303
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "HOWEVER...",
+   "box": [
+    273,
+    6254,
+    539,
+    6307
+   ],
+   "point": [
+    406,
+    6280
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 53
+  }
+ ],
+ "021.webp": [
+  {
+   "text": "DIFFERENT WREN THE QUECT GETS VIOLATED.",
+   "box": [
+    206,
+    139,
+    597,
+    322
+   ],
+   "point": [
+    401,
+    230
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 52
+  },
+  {
+   "text": "W THE END WEILL MEET AGA/N/ \"ARTHUR.\"",
+   "box": [
+    267,
+    1915,
+    636,
+    2064
+   ],
+   "point": [
+    451,
+    1989
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "UNNAMED...",
+   "box": [
+    264,
+    2748,
+    520,
+    2800
+   ],
+   "point": [
+    392,
+    2774
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 52
+  },
+  {
+   "text": "HEADED TOWARD THE TOWER.",
+   "box": [
+    231,
+    3387,
+    565,
+    3489
+   ],
+   "point": [
+    398,
+    3438
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "TO FIND THE ULTIMATE SOLUTION TO TUE PROBIEM.",
+   "box": [
+    269,
+    3962,
+    587,
+    4083
+   ],
+   "point": [
+    428,
+    4022
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    349,
+    4544,
+    458,
+    4737
+   ],
+   "id": 6,
+   "point": [
+    403,
+    4640
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "022.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    79,
+    72,
+    549,
+    467
+   ],
+   "id": 1,
+   "point": [
+    314,
+    269
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    181,
+    677,
+    663,
+    1213
+   ],
+   "id": 2,
+   "point": [
+    422,
+    945
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "YOU DON'T WANT THAT?",
+   "box": [
+    195,
+    1373,
+    573,
+    1523
+   ],
+   "point": [
+    384,
+    1448
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 66
+  },
+  {
+   "text": "IT WENT BETTER THAN EXPECTED, THOUGH.",
+   "box": [
+    184,
+    2224,
+    425,
+    2334
+   ],
+   "point": [
+    304,
+    2279
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 31
+  },
+  {
+   "text": "YOUR POWER. IF YOU CAN'T USE IT PROPERLY/ GIVE IT TO ME.",
+   "box": [
+    237,
+    2535,
+    547,
+    2696
+   ],
+   "point": [
+    392,
+    2615
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "PRA",
+   "box": [
+    443,
+    3007,
+    497,
+    3050
+   ],
+   "point": [
+    470,
+    3028
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "l'IL GIVE IT TO OTHERS. 1 THINK THE MORE YOU SHARE/ THE MORE FUN IT WILL BE.",
+   "box": [
+    353,
+    3829,
+    656,
+    4014
+   ],
+   "point": [
+    504,
+    3921
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 30
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    276,
+    5292,
+    446,
+    5487
+   ],
+   "id": 8,
+   "point": [
+    361,
+    5389
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "023.webp": [
+  {
+   "text": "SHOULD WE TRY",
+   "box": [
+    207,
+    155,
+    491,
+    267
+   ],
+   "point": [
+    349,
+    211
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 47
+  },
+  {
+   "text": "DO YOU THINK YOU CAN BEAT ME IN MY TERRITORY?",
+   "box": [
+    276,
+    1244,
+    637,
+    1379
+   ],
+   "point": [
+    456,
+    1311
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "WHAT ABOUT IF YOU LOSE YOU'LL STAY IN THE BASEMENT AND DO NOTHING?",
+   "box": [
+    206,
+    2983,
+    602,
+    3161
+   ],
+   "point": [
+    404,
+    3072
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 36
+  }
+ ],
+ "024.webp": [
+  {
+   "text": "YOUR OVESSEL\" UAS BEEN TAKEN AWAY.",
+   "box": [
+    200,
+    3991,
+    459,
+    4114
+   ],
+   "point": [
+    329,
+    4052
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "IF YOU ESCAPE THIS",
+   "box": [
+    215,
+    5129,
+    497,
+    5222
+   ],
+   "point": [
+    356,
+    5175
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "YOUR EXISTENCE CAN'T BE SUSTAINED.",
+   "box": [
+    344,
+    5449,
+    623,
+    5573
+   ],
+   "point": [
+    483,
+    5511
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 34
+  }
+ ],
+ "025.webp": [
+  {
+   "text": "IF YOU'RE AN 'EXPLORER/\" YOU SHOULD UNDERSTAND WHAT 1 MEAN.",
+   "box": [
+    235,
+    166,
+    577,
+    328
+   ],
+   "point": [
+    406,
+    247
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "DON'T BE TOO ANGRY.",
+   "box": [
+    197,
+    2468,
+    483,
+    2578
+   ],
+   "point": [
+    340,
+    2523
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 47
+  },
+  {
+   "text": "JUST FOR MOMENT/ FOR ARTHUR'S",
+   "box": [
+    208,
+    3598,
+    440,
+    3719
+   ],
+   "point": [
+    324,
+    3658
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "JUST FOR NIS PLEASURE,..",
+   "box": [
+    333,
+    3950,
+    610,
+    4050
+   ],
+   "point": [
+    471,
+    4000
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 42
+  }
+ ],
+ "026.webp": [
+  {
+   "text": "DO YOU WANT TO LIVE LIKE THAT AGAIN?",
+   "box": [
+    170,
+    181,
+    544,
+    335
+   ],
+   "point": [
+    357,
+    258
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "THENI LET'S MEET AGAIN.",
+   "box": [
+    214,
+    4954,
+    435,
+    5103
+   ],
+   "point": [
+    324,
+    5028
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "NAMELESS EXISTENCE.",
+   "box": [
+    300,
+    5302,
+    546,
+    5411
+   ],
+   "point": [
+    423,
+    5356
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 48
+  }
+ ],
+ "027.webp": [
+  {
+   "text": "WHAT DOES THAT TH/NG SAW",
+   "box": [
+    143,
+    1587,
+    464,
+    1674
+   ],
+   "point": [
+    303,
+    1630
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "WHY",
+   "box": [
+    391,
+    2878,
+    477,
+    2919
+   ],
+   "point": [
+    434,
+    2898
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "DO/NG TH/sr",
+   "box": [
+    295,
+    2984,
+    563,
+    3027
+   ],
+   "point": [
+    429,
+    3005
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "VUERV TUV HELL DID IT ALL GO WRONG?",
+   "box": [
+    95,
+    3637,
+    702,
+    3895
+   ],
+   "point": [
+    398,
+    3766
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 66
+  }
+ ],
+ "028.webp": [
+  {
+   "text": "I was FULLOF DOUBTS.",
+   "box": [
+    157,
+    1020,
+    663,
+    1175
+   ],
+   "point": [
+    410,
+    1097
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 66
+  },
+  {
+   "text": "AND THEN IT REPENS",
+   "box": [
+    216,
+    3916,
+    545,
+    4036
+   ],
+   "point": [
+    380,
+    3976
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 51
+  },
+  {
+   "text": "NO MATTER HOW MANY TIMES I REPEATED IT, THE THOUGHT NEVER STOPPED.",
+   "box": [
+    42,
+    4723,
+    474,
+    4917
+   ],
+   "point": [
+    258,
+    4820
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 41
+  },
+  {
+   "text": "AND THE SITUATION ISN'T RESOLVED EITHER.",
+   "box": [
+    310,
+    5817,
+    741,
+    5954
+   ],
+   "point": [
+    525,
+    5885
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 37
+  },
+  {
+   "text": "I ONLY CAN WAIT UNTIL THE TIME ENDS.",
+   "box": [
+    194,
+    6520,
+    606,
+    6724
+   ],
+   "point": [
+    400,
+    6622
+   ],
+   "id": 5,
+   "kind": "dessin",
+   "line_h": 58
+  }
+ ],
+ "029.webp": [
+  {
+   "text": "AND I SWEAR...",
+   "box": [
+    195,
+    211,
+    595,
+    268
+   ],
+   "point": [
+    395,
+    239
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 57
+  },
+  {
+   "text": "I'LL NEVER SUFFER THIS HUMILIATION AGAIN.",
+   "box": [
+    103,
+    1231,
+    710,
+    1362
+   ],
+   "point": [
+    406,
+    1296
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 59
+  }
+ ],
+ "030.webp": [
+  {
+   "text": "1 1,11 Il",
+   "box": [
+    295,
+    1700,
+    392,
+    1767
+   ],
+   "point": [
+    343,
+    1733
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 67
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    219,
+    2242,
+    595,
+    2331
+   ],
+   "id": 2,
+   "point": [
+    407,
+    2286
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "031.webp": [
+  {
+   "text": "c'RrRID6F OPFM",
+   "box": [
+    132,
+    4549,
+    651,
+    4761
+   ],
+   "point": [
+    391,
+    4655
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 93
+  }
+ ],
+ "032.webp": [
+  {
+   "text": "THE PRICE IS ASARYUN'S CONTUCT.",
+   "box": [
+    261,
+    808,
+    587,
+    1008
+   ],
+   "point": [
+    424,
+    908
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 54
+  },
+  {
+   "text": "WHAT,..?",
+   "box": [
+    399,
+    2594,
+    552,
+    2630
+   ],
+   "point": [
+    475,
+    2612
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "1 HOPE FOR...",
+   "box": [
+    300,
+    3667,
+    511,
+    3811
+   ],
+   "point": [
+    405,
+    3739
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 61
+  },
+  {
+   "text": "Osouc SWORD.\"",
+   "box": [
+    247,
+    4777,
+    538,
+    4929
+   ],
+   "point": [
+    392,
+    4853
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 66
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    115,
+    5069,
+    774,
+    5653
+   ],
+   "id": 5,
+   "point": [
+    444,
+    5361
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "033.webp": [
+  {
+   "text": "THE BESTOWED BY THE GODS.",
+   "box": [
+    166,
+    2452,
+    697,
+    2724
+   ],
+   "point": [
+    431,
+    2588
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 75
+  },
+  {
+   "text": "'iOU(ASWORDf IBORkO)WElfibULii?",
+   "box": [
+    99,
+    4205,
+    709,
+    4484
+   ],
+   "point": [
+    404,
+    4344
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 100
+  }
+ ],
+ "034.webp": [
+  {
+   "text": "EGO WEAPON'S OYMITATION\"",
+   "box": [
+    244,
+    580,
+    582,
+    681
+   ],
+   "point": [
+    413,
+    630
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    343,
+    1082,
+    568,
+    1248
+   ],
+   "id": 2,
+   "point": [
+    455,
+    1165
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "DID YOU USE YOUR HEAD?",
+   "box": [
+    290,
+    1477,
+    462,
+    1609
+   ],
+   "point": [
+    376,
+    1543
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    42,
+    2688,
+    282,
+    2803
+   ],
+   "id": 4,
+   "point": [
+    162,
+    2745
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "035.webp": [
+  {
+   "text": "RELEASE",
+   "box": [
+    244,
+    1724,
+    560,
+    1802
+   ],
+   "point": [
+    402,
+    1763
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 78
+  }
+ ],
+ "036.webp": [],
+ "037.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    409,
+    5866,
+    725,
+    5925
+   ],
+   "id": 1,
+   "point": [
+    567,
+    5895
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "038.webp": [
+  {
+   "text": "...FINALLY/ 1 FOUND IT! THE REMAINING FRAGMENTS OF NAGI!",
+   "box": [
+    187,
+    2592,
+    593,
+    2806
+   ],
+   "point": [
+    390,
+    2699
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    159,
+    3146,
+    292,
+    3320
+   ],
+   "id": 2,
+   "point": [
+    225,
+    3233
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "You... WILL DEFINITELY„. BE SACRIFICED... IN DISGRACE...!",
+   "box": [
+    153,
+    4201,
+    480,
+    4383
+   ],
+   "point": [
+    316,
+    4292
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "YOU THINK YOU CAN DECEIVE",
+   "box": [
+    263,
+    4541,
+    614,
+    4637
+   ],
+   "point": [
+    438,
+    4589
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "OCONDITION\" HAS BEEN MET,",
+   "box": [
+    234,
+    6035,
+    588,
+    6155
+   ],
+   "point": [
+    411,
+    6095
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 52
+  }
+ ],
+ "039.webp": [
+  {
+   "text": "ACTIVATE SKILL",
+   "box": [
+    273,
+    781,
+    560,
+    937
+   ],
+   "point": [
+    416,
+    859
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 69
+  },
+  {
+   "text": "TRE tropu (AVALON)",
+   "box": [
+    113,
+    2828,
+    684,
+    3209
+   ],
+   "point": [
+    398,
+    3018
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 111
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    408,
+    3088,
+    520,
+    3181
+   ],
+   "id": 3,
+   "point": [
+    464,
+    3134
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "040.webp": [
+  {
+   "text": "NAG/'S SOUL, , _ q",
+   "box": [
+    206,
+    193,
+    473,
+    337
+   ],
+   "point": [
+    339,
+    265
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 61
+  },
+  {
+   "text": "SCOUNDREL..,",
+   "box": [
+    265,
+    1398,
+    557,
+    1440
+   ],
+   "point": [
+    411,
+    1419
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "A//U/NG FOR TH/SSWCETHE",
+   "box": [
+    255,
+    1708,
+    584,
+    1810
+   ],
+   "point": [
+    419,
+    1759
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "Now,K/m NOW/ KIM TAE-WON. TAE-WON.",
+   "box": [
+    54,
+    5173,
+    544,
+    5361
+   ],
+   "point": [
+    299,
+    5267
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 86
+  },
+  {
+   "text": "WITH THIS/ 1 KEPT MY PROMISE,",
+   "box": [
+    231,
+    6601,
+    524,
+    6807
+   ],
+   "point": [
+    377,
+    6704
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 57
+  }
+ ],
+ "041.webp": [
+  {
+   "text": "1 CANIT GO THAT WAY.",
+   "box": [
+    219,
+    725,
+    561,
+    872
+   ],
+   "point": [
+    390,
+    798
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 62
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    168,
+    2000,
+    651,
+    2285
+   ],
+   "id": 2,
+   "point": [
+    409,
+    2142
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    210,
+    4961,
+    585,
+    5058
+   ],
+   "id": 3,
+   "point": [
+    397,
+    5009
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "042.webp": [
+  {
+   "text": "TH/S/S ALL THE STORY r CAN SHOW YOU",
+   "box": [
+    212,
+    1255,
+    577,
+    1416
+   ],
+   "point": [
+    394,
+    1335
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    215,
+    2032,
+    546,
+    2440
+   ],
+   "id": 2,
+   "point": [
+    380,
+    2236
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "r ENTRUsr THE Wgxr\" ro YOU.",
+   "box": [
+    246,
+    3407,
+    561,
+    3616
+   ],
+   "point": [
+    403,
+    3511
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 57
+  }
+ ],
+ "043.webp": [],
+ "044.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    283,
+    480,
+    402,
+    551
+   ],
+   "id": 1,
+   "point": [
+    342,
+    515
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    232,
+    1546,
+    564,
+    1639
+   ],
+   "id": 2,
+   "point": [
+    398,
+    1592
+   ],
+   "kind": "dessin",
+   "line_h": 93
+  },
+  {
+   "text": "WINNER, UNNAMED",
+   "box": [
+    147,
+    1547,
+    653,
+    1788
+   ],
+   "point": [
+    400,
+    1667
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 104
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    147,
+    1668,
+    581,
+    1787
+   ],
+   "id": 4,
+   "point": [
+    364,
+    1727
+   ],
+   "kind": "bulle",
+   "line_h": 116
+  }
+ ],
+ "045.webp": [
+  {
+   "text": "FINAL BATTLE SECOND ROUND",
+   "box": [
+    131,
+    972,
+    665,
+    1147
+   ],
+   "point": [
+    398,
+    1059
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 79
+  },
+  {
+   "text": "DEAN",
+   "box": [
+    288,
+    1296,
+    508,
+    1382
+   ],
+   "point": [
+    398,
+    1339
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 86
+  },
+  {
+   "text": "vs",
+   "box": [
+    350,
+    1531,
+    451,
+    1617
+   ],
+   "point": [
+    400,
+    1574
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 86
+  },
+  {
+   "text": "ZICHMUND ZICHMUND",
+   "box": [
+    286,
+    1763,
+    742,
+    1863
+   ],
+   "point": [
+    514,
+    1813
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 96
+  },
+  {
+   "text": "Ifi1ÏHlSSf11fSf11SÏiÏ:",
+   "box": [
+    48,
+    2593,
+    760,
+    2683
+   ],
+   "point": [
+    404,
+    2638
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 90
+  },
+  {
+   "text": "Ëcl",
+   "box": [
+    664,
+    3352,
+    728,
+    3390
+   ],
+   "point": [
+    696,
+    3371
+   ],
+   "id": 6,
+   "kind": "dessin",
+   "line_h": 38
+  }
+ ]
+}

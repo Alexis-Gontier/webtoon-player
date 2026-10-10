@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-256/048.webp",
+ "output": "chapters_fr/chapter-256/048.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VOUS\nEN PRIE...",
+   "style": "dialogue",
+   "point": [
+    247,
+    3141
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PARDON, ARTHUR...",
+   "style": "dialogue",
+   "point": [
+    506,
+    4255
+   ]
+  },
+  {
+   "id": 100,
+   "text": "J-",
+   "style": "dialogue",
+   "point": [
+    155,
+    2975
+   ]
+  }
+ ]
+}

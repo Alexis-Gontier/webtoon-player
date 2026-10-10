@@ -1,0 +1,43 @@
+{
+ "source": "chapters_en/chapter-251/030.webp",
+ "output": "chapters_fr/chapter-251/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET VOUS\nDEUX, ALORS ?",
+   "style": "dialogue",
+   "point": [
+    452,
+    1804
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POURQUOI VOUS VOUS FAITES DES MAMOURS DANS UN ENDROIT PAREIL ?",
+   "style": "dialogue",
+   "point": [
+    412,
+    3417
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EH BIEN...",
+   "style": "dialogue",
+   "point": [
+    303,
+    4416
+   ]
+  },
+  {
+   "id": 100,
+   "text": "POURQUOI TU\nDEMANDES ÇA EN\nPLEIN MILIEU\nDE TOUT ÇA ?!",
+   "style": "italique",
+   "point": [
+    350,
+    1488
+   ],
+   "max_size": 46
+  }
+ ]
+}

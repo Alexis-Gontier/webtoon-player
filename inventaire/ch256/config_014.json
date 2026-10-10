@@ -1,0 +1,16 @@
+{
+ "source": "chapters_en/chapter-256/014.webp",
+ "output": "chapters_fr/chapter-256/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DANSE DU\nCHAOS !",
+   "style": "italique",
+   "point": [
+    386,
+    223
+   ],
+   "erase_color": true
+  }
+ ]
+}

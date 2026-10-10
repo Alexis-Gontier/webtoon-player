@@ -1,0 +1,25 @@
+{
+ "source": "chapters_en/chapter-239/040.webp",
+ "output": "chapters_fr/chapter-239/040.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VOIS !",
+   "style": "dialogue",
+   "point": [
+    405,
+    577
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PARCE QUE C’EST LUI.",
+   "style": "dialogue",
+   "point": [
+    411,
+    1740
+   ],
+   "erase_color": true
+  }
+ ]
+}

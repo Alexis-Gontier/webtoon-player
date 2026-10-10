@@ -1,0 +1,480 @@
+# Chapitre 257 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+# Passé de Lucia et d'Arthur Zichmund. Narration en cartouches : style cartouche ; légendes blanches sur le dessin : systeme en box.
+# Onomatopées coréennes gardées. Arthur tutoie Lucia.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+# EN: LONG, LONG AGO, IN THE DISTANT PAST.
+001.3 | systeme {"box": [130, 1300, 690, 1480], "outlined": 2, "ink_max": 130, "light_min": 200, "max_letter": 70, "grow": 4, "colors": [[255,255,255],[255,255,255]], "outline": [20,20,40], "outline_width": 3} | IL Y A LONGTEMPS,\nTRÈS LONGTEMPS.
+# EN: BY THE WILL OF THE ABSOLUTE GOD ARTHUR, THE SKY TOWER, TERRARIUM, WAS BORN.
+001.4 | systeme {"box": [90, 2270, 745, 2525], "outlined": 2, "ink_max": 130, "light_min": 200, "max_letter": 70, "grow": 4, "colors": [[255,255,255],[255,255,255]], "outline": [20,20,40], "outline_width": 3} | PAR LA VOLONTÉ DU DIEU ABSOLU ARTHUR,\nLA TOUR CÉLESTE, LE TERRARIUM,\nVIT LE JOUR.
+# EN: AND THEN...
+001.5 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [20,20,40], "outline_width": 3} | ET ALORS...
+# EN: JUST AS A DARK SHADOW IS CAST BENEATH A BRILLIANT LIGHT...
+001.6 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [20,20,40], "outline_width": 3} | COMME UNE OMBRE NOIRE SE PROJETTE\nSOUS UNE LUMIÈRE ÉCLATANTE...
+
+## 002.webp
+# EN: KARMA CAME TO DWELL IN THE DEEPEST DARKNESS BENEATH THAT SHADOW.
+002.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [20,20,40], "outline_width": 3} | UN KARMA VINT HABITER\nLES TÉNÈBRES LES PLUS PROFONDES\nSOUS CETTE OMBRE.
+
+## 003.webp
+# EN: THE FIRST THING SHE SAW WHEN SHE OPENED HER EYES...
+003.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | LA PREMIÈRE CHOSE QU’ELLE VIT\nEN OUVRANT LES YEUX...
+# EN: WAS THE VESSEL OF THE WORLD'S DESTINY.
+003.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | FUT LE RÉCEPTACLE\nDU DESTIN DU MONDE.
+
+## 004.webp
+# EN: A VESSEL CONTAINING EVERY SOUL IN THAT WORLD.
+004.1 | cartouche | UN RÉCEPTACLE CONTENANT TOUTES LES ÂMES DE CE MONDE.
+
+## 005.webp
+# EN: SHE FELT THAT IF SHE COULD ONLY POSSESS IT, SHE WOULD BE CAPABLE OF ANYTHING.
+005.1 | cartouche | ELLE SENTIT QUE SI ELLE POUVAIT LE POSSÉDER, PLUS RIEN NE LUI SERAIT IMPOSSIBLE.
+# EN: AND SO, FOR THE FIRST TIME...
+005.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | ET AINSI, POUR LA\nPREMIÈRE FOIS...
+
+## 006.webp
+# EN: SHE RECOGNIZED THE EMOTION KNOWN AS DESIRE.
+006.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | ELLE CONNUT L’ÉMOTION\nQU’ON APPELLE\nLE DÉSIR.
+# EN: YES, THIS IS...
+006.2 | cartouche | OUI, VOICI...
+# EN: THEIR STORY, BEGINNING FROM THE LOWEST DEPTHS OF TERRARIUM...
+006.3 | cartouche | LEUR HISTOIRE, QUI COMMENCE AU PLUS PROFOND DU TERRARIUM...
+
+## 007.webp
+# EN: A STORY THAT WOULD NEVER BE WELCOMED BY ANYONE.
+007.1 | cartouche | UNE HISTOIRE QUE PERSONNE N’ACCUEILLERAIT JAMAIS.
+
+## 008.webp
+# EN: JUST A SMALL CRACK WOULD BE ENOUGH.
+008.1 | cartouche | UNE PETITE FISSURE SUFFIRAIT.
+# EN: IF ONLY SHE COULD LEAVE THE SLIGHTEST SCAR ON HIM...
+008.2 | cartouche | SI SEULEMENT ELLE POUVAIT LUI LAISSER LA MOINDRE CICATRICE...
+# EN: IF ONLY THERE WERE A SMALL DARKNESS WHERE A SHADOW COULD BE CAST...
+008.3 | cartouche | SI SEULEMENT IL Y AVAIT UNE PETITE OBSCURITÉ OÙ UNE OMBRE PUISSE SE PROJETER...
+# EN: SHE COULD MAKE HIM HERS.
+008.4 | cartouche | ELLE POURRAIT LE FAIRE SIEN.
+
+## 009.webp
+# EN: BUT SUCH A THING WAS IMPOSSIBLE.
+009.1 | cartouche | MAIS C’ÉTAIT IMPOSSIBLE.
+# EN: AFTER ALL, DARKNESS COULD NEVER OVERPOWER THE LIGHT.
+009.2 | cartouche | APRÈS TOUT, LES TÉNÈBRES NE POURRAIENT JAMAIS VAINCRE LA LUMIÈRE.
+# EN: AND SO, SHE CHOSE TO SIMPLY WATCH.
+009.3 | cartouche | ALORS, ELLE CHOISIT DE SIMPLEMENT REGARDER.
+009.4 | dialogue | -
+# EN: FOR SHE POSSESSED ETERNITY ITSELF.
+009.5 | cartouche | CAR ELLE POSSÉDAIT L’ÉTERNITÉ MÊME.
+
+## 010.webp
+# EN: SOOTHING AN EMPTY HUNGER THAT COULD NEVER BE FILLED...
+010.1 | cartouche | APAISANT UNE FAIM VIDE QUI NE POURRAIT JAMAIS ÊTRE COMBLÉE...
+# EN: AND THEN...
+010.2 | cartouche | ET ALORS...
+# EN: TIME PASSED SLOWLY.
+010.3 | cartouche | LE TEMPS PASSA LENTEMENT.
+
+## 011.webp
+# EN: NO ONE EVER SET FOOT IN THAT PLACE.
+011.1 | cartouche | PERSONNE NE MIT JAMAIS LES PIEDS EN CE LIEU.
+# EN: EVERYONE CHASED THE GLORY THAT RESIDED AT THE HIGHEST POINT.
+011.2 | cartouche | TOUS POURSUIVAIENT LA GLOIRE QUI RÉSIDAIT AU SOMMET.
+# EN: NO ONE CARED ABOUT THE DEPTHS WHERE THE DARKNESS LAY. (cartouche coupé entre les pages 11 et 12)
+011.3 | cartouche | -
+011.100 | cartouche {"box": [180, 4860, 650, 5000], "ink_max": 256, "grow": 0} | (effacer)
+011.101 | cartouche {"box": [180, 4860, 650, 5000], "target": [200, 4868, 630, 4995], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "max_size": 45} | NUL NE SE SOUCIAIT\nDES PROFONDEURS OÙ\nGISAIENT LES TÉNÈBRES.
+
+## 012.webp
+012.100 | systeme {"box": [160, 0, 670, 60], "ink_max": 110, "grow": 3} | (effacer)
+# EN: FOR SHE WAS SITUATED AT THE VERY BOTTOM OF THE TOWER.
+012.1 | cartouche | CAR ELLE SE TROUVAIT TOUT AU FOND DE LA TOUR.
+
+## 013.webp
+# EN: THAT WAS HOW IT SHOULD HAVE BEEN.
+013.1 | cartouche | C’EST AINSI QUE CELA AURAIT DÛ ÊTRE.
+# EN: HOW MUCH TIME HAD PASSED?
+013.2 | cartouche | COMBIEN DE TEMPS S’ÉTAIT ÉCOULÉ ?
+# EN: NOT LONG AFTER, THE LIGHT SHE GAZED UPON INCESSANTLY...
+013.3 | cartouche | PEU APRÈS, LA LUMIÈRE QU’ELLE CONTEMPLAIT SANS CESSE...
+# EN: GRANTED HER EYES THE POWER OF FORESIGHT.
+013.4 | cartouche | DONNA À SES YEUX LE POUVOIR DE PRESCIENCE.
+
+## 014.webp
+# EN: A MAN CAME TO STAND BEFORE HER.
+014.1 | cartouche | UN HOMME VINT SE TENIR DEVANT ELLE.
+
+## 015.webp
+# EN: SHE KNEW AT FIRST SIGHT.
+015.1 | cartouche | ELLE LE SUT AU PREMIER REGARD.
+015.2 | dialogue | -
+# EN: THEIR KARMA...
+015.3 | cartouche | LEURS KARMAS...
+# EN: WAS PULLING THEM STRONGLY TOWARD ONE ANOTHER.
+015.4 | cartouche | LES ATTIRAIENT FORTEMENT L’UN VERS L’AUTRE.
+# EN: FOR THE FIRST TIME, A "GAZE" THAT HAD FALLEN FROM THE LIGHT...
+015.5 | cartouche | POUR LA PREMIÈRE FOIS, UN "REGARD" TOMBÉ DE LA LUMIÈRE...
+
+## 016.webp
+# EN: TRANSMITTED INFORMATION REGARDLESS OF HER INTENTIONS.
+016.1 | cartouche | LUI TRANSMIT DES INFORMATIONS, QU’ELLE LE VEUILLE OU NON.
+# EN: THAT MAN WAS...
+016.2 | cartouche | CET HOMME ÉTAIT...
+# EN: THE FIRST TO DESCEND THE TOWER.
+016.3 | cartouche | LE PREMIER À DESCENDRE LA TOUR.
+# EN: A BEING WHO QUESTIONED COMMON SENSE.
+016.4 | cartouche | UN ÊTRE QUI REMETTAIT EN CAUSE LE SENS COMMUN.
+# EN: A BEING BORN WITH THE DESTINY TO BECOME GOD'S VESSEL...
+016.5 | cartouche | UN ÊTRE NÉ AVEC LE DESTIN DE DEVENIR LE RÉCEPTACLE DE DIEU...
+
+## 017.webp
+# EN: BUT HE REJECTED IT.
+017.1 | cartouche | MAIS IL L’AVAIT REFUSÉ.
+# EN: A MAN WITH RADIANT GOLDEN HAIR AND EYES.
+017.2 | cartouche | UN HOMME AUX CHEVEUX ET AUX YEUX D’OR ÉCLATANTS.
+# EN: ARTHUR ZICHMUND.
+017.3 | cartouche | ARTHUR ZICHMUND.
+017.4 | dialogue | -
+# EN: HOW SURPRISING.
+017.5 | dialogue | QUELLE\nSURPRISE.
+
+## 018.webp
+# EN: WHAT AN INCREDIBLY BEAUTIFUL THING!
+018.1 | dialogue | QUELLE CHOSE INCROYABLEMENT BELLE !
+# EN: PERHAPS IT WAS FATE ALL ALONG.
+018.2 | cartouche | C’ÉTAIT PEUT-ÊTRE LE DESTIN DEPUIS LE DÉBUT.
+# EN: WHAT KIND OF PERSON...
+018.3 | cartouche | QUI AURAIT CRU...
+018.4 | dialogue | -
+
+## 019.webp
+019.1 | dialogue | -
+# EN: THAT THE FIRST OTHER BEING SHE WOULD ENCOUNTER WOULD BE...?
+019.2 | cartouche | QUE LE PREMIER AUTRE ÊTRE QU’ELLE RENCONTRERAIT SERAIT...?
+019.3 | dialogue | -
+# EN: DO YOU WANT IT?
+019.4 | dialogue | TU LE\nVEUX ?
+019.5 | dialogue | -
+
+## 020.webp
+# EN: THIS IS CALLED THE "WORLD BALANCER."
+020.1 | dialogue | ON L’APPELLE LE "RÉGULATEUR DU MONDE".
+# EN: IT'S THE PRIMORDIAL TREASURE THAT CIRCULATES THE KARMA WITHIN GOD'S VESSEL THROUGHOUT THE WORLD...
+020.2 | dialogue | C’EST LE TRÉSOR PRIMORDIAL QUI FAIT CIRCULER DANS TOUT LE MONDE LE KARMA DU RÉCEPTACLE DE DIEU...
+# EN: A MIRACULOUS CREATION THAT PROVES THE EXISTENCE OF THE ABSOLUTE GOD.
+020.3 | dialogue | UNE CRÉATION MIRACULEUSE QUI PROUVE L’EXISTENCE DU DIEU ABSOLU.
+# EN: AND TO ME...
+020.4 | dialogue | ET POUR\nMOI...
+
+## 021.webp
+# EN: IT'S ALSO THE PROOF THAT TELLS ME THIS WORLD IS FAKE.
+021.1 | dialogue | C’EST AUSSI LA PREUVE QUE CE MONDE EST FAUX.
+# EN: I CAME DOWN HERE TO CONFIRM ITS EXISTENCE.
+021.2 | dialogue | JE SUIS DESCENDU ICI POUR VÉRIFIER QU’IL EXISTE.
+# EN: I WANTED TO SEE IT WITH MY VERY OWN EYES.
+021.3 | dialogue | JE VOULAIS LE VOIR DE MES PROPRES YEUX.
+# EN: TO SEE IF WHAT MY VESSEL WAS ORIGINALLY MEANT TO HOLD ACTUALLY HAD ANY VALUE.
+021.4 | dialogue | VOIR SI CE QUE MON RÉCEPTACLE DEVAIT CONTENIR AVAIT VRAIMENT UNE VALEUR.
+# EN: TO PUT IT SIMPLY... YES.
+021.5 | dialogue | POUR FAIRE SIMPLE... OUI.
+
+## 022.webp
+# EN: IT WAS "DOUBT."
+022.1 | dialogue | C’ÉTAIT LE "DOUTE".
+# EN: AND THAT DOUBT...
+022.2 | dialogue | ET CE DOUTE...
+# EN: BECAME A CERTAINTY THE MOMENT I MET YOU HERE.
+022.3 | dialogue | EST DEVENU UNE CERTITUDE QUAND JE T’AI RENCONTRÉE ICI.
+# EN: JUST AS I THOUGHT, MY "EMPTY VESSEL"...
+022.4 | dialogue | COMME JE LE PENSAIS, MON "RÉCEPTACLE VIDE"...
+
+## 023.webp
+# EN: WAS NEVER MEANT TO HOLD THE GOD OF A WORLD!
+023.1 | dialogue | N’A JAMAIS ÉTÉ FAIT POUR CONTENIR LE DIEU D’UN MONDE !
+# EN: PLEASE...
+023.2 | dialogue | DIS-MOI...
+# EN: COULD YOU TELL ME YOUR NAME?
+023.3 | dialogue | QUEL EST TON NOM ?
+
+## 024.webp
+# EN: IT WAS STRANGE.
+024.1 | cartouche | C’ÉTAIT ÉTRANGE.
+024.2 | dialogue | -
+# EN: EVEN HER EYES...
+024.3 | cartouche | MÊME SES YEUX...
+# EN: COULDN'T SEE THAT MAN'S FUTURE AT ALL.
+024.4 | cartouche | NE VOYAIENT RIEN DE L’AVENIR DE CET HOMME.
+
+## 025.webp
+# EN: ALL SHE COULD SEE WAS THE GRAND DREAM HE CARRIED.
+025.1 | cartouche | ELLE NE VOYAIT QUE LE GRAND RÊVE QU’IL PORTAIT.
+# EN: HIS INFINITE MALICE TOWARD THE ABSOLUTE BEING...
+025.2 | cartouche | SA MALVEILLANCE INFINIE ENVERS L’ÊTRE ABSOLU...
+# EN: HIS CERTAINTY AND OBSESSION WITH IT.
+025.3 | cartouche | SA CERTITUDE ET SON OBSESSION.
+# EN: AND FINALLY, REFLECTED IN THAT MAN'S EYES...
+025.4 | cartouche | ET ENFIN, DANS LES YEUX DE CET HOMME...
+# EN: SHE SAW HERSELF, AND BECAME CAPTIVATED.
+025.5 | cartouche | ELLE SE VIT ELLE-MÊME, ET EN FUT CAPTIVÉE.
+# EN: "LUCIA..." (nom, gardé)
+025.6 | systeme | -
+
+## 026.webp
+# EN: LUCIA.
+026.100 | dialogue {"point": [338, 350]} | LUCIA.
+# EN: BECOME MINE.
+026.1 | dialogue | SOIS À MOI.
+# EN: IF YOU DO...
+026.2 | dialogue | SI TU\nACCEPTES...
+# EN: I WILL OFFER YOU THE FINAL BEAT OF MY HEART.
+026.3 | dialogue | JE T’OFFRIRAI LE DERNIER BATTEMENT DE MON CŒUR.
+
+## 027.webp
+# EN: I WILL MAKE YOUR DREAM A REALITY.
+027.1 | dialogue | JE FERAI DE TON RÊVE UNE RÉALITÉ.
+# EN: THEN YOU, TOO, MUST EXIST FOR THE SAKE OF MY DREAM, LUCIA!
+027.2 | dialogue | ALORS TOI AUSSI, TU DOIS EXISTER POUR MON RÊVE, LUCIA !
+# EN: THEY SWORE TO BECOME THE FINAL STEP EACH WOULD TAKE TOWARD ETERNITY.
+027.3 | cartouche | ILS JURÈRENT DE DEVENIR CHACUN LE DERNIER PAS DE L’AUTRE VERS L’ÉTERNITÉ.
+# EN: UNDER THAT VOW, THEY BOUND AND CHAINED THEIR SOULS TOGETHER.
+027.4 | cartouche | PAR CE SERMENT, ILS LIÈRENT ET ENCHAÎNÈRENT LEURS ÂMES.
+027.5 | dialogue | -
+
+## 028.webp
+028.1 | dialogue | -
+# EN: AND THE RESULT OF THAT VOW...
+028.2 | cartouche | ET LE FRUIT DE CE SERMENT...
+# EN: WAS THE BIRTH OF THE FIRST EGO WEAPON MASTER.
+028.3 | cartouche | FUT LA NAISSANCE DU PREMIER MAÎTRE D’ARME D’EGO.
+# EN: ZICHMUND DYED HIS HAIR BLACK.
+028.4 | cartouche | ZICHMUND TEIGNIT SES CHEVEUX EN NOIR.
+
+## 029.webp
+# EN: AND FINALLY, HE ABANDONED THE NAME GRANTED TO HIM BY HIS PREDETERMINED DESTINY.
+029.1 | cartouche | ET ENFIN, IL ABANDONNA LE NOM QUE LUI AVAIT DONNÉ SON DESTIN TOUT TRACÉ.
+# EN: AND THEN...
+029.2 | cartouche | ET ALORS...
+
+## 030.webp
+# EN: HE RETURNED TO THE FAKE WORLD.
+030.1 | cartouche | IL REVINT DANS LE FAUX MONDE.
+# EN: NOT ALONE.
+030.2 | cartouche | PAS SEUL.
+# EN: BUT TOGETHER WITH HER...
+030.3 | cartouche | MAIS AVEC ELLE...
+# EN: THE VERY FIRST THING HE DID...
+030.4 | cartouche | LA TOUTE PREMIÈRE CHOSE QU’IL FIT...
+# EN: WAS ERASING ALL FAKE RECORDS OF HIMSELF FROM THE WORLD.
+030.5 | cartouche | FUT D’EFFACER DU MONDE TOUTES LES FAUSSES TRACES DE LUI-MÊME.
+
+## 031.webp
+# EN: FAMILY.
+031.1 | cartouche | -
+031.101 | cartouche {"box": [305, 578, 545, 670], "ink_max": 256, "grow": 0} | (effacer)
+031.102 | cartouche {"box": [305, 578, 545, 670], "target": [320, 590, 530, 658], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3, "max_size": 75} | FAMILLE.
+# EN: FRIENDS.
+031.2 | cartouche | -
+031.103 | cartouche {"box": [305, 1270, 560, 1352], "ink_max": 256, "grow": 0} | (effacer)
+031.104 | cartouche {"box": [305, 1270, 560, 1352], "target": [360, 1282, 505, 1340], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3, "max_size": 75} | AMIS.
+# EN: ORGANIZATIONS.
+031.100 | cartouche {"box": [270, 2550, 590, 2625], "ink_max": 256, "grow": 0} | (effacer)
+031.105 | cartouche {"box": [270, 2550, 590, 2625], "target": [287, 2563, 573, 2612], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3, "max_size": 60} | ORGANISATIONS.
+# EN: ROOM.
+031.3 | cartouche {"box": [300, 3710, 545, 3805], "ink_max": 100, "grow": 3, "fill": [196,193,202], "colors": [[0,0,0],[0,0,0]], "style": "cartouche"} | CHAMBRE.
+031.4 | dialogue | -
+# EN: HOUSE.
+031.5 | cartouche | MAISON.
+# EN: HOMETOWN.
+031.6 | cartouche {"box": [280, 4852, 552, 4920], "ink_max": 100, "grow": 3, "fill": [190,192,201], "colors": [[0,0,0],[0,0,0]], "style": "cartouche"} | VILLE NATALE.
+
+## 032.webp
+# EN: THIS WAS KARMA BORN OF NECESSITY.
+032.1 | cartouche | C’ÉTAIT UN KARMA NÉ DE LA NÉCESSITÉ.
+# EN: AND FINALLY...
+032.2 | cartouche | ET ENFIN...
+# EN: WITH EMOTION IN HIS HEART...
+032.3 | cartouche | LE CŒUR ÉMU...
+
+## 033.webp
+# EN: HE ERASED THE FAITH THAT HAD TAKEN ROOT AT THE TOWER'S ENTRANCE.
+033.1 | cartouche | IL EFFAÇA LA FOI QUI S’ÉTAIT ENRACINÉE À L’ENTRÉE DE LA TOUR.
+# EN: DO YOU SEE, LUCIA?
+033.2 | dialogue | TU VOIS, LUCIA ?
+
+## 034.webp
+# EN: THIS IS MERELY THE FIRST REAL FOOTPRINT...
+034.1 | dialogue | CE N’EST QUE LA PREMIÈRE VRAIE EMPREINTE...
+# EN: THAT WE'LL LEAVE BEHIND IN THIS FAKE WORLD.
+034.2 | dialogue | QUE NOUS LAISSERONS DANS CE FAUX MONDE.
+# EN: LUCIA.
+034.3 | dialogue | LUCIA.
+# EN: FROM THIS MOMENT ON, WE'RE TAKING DOWN GOD.
+034.4 | dialogue | À PARTIR DE MAINTENANT, NOUS ALLONS ABATTRE DIEU.
+
+## 035.webp
+# EN: IF, BY ANY CHANCE...
+035.1 | dialogue | SI, PAR\nHASARD...
+# EN: THE PATH WE'RE WALKING IS WRONG...
+035.2 | dialogue | LA VOIE QUE NOUS SUIVONS EST LA MAUVAISE...
+# EN: THEN, IN THIS LAND TRAMPLED BY TRUE DARKNESS...
+035.3 | dialogue | ALORS, SUR CETTE TERRE FOULÉE PAR LES VRAIES TÉNÈBRES...
+# EN: A REAL HERO WILL SOON BE BORN.
+035.4 | dialogue | UN VRAI HÉROS NE TARDERA PAS À NAÎTRE.
+# EN: WELL...
+035.5 | dialogue | BREF...
+# EN: JUST AS THEY TESTED US...
+035.6 | dialogue | TOUT COMME ILS NOUS ONT MIS À L’ÉPREUVE...
+
+## 036.webp
+# EN: I MERELY INTEND TO TEST THEM AS WELL.
+036.1 | dialogue | JE COMPTE SIMPLEMENT LES METTRE À L’ÉPREUVE AUSSI.
+# EN: THE CONVICTIONS THAT MAN HELD...
+036.2 | cartouche | LES CONVICTIONS DE CET HOMME...
+# EN: DIDN'T MATTER MUCH TO LUCIA.
+036.3 | cartouche | IMPORTAIENT PEU À LUCIA.
+# EN: HOWEVER...
+036.4 | cartouche | CEPENDANT...
+# EN: SHE FIRMLY BELIEVED THIS SUFFERING SOUL BELONGED ENTIRELY / TO HER... (cartouche coupé entre les pages 36 et 37)
+036.5 | cartouche | -
+036.100 | cartouche {"box": [90, 4895, 545, 5000], "ink_max": 130, "max_letter": 45, "grow": 3, "fill": [253,253,253]} | (effacer)
+036.101 | cartouche {"box": [90, 4895, 545, 5000], "target": [105, 4905, 530, 5000], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "max_size": 40} | ELLE CROYAIT FERMEMENT\nQUE CETTE ÂME
+
+## 037.webp
+037.1 | cartouche | -
+037.100 | cartouche {"box": [90, 0, 545, 90], "ink_max": 130, "max_letter": 45, "grow": 3, "fill": [253,253,253]} | (effacer)
+037.101 | cartouche {"box": [90, 0, 545, 90], "target": [105, 0, 530, 82], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "max_size": 40} | TOURMENTÉE LUI APPARTENAIT\nTOUT ENTIÈRE...
+# EN: AND THAT ONE DAY, HE WOULD SATISFY HER HUNGER.
+037.2 | cartouche | -
+037.102 | cartouche {"box": [275, 268, 740, 468], "ink_max": 130, "max_letter": 60, "grow": 3, "fill": [253,253,253]} | (effacer)
+037.103 | cartouche {"box": [275, 268, 740, 468], "target": [290, 278, 725, 458], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "max_size": 60} | ET QU’UN JOUR,\nIL ASSOUVIRAIT\nSA FAIM.
+# EN: THAT ALONE...
+037.3 | cartouche | CELA SEUL...
+037.4 | dialogue | -
+# EN: WAS REASON ENOUGH FOR HER TO TRUST AND DEVOTE HERSELF TO HIM.
+037.5 | cartouche | SUFFISAIT POUR QU’ELLE LUI FASSE CONFIANCE ET SE DÉVOUE À LUI.
+# EN: AND SO...
+037.6 | cartouche | ET AINSI...
+
+## 038.webp
+038.1 | dialogue | -
+038.2 | dialogue | -
+# EN: THEY BUILT A FAKE PARADISE AND PREPARED DILIGENTLY.
+038.3 | cartouche | ILS BÂTIRENT UN FAUX PARADIS ET SE PRÉPARÈRENT AVEC SOIN.
+# EN: FOR THE INEVITABLE MOMENT WHEN THE ABSOLUTE GOD'S VESSEL WOULD BE DAMAGED.
+038.4 | cartouche | POUR L’INSTANT INÉVITABLE OÙ LE RÉCEPTACLE DU DIEU ABSOLU SERAIT ENDOMMAGÉ.
+# EN: FOR THE TRUE WORLD THAT WOULD ONE DAY ARRIVE...
+038.5 | cartouche | POUR LE VRAI MONDE QUI VIENDRAIT UN JOUR...
+# EN: HOPING FOR A TRUE HERO WHO MIGHT APPEAR ONE DAY.
+038.6 | cartouche | EN ESPÉRANT UN VRAI HÉROS QUI APPARAÎTRAIT PEUT-ÊTRE UN JOUR.
+# EN: THEY NEVER FAILED TO LEAVE BEHIND TRACES OF THEIR PLANS.
+038.7 | cartouche | ILS NE MANQUÈRENT JAMAIS DE LAISSER DES TRACES DE LEURS PLANS.
+
+## 039.webp
+# EN: BUT AS EXPECTED...
+039.1 | cartouche | MAIS COMME PRÉVU...
+039.2 | dialogue | -
+# EN: THE HERO WHO WOULD STAND IN THEIR WAY NEVER APPEARED.
+039.3 | cartouche | LE HÉROS QUI SE DRESSERAIT SUR LEUR ROUTE N’APPARUT JAMAIS.
+039.4 | dialogue | -
+
+## 040.webp
+# EN: OF COURSE, THAT WAS ONLY NATURAL.
+040.1 | cartouche | BIEN SÛR, C’ÉTAIT TOUT NATUREL.
+# EN: BECAUSE SUCH A THING COULD NEVER EXIST IN A FAKE WORLD.
+040.2 | cartouche | CAR UNE TELLE CHOSE NE POUVAIT EXISTER DANS UN FAUX MONDE.
+# EN: AS TIME PASSED, DOUBT TURNED INTO CERTAINTY.
+040.3 | cartouche | AVEC LE TEMPS, LE DOUTE DEVINT CERTITUDE.
+040.4 | dialogue | -
+
+## 041.webp
+# EN: AND QUESTIONS TURNED INTO HATRED.
+041.1 | cartouche | ET LES QUESTIONS SE CHANGÈRENT EN HAINE.
+# EN: THE CLOSER ONE STEPS TOWARD THE TRUE WORLD...
+041.2 | pensee | PLUS ON S’APPROCHE DU VRAI MONDE...
+# EN: THE MORE CLEARLY ONE CAN FEEL THE EXISTENCE OF GOD.
+041.3 | pensee | PLUS ON SENT CLAIREMENT L’EXISTENCE DE DIEU.
+# EN: AND YET, WHY...
+041.4 | italique | ET POURTANT,\nPOURQUOI...
+
+## 042.webp
+# EN: WHY DOES GOD NOT PUNISH ME?
+042.1 | italique | POURQUOI DIEU NE ME PUNIT-IL PAS ?
+042.2 | dialogue | -
+# EN: AH... / O GOD.
+042.100 | italique {"point": [325, 1850]} | AH...
+042.101 | italique {"point": [450, 2125]} | Ô DIEU.
+# EN: HOW CAN YOU...
+042.3 | italique | COMMENT\nPEUX-TU...
+# EN: BE SO COMPLETELY / INDIFFERENT? (bulle coupée entre les pages 42 et 43)
+042.4 | italique | -
+042.102 | italique {"box": [300, 4972, 715, 5000], "ink_max": 130, "grow": 3, "fill": [255,255,255]} | (effacer)
+
+## 043.webp
+043.1 | italique | -
+043.100 | italique {"box": [300, 0, 715, 88], "ink_max": 130, "max_letter": 45, "grow": 3, "fill": [255,255,255]} | (effacer)
+043.101 | italique {"box": [300, 0, 715, 88], "target": [320, 2, 695, 82], "ink_max": 0, "colors": [[0,0,0],[0,0,0]], "max_size": 40} | ÊTRE AUSSI\nINDIFFÉRENT ?
+# EN: NEVER FORGET...
+043.2 | italique | N’OUBLIE\nJAMAIS...
+# EN: THOUGH I FORGED MY DARKNESS WITH MY OWN HANDS...
+043.3 | italique | MÊME SI J’AI FORGÉ MES TÉNÈBRES DE MES PROPRES MAINS...
+# EN: IT WAS YOUR INDIFFERENCE THAT CREATED A PLACE FOR THIS DARKNESS TO DWELL.
+043.4 | italique | C’EST TON INDIFFÉRENCE QUI A DONNÉ À CES TÉNÈBRES UN LIEU OÙ HABITER.
+
+## 044.webp
+# EN: AND THEN...
+044.1 | cartouche | ET ALORS...
+# EN: THEIR LONG-CHERISHED DESIRE...
+044.2 | cartouche | LEUR DÉSIR\nDE TOUJOURS...
+# EN: FINALLY BLOSSOMED.
+044.3 | cartouche | ÉCLOT ENFIN.
+# EN: EGO WEAPON LUCIA, FORM CHANGE:
+044.4 | systeme {"box": [95, 3740, 720, 3980], "light": true, "light_min": 190, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "angle": 4, "style": "cri"} | ARME D’EGO LUCIA,\nCHANGEMENT DE FORME :
+044.5 | dialogue | -
+
+## 045.webp
+# EN: SPEAR OF THE END
+045.100 | systeme {"box": [60, 1080, 780, 1880], "ink_max": 70, "grow": 6, "blur_fill": 20, "target": [100, 1150, 740, 1800], "colors": [[0,0,0],[0,0,0]], "style": "cri", "angle": 3} | LANCE DE\nLA FIN
+
+## 046.webp
+# EN: WATCH CLOSELY, VAN.
+046.1 | dialogue | REGARDE BIEN, VAN.
+# EN: YOUR FINAL HEARTBEAT...
+046.2 | dialogue | TON DERNIER BATTEMENT...
+# EN: I'LL MAKE SURE TO PUT IT TO GOOD USE
+046.3 | italique {"box": [215, 3495, 620, 3745], "light_any": 60, "grow": 4, "fill": [0,0,0], "colors": [[208,26,38],[208,26,38]], "style": "italique"} | J’EN FERAI\nBON USAGE
+046.4 | dialogue | -
+
+## 047.webp
+047.1 | dialogue | -
+
+## 048.webp
+# EN: ARTHUR!!!
+048.1 | cri | ARTHUR !!!
+# EN: AH♥ (gardés)
+048.2 | dialogue | -
+048.3 | dialogue | -
+048.4 | dialogue | -
+048.5 | dialogue | -
+# EN: FINALLY...
+048.6 | dialogue | ENFIN...
+
+## 049.webp
+# EN: FINALLY♥
+049.1 | dialogue | ENFIN♥
+# EN: I FINALLY GOT MY HANDS ON IT
+049.2 | dialogue | JE L’AI ENFIN ENTRE LES MAINS
+049.3 | dialogue | -
+
+## 050.webp
+# EN: HEO SEOL-JIN!! (lettrage au pinceau, gardé)
+050.1 | dialogue | -
+
+## 051.webp
+# EN: THAT WAS DELICIOUS
+051.1 | cri | C’ÉTAIT\nDÉLICIEUX
+# EN: HIDDEN PHASE UNLOCKED
+051.2 | systeme | -
+051.3 | systeme | -
+051.100 | systeme {"box": [100, 2960, 740, 3800], "light_any": 140, "grow": 12, "blur_fill": 40, "colors": [[230,40,90],[200,30,80]], "outline": [60,20,60], "outline_width": 3, "style": "titre"} | PHASE CACHÉE\n\nDÉBLOQUÉE
+
+## 052.webp

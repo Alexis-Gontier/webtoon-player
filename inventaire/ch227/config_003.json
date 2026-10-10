@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-227/003.webp",
+ "output": "chapters_fr/chapter-227/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON, AVEC ÇA, J’AI RÉUSSI UN SACRÉ COUP~ !",
+   "style": "dialogue",
+   "point": [
+    346,
+    236
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUF, C’EST INTENSE !",
+   "style": "dialogue",
+   "point": [
+    352,
+    2176
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUELLE HONTE, MIRAGE.",
+   "style": "dialogue",
+   "point": [
+    415,
+    5107
+   ]
+  }
+ ]
+}

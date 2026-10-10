@@ -1,0 +1,181 @@
+# Chapitre 228. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | DISTORSION SPATIALE DU "CONTRAT D’ÉQUITÉ ABSOLUE", 83 256 HEURES ÉCOULÉES.
+002.1 | dialogue | OH, TU AS REPRIS TES ESPRITS.
+002.2 | dialogue | PETIT, TU AS FRÔLÉ LA MORT.
+002.3 | dialogue | QU’EST-CE QUE TU FAISAIS ?
+002.4 | dialogue {"box": [235, 4085, 600, 4225], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | PAR UN\nTEMPS PAREIL.
+003.1 | dialogue | TU AS EU DE LA CHANCE.
+003.2 | dialogue | IL N’Y A PRESQUE PERSONNE DANS LES CONTRÉES RECULÉES DU NORD.
+003.3 | dialogue | PAR BONHEUR, IL Y AVAIT UN VILLAGE PRÈS DE L’ENDROIT OÙ TU T’ES EFFONDRÉ.
+003.4 | dialogue | C’EST UN ENDROIT OÙ SE RASSEMBLENT CEUX QUI ONT PERDU LEUR CHEMIN.
+003.5 | dialogue | C’EST PEUT-ÊTRE EXAGÉRÉ, MAIS...
+003.6 | dialogue | C’EST MOI QUI DIRIGE CE VILLAGE.
+004.1 | dialogue | BOIS.
+004.2 | dialogue | ÇA VA TE RÉCHAUFFER.
+004.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | ...DU VIN DE RAISIN.\nQUELLE HOSPITALITÉ RARE.
+004.4 | dialogue | COMME JE M’EN DOUTAIS ! TU LE RECONNAIS ?
+004.5 | dialogue | TU AS FAILLI SERVIR DE REPAS AUX CHAROGNARDS TOUT À L’HEURE. HAHA !
+005.1 | dialogue | CE VIN DE RAISIN EST UNE SPÉCIALITÉ DE L’EMPIRE DU SUD.
+005.2 | dialogue | J’Y SUIS ALLÉ UNE FOIS.
+005.3 | dialogue | GOUVERNÉ PAR LA DAME AUX CHEVEUX D’ARGENT DES CIMES SEREINES.
+005.4 | dialogue | -
+005.5 | dialogue | C’ÉTAIT UNE TERRE D’ABONDANCE.
+006.1 | dialogue | MAIS À UN MOMENT, AVANT L’ÂGE DE PIERRE,
+006.2 | dialogue | IL S’EST SOUDAIN EFFONDRÉ.
+006.3 | dialogue | D’APRÈS LES RUMEURS, IL NE RESTE RIEN SUR CETTE TERRE.
+006.4 | dialogue | ON DIT QUE SEUL LE CADAVRE DÉCAPITÉ DU ROI EST RESTÉ.
+006.5 | dialogue | C’EST PEUT-ÊTRE POUR ÇA QUE LES GENS CROIENT QUE LA CAUSE DE CETTE DESTRUCTION...
+006.6 | dialogue | ÉTAIT UN "DÉMON".
+007.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | LUI...
+007.2 | systeme {"box": [120, 905, 700, 1120], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | ON DIRAIT QU’IL Y A QUELQUE\nCHOSE QU’IL VEUT\nQUE JE SACHE.
+007.3 | dialogue | TROIS JOURS...
+007.4 | dialogue | ÇA FAIT TROIS JOURS QU’IL NEIGE.
+008.1 | dialogue | QUAND JE T’AI TROUVÉ...
+008.2 | dialogue | JE N’AURAIS JAMAIS CRU QUE TU SERAIS ENCORE EN VIE.
+008.3 | dialogue | JE NE L’AI COMPRIS QU’APRÈS T’AVOIR AMENÉ ICI.
+008.4 | dialogue | LE FAIT QUE TU N’AIES JAMAIS EU PEUR.
+008.5 | dialogue | ET CETTE EXPRESSION QUE TU AS.
+009.1 | dialogue | TOI,
+009.2 | dialogue | QUI ES-TU ?
+010.1 | dialogue | LE VIEUX DU HAUT DE LA COLLINE.
+010.2 | dialogue | LE PLUS ANCIEN DES TÉNÈBRES.
+010.3 | dialogue | LE SAGE DE L’EST.
+010.4 | dialogue | UN HOMME PRÉVOYANT.
+010.5 | dialogue | LE PROPHÈTE DE LA FIN.
+010.6 | dialogue | ET MAINTENANT...
+010.7 | dialogue | LE DÉMON.
+010.8 | dialogue | ...C’EST COMME ÇA QU’ON M’APPELAIT.
+011.1 | dialogue | TOI.
+011.2 | dialogue | ENGAGER LA CONVERSATION EN SACHANT TOUT, ÇA VEUT DIRE...
+011.3 | dialogue | QU’IL Y A QUELQUE CHOSE QUE TU DÉSIRES.
+011.4 | dialogue | ALORS, QU’EST-CE QUE C’EST ?
+011.5 | dialogue | QUOI QUE CE SOIT, JE L’EXAUCERAI.
+012.1 | dialogue | MAIS...
+012.2 | dialogue | ÇA A UN PRIX.
+012.3 | dialogue | MOI... !
+013.1 | dialogue | BIENTÔT, UN HÉROS SURGIT DE LA FRONTIÈRE DU NORD, ET UNE NATION NAQUIT.
+013.2 | dialogue | UN HÉROS À QUI DIEU AVAIT DONNÉ DES POUVOIRS SURNATURELS.
+013.3 | dialogue | GRÂCE À CE POUVOIR, IL FIT FONDRE LA TERRE GELÉE...
+013.4 | dialogue | -
+013.5 | dialogue | ET RENDIT CETTE TERRE ABONDANTE.
+013.6 | dialogue | ET LONGTEMPS APRÈS, QUAND LE HÉROS MOURUT...
+014.1 | dialogue | -
+014.2 | dialogue | LE PAYS TOMBA EN RUINE.
+015.1 | dialogue | HMM...
+015.2 | dialogue | COMME JE M’EN DOUTAIS, UN CORPS D’HOMME A MEILLEUR GOÛT.
+015.3 | dialogue | BON,
+015.4 | dialogue | -
+015.5 | dialogue | -
+015.6 | dialogue | OÙ EST-CE QU’ON VA, MAINTENANT ?
+015.7 | systeme {"box": [140, 6190, 665, 6370], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | AINSI, LE MOMENT DU KARMA\nSE RÉPÈTE\nPENDANT LONGTEMPS.
+016.100 | systeme {"box": [160, 1325, 640, 1550], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 80, "stretch": 1.4} | LES DIEUX\nACCORDENT LE POUVOIR\nAUX HUMAINS,
+017.1 | systeme {"box": [60, 1920, 740, 2250], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 80} | LE POUVOIR REVENU CONTENAIT\nAUSSI LA NATURE HUMAINE,\nMÊME POUR LES DIEUX.
+017.2 | dialogue | -
+# EN: AND IN RETURN, THEY RECEIVE A PROMISE. (oubli, balayage du 9 octobre)
+017.100 | systeme {"box": [140, 40, 660, 185], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 80} | ET EN ÉCHANGE, ILS\nREÇOIVENT UNE PROMESSE.
+017.3 | systeme {"box": [30, 3900, 530, 4170], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 80} | LE KARMA\nQUI ÉTAIT SCELLÉ\nDANS SON CORPS,
+017.4 | systeme {"box": [250, 5030, 795, 5290], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 80} | CHANGE SELON\nL’"AVIDITÉ"\nDE L’HUMANITÉ.
+018.1 | dialogue | CELUI QUI BRISE L’ORDRE DU MONDE, C’EST CETTE PERSONNE.
+018.2 | dialogue | ILS SONT ATTIRÉS PAR CETTE TENTATION.
+018.3 | dialogue | AINSI, LA DAME DEVINT UNE EXPLORATRICE RENOMMÉE
+018.4 | dialogue | ET MENA UNE LONGUE ET PÉNIBLE VIE.
+019.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | JUSQU’À CE QUE "CE JOUR"\nARRIVE.
+019.2 | dialogue | LE CYCLE DU KARMA EST DÉSORMAIS ROMPU.
+019.3 | dialogue | LA PROMESSE DE LA "MORT" EST UNE CHOSE QUI NE PEUT JAMAIS ÊTRE DÉFAITE.
+019.4 | dialogue | QUELQUE CHOSE CONTRÔLE LA MORT.
+020.1 | dialogue | TOUS LES CONTRACTANTS...
+020.2 | dialogue | SONT ARRIVÉS SI PRÈS DE LA TOUR ?
+020.3 | dialogue | UNNAME FUT RECONNU TRÈS TÔT PAR LA TOUR.
+020.4 | dialogue | IL Y A AUSSI UNE RUMEUR SUR ARTHUR.
+020.5 | dialogue | MAIS JE ME SUIS RETENUE DE L’APPROCHER,
+020.6 | dialogue | PARCE QU’EN TANT QU’EXPLORATRICE, JE NE VOULAIS PAS DÉRANGER ARTHUR.
+020.7 | dialogue | -
+020.8 | dialogue | CEPENDANT...
+021.1 | dialogue | C’EST DIFFÉRENT QUAND LA QUÊTE EST VIOLÉE.
+021.2 | italique | À LA FIN, ON SE REVERRA, "ARTHUR".
+021.3 | dialogue | UNNAME...
+021.4 | dialogue | SE DIRIGEA VERS LA TOUR.
+021.5 | dialogue | POUR TROUVER LA SOLUTION ULTIME AU PROBLÈME.
+021.6 | dialogue | -
+022.1 | dialogue | -
+022.2 | dialogue | -
+022.3 | dialogue | TU N’EN VEUX PAS ?
+022.4 | dialogue | ÇA S’EST MIEUX PASSÉ QUE PRÉVU, POURTANT.
+022.5 | dialogue | TON POUVOIR. SI TU NE SAIS PAS T’EN SERVIR, DONNE-LE-MOI.
+022.6 | dialogue | -
+022.7 | dialogue | JE LE DONNERAI AUX AUTRES. PLUS ON PARTAGE, PLUS C’EST DRÔLE, JE CROIS.
+022.8 | dialogue | HEIN ?
+023.1 | dialogue | ON ESSAIE ?
+023.2 | dialogue | TU CROIS POUVOIR ME BATTRE SUR MON TERRITOIRE ?
+023.3 | dialogue | ET SI, QUAND TU PERDS, TU RESTAIS AU SOUS-SOL À NE RIEN FAIRE ?
+024.1 | dialogue | TON "RÉCEPTACLE" T’A ÉTÉ RETIRÉ.
+024.2 | dialogue | SI TU QUITTES CET ESPACE,
+024.3 | dialogue | TON EXISTENCE NE POURRA PAS SE MAINTENIR.
+025.1 | dialogue | SI TU ES UN "EXPLORATEUR", TU DEVRAIS COMPRENDRE CE QUE JE VEUX DIRE.
+025.2 | dialogue | NE TE FÂCHE PAS TROP.
+025.3 | dialogue | JUSTE UN MOMENT, POUR ARTHUR,
+025.4 | dialogue | JUSTE POUR SON PLAISIR...
+026.1 | dialogue | TU VEUX REVIVRE COMME ÇA ?
+# EN: THIS MIGHT BE A GOOD OPPORTUNITY TO REFLECT ON YOURSELF. (oubli : texte gris très pâle)
+026.100 | dialogue {"box": [180, 2555, 665, 2790], "fill": [253,253,253], "ink_max": 245} | C’EST PEUT-ÊTRE UNE BONNE\nOCCASION DE FAIRE TON\nEXAMEN DE CONSCIENCE.
+026.2 | dialogue | ALORS, ON SE REVERRA.
+026.3 | dialogue | EXISTENCE SANS NOM.
+027.1 | italique | QU’EST-CE QU’IL RACONTE, CE TRUC ?
+027.2 | italique | POURQUOI DIABLE FAIT-IL ÇA ?
+027.3 | dialogue | -
+027.4 | systeme {"box": [90, 3620, 710, 3910], "fill": [255, 255, 255], "colors": [[0,0,0],[0,0,0]]} | OÙ DIABLE\nTOUT A-T-IL\nDÉRAILLÉ ?
+028.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | AU DÉBUT, J’ÉTAIS\nPLEIN DE DOUTES.
+028.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | ET PUIS ÇA\nRECOMMENCE.
+028.100 | systeme {"box": [130, 2620, 670, 2830], "target": [150, 2640, 650, 2810], "ink_max": 200, "grow": 8, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4} | ALORS, JE ME\nMETS EN COLÈRE.
+028.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | J’AVAIS BEAU LE RÉPÉTER,\nLA PENSÉE NE\nS’ARRÊTAIT JAMAIS.
+028.4 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | ET LA SITUATION\nNE SE RÈGLE PAS\nNON PLUS.
+028.5 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | JE NE PEUX\nQU’ATTENDRE LA\nFIN DU TEMPS.
+029.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | ET JE LE JURE...
+029.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | JE NE SUBIRAI PLUS JAMAIS\nCETTE HUMILIATION.
+030.1 | dialogue | -
+030.2 | dialogue | MIRAGE !
+031.1 | cri | CARTOUCHE\nOUVERTE.
+032.1 | dialogue | LE PRIX, C’EST LE CONTRAT D’ASARYUN.
+032.2 | dialogue | QUOI... ?
+032.3 | dialogue | CE QUE J’ESPÈRE...
+032.4 | dialogue | "L’ÉPÉE DE L’ÂME."
+032.5 | dialogue | -
+033.1 | systeme {"box": [70, 2390, 770, 2775], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4, "max_letter": 85} | LA MALÉDICTION DIVINE\nACCORDÉE\nPAR LES DIEUX.
+033.2 | systeme {"box": [90, 4180, 720, 4500], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4, "max_letter": 110} | L’ÉPÉE DE L’ÂME, FORGÉE\nAVEC 99 ÂMES\nEMPRUNTÉES.
+034.1 | dialogue | L’"IMITATION" D’ARME D’EGO
+034.2 | dialogue | -
+034.3 | dialogue | TU AS RÉFLÉCHI UN PEU ?
+034.4 | dialogue | -
+035.1 | dialogue | LIBÉRATION
+# EN: NIGHT PARADE OF A HUNDRED DEMONS (oubli : pinceau noir sur le dessin)
+035.100 | cri {"box": [10, 5590, 710, 6420], "ink_max": 90, "max_letter": 260, "grow": 5, "colors": [[0,0,0],[0,0,0]], "stretch": 1.6} | LE DÉFILÉ\nNOCTURNE\nDES CENT\nDÉMONS
+037.1 | dialogue | -
+038.1 | dialogue | ...ENFIN, JE L’AI TROUVÉ ! LES DERNIERS FRAGMENTS DE NAGI !
+038.2 | dialogue | -
+038.3 | dialogue | TOI... TU SERAS... SACRIFIÉ... DANS LA HONTE... !
+038.4 | dialogue | TU CROIS POUVOIR ME TROMPER ?
+038.5 | dialogue | LA "CONDITION" EST REMPLIE.
+039.1 | dialogue | ACTIVATION DE COMPÉTENCE
+039.2 | titre {"box": [100, 2800, 700, 3230], "ink_max": 110, "solid": 7, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3} | LE CHEMIN\nVERS L’UTOPIE\n(AVALON)
+039.3 | dialogue | -
+040.1 | italique | L’ÂME DE NAGI... ?
+040.2 | italique | CE SCÉLÉRAT...
+040.3 | italique | IL VISAIT ÇA DEPUIS LE DÉBUT !
+040.4 | dialogue | MAINTENANT, TAE-WON KIM.
+040.5 | dialogue | AVEC ÇA, J’AI TENU MA PROMESSE.
+041.1 | dialogue | JE NE PEUX PAS ALLER PAR LÀ.
+041.2 | dialogue | -
+041.3 | dialogue | "RÉCUPÉRATION."
+042.1 | italique | C’EST TOUTE L’HISTOIRE QUE JE PEUX TE MONTRER.
+042.2 | italique | ALORS...
+042.3 | italique | JE TE CONFIE LA "SUITE".
+044.1 | dialogue | -
+044.2 | dialogue | -
+044.3 | systeme {"box": [130, 1520, 670, 1800], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 130} | VAINQUEUR,\nUNNAME
+044.4 | dialogue | -
+045.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | BATAILLE FINALE\nDEUXIÈME ROUND
+045.2 | dialogue | -
+045.3 | dialogue | -
+045.4 | dialogue | -
+045.5 | dialogue | -
+045.6 | dialogue | -

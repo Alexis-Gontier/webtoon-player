@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/033.webp",
+ "output": "chapters_fr/chapter-256/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...HA !",
+   "style": "dialogue",
+   "point": [
+    338,
+    3500
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EH BIEN,\nREGARDEZ ÇA.",
+   "style": "dialogue",
+   "point": [
+    409,
+    4749
+   ]
+  }
+ ]
+}

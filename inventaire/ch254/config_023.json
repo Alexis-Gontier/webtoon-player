@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/023.webp",
+ "output": "chapters_fr/chapter-254/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AU PROFIT DE\nSEOL-JIN.",
+   "style": "cri",
+   "point": [
+    330,
+    259
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET SI ÇA CONTINUE COMME ÇA,",
+   "style": "italique",
+   "point": [
+    366,
+    1381
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU VAS PERDRE TOUT LE RESTE AUSSI, TU SAIS ?",
+   "style": "italique",
+   "point": [
+    360,
+    4133
+   ]
+  },
+  {
+   "id": 4,
+   "text": "VRAIMENT ?",
+   "style": "dialogue",
+   "point": [
+    228,
+    4891
+   ]
+  }
+ ]
+}

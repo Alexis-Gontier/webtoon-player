@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-255/022.webp",
+ "output": "chapters_fr/chapter-255/022.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "C’EST DONC ÇA, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    368,
+    2884
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AU FINAL, MÊME TON ÂME A CHOISI SON MONDE...",
+   "style": "dialogue",
+   "point": [
+    343,
+    4207
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-255/032.webp",
+ "output": "chapters_fr/chapter-255/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PLAYER\nARTHUR !",
+   "style": "italique",
+   "point": [
+    353,
+    883
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 100,
+   "text": "LIBÉRATION\nDU MANTEAU CÉLESTE",
+   "style": "titre",
+   "box": [
+    40,
+    330,
+    690,
+    590
+   ],
+   "light": true,
+   "light_min": 200,
+   "grow": 6,
+   "blur_fill": 10,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "text": "LIBÉRATION\nDU MANTEAU CÉLESTE",
+   "style": "titre",
+   "box": [
+    40,
+    1340,
+    690,
+    1620
+   ],
+   "light": true,
+   "light_min": 225,
+   "grow": 6,
+   "colors": [
+    [
+     235,
+     250,
+     255
+    ],
+    [
+     235,
+     250,
+     255
+    ]
+   ]
+  }
+ ]
+}

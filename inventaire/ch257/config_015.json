@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/015.webp",
+ "output": "chapters_fr/chapter-257/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ELLE LE SUT AU PREMIER REGARD.",
+   "style": "cartouche",
+   "point": [
+    419,
+    859
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LEURS KARMAS...",
+   "style": "cartouche",
+   "point": [
+    300,
+    2858
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LES ATTIRAIENT FORTEMENT L’UN VERS L’AUTRE.",
+   "style": "cartouche",
+   "point": [
+    493,
+    3153
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR LA PREMIÈRE FOIS, UN \"REGARD\" TOMBÉ DE LA LUMIÈRE...",
+   "style": "cartouche",
+   "point": [
+    402,
+    4191
+   ]
+  }
+ ]
+}

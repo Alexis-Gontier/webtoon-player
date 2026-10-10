@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-256/035.webp",
+ "output": "chapters_fr/chapter-256/035.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DE ME SOUVENIR ENCORE SI BIEN DE TON VISAGE.",
+   "style": "dialogue",
+   "point": [
+    424,
+    260
+   ]
+  },
+  {
+   "id": 2,
+   "text": "BON, JE L’AVOUE ! J’AI PENSÉ À TOI...",
+   "style": "dialogue",
+   "point": [
+    405,
+    2820
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOUT À\nLA FIN !",
+   "style": "dialogue",
+   "point": [
+    355,
+    4755
+   ]
+  }
+ ]
+}

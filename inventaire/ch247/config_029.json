@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-247/029.webp",
+ "output": "chapters_fr/chapter-247/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU SAIS POURQUOI JE T’AI MISE AU REBUT ?",
+   "style": "dialogue",
+   "point": [
+    370,
+    659
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PARCE QUE JE DÉTESTE LES GENS TERNES ET AGAÇANTS...",
+   "style": "dialogue",
+   "point": [
+    388,
+    1951
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EXACTEMENT\nCOMME TOI.",
+   "style": "dialogue",
+   "point": [
+    373,
+    3761
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-231/012.webp",
+ "output": "chapters_fr/chapter-231/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOILÀ CE QU’A FAIT MON CAMARADE...",
+   "style": "dialogue",
+   "point": [
+    398,
+    3784
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VOILÀ L’ABOUTISSEMENT DE MES CAPACITÉS.",
+   "style": "dialogue",
+   "point": [
+    420,
+    5973
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PAS POSSIBLE !!!",
+   "style": "dialogue",
+   "point": [
+    335,
+    7108
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PAS POSSIBLE~",
+   "style": "dialogue",
+   "point": [
+    375,
+    8313
+   ]
+  }
+ ]
+}

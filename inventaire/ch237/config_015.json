@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-237/015.webp",
+ "output": "chapters_fr/chapter-237/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI JE L’AVAIS ARRÊTÉ, ALORS MON HÉROS...",
+   "style": "dialogue",
+   "point": [
+    387,
+    246
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AURAIT-IL PU EN FINIR SANS UN SACRIFICE AUSSI VAIN ?",
+   "style": "dialogue",
+   "point": [
+    386,
+    2140
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MON VAN, NE SOIS PAS TROP TRISTE.",
+   "style": "dialogue",
+   "point": [
+    408,
+    3342
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TON HÉROS N’A PAS TRAHI TA FOI,",
+   "style": "dialogue",
+   "point": [
+    383,
+    5053
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IL A SIMPLEMENT CHOISI DE RESTER HUMAIN JUSQU’AU BOUT.",
+   "style": "dialogue",
+   "point": [
+    418,
+    7193
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MAIS VAN, N’OUBLIE PAS.",
+   "style": "dialogue",
+   "point": [
+    404,
+    8275
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-256/039.webp",
+ "output": "chapters_fr/chapter-256/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON A ASSEZ MONTRÉ DE L’HISTOIRE,",
+   "style": "italique",
+   "point": [
+    434,
+    404
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU NE CROIS\nPAS ?",
+   "style": "italique",
+   "point": [
+    402,
+    2064
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BREF !",
+   "style": "dialogue",
+   "point": [
+    398,
+    3416
+   ]
+  },
+  {
+   "id": 4,
+   "text": "L’HISTOIRE QUE J’AI PRÉPARÉE S’ARRÊTE ICI.",
+   "style": "dialogue",
+   "point": [
+    418,
+    4423
+   ]
+  }
+ ]
+}

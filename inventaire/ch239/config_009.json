@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-239/009.webp",
+ "output": "chapters_fr/chapter-239/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SUMAMA~ !",
+   "style": "italique",
+   "point": [
+    225,
+    22
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UNE FOIS QUE C’EST FINI, JE DOIS ME REFAIRE COIFFER PLUS TARD ?",
+   "style": "dialogue",
+   "point": [
+    323,
+    288
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BIEN SÛR ! VIENS ME VOIR POUR TON PROCHAIN RENDEZ-VOUS ! C’EST GRATUIT POUR SEOL-JIN !",
+   "style": "italique",
+   "point": [
+    508,
+    619
+   ]
+  },
+  {
+   "id": 5,
+   "text": "...LILLET EST QUELQUE PART PAR ICI AUSSI... ?",
+   "style": "dialogue",
+   "point": [
+    392,
+    1522
+   ]
+  }
+ ]
+}

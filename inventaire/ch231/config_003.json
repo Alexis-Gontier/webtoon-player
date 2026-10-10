@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-231/003.webp",
+ "output": "chapters_fr/chapter-231/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST ÇA, LE \"RIDEAU\"... ?",
+   "style": "dialogue",
+   "point": [
+    390,
+    11113
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’ÉTAIT DONC L’OMBRE DE CE MONSTRE... !",
+   "style": "dialogue",
+   "point": [
+    442,
+    12691
+   ]
+  },
+  {
+   "id": 3,
+   "text": "RIDEAU,",
+   "style": "dialogue",
+   "point": [
+    395,
+    13598
+   ]
+  }
+ ]
+}

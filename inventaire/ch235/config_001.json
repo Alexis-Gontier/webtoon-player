@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-235/001.webp",
+ "output": "chapters_fr/chapter-235/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA \"TROISIÈME ET DERNIÈRE MÉTHODE\" POUR SURVIVRE,",
+   "style": "dialogue",
+   "point": [
+    412,
+    719
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST...",
+   "style": "dialogue",
+   "point": [
+    395,
+    2120
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUE L’UN DE NOUS AILLE VOIR \"ARTHUR\" ET LUI EXPLIQUE LA SITUATION.",
+   "style": "dialogue",
+   "point": [
+    391,
+    3381
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PEUT-ÊTRE... AVEC DE LA CHANCE, ARTHUR TROUVERA LE COMBAT DE DEAN \"INTÉRESSANT\".",
+   "style": "dialogue",
+   "point": [
+    328,
+    5850
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ET DÉCIDERA DE RAPPELER SON ARME D’EGO.",
+   "style": "dialogue",
+   "point": [
+    514,
+    6647
+   ]
+  },
+  {
+   "id": 8,
+   "text": "...D’ACCORD, J’AI COMPRIS.",
+   "style": "dialogue",
+   "point": [
+    337,
+    7613
+   ]
+  },
+  {
+   "id": 9,
+   "text": "C’EST CLAIREMENT UN TRUC QUE MOI SEUL PEUX FAIRE, VU QUE JE SUIS LE SEUL À CIRCULER LIBREMENT DANS LA GROTTE AVEC LES MOKIKO.",
+   "style": "dialogue",
+   "point": [
+    444,
+    8722
+   ]
+  }
+ ]
+}

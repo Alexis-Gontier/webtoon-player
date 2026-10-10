@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-249/026.webp",
+ "output": "chapters_fr/chapter-249/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VEUX QUE JE TE DISE ?",
+   "style": "dialogue",
+   "point": [
+    361,
+    240
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE QUE SEOL-JIN PENSE VRAIMENT DE TOI.",
+   "style": "dialogue",
+   "point": [
+    366,
+    2337
+   ]
+  }
+ ]
+}

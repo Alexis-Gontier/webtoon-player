@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/043.webp",
+ "output": "chapters_fr/chapter-256/043.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VIENS.",
+   "style": "dialogue",
+   "point": [
+    580,
+    64
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AVEC CETTE ÉPÉE DE LA FAILLE OU JE NE SAIS QUOI... TU AS DIT QUE TU L’UTILISERAIS CONTRE MOI.",
+   "style": "dialogue",
+   "point": [
+    413,
+    2558
+   ]
+  }
+ ]
+}

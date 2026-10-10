@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-257/048.webp",
+ "output": "chapters_fr/chapter-257/048.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ARTHUR !!!",
+   "style": "cri",
+   "point": [
+    431,
+    1305
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ENFIN...",
+   "style": "dialogue",
+   "point": [
+    291,
+    4636
+   ]
+  }
+ ]
+}

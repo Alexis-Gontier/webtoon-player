@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-262/028.webp",
+ "output": "chapters_fr/chapter-262/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PROTÉGEZ LES AUTRES.",
+   "style": "italique",
+   "point": [
+    357,
+    315
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ATTENDS...",
+   "style": "dialogue",
+   "point": [
+    384,
+    2510
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TOI...",
+   "style": "dialogue",
+   "point": [
+    298,
+    3914
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QU’EST-CE QUE TU COMPTES FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    374,
+    4755
+   ]
+  }
+ ]
+}

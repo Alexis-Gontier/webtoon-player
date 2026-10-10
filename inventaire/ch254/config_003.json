@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-254/003.webp",
+ "output": "chapters_fr/chapter-254/003.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "OUI,\nSEOL-JIN !",
+   "style": "dialogue",
+   "point": [
+    337,
+    882
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PUISQU’ON EST\nAU BOUT...",
+   "style": "dialogue",
+   "point": [
+    335,
+    1555
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BATTONS-NOUS\nSANS REGRETS !",
+   "style": "dialogue",
+   "point": [
+    400,
+    1892
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-253/038.webp",
+ "output": "chapters_fr/chapter-253/038.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PUISQU’ON EST\nARRIVÉS AU BOUT...",
+   "style": "dialogue",
+   "point": [
+    300,
+    302
+   ]
+  },
+  {
+   "id": 2,
+   "text": "BATTONS-NOUS\nSANS REGRETS.",
+   "style": "dialogue",
+   "point": [
+    402,
+    661
+   ]
+  }
+ ]
+}

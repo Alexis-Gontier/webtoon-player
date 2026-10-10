@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/022.webp",
+ "output": "chapters_fr/chapter-252/022.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "J’AI SURVÉCU...!",
+   "style": "italique",
+   "point": [
+    348,
+    1235
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST PAS\nDRÔLE...",
+   "style": "italique",
+   "point": [
+    363,
+    1563
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS BON, JE TE COMPRENDS, PETIT.",
+   "style": "pensee",
+   "point": [
+    284,
+    3443
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ÇA TRAÎNAIT DÉJÀ DEPUIS SI LONGTEMPS QUE MÊME MOI, J’ÉTAIS À BOUT...",
+   "style": "pensee",
+   "point": [
+    407,
+    4535
+   ]
+  }
+ ]
+}

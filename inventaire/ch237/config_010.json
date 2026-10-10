@@ -1,0 +1,103 @@
+{
+ "source": "chapters_en/chapter-237/010.webp",
+ "output": "chapters_fr/chapter-237/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TANT PIS SI JE NE PEUX\nPLUS AVANCER.",
+   "style": "systeme",
+   "box": [
+    100,
+    1580,
+    700,
+    1855
+   ],
+   "target": [
+    129,
+    1613,
+    673,
+    1821
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 250,
+   "grow": 6
+  },
+  {
+   "id": 3,
+   "text": "DANS CE BRAS\nGAUCHE, IL Y A...",
+   "style": "systeme",
+   "box": [
+    220,
+    3345,
+    580,
+    3510
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 4,
+   "text": "MON...\nNOTRE TOUT.",
+   "style": "systeme",
+   "box": [
+    140,
+    4900,
+    660,
+    5180
+   ],
+   "fill": [
+    0,
+    0,
+    0
+   ],
+   "light": true,
+   "light_min": 60,
+   "grow": 10,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  }
+ ]
+}

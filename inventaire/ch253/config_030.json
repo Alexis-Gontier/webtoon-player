@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-253/030.webp",
+ "output": "chapters_fr/chapter-253/030.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ALORS MOI\nAUSSI...",
+   "style": "dialogue",
+   "point": [
+    373,
+    700
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...J’AFFRONTERAI TOUT CE QUE JE DOIS RÉGLER DANS L’AVENIR OÙ ILS ME MÈNENT.",
+   "style": "dialogue",
+   "point": [
+    400,
+    2445
+   ]
+  },
+  {
+   "id": 100,
+   "text": "MISÉRABLE QUE TOI\nVERS L’AVENIR...",
+   "style": "dialogue",
+   "box": [
+    195,
+    0,
+    665,
+    105
+   ],
+   "target": [
+    245,
+    0,
+    590,
+    80
+   ],
+   "max_size": 27,
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "seam": "top"
+  }
+ ]
+}

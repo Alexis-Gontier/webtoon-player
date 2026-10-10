@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/041.webp",
+ "output": "chapters_fr/chapter-257/041.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET LES QUESTIONS SE CHANGÈRENT EN HAINE.",
+   "style": "cartouche",
+   "point": [
+    438,
+    870
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PLUS ON S’APPROCHE DU VRAI MONDE...",
+   "style": "pensee",
+   "point": [
+    365,
+    2164
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PLUS ON SENT CLAIREMENT L’EXISTENCE DE DIEU.",
+   "style": "pensee",
+   "point": [
+    466,
+    3459
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET POURTANT,\nPOURQUOI...",
+   "style": "italique",
+   "point": [
+    347,
+    4367
+   ]
+  }
+ ]
+}

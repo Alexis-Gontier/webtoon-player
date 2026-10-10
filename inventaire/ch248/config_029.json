@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-248/029.webp",
+ "output": "chapters_fr/chapter-248/029.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "TU COMPRENDS,\nMAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    345,
+    4954
+   ]
+  }
+ ]
+}

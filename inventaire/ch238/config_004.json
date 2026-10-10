@@ -1,0 +1,132 @@
+{
+ "source": "chapters_en/chapter-238/004.webp",
+ "output": "chapters_fr/chapter-238/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI C’EST CELUI QUI A SAUVÉ DEAN QUAND IL ÉTAIT AU BORD DE LA FAILLITE... !",
+   "style": "italique",
+   "point": [
+    371,
+    215
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST...",
+   "style": "dialogue",
+   "point": [
+    472,
+    782
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JUSTE UN ÉNORME BLOC DE KARMA...",
+   "style": "dialogue",
+   "point": [
+    459,
+    1592
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DIRE QU’IL EN A FABRIQUÉ L’UN APRÈS L’AUTRE...",
+   "style": "italique",
+   "point": [
+    415,
+    2311
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BIEN, ENCORE UN ROUND !",
+   "style": "italique",
+   "point": [
+    395,
+    3763
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MEUH...",
+   "style": "dialogue",
+   "point": [
+    352,
+    5290
+   ]
+  },
+  {
+   "id": 8,
+   "text": "DÉSOLÉ, JE N’Y PEUX RIEN ! C’EST MOI QUI AI DÉCIDÉ DE PARTAGER LES BISCUITS AVEC VOUS, NON ?",
+   "style": "dialogue",
+   "point": [
+    415,
+    5995
+   ]
+  },
+  {
+   "id": 9,
+   "text": "TOUT ÇA, C’ÉTAIT MA DÉCISION.",
+   "style": "dialogue",
+   "point": [
+    410,
+    7272
+   ]
+  },
+  {
+   "id": 10,
+   "text": "C’EST POUR ÇA... POUR CES TYPES...",
+   "style": "dialogue",
+   "point": [
+    329,
+    8400
+   ]
+  },
+  {
+   "id": 11,
+   "text": "MÊME SI ÇA DOIT ME COÛTER LA VIE... !",
+   "style": "dialogue",
+   "point": [
+    453,
+    8698
+   ]
+  },
+  {
+   "id": 12,
+   "text": "COUCOUUU~ HUMAINS IDIOTS !",
+   "style": "dialogue",
+   "point": [
+    409,
+    9291
+   ]
+  },
+  {
+   "id": 13,
+   "text": "JE SUIS VENUE VOUS AIDER TOUS AU NOM DU SEIGNEUR ARTHUR !",
+   "style": "dialogue",
+   "point": [
+    426,
+    11181
+   ]
+  },
+  {
+   "id": 14,
+   "text": "OH LÀ, LE SOL.",
+   "style": "dialogue",
+   "point": [
+    391,
+    12183
+   ]
+  },
+  {
+   "id": 15,
+   "text": "C’EST POUR ÇA QUE JE T’AVAIS DIT DE NE PAS Y TOUCHER.",
+   "style": "dialogue",
+   "point": [
+    352,
+    13223
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-229/007.webp",
+ "output": "chapters_fr/chapter-229/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DE MON DÉSESPOIR.",
+   "style": "italique",
+   "point": [
+    408,
+    1742
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST VRAI, CE N’EST PAS LE MOMENT D’ÊTRE COMME ÇA !",
+   "style": "dialogue",
+   "point": [
+    422,
+    6251
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE DOIS LES AIDER !",
+   "style": "dialogue",
+   "point": [
+    319,
+    7414
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE DOIS FAIRE TOUT CE QUE JE PEUX !",
+   "style": "dialogue",
+   "point": [
+    515,
+    7961
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR MES\nCOLLÈGUES !",
+   "style": "cri",
+   "point": [
+    389,
+    10629
+   ]
+  },
+  {
+   "id": 6,
+   "text": "HOHO !",
+   "style": "italique",
+   "point": [
+    526,
+    13241
+   ]
+  },
+  {
+   "id": 7,
+   "text": "BON, MAINTENANT, JE NE DEVRAIS PLUS DU TOUT M’INQUIÉTER POUR ELLE.",
+   "style": "italique",
+   "point": [
+    353,
+    14117
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-246/013.webp",
+ "output": "chapters_fr/chapter-246/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...QUE S’EST-IL PASSÉ ?",
+   "style": "dialogue",
+   "point": [
+    382,
+    160
+   ]
+  },
+  {
+   "id": 2,
+   "text": "L’IMPACT... EST PLUS LÉGER QUE JE NE LE PENSAIS.",
+   "style": "italique",
+   "point": [
+    442,
+    1189
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON SANG, C’EST DINGUE ! COMMENT ON EST CENSÉS BATTRE UN MONSTRE PAREIL ?",
+   "style": "italique",
+   "point": [
+    286,
+    1433
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI ON S’APPROCHE, ON REPÉRERA PEUT-ÊTRE UNE FAIBLESSE !",
+   "style": "italique",
+   "point": [
+    604,
+    1835
+   ]
+  },
+  {
+   "id": 5,
+   "text": "A-ATTENDEZ ! ARRÊTEZ, S’IL VOUS PLAÎT !",
+   "style": "italique",
+   "point": [
+    474,
+    3101
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’EST DANGEREUX PRÈS DE LA RAMBARDE !",
+   "style": "italique",
+   "point": [
+    287,
+    3327
+   ]
+  },
+  {
+   "id": 7,
+   "text": "CES GAMINS DÉBORDENT D’ÉNERGIE... ILS NE CONNAISSENT DONC PAS LA PEUR ?",
+   "style": "italique",
+   "point": [
+    382,
+    5046
+   ]
+  },
+  {
+   "id": 10,
+   "text": "HA ! REGARDE-TOI.",
+   "style": "dialogue",
+   "point": [
+    397,
+    6803
+   ]
+  },
+  {
+   "id": 11,
+   "text": "TU AS VRAIMENT BLOQUÉ ÇA ?",
+   "style": "dialogue",
+   "point": [
+    410,
+    7651
+   ]
+  }
+ ]
+}

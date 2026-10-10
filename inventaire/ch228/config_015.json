@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-228/015.webp",
+ "output": "chapters_fr/chapter-228/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HMM...",
+   "style": "dialogue",
+   "point": [
+    439,
+    132
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COMME JE M’EN DOUTAIS, UN CORPS D’HOMME A MEILLEUR GOÛT.",
+   "style": "dialogue",
+   "point": [
+    372,
+    1704
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON,",
+   "style": "dialogue",
+   "point": [
+    316,
+    2440
+   ]
+  },
+  {
+   "id": 6,
+   "text": "OÙ EST-CE QU’ON VA, MAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    427,
+    4953
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AINSI, LE MOMENT DU KARMA\nSE RÉPÈTE\nPENDANT LONGTEMPS.",
+   "style": "systeme",
+   "point": [
+    400,
+    6279
+   ],
+   "box": [
+    140,
+    6190,
+    665,
+    6370
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  }
+ ]
+}

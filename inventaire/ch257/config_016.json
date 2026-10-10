@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-257/016.webp",
+ "output": "chapters_fr/chapter-257/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LUI TRANSMIT DES INFORMATIONS, QU’ELLE LE VEUILLE OU NON.",
+   "style": "cartouche",
+   "point": [
+    414,
+    708
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CET HOMME ÉTAIT...",
+   "style": "cartouche",
+   "point": [
+    372,
+    1422
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE PREMIER À DESCENDRE LA TOUR.",
+   "style": "cartouche",
+   "point": [
+    487,
+    2116
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UN ÊTRE QUI REMETTAIT EN CAUSE LE SENS COMMUN.",
+   "style": "cartouche",
+   "point": [
+    314,
+    2834
+   ]
+  },
+  {
+   "id": 5,
+   "text": "UN ÊTRE NÉ AVEC LE DESTIN DE DEVENIR LE RÉCEPTACLE DE DIEU...",
+   "style": "cartouche",
+   "point": [
+    498,
+    3585
+   ]
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+# Chapitre 243. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | -
+001.2 | dialogue | ...COMME PRÉVU.
+001.3 | italique | LA RÉACTION DU NOYAU NE REVIENT PAS.
+001.4 | italique | ÉVIDEMMENT.
+001.5 | italique | MON HISTOIRE S’EST ARRÊTÉE À CE MOMENT-LÀ.
+001.6 | italique | MON HISTOIRE S’EST ARRÊTÉE À CE MOMENT-LÀ.
+001.7 | italique | MÊME AINSI, LA CHANCE QU’ON M’A DONNÉE...
+001.8 | italique | JE VOULAIS JUSTE ÊTRE UN PEU UTILE...
+002.1 | italique | DÉSOLÉ, LES GARS.
+002.2 | italique | JE N’AI PLUS RIEN À VOUS DONNER...
+002.3 | dialogue | ...HÉ, SEOL-JIN HEO.
+002.4 | dialogue | JE T’ATTENDAIS.
+002.5 | dialogue | MAINTENANT, JE...
+003.1 | cri | PAUVRES\nIDIOTS !
+003.2 | italique | VOUS BAISSEZ VOS ARMES DEVANT MOI ?
+004.1 | dialogue | -
+004.2 | dialogue | -
+004.3 | dialogue | -
+004.4 | dialogue | -
+004.5 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 160} | BATAILLE FINALE\nDEMI-FINALE
+004.6 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 160} | DEAN
+004.7 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 160} | SEOL-JIN HEO
+004.8 | dialogue | J’AI HÂTE DE NOTRE COMBAT.
+004.9 | dialogue | M. DEAN.
+004.10 | dialogue | GRÂCE À TOI, JE SUIS GONFLÉ À BLOC.
+004.11 | dialogue | MOI AUSSI, SEOL-JIN HEO.
+005.1 | dialogue | -
+005.2 | dialogue | -
+005.3 | dialogue | -
+005.4 | dialogue | -
+005.5 | italique | JE ME FICHE DU RESTE, MAIS CE QUI S’EST PASSÉ...
+005.6 | italique | JE ME FICHE DU RESTE, MAIS CE QUI S’EST PASSÉ...
+005.7 | italique | MAINTENANT,
+005.8 | italique | ICI !
+006.1 | italique | DÉCIDERA DU SOMMET DE L’ARÈNE CÉLESTE DU TERRARIUM DE LA TOUR CÉLESTE.
+006.2 | dialogue | -
+006.3 | systeme {"box": [20, 5000, 780, 5600], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 260, "stretch": 1.6} | DÉBUT DU\nCOMBAT
+007.1 | italique | PAS ENCORE, PAS ENCORE !
+007.2 | italique | JE LE SAVAIS !
+# EN: YOUR STRENGTH IS... / YOU'RE SO IMPATIENT TOO! (oublis)
+007.100 | italique {"point": [397, 5718]} | TA FORCE,\nC’EST...
+007.101 | cri {"box": [195, 8010, 700, 8360], "target": [270, 8020, 695, 8350], "ink_max": 180, "grow": 5} | TOI AUSSI,\nTU ES SI\nIMPATIENT !
+007.3 | dialogue | -
+007.4 | italique | ÇA NE DEVAIT PAS ÊTRE QUE ÇA !
+007.5 | italique | L’ACHÈVEMENT DU MONDE ? LA RÉACTION DU NOYAU ?
+007.6 | italique | ÇA NE DEVAIT PAS ÊTRE COMME ÇA !
+007.7 | dialogue | PETIT MERDEUX !
+008.1 | italique | CE N’EST TOUJOURS PAS ASSEZ !
+008.2 | italique | ÇA NE SUFFIT PAS !
+009.1 | italique | LE MONDE ! IL RECOMMENCE À BOUGER.
+009.2 | italique | LE NOYAU DE DEAN !
+009.3 | dialogue | -
+009.4 | dialogue | MAINTENANT, C’EST NOTRE TOUR.
+009.5 | dialogue | PAS VRAI ?
+010.1 | dialogue | JE LE SAVAIS...
+010.2 | dialogue | VOUS ÊTES LES MEILLEURS !
+010.3 | italique | UNE IMAGE RÉSIDUELLE... ?!
+011.100 | cri {"point": [393, 790]} | COUCOU !
+011.1 | dialogue | -
+011.2 | dialogue | -
+011.3 | dialogue | ...BANDE D’ENFOIRÉS.
+011.4 | dialogue | -
+011.5 | dialogue | VOUS ESSAYEZ DE VOUS LIGUER CONTRE MOI ?
+012.1 | dialogue | QU’EST-CE QUE ÇA VEUT DIRE ?! ON EST...
+012.2 | dialogue | UN !
+012.3 | dialogue | -
+012.4 | dialogue | HAHA ! JE SUIS JALOUX.
+012.5 | dialogue | BIEN ! ENFIN UN COUP QUI PORTE !
+012.6 | dialogue | ON CONTINUE SUR CET ÉLAN. OCCUPE-TOI DU SOUTIEN, LIBUR !
+012.7 | italique | OUAIS.
+012.8 | italique | LE VRAI COMBAT COMMENCE MAINTENANT... !
+013.1 | dialogue | HAHA !
+013.2 | dialogue | C’EST QUOI ÇA ? PETIT MERDEUX !!!
+013.3 | dialogue | POUR FAIRE SIMPLE,
+013.4 | dialogue | CETTE ÉPÉE NE PEUT PAS TRANCHER SEOL-JIN HEO NI LIBUR.
+014.1 | dialogue | PARCE QUE C’EST UNE ÉPÉE QUI RENFERME LE MONDE IDÉAL QUE DEAN VEUT PROTÉGER,
+014.2 | dialogue | ELLE NE PEUT TRANCHER QUE CE QUI FAIT OBSTACLE À CET IDÉAL,
+014.3 | dialogue | PARCE QUE CE SONT DES GENS QUI EXISTENT DANS LE MONDE QUE DEAN VEUT PROTÉGER.
+014.4 | dialogue | CEPENDANT...
+014.5 | dialogue | TOUT VA BIEN, HEIN ?
+014.6 | dialogue | BON, ALORS...
+014.7 | dialogue | JE ME DOUTAIS QUE TU ACCEPTERAIS.
+014.8 | dialogue | SEOL-JIN HEO !
+015.1 | cri | V16, LIBÉRATION DE L’ÉPÉE.
+015.2 | cri | ÉPÉE DÉCHIRANTE !
+015.3 | dialogue | -
+015.4 | dialogue | -
+015.5 | dialogue | -

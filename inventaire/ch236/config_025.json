@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-236/025.webp",
+ "output": "chapters_fr/chapter-236/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUOI ?! TU ENTRES DANS LE COMBAT FINAL ?!",
+   "style": "dialogue",
+   "point": [
+    303,
+    479
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE NE T’EN EMPÊCHERAI PAS, MAIS... POURQUOI, SÉRIEUX ?!",
+   "style": "dialogue",
+   "point": [
+    435,
+    1724
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CE DERNIER PARI...",
+   "style": "dialogue",
+   "point": [
+    405,
+    2333
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE VAIS SUIVRE LA VOIE QUE JE CROIS JUSTE...",
+   "style": "dialogue",
+   "point": [
+    407,
+    3646
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SI JE DONNE TOUT, QUI SAIT COMMENT ÇA FINIRA, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    427,
+    4206
+   ]
+  },
+  {
+   "id": 8,
+   "text": "J’AVAIS TORT, DEAN.",
+   "style": "italique",
+   "point": [
+    305,
+    6259
+   ]
+  },
+  {
+   "id": 9,
+   "text": "NOUS NE SOMMES QUE DES PIONS JETABLES.",
+   "style": "italique",
+   "point": [
+    506,
+    6822
+   ]
+  },
+  {
+   "id": 10,
+   "text": "D’UNE SIMPLE PICHENETTE DU DIEU ABSOLU, LES GENS COMME NOUS SERAIENT...",
+   "style": "italique",
+   "point": [
+    387,
+    7840
+   ]
+  }
+ ]
+}

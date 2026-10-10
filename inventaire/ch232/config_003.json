@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-232/003.webp",
+ "output": "chapters_fr/chapter-232/003.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MADEMOISELLE NABI, VAN ZICHMUND...",
+   "style": "italique",
+   "point": [
+    399,
+    7532
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUAIS ! POUR LA PREMIÈRE FOIS, IL N’A PAS BLOQUÉ, IL A ESQUIVÉ !",
+   "style": "italique",
+   "point": [
+    373,
+    8640
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ÇA A COMMENCÉ.",
+   "style": "italique",
+   "point": [
+    411,
+    9446
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE RYTHME DE DEAN !",
+   "style": "italique",
+   "point": [
+    414,
+    11079
+   ]
+  }
+ ]
+}

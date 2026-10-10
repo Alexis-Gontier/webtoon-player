@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-250/021.webp",
+ "output": "chapters_fr/chapter-250/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IMBÉCILE...! TU DEVRAIS LE SAVOIR MIEUX QUE PERSONNE, NON ?",
+   "style": "dialogue",
+   "point": [
+    345,
+    1992
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POURQUOI TU UTILISES CE POUVOIR TOUT SEUL...?!",
+   "style": "dialogue",
+   "point": [
+    286,
+    3505
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI TU CONTINUES À TE BATTRE COMME ÇA, TU NE POURRAS JAMAIS REVENIR !",
+   "style": "dialogue",
+   "point": [
+    431,
+    3822
+   ]
+  },
+  {
+   "id": 6,
+   "text": "RÉVEILLE-TOI...",
+   "style": "dialogue",
+   "point": [
+    263,
+    4462
+   ]
+  },
+  {
+   "id": 7,
+   "text": "OUVRE LES\nYEUX...!",
+   "style": "dialogue",
+   "point": [
+    401,
+    4683
+   ]
+  }
+ ]
+}

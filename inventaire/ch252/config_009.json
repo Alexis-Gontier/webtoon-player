@@ -1,0 +1,38 @@
+{
+ "source": "chapters_en/chapter-252/009.webp",
+ "output": "chapters_fr/chapter-252/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE CHOC VIOLENT\nENTRE LA RAISON\nET L’ÉMOTION !",
+   "style": "systeme",
+   "box": [
+    120,
+    0,
+    630,
+    260
+   ],
+   "light": true,
+   "grow": 7,
+   "blur_fill": 10,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  }
+ ]
+}

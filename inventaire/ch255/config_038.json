@@ -1,0 +1,81 @@
+{
+ "source": "chapters_en/chapter-255/038.webp",
+ "output": "chapters_fr/chapter-255/038.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET POUR NOTRE RÊVE, JUSQU’AU BOUT...",
+   "style": "italique",
+   "point": [
+    315,
+    1416
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’AI JOUÉ LE RÔLE DE LA MÉCHANTE ULTIME.",
+   "style": "italique",
+   "point": [
+    475,
+    1748
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CONTINUE DE ME REGARDER...",
+   "style": "italique",
+   "point": [
+    366,
+    2524
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CAR JE VAIS PROFITER AU MAXIMUM...",
+   "style": "italique",
+   "point": [
+    341,
+    3577
+   ]
+  },
+  {
+   "id": 100,
+   "text": "DE TON DERNIER",
+   "style": "italique",
+   "box": [
+    225,
+    4940,
+    545,
+    5000
+   ],
+   "target": [
+    250,
+    4945,
+    520,
+    4998
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 27,
+   "seam": "bottom"
+  }
+ ]
+}

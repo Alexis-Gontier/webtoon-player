@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-255/033.webp",
+ "output": "chapters_fr/chapter-255/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SUIS-MOI,\nLAY.",
+   "style": "dialogue",
+   "point": [
+    362,
+    1702
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA VA DEVENIR INTENSE.",
+   "style": "dialogue",
+   "point": [
+    354,
+    3467
+   ]
+  }
+ ]
+}

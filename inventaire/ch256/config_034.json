@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/034.webp",
+ "output": "chapters_fr/chapter-256/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUAIS, C’EST ÇA.",
+   "style": "dialogue",
+   "point": [
+    334,
+    1704
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’EN SUIS MOI-MÊME ASSEZ SURPRIS.",
+   "style": "dialogue",
+   "point": [
+    457,
+    2605
+   ]
+  }
+ ]
+}

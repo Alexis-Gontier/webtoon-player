@@ -1,0 +1,53 @@
+{
+  "source": "chapters_en/chapter-259/003.jpg",
+  "output": "chapters_fr/chapter-259/003.jpg",
+  "bubbles": [
+    {
+      "point": [
+        400,
+        110
+      ],
+      "text": "COMBIEN DE TEMPS ENCORE...",
+      "style": "italique"
+    },
+    {
+      "point": [
+        420,
+        1165
+      ],
+      "text": "POURRONS-NOUS\nRÉSISTER... ?",
+      "style": "italique"
+    },
+    {
+      "point": [
+        400,
+        7380
+      ],
+      "text": "POURQUOI..."
+    },
+    {
+      "point": [
+        440,
+        8740
+      ],
+      "text": "RÉSISTER ?",
+      "style": "cri"
+    },
+    {
+      "point": [
+        400,
+        11620
+      ],
+      "text": "TOI, LE HÉROS DE LA NOUVELLE ÈRE, TU DEVRAIS LE SAVOIR MIEUX QUE PERSONNE.",
+      "style": "italique"
+    },
+    {
+      "point": [
+        390,
+        13840
+      ],
+      "text": "LE DESTIN DE CE MONDE EST DÉJÀ SCELLÉ.",
+      "style": "italique"
+    }
+  ]
+}

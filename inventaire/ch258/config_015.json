@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/015.webp",
+ "output": "chapters_fr/chapter-258/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...PARCE QU’IL REFUSAIT D’ADMETTRE...",
+   "style": "cartouche",
+   "point": [
+    409,
+    827
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...QUE CETTE FIN...",
+   "style": "cartouche",
+   "point": [
+    339,
+    1769
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÉTAIT INÉVITABLE ?",
+   "style": "cartouche",
+   "point": [
+    476,
+    2094
+   ]
+  }
+ ]
+}

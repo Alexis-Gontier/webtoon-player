@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/026.webp",
+ "output": "chapters_fr/chapter-227/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN...",
+   "style": "dialogue",
+   "point": [
+    376,
+    176
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JUSQU’AU BOUT.",
+   "style": "dialogue",
+   "point": [
+    394,
+    1224
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TIENS TA PROMESSE.",
+   "style": "dialogue",
+   "point": [
+    259,
+    3031
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CARTOUCHE\nOUVERTE.",
+   "style": "cri",
+   "point": [
+    391,
+    7841
+   ]
+  }
+ ]
+}

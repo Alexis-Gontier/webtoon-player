@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-264/006.webp",
+ "output": "chapters_fr/chapter-264/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LIBUR SERA SANS DOUTE TRISTE...",
+   "style": "dialogue",
+   "point": [
+    275,
+    1900
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS BON, TU DOIS DÉJÀ LE SAVOIR, PUISQUE NOUS NE FAISONS QU’UN.",
+   "style": "dialogue",
+   "point": [
+    444,
+    2844
+   ]
+  }
+ ]
+}

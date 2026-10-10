@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-237/006.webp",
+ "output": "chapters_fr/chapter-237/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MES VIEUX SOUVENIRS REVIENNENT.",
+   "style": "italique",
+   "point": [
+    410,
+    1369
+   ]
+  },
+  {
+   "id": 2,
+   "text": "RAN, MARY. AVEC TOUT ÇA...",
+   "style": "italique",
+   "point": [
+    340,
+    5109
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DIRIEZ-VOUS QUE MA VIE A SUFFI ?",
+   "style": "italique",
+   "point": [
+    404,
+    6199
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/017.webp",
+ "output": "chapters_fr/chapter-251/017.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "B-BEN, C’EST QUE...",
+   "style": "dialogue",
+   "point": [
+    433,
+    1436
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DAME RAY A L’AIR DE SOUFFRIR...?",
+   "style": "dialogue",
+   "point": [
+    396,
+    2337
+   ]
+  }
+ ]
+}

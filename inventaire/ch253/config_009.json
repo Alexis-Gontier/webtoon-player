@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-253/009.webp",
+ "output": "chapters_fr/chapter-253/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HEIN ? CE N’ÉTAIT PAS ÇA ? ALORS QU’EST-CE QUE TU VOULAIS DEMANDER ?",
+   "style": "dialogue",
+   "point": [
+    386,
+    1070
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OH~ ?",
+   "style": "dialogue",
+   "point": [
+    293,
+    1913
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’ALLAIS LAISSER TOMBER, MAIS BON, PUISQUE ÇA T’INTÉRESSE.",
+   "style": "dialogue",
+   "point": [
+    419,
+    2722
+   ]
+  },
+  {
+   "id": 4,
+   "text": "M-M-MA RÉPONSE NE VOULAIT PAS DIRE ÇA...!",
+   "style": "italique",
+   "point": [
+    395,
+    4705
+   ]
+  }
+ ]
+}

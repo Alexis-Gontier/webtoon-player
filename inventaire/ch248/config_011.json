@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-248/011.webp",
+ "output": "chapters_fr/chapter-248/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NON...",
+   "style": "dialogue",
+   "point": [
+    363,
+    2267
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS AU MOINS...",
+   "style": "dialogue",
+   "point": [
+    358,
+    3032
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU N’AURAIS\nPAS DÛ FAIRE ÇA.",
+   "style": "dialogue",
+   "point": [
+    361,
+    4925
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    200,
+    4985,
+    530,
+    5000
+   ],
+   "ink_max": 100,
+   "grow": 2,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

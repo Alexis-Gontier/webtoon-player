@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-248/018.webp",
+ "output": "chapters_fr/chapter-248/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’EST-CE QUE C’EST ? L’HEURE DES AVEUX ? COMME ÇA, D’UN COUP ?",
+   "style": "dialogue",
+   "point": [
+    326,
+    359
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA ME VA.",
+   "style": "dialogue",
+   "point": [
+    477,
+    1169
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’AI DÉJÀ L’HABITUDE DES AMOURS À SENS UNIQUE.",
+   "style": "dialogue",
+   "point": [
+    357,
+    2823
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA IRA...",
+   "style": "dialogue",
+   "point": [
+    283,
+    3541
+   ]
+  }
+ ]
+}

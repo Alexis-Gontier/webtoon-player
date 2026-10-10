@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-262/031.webp",
+ "output": "chapters_fr/chapter-262/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST PAREIL POUR TOUS LES AUTRES.",
+   "style": "dialogue",
+   "point": [
+    354,
+    232
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON S’EST TELLEMENT BATTUS POUR ARRIVER JUSQU’ICI.",
+   "style": "dialogue",
+   "point": [
+    357,
+    2381
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST À MOI DE LE FAIRE.",
+   "style": "dialogue",
+   "point": [
+    367,
+    3273
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TANT QU’IL RESTE UNE LUEUR D’ESPOIR...",
+   "style": "dialogue",
+   "point": [
+    364,
+    4201
+   ]
+  }
+ ]
+}

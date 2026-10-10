@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-247/003.webp",
+ "output": "chapters_fr/chapter-247/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "T’ACCROCHER AUSSI LONGTEMPS... COMMENT DIRE...",
+   "style": "dialogue",
+   "point": [
+    364,
+    291
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST UN PEU...",
+   "style": "dialogue",
+   "point": [
+    364,
+    1252
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PITOYABLE.",
+   "style": "dialogue",
+   "point": [
+    365,
+    2021
+   ]
+  }
+ ]
+}

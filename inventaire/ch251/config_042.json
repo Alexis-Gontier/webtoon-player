@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/042.webp",
+ "output": "chapters_fr/chapter-251/042.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOUS DEUX... NE ME DITES PAS...",
+   "style": "dialogue",
+   "point": [
+    356,
+    462
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE VOUS M’AIMEZ BIEN ?",
+   "style": "dialogue",
+   "point": [
+    473,
+    4209
+   ]
+  }
+ ]
+}

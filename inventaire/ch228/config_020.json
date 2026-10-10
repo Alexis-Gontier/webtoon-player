@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-228/020.webp",
+ "output": "chapters_fr/chapter-228/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOUS LES CONTRACTANTS...",
+   "style": "dialogue",
+   "point": [
+    409,
+    235
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SONT ARRIVÉS SI PRÈS DE LA TOUR ?",
+   "style": "dialogue",
+   "point": [
+    418,
+    2304
+   ]
+  },
+  {
+   "id": 3,
+   "text": "UNNAME FUT RECONNU TRÈS TÔT PAR LA TOUR.",
+   "style": "dialogue",
+   "point": [
+    332,
+    3164
+   ]
+  },
+  {
+   "id": 4,
+   "text": "IL Y A AUSSI UNE RUMEUR SUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    500,
+    4048
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS JE ME SUIS RETENUE DE L’APPROCHER,",
+   "style": "dialogue",
+   "point": [
+    299,
+    4671
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PARCE QU’EN TANT QU’EXPLORATRICE, JE NE VOULAIS PAS DÉRANGER ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    484,
+    4982
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CEPENDANT...",
+   "style": "dialogue",
+   "point": [
+    406,
+    6280
+   ]
+  }
+ ]
+}

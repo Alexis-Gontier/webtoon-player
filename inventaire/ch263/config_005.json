@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-263/005.webp",
+ "output": "chapters_fr/chapter-263/005.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "TU AS QUELQUE\nCHOSE À FAIRE.",
+   "style": "italique",
+   "point": [
+    357,
+    1327
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AUX CÔTÉS DU MAÎTRE, MÈNE LES AUTRES...",
+   "style": "dialogue",
+   "point": [
+    323,
+    2595
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET GUIDE CE NOUVEAU MONDE.",
+   "style": "dialogue",
+   "point": [
+    385,
+    3510
+   ]
+  },
+  {
+   "id": 7,
+   "text": "FRANCHEMENT...",
+   "style": "dialogue",
+   "point": [
+    341,
+    4246
+   ]
+  },
+  {
+   "id": 100,
+   "text": "NON.",
+   "style": "italique",
+   "point": [
+    362,
+    200
+   ]
+  }
+ ]
+}

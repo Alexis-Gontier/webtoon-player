@@ -1,0 +1,109 @@
+{
+ "source": "chapters_en/chapter-246/003.webp",
+ "output": "chapters_fr/chapter-246/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DANS LES TRIBUNES, UN PLAYER TROUVA LA RÉPONSE PLUS VITE QUE QUICONQUE.",
+   "style": "dialogue",
+   "point": [
+    400,
+    207
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’ÉTAIT RYUJIN, L’HOMME QUI AVAIT SUBI EN PERSONNE LA MALVEILLANCE DU DIEU ABSOLU.",
+   "style": "dialogue",
+   "point": [
+    404,
+    2103
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE M’EN\nSOUVIENS.",
+   "style": "italique",
+   "point": [
+    388,
+    3229
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CETTE SENSATION.",
+   "style": "italique",
+   "point": [
+    424,
+    4655
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST EXACTEMENT CE QUE J’AI RESSENTI EN ENTRANT POUR LA PREMIÈRE FOIS DANS LA TOUR !",
+   "style": "italique",
+   "point": [
+    427,
+    5359
+   ]
+  },
+  {
+   "id": 7,
+   "text": "OUI. C’EST ÇA.",
+   "style": "dialogue",
+   "point": [
+    404,
+    8403
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    40,
+    5585,
+    790,
+    5905
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 101,
+   "text": "RÉVÉRENCE.",
+   "style": "systeme",
+   "box": [
+    70,
+    5600,
+    730,
+    5885
+   ],
+   "target": [
+    90,
+    5640,
+    710,
+    5860
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4
+  }
+ ]
+}

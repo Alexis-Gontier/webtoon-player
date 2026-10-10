@@ -1,0 +1,190 @@
+# Chapitre 238. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE\nDEUXIÈME ROUND
+001.2 | dialogue | -
+001.3 | dialogue | -
+001.4 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 200} | VAINQUEUR\nDEAN
+001.5 | dialogue | DIEU MERCI,
+001.6 | dialogue | J’AI ARRÊTÉ ZICHMUND.
+001.7 | dialogue | ÇA DEVRAIT SUFFIRE.
+001.8 | dialogue | LE POULS DU NOYAU S’EST ARRÊTÉ.
+001.9 | italique | MAINTENANT, JE NE PEUX PLUS RIEN FAIRE...
+002.1 | dialogue | HAHA...
+002.2 | systeme {"box": [60, 1020, 740, 1260], "target": [100, 1041, 721, 1241], "light": true, "light_min": 150, "grow": 9, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE\nTROISIÈME ROUND
+002.3 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | SEOL-JIN HEO
+002.4 | dialogue | -
+002.5 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | UNNAME
+002.101 | cri {"point": [400, 2450]} | HÉ ! PRENDS ÇA !
+002.6 | dialogue | -
+002.7 | dialogue | -
+002.8 | dialogue | -
+002.9 | italique | QUE S’IL L’"ACHEVAIT", JE LE LUI RENDRAIS SANS FAUTE !
+002.10 | italique | ALORS S’IL TE PLAÎT, DIS-LE-LUI DE MA PART.
+002.11 | dialogue | -
+002.12 | italique | JE COMPTE SUR TOI, "SEIGNEUR" ARTHUR !
+002.13 | dialogue | SEIGNEUR ARTHUR, QU’EST-CE QUE C’EST ?
+# EN: I MADE A PROMISE TO THAT GUY! (oubli)
+002.100 | italique {"point": [378, 7817]} | J’AI FAIT UNE\nPROMESSE\nÀ CE TYPE !
+002.14 | dialogue | ON DIRAIT JUSTE UNE SORTE DE CAMELOTE...
+002.15 | dialogue | -
+002.16 | dialogue | OUAIS,
+002.17 | dialogue | LES PLAYERS SONT DE VRAIS GAMINS~ !
+003.1 | dialogue | ...BON SANG !
+003.2 | italique | JE M’ÉTAIS TROP HABITUÉE AU CONCEPT DE "RÉSURRECTION".
+003.3 | italique | AVEC L’ÉQUIPEMENT DU LABO ET MES CONNAISSANCES MÉDICALES...
+003.4 | italique | C’EST LE MIEUX QUE J’AI PU FAIRE... !
+003.5 | italique | À CE RYTHME,
+003.6 | italique | MÊME SI CES GAMINS SURVIVENT...
+003.7 | italique | ILS NE SERONT PLUS JAMAIS DES "PLAYERS"... !
+003.8 | italique | NE T’ARRÊTE PAS, GENNOS !
+003.9 | italique | CONTINUE !
+003.10 | dialogue | OUAIS, "COOKIE" !
+004.1 | italique | SI C’EST CELUI QUI A SAUVÉ DEAN QUAND IL ÉTAIT AU BORD DE LA FAILLITE... !
+004.2 | dialogue | C’EST...
+004.3 | dialogue | JUSTE UN ÉNORME BLOC DE KARMA...
+004.4 | italique | DIRE QU’IL EN A FABRIQUÉ L’UN APRÈS L’AUTRE...
+004.5 | dialogue | -
+004.6 | italique | BIEN, ENCORE UN ROUND !
+004.7 | dialogue | MEUH...
+004.8 | dialogue | DÉSOLÉ, JE N’Y PEUX RIEN ! C’EST MOI QUI AI DÉCIDÉ DE PARTAGER LES BISCUITS AVEC VOUS, NON ?
+004.9 | dialogue | TOUT ÇA, C’ÉTAIT MA DÉCISION.
+004.10 | dialogue | C’EST POUR ÇA... POUR CES TYPES...
+004.11 | dialogue | MÊME SI ÇA DOIT ME COÛTER LA VIE... !
+004.12 | dialogue | COUCOUUU~ HUMAINS IDIOTS !
+004.13 | dialogue | JE SUIS VENUE VOUS AIDER TOUS AU NOM DU SEIGNEUR ARTHUR !
+004.14 | dialogue | OH LÀ, LE SOL.
+004.15 | dialogue | C’EST POUR ÇA QUE JE T’AVAIS DIT DE NE PAS Y TOUCHER.
+005.1 | dialogue | VOYONS... IL NE VAUDRAIT PAS MIEUX UTILISER LA DURÉE DE VIE ACCORDÉE PAR LES HUMAINS ?
+005.2 | dialogue | UTILISE-LA AVEC PARCIMONIE, ELLE EST PRÉCIEUSE.
+005.3 | italique | A-ATTENDEZ ! VOUS... QU’EST-CE QUE VOUS FAITES... ?
+005.4 | dialogue | TU N’AS PAS ENTENDU ? J’AI DIT QUE JE T’ÉPARGNERAIS.
+005.5 | dialogue | -
+005.6 | dialogue | VOUS, TAISEZ-VOUS ET FAITES UNE SIESTE.
+005.7 | dialogue | ...?
+005.8 | dialogue | TROUVÉ !
+005.9 | dialogue | BIEN, ALORS, JE VAIS ARRANGER ÇA PROPREMENT~ !
+005.10 | dialogue | ATTENDS, SÉRIEUX ?
+005.11 | dialogue | ÇA VA SE RÉGLER AUSSI FACILEMENT... ?
+006.1 | dialogue | ÇA NE DEVRAIT PAS ÊTRE UN PEU PLUS COMPLIQUÉ... ?
+006.101 | italique {"point": [270, 2150]} | NON...
+# EN: What? (oubli : petit texte sur le décor)
+006.100 | italique {"box": [45, 14325, 245, 14445], "ink_max": 120, "grow": 4, "colors": [[0,0,0],[0,0,0]]} | QUOI ?
+006.2 | dialogue | C’EST NOUS LES RESPONSABLES DE LA MORT DE VOS CAMARADES... !
+006.3 | italique | SI ÇA FINIT COMME ÇA, ALORS NOTRE COMBAT... !
+006.4 | italique | SI ÇA FINIT COMME ÇA, ALORS NOTRE COMBAT... !
+006.5 | italique | C’EST COMME S’IL N’AVAIT EU AUCUN SENS... !
+006.6 | dialogue | -
+006.7 | italique | À CEUX... QUI ONT ROUVERT LES YEUX,
+006.8 | italique | QUEL RÉCONFORT SUIS-JE CENSÉ LEUR APPORTER... ?
+006.9 | italique | BWAHAHAHA !!!
+006.10 | italique | DEAN A GAGNÉ, HEIN ?!
+006.11 | italique {"cut": [[405, 12160], [465, 12160]]} | AU FINAL, TOUT S’EST PASSÉ COMME ON L’AVAIT PRÉVU !
+006.12 | italique {"cut": [[405, 12160], [465, 12160]]} | MÊME CES CRÉTINS ÉGOÏSTES ONT REÇU UNE LEÇON, C’EST TELLEMENT JOUISSIF~ !
+006.13 | dialogue | OH, AU FAIT, VOUS N’ÊTES PAS PROCHES D’EUX OU QUOI, HEIN ?
+007.1 | dialogue | -
+007.2 | dialogue | -
+007.3 | dialogue | EUH, J’ÉTAIS PROCHE D’EUX... HMM... VRAIMENT ?
+007.4 | dialogue | NE FAIS PAS ATTENTION. ON NE RÉAGIT PAS AUX BÊTISES HUMAINES.
+007.5 | dialogue | ÇA VA, PASTIS ?
+007.6 | dialogue | LILLET... NE MONTRE AUCUN SIGNE DE RÉVEIL.
+007.7 | dialogue | BON, CE N’EST PAS SI ÉTRANGE. ELLE A TRAVERSÉ BEAUCOUP DE CHOSES TOUTE SEULE.
+007.8 | dialogue | TU N’ES PAS LE DERNIER À POUVOIR DIRE ÇA ?
+007.9 | dialogue | AÏE...
+007.10 | dialogue | HMM... C’EST PEUT-ÊTRE DÛ À L’ÉPUISEMENT MENTAL ?
+007.11 | dialogue | ÇA RISQUE D’ÊTRE DUR DE LA RÉVEILLER SANS UNE BONNE THÉRAPIE DE CHOC...
+007.12 | dialogue | THÉRAPIE DE CHOC... ?
+007.13 | dialogue | ...!
+007.14 | dialogue | "LA PETITE MARIONNETTE À SON PAPA."
+007.15 | dialogue | "LA RACLURE DE L’ENFER."
+007.16 | dialogue | EUH...
+007.17 | dialogue | EUH... !
+007.18 | dialogue | "LE CHIEN D’AVALON."
+007.19 | dialogue | "LA CUISINIÈRE MAUDITE."
+007.20 | dialogue | BON, ÇA DEVRAIT SUFFIRE.
+007.21 | dialogue | -
+007.22 | dialogue | QUOI... ?
+008.1 | dialogue | JE ME SOUVIENS.
+008.2 | dialogue | DE CE JOUR-LÀ.
+008.3 | dialogue | À LA PLAGE.
+008.4 | dialogue | AVEC SEOL-JIN HEO.
+008.5 | dialogue | TOUS LES DEUX... ARGH-
+008.6 | italique | Q-QUOI ?! JE DORMAIS ?! DEPUIS QUAND ?!
+008.7 | italique | ET LES ARMES D’EGO ? LA MISSION ?!
+008.8 | dialogue | TU ES TELLEMENT INNOCENTE, SÉRIEUX.
+008.9 | dialogue | J’ÉTAIS COMME ÇA AUSSI, AVANT...
+008.10 | dialogue | -
+008.11 | dialogue | AH, C’EST VRAI. C’EST UNE COMMISSION.
+008.12 | dialogue | PRENDS ÇA.
+008.13 | dialogue | DEAN M’A DEMANDÉ DE TE LE DONNER.
+008.14 | dialogue | -
+008.15 | dialogue | UNE RÉCOMPENSE POUR L’ACHÈVEMENT...
+008.16 | dialogue | -
+009.1 | dialogue | CET IDIOT, IL DEVRAIT PLUTÔT S’INQUIÉTER DE SON PROPRE CORPS... !
+009.2 | dialogue | MDR.
+009.3 | dialogue | BIEN, LA MI-TEMPS EST PRESQUE FINIE.
+009.4 | dialogue | L’ORDRE A ÉTÉ EXÉCUTÉ...
+009.5 | dialogue | RENTRONS.
+009.6 | dialogue | -
+009.7 | dialogue | ASSISTONS À LA FIN DE CE MONDE JUSQU’AU DERNIER INSTANT !
+009.8 | dialogue | -
+009.9 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE\nTROISIÈME ROUND
+009.10 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | SEOL-JIN HEO
+009.11 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | UNNAME
+009.12 | dialogue | HEUREUSEMENT QU’ON EST ARRIVÉS À TEMPS.
+009.13 | dialogue | ALORS LE PROCHAIN GRAND COMBAT VA ENFIN COMMENCER...
+009.14 | dialogue | "SEOL-JIN HEO..."
+009.15 | dialogue | LE PLAYER CHOISI PAR LE SEIGNEUR ARTHUR...
+009.16 | dialogue | L’ACTUEL PROPRIÉTAIRE D’"EXCALIBUR"...
+010.1 | dialogue | SEOL-JIN... LIBUR VA BIEN PRENDRE SOIN DE LUI, HEIN ?
+010.2 | dialogue | CE TYPE, CE N’EST PAS CELUI QUI DÉBARQUE ET QUI S’ÉCROULE ?
+010.3 | dialogue | AH, C’EST VRAI. IL L’A FAIT UNE FOIS.
+010.4 | dialogue | QUELLE CRITIQUE BRUTALE...
+010.5 | dialogue | TOI AUSSI, FAIS ATTENTION, PUISQUE TU ES UNE ARME D’EGO.
+010.6 | dialogue | -
+010.7 | dialogue | AVOIR AFFAIRE À CE TYPE, C’EST UNE VRAIE PLAIE.
+010.8 | dialogue | -
+010.9 | dialogue | QUOI... ?
+010.10 | italique | SEOL-JIN HEO... MAIS QUEL GENRE DE PERSONNE EST-IL ?
+010.11 | dialogue | -
+010.12 | dialogue | -
+010.13 | dialogue | JE VAIS FAIRE UNE PETITE PAUSE, SEIGNEUR ARTHUR.
+010.14 | dialogue | QUOI ? LAY.
+010.15 | dialogue | TU NE REGARDES PAS LE TROISIÈME ROUND ? IL VA COMMENCER.
+010.16 | dialogue | NON.
+011.1 | dialogue | LES COMBATS ENTRE FAIBLES NE M’INTÉRESSENT PAS.
+011.2 | italique | APRÈS AVOIR VU LE COMBAT ENTRE DE VRAIS COLOSSES, J’EN SUIS ENCORE PLUS SÛRE.
+011.3 | italique | CEUX-LÀ N’ONT PAS LE NIVEAU POUR PRENDRE PART À CE COMBAT.
+011.4 | italique | SURTOUT CE TYPE, LE "MAÎTRE" AU VISAGE IMPASSIBLE.
+011.5 | italique | RIEN QUE DE LE REGARDER, J’EN CLAQUE DES DENTS.
+011.6 | italique | JE NE VEUX PAS GÂCHER CETTE BONNE HUMEUR AVEC UN TRUC DÉSAGRÉABLE.
+011.7 | italique | ALLONS NOUS REPOSER DANS LES QUARTIERS DU SEIGNEUR ARTHUR.
+011.8 | dialogue | -
+011.9 | dialogue | -
+011.10 | dialogue | QUOI ? OÙ EST-CE QUE... ?!
+011.11 | dialogue | JE SUIS BIEN DANS LES QUARTIERS DU SEIGNEUR ARTHUR... !
+012.1 | dialogue | TU ES...
+012.2 | dialogue | "LAY", C’EST ÇA ?
+012.3 | dialogue | COMMENT OSES-TU, ESPÈCE D’ENFOIRÉ !
+012.4 | dialogue | -
+012.5 | dialogue | COMMENT OSES-TU PRONONCER LE NOM DONNÉ PAR LE SEIGNEUR ARTHUR ?
+012.6 | italique | A-ATTENDS, JE NE VOULAIS RIEN DIRE DE MAL... !
+012.7 | dialogue | HÉ.
+012.8 | dialogue | ON NE PEUT PAS EN DISCUTER ?
+012.9 | dialogue | ARRÊTE, LIBUR. PAS BESOIN DE DÉGAINER TON ÉPÉE.
+012.10 | dialogue | HMPH ! DÉBARQUER COMME ÇA, TOUT D’UN COUP.
+012.11 | dialogue | ET ALORS ? C’EST MON MAÎTRE.
+013.1 | dialogue | BON, ALORS.
+# EN: HEO SEOL-JIN! (oubli)
+013.100 | italique {"point": [401, 6554]} | SEOL-JIN HEO !
+013.2 | dialogue | ON SE REVERRA PLUS TARD, LAY.
+013.3 | dialogue | COMMENT OSE...
+013.4 | dialogue | COMMENT OSE-T-IL, COMMENT OSE-T-IL !!!
+013.101 | cri {"point": [410, 4190]} | COMMENT OSES-TU\nM’INSULTER ?!
+013.5 | dialogue | EUH, LIBUR, TU N’ES PAS UN PEU TROP PRÈS ?
+013.6 | dialogue | QUOIII~ ?!
+013.7 | dialogue | TU ÉTAIS COLLÉ À CETTE FILLE TOUT À L’HEURE, POURTANT !
+013.8 | dialogue | C-C’ÉTAIT UN ACCIDENT... !
+013.9 | dialogue | OH, VRAIMENT, UN ACCIDENT, HEIN ? NON ! ÇA NE VA PAS.
+013.10 | dialogue | JE VAIS LE DIRE À LILLET AUSSI.
+013.11 | italique | HÉ ! COMMENT LA CONVERSATION EN EST ARRIVÉE LÀ ?!
+014.1 | dialogue | CES SALAUDS... !!!
+014.2 | dialogue | -

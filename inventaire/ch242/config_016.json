@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-242/016.webp",
+ "output": "chapters_fr/chapter-242/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NE T’AVISE PAS DE FUIR, SEOL-JIN HEO !",
+   "style": "dialogue",
+   "point": [
+    386,
+    1507
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MONTRE-NOUS LA SUITE !",
+   "style": "italique",
+   "point": [
+    414,
+    2680
+   ]
+  }
+ ]
+}

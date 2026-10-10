@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-249/015.webp",
+ "output": "chapters_fr/chapter-249/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TIENS BON.",
+   "style": "dialogue",
+   "point": [
+    369,
+    158
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU PEUX LE FAIRE, PAS VRAI ?",
+   "style": "dialogue",
+   "point": [
+    355,
+    1676
+   ]
+  }
+ ]
+}

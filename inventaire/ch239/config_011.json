@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-239/011.webp",
+ "output": "chapters_fr/chapter-239/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HUUP...",
+   "style": "dialogue",
+   "point": [
+    317,
+    289
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU AS DIT QUE CETTE NUIT-LÀ, TU PRENDRAIS TES RESPONSABILITÉS...",
+   "style": "italique",
+   "point": [
+    407,
+    1920
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU AS INTÉRÊT À TENIR PAROLE !!!",
+   "style": "italique",
+   "point": [
+    395,
+    3789
+   ]
+  }
+ ]
+}

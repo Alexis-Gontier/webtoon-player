@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-234/008.webp",
+ "output": "chapters_fr/chapter-234/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PARFAIT.",
+   "style": "italique",
+   "point": [
+    341,
+    3535
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’EN AI UN !",
+   "style": "italique",
+   "point": [
+    528,
+    3927
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OUAIS, C’EST LA PREMIÈRE FOIS QUE J’UTILISE CE POUVOIR, ALORS ÇA DOIT ÊTRE TRÈS BRUYANT.",
+   "style": "italique",
+   "point": [
+    399,
+    6146
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BOUGE, HACHE ! C’EST MON TOUR.",
+   "style": "dialogue",
+   "point": [
+    495,
+    6633
+   ]
+  },
+  {
+   "id": 5,
+   "text": "À MOI ! CE N’EST PAS QU’UNE QUESTION DE TAILLE, TU SAIS !",
+   "style": "italique",
+   "point": [
+    427,
+    9943
+   ]
+  },
+  {
+   "id": 7,
+   "text": "T’INQUIÈTE, JE VAIS JOUER AVEC TOI BIEN GENTIMENT ET BIEN BRUTALEMENT.",
+   "style": "italique",
+   "point": [
+    431,
+    11019
+   ]
+  }
+ ]
+}

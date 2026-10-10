@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/032.webp",
+ "output": "chapters_fr/chapter-257/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’ÉTAIT UN KARMA NÉ DE LA NÉCESSITÉ.",
+   "style": "cartouche",
+   "point": [
+    436,
+    943
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET ENFIN...",
+   "style": "cartouche",
+   "point": [
+    425,
+    1919
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE CŒUR ÉMU...",
+   "style": "cartouche",
+   "point": [
+    426,
+    3302
+   ]
+  }
+ ]
+}

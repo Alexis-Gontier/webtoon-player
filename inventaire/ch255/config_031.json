@@ -1,0 +1,56 @@
+{
+ "source": "chapters_en/chapter-255/031.webp",
+ "output": "chapters_fr/chapter-255/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU HÉSITES,\nARTHUR ?",
+   "style": "italique",
+   "point": [
+    368,
+    495
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 2,
+   "text": "SI C’EST CES\nGAMINS...",
+   "style": "italique",
+   "point": [
+    329,
+    1535
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 3,
+   "text": "ILS SAURONT SÛREMENT TE SATISFAIRE.",
+   "style": "italique",
+   "point": [
+    353,
+    3139
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 4,
+   "text": "UTILISE TOUTE\nTA PUISSANCE...",
+   "style": "italique",
+   "point": [
+    356,
+    4849
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 100,
+   "text": "ALORS,\nJE T’EN PRIE...",
+   "style": "italique",
+   "point": [
+    372,
+    3950
+   ],
+   "erase_color": true
+  }
+ ]
+}

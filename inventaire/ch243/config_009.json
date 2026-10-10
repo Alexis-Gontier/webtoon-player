@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-243/009.webp",
+ "output": "chapters_fr/chapter-243/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE MONDE ! IL RECOMMENCE À BOUGER.",
+   "style": "italique",
+   "point": [
+    382,
+    3180
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE NOYAU DE DEAN !",
+   "style": "italique",
+   "point": [
+    442,
+    4119
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAINTENANT, C’EST NOTRE TOUR.",
+   "style": "dialogue",
+   "point": [
+    450,
+    8193
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PAS VRAI ?",
+   "style": "dialogue",
+   "point": [
+    400,
+    9474
+   ]
+  }
+ ]
+}

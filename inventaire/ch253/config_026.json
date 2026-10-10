@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-253/026.webp",
+ "output": "chapters_fr/chapter-253/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMME JE LE\nPENSAIS...",
+   "style": "dialogue",
+   "point": [
+    361,
+    322
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE M’ATTENDAIS À CE QUE TU SOIS ICI AUSSI...",
+   "style": "dialogue",
+   "point": [
+    371,
+    1284
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PRINCESSE\nBARI.",
+   "style": "dialogue",
+   "point": [
+    373,
+    2942
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALORS, DIS-\nMOI...",
+   "style": "dialogue",
+   "point": [
+    341,
+    3815
+   ]
+  }
+ ]
+}

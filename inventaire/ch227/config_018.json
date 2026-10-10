@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-227/018.webp",
+ "output": "chapters_fr/chapter-227/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AUTREMENT DIT, POUR SORTIR DE CET ESPACE...",
+   "style": "italique",
+   "point": [
+    283,
+    212
+   ]
+  },
+  {
+   "id": 2,
+   "text": "\"LA PARTIE ADVERSE\", AUTREMENT DIT \"MIRAGE\", DOIT SOIT RECONNAÎTRE LA RUPTURE DU CONTRAT, SOIT...",
+   "style": "italique",
+   "point": [
+    484,
+    1160
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOUT CE TEMPS...",
+   "style": "italique",
+   "point": [
+    269,
+    1873
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DOIT ÊTRE ÉPUISÉ.",
+   "style": "italique",
+   "point": [
+    470,
+    2760
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ÇA, C’EST... JUSTE.",
+   "style": "dialogue",
+   "point": [
+    399,
+    3812
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’EST TA VENGEANCE POUR \"CE JOUR-LÀ\" ?",
+   "style": "dialogue",
+   "point": [
+    401,
+    4872
+   ]
+  }
+ ]
+}

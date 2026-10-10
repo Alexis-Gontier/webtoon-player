@@ -1,0 +1,52 @@
+{
+  "source": "chapters_en/chapter-225/009.webp",
+  "output": "chapters_fr/chapter-225/009.webp",
+  "bubbles": [
+    {
+      "point": [
+        300,
+        225
+      ],
+      "text": "ON NE DOIT RIEN FAIRE QUI NOUS FASSE REMARQUER.",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        408,
+        1283
+      ],
+      "text": "CETTE SCÈNE EST UNE PIÈCE ÉCRITE PAR LE DIEU ABSOLU, ARTHUR, ET SI ON VA CONTRE...",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        425,
+        2300
+      ],
+      "text": "ON AURA AFFAIRE AU \"POUVOIR DE DIEU\".",
+      "style": "italique"
+    },
+    {
+      "point": [
+        312,
+        8583
+      ],
+      "text": "OH~ ?"
+    },
+    {
+      "point": [
+        388,
+        9600
+      ],
+      "text": "ON DIRAIT QUE LA FÊTE A COMMENCÉ."
+    },
+    {
+      "point": [
+        377,
+        14650
+      ],
+      "text": "CE SINGE.",
+      "max_size": 62
+    }
+  ]
+}

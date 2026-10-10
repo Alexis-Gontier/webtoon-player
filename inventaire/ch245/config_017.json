@@ -1,0 +1,77 @@
+{
+ "source": "chapters_en/chapter-245/017.webp",
+ "output": "chapters_fr/chapter-245/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI JE GAGNE,\nJE LE PRENDS.",
+   "style": "dialogue",
+   "point": [
+    449,
+    235
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE MONDE DONT\nNOUS AVONS RÊVÉ !",
+   "style": "dialogue",
+   "point": [
+    359,
+    1751
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NON,\nCE SERA \"MON\"\nMONDE.",
+   "style": "dialogue",
+   "point": [
+    393,
+    3035
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CRÉ~TIN !",
+   "style": "dialogue",
+   "point": [
+    424,
+    4754
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PROFITONS-EN\nJUSQU’AU BOUT,\n\"PLAYER\"\nSEOL-JIN HEO !!!",
+   "style": "cri",
+   "point": [
+    412,
+    6447
+   ]
+  },
+  {
+   "id": 100,
+   "text": "BATAILLE\nFINALE",
+   "style": "systeme",
+   "box": [
+    150,
+    7480,
+    670,
+    7845
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 200
+  }
+ ]
+}

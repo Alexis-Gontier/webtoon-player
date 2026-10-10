@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-234/002.webp",
+ "output": "chapters_fr/chapter-234/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL Y A TROIS PARIS QUI VALENT LE COUP.",
+   "style": "dialogue",
+   "point": [
+    394,
+    222
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UN.",
+   "style": "dialogue",
+   "point": [
+    384,
+    1518
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TROUVER UN MOYEN DE RESTAURER LES POUVOIRS DE LILLET ET LES MIENS AVANT LA BATAILLE FINALE.",
+   "style": "dialogue",
+   "point": [
+    423,
+    2567
+   ]
+  },
+  {
+   "id": 5,
+   "text": "...DÉSOLÉ, LILLET.",
+   "style": "italique",
+   "point": [
+    377,
+    4208
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MÊME SI JE N’AVAIS PAS VU MARY GENNOS ET LE PETIT BOUGER,",
+   "style": "italique",
+   "point": [
+    383,
+    5155
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU REGARDERAIS LE MATCH L’ESPRIT BIEN PLUS TRANQUILLE, À L’HEURE QU’IL EST.",
+   "style": "italique",
+   "point": [
+    517,
+    5530
+   ]
+  },
+  {
+   "id": 10,
+   "text": "DEUX.",
+   "style": "dialogue",
+   "point": [
+    446,
+    7355
+   ]
+  },
+  {
+   "id": 11,
+   "text": "AVANT QU’ON SE FASSE ÉLIMINER, DEAN DOIT GAGNER LE DEUXIÈME MATCH.",
+   "style": "dialogue",
+   "point": [
+    395,
+    8496
+   ]
+  },
+  {
+   "id": 12,
+   "text": "QU’EST-CE QU’IL VEUT QUE JE FASSE ?",
+   "style": "italique",
+   "point": [
+    404,
+    10195
+   ]
+  },
+  {
+   "id": 13,
+   "text": "TOUT CE QUE JE SAIS FAIRE, C’EST ATTIRER CES IDIOTES DE MOKIKO AVEC DES BISCUITS...",
+   "style": "italique",
+   "point": [
+    391,
+    11125
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-248/005.webp",
+ "output": "chapters_fr/chapter-248/005.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "CE PAYSAGE...",
+   "style": "italique",
+   "point": [
+    329,
+    908
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST CE QUE LIBUR A VU ?",
+   "style": "italique",
+   "point": [
+    356,
+    2739
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CES ÉMOTIONS QUI SE DÉVERSENT EN MOI...",
+   "style": "italique",
+   "point": [
+    408,
+    4837
+   ]
+  }
+ ]
+}

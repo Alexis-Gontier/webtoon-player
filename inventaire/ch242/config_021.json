@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-242/021.webp",
+ "output": "chapters_fr/chapter-242/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’AI INVITÉ TON AMI AUSSI.",
+   "style": "dialogue",
+   "point": [
+    436,
+    1304
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ON COMMENCE, ALORS ?",
+   "style": "dialogue",
+   "point": [
+    433,
+    2054
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UN VRAI COMBAT.",
+   "style": "dialogue",
+   "point": [
+    398,
+    4033
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DÉBUT",
+   "style": "systeme",
+   "point": [
+    400,
+    4884
+   ],
+   "box": [
+    90,
+    4760,
+    710,
+    5010
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 260
+  }
+ ]
+}

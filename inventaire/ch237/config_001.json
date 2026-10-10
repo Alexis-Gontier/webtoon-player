@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-237/001.webp",
+ "output": "chapters_fr/chapter-237/001.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "HMM...",
+   "style": "dialogue",
+   "point": [
+    275,
+    2756
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HMM...",
+   "style": "dialogue",
+   "point": [
+    493,
+    3344
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HMM ♪",
+   "style": "dialogue",
+   "point": [
+    312,
+    4016
+   ]
+  },
+  {
+   "id": 6,
+   "text": "HMM ♪",
+   "style": "dialogue",
+   "point": [
+    499,
+    5220
+   ]
+  },
+  {
+   "id": 7,
+   "text": "HMMMM ♪",
+   "style": "dialogue",
+   "point": [
+    255,
+    5680
+   ]
+  },
+  {
+   "id": 10,
+   "text": "HMM ♪",
+   "style": "dialogue",
+   "point": [
+    497,
+    6524
+   ]
+  },
+  {
+   "id": 11,
+   "text": "HMM ♪",
+   "style": "dialogue",
+   "point": [
+    400,
+    7314
+   ]
+  }
+ ]
+}

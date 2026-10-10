@@ -1,0 +1,95 @@
+{
+ "source": "chapters_en/chapter-242/002.webp",
+ "output": "chapters_fr/chapter-242/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PEUX-TU ME PARDONNER ?",
+   "style": "dialogue",
+   "point": [
+    343,
+    317
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DIRE QUE C’ÉTAIT\nÀ CE POINT...",
+   "style": "systeme",
+   "point": [
+    398,
+    5548
+   ],
+   "box": [
+    140,
+    5465,
+    655,
+    5630
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 4,
+   "text": "À TRAVERS MES YEUX,\nDANS LA VIE QUE\nJ’AI VUE D’ELLE,",
+   "style": "systeme",
+   "point": [
+    397,
+    5884
+   ],
+   "box": [
+    150,
+    5775,
+    645,
+    5995
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 5,
+   "text": "ELLE N’ÉTAIT AIMÉE\nDE PERSONNE,",
+   "style": "systeme",
+   "box": [
+    101,
+    7141,
+    692,
+    7321
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-253/008.webp",
+ "output": "chapters_fr/chapter-253/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU ES L’ÂME LA PLUS GOURMANDE QUE J’AIE JAMAIS CROISÉE !",
+   "style": "italique",
+   "point": [
+    484,
+    360
+   ]
+  },
+  {
+   "id": 2,
+   "text": "HÉ...\nHÉHÉ...",
+   "style": "dialogue",
+   "point": [
+    270,
+    1399
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON. JE CÈDE POUR CETTE FOIS ! JE LAISSE LA QUESTION EN SUSPENS.",
+   "style": "dialogue",
+   "point": [
+    314,
+    3587
+   ]
+  },
+  {
+   "id": 4,
+   "text": "APRÈS TOUT, TU AS MONTRÉ UNE CONVICTION INÉBRANLABLE MÊME FACE AU DIEU ABSOLU. QUEL CHOIX AI-JE ?",
+   "style": "dialogue",
+   "point": [
+    351,
+    3978
+   ]
+  }
+ ]
+}

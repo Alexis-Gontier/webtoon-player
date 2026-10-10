@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-264/008.webp",
+ "output": "chapters_fr/chapter-264/008.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "BON VOYAGE,\nLAY...",
+   "style": "dialogue",
+   "point": [
+    366,
+    1136
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET NE TARDE PAS TROP À REVENIR.",
+   "style": "dialogue",
+   "point": [
+    392,
+    2650
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "source": "chapters_en/chapter-261/020.webp",
+ "output": "chapters_fr/chapter-261/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LAY, LIBUR ! ON DONNE TOUT CE QU’ON A ENCORE UNE FOIS !",
+   "style": "dialogue",
+   "point": [
+    379,
+    512
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET C’EST POUR ÇA...\nQUE NOUS NOUS INQUIÉTONS,\nQUE NOUS REGRETTONS,\nET TOUT LE RESTE...",
+   "style": "systeme",
+   "box": [
+    70,
+    955,
+    730,
+    1390
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OK !",
+   "style": "dialogue",
+   "point": [
+    513,
+    1895
+   ]
+  },
+  {
+   "id": 4,
+   "text": "O-OK !",
+   "style": "dialogue",
+   "point": [
+    309,
+    2789
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POURTANT...",
+   "style": "systeme",
+   "point": [
+    393,
+    4811
+   ],
+   "box": [
+    250,
+    4750,
+    540,
+    4875
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

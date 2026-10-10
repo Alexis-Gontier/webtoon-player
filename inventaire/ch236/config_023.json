@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-236/023.webp",
+ "output": "chapters_fr/chapter-236/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LES QUATRE ARMES D’EGO, MOI COMPRISE, ONT ÉTÉ ACCUSÉES DE \"TRICHERIE\".",
+   "style": "dialogue",
+   "point": [
+    478,
+    256
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POUR APPLIQUER LA SANCTION, ON NOUS A ENVOYÉS À CET ÉTAGE...",
+   "style": "dialogue",
+   "point": [
+    315,
+    1413
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HO HISSE !",
+   "style": "dialogue",
+   "point": [
+    469,
+    1701
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BANNISSEMENT... ÉTERNEL ?",
+   "style": "dialogue",
+   "point": [
+    415,
+    6865
+   ]
+  }
+ ]
+}

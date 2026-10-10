@@ -1,0 +1,81 @@
+{
+ "source": "chapters_en/chapter-253/029.webp",
+ "output": "chapters_fr/chapter-253/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VAS LE REGRETTER, FILLE DES FLAMMES.",
+   "style": "dialogue",
+   "point": [
+    369,
+    221
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST TA DERNIÈRE CHANCE DE M’ACHEVER POUR DE BON.",
+   "style": "dialogue",
+   "point": [
+    381,
+    1652
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU COMPTES VRAIMENT T’ENFUIR ?",
+   "style": "dialogue",
+   "point": [
+    341,
+    2526
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MES AMIS...",
+   "style": "dialogue",
+   "point": [
+    237,
+    4176
+   ]
+  },
+  {
+   "id": 100,
+   "text": "...VEULENT\nEMPORTER MÊME\nUNE ÂME AUSSI",
+   "style": "dialogue",
+   "box": [
+    195,
+    4865,
+    665,
+    5000
+   ],
+   "target": [
+    225,
+    4900,
+    615,
+    5000
+   ],
+   "max_size": 27,
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "seam": "bottom"
+  }
+ ]
+}

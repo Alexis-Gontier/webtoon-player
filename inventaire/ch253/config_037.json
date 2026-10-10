@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-253/037.webp",
+ "output": "chapters_fr/chapter-253/037.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALLONS-Y,\nLIBUR.",
+   "style": "dialogue",
+   "point": [
+    335,
+    3344
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI,\nSEOL-JIN.",
+   "style": "dialogue",
+   "point": [
+    338,
+    4655
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ON DIRAIT\nQUE TU ES\nDE RETOUR !",
+   "style": "cri",
+   "point": [
+    362,
+    1838
+   ]
+  }
+ ]
+}

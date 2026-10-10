@@ -1,0 +1,106 @@
+{
+ "source": "chapters_en/chapter-260/003.webp",
+ "output": "chapters_fr/chapter-260/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMPÉTENCE CONJOINTE DES PLAYERS",
+   "style": "systeme",
+   "box": [
+    100,
+    0,
+    700,
+    110
+   ],
+   "max_letter": 90,
+   "light": true,
+   "light_min": 200,
+   "grow": 8,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    30,
+    80
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 100,
+   "text": "TRANSFORMATION DU KARMA",
+   "style": "systeme",
+   "box": [
+    50,
+    1400,
+    750,
+    1580
+   ],
+   "max_letter": 90,
+   "light": true,
+   "light_min": 200,
+   "grow": 8,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    30,
+    80
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 101,
+   "text": "PURGATOIRE",
+   "style": "systeme",
+   "box": [
+    90,
+    3700,
+    710,
+    3910
+   ],
+   "max_letter": 160,
+   "light": true,
+   "light_min": 200,
+   "grow": 8,
+   "blur_fill": 40,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    30,
+    80
+   ],
+   "outline_width": 3
+  }
+ ]
+}

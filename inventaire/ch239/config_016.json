@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-239/016.webp",
+ "output": "chapters_fr/chapter-239/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST RIDICULE.",
+   "style": "dialogue",
+   "point": [
+    293,
+    317
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POURQUOI QUELQU’UN D’AUSSI GRAND QUE MOI DEVRAIT-IL SE MÊLER À CES PÉQUENAUDS ?",
+   "style": "dialogue",
+   "point": [
+    405,
+    1259
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DRÔLE DE QUESTION, \"EXPLORATEUR\".",
+   "style": "dialogue",
+   "point": [
+    398,
+    3040
+   ]
+  },
+  {
+   "id": 5,
+   "text": "L’ISSUE DU COMBAT EST DÉTERMINÉE PAR LE POIDS DE LEUR KARMA.",
+   "style": "dialogue",
+   "point": [
+    319,
+    4518
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ELLE DÉPEND DU KARMA ACCUMULÉ AU COURS D’UNE VIE.",
+   "style": "dialogue",
+   "point": [
+    507,
+    4853
+   ]
+  }
+ ]
+}

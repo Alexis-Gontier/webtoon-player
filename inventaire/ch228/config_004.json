@@ -1,0 +1,68 @@
+{
+ "source": "chapters_en/chapter-228/004.webp",
+ "output": "chapters_fr/chapter-228/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BOIS.",
+   "style": "dialogue",
+   "point": [
+    312,
+    231
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA VA TE RÉCHAUFFER.",
+   "style": "dialogue",
+   "point": [
+    468,
+    1412
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...DU VIN DE RAISIN.\nQUELLE HOSPITALITÉ RARE.",
+   "style": "systeme",
+   "box": [
+    122,
+    3505,
+    680,
+    3650
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 4,
+   "text": "COMME JE M’EN DOUTAIS ! TU LE RECONNAIS ?",
+   "style": "dialogue",
+   "point": [
+    263,
+    4426
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU AS FAILLI SERVIR DE REPAS AUX CHAROGNARDS TOUT À L’HEURE. HAHA !",
+   "style": "dialogue",
+   "point": [
+    439,
+    5319
+   ]
+  }
+ ]
+}

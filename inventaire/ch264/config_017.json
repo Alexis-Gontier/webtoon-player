@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-264/017.webp",
+ "output": "chapters_fr/chapter-264/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ATTENDS\nUNE MINUTE...",
+   "style": "dialogue",
+   "point": [
+    264,
+    335
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS L’ENDROIT OÙ ELLE A ÉTÉ TRANSFÉRÉE, C’EST...?!",
+   "style": "dialogue",
+   "point": [
+    352,
+    1146
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE MONDE DE SEOL-JIN... \"LE MONDE AU-DELÀ DES MONDES\".",
+   "style": "italique",
+   "point": [
+    368,
+    2565
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-242/001.webp",
+ "output": "chapters_fr/chapter-242/001.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "SEOL-JIN.",
+   "style": "dialogue",
+   "point": [
+    408,
+    5754
+   ]
+  }
+ ]
+}

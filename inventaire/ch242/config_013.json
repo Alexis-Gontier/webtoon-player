@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-242/013.webp",
+ "output": "chapters_fr/chapter-242/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MOI AUSSI",
+   "style": "dialogue",
+   "point": [
+    349,
+    134
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE FAIS JUSTE CONFIANCE AU CHOIX DU TYPE À QUI JE DOIS QUELQUE CHOSE.",
+   "style": "dialogue",
+   "point": [
+    430,
+    1067
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE ME SUIS DIT QUE CE CAMP ME SERAIT PROFITABLE.",
+   "style": "dialogue",
+   "point": [
+    455,
+    1688
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HMM.",
+   "style": "dialogue",
+   "point": [
+    340,
+    2605
+   ]
+  },
+  {
+   "id": 5,
+   "text": "J’AIMAIS SA DÉTERMINATION.",
+   "style": "dialogue",
+   "point": [
+    408,
+    3448
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PARCE QUE JE LUI DOIS...",
+   "style": "dialogue",
+   "point": [
+    543,
+    4399
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE VOIS.",
+   "style": "dialogue",
+   "point": [
+    411,
+    5693
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ALORS, QU’EN PENSES-TU ?",
+   "style": "dialogue",
+   "point": [
+    439,
+    6557
+   ]
+  }
+ ]
+}

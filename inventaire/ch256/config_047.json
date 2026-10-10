@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/047.webp",
+ "output": "chapters_fr/chapter-256/047.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...?",
+   "style": "dialogue",
+   "point": [
+    391,
+    2393
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QU’EST-CE QUE TU FAIS ?",
+   "style": "dialogue",
+   "point": [
+    420,
+    3971
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-252/025.webp",
+ "output": "chapters_fr/chapter-252/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH...\nVOUS ÊTES...",
+   "style": "dialogue",
+   "point": [
+    288,
+    207
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...LA MÈRE\nDE LILLET...?",
+   "style": "dialogue",
+   "point": [
+    334,
+    1030
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HM ?",
+   "style": "dialogue",
+   "point": [
+    383,
+    1802
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DANS CE CAS, CE SERA VITE RÉGLÉ.",
+   "style": "dialogue",
+   "point": [
+    366,
+    3245
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI TU DEVAIS CHOISIR ENTRE CES DEUX-LÀ, LAQUELLE PRENDRAIS-TU ?",
+   "style": "dialogue",
+   "point": [
+    366,
+    4066
+   ]
+  }
+ ]
+}

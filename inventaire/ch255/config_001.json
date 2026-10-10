@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-255/001.webp",
+ "output": "chapters_fr/chapter-255/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "LA TERRE SACRÉE\nGOUVERNÉE PAR LE\nGRAND SAGE ÉGAL\nDU CIEL\n\n- MONT HUAGUO -",
+   "style": "cartouche",
+   "point": [
+    359,
+    1292
+   ]
+  }
+ ]
+}

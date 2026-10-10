@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/027.webp",
+ "output": "chapters_fr/chapter-257/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE FERAI DE TON RÊVE UNE RÉALITÉ.",
+   "style": "dialogue",
+   "point": [
+    417,
+    125
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS TOI AUSSI, TU DOIS EXISTER POUR MON RÊVE, LUCIA !",
+   "style": "dialogue",
+   "point": [
+    421,
+    2181
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ILS JURÈRENT DE DEVENIR CHACUN LE DERNIER PAS DE L’AUTRE VERS L’ÉTERNITÉ.",
+   "style": "cartouche",
+   "point": [
+    425,
+    3488
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PAR CE SERMENT, ILS LIÈRENT ET ENCHAÎNÈRENT LEURS ÂMES.",
+   "style": "cartouche",
+   "point": [
+    430,
+    4460
+   ]
+  }
+ ]
+}

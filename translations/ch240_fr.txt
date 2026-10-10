@@ -1,0 +1,175 @@
+# Chapitre 240. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | -
+001.2 | dialogue | AH.
+001.3 | dialogue | LE JOUR EST ENFIN VENU.
+001.4 | dialogue | J’AI ATTENDU CE MOMENT.
+001.5 | dialogue {"erase_color": true} | "KARMA."
+001.6 | dialogue | LE POUVOIR QUE TU M’AS ACCORDÉ,
+001.7 | dialogue | CERTAINS L’APPELLENT AINSI.
+001.8 | dialogue | LE "KARMA", HEIN ?
+001.9 | dialogue | HÉHÉ... UNE APPROCHE INTÉRESSANTE.
+001.10 | dialogue | MAINTENANT QUE J’AI VU TA FIN,
+001.11 | dialogue | CE N’EST PAS COMPLÈTEMENT FAUX.
+001.12 | dialogue | -
+001.13 | dialogue | -
+001.14 | dialogue | -
+001.15 | dialogue | ...!
+001.16 | dialogue | J’ATTENDAIS AVEC IMPATIENCE LE JOUR DE NOTRE RENCONTRE.
+002.1 | dialogue | "DÉMON", NON, JE VEUX DIRE...
+002.2 | dialogue | "SANS-NOM."
+002.3 | systeme {"box": [60, 3500, 740, 3665], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | C’EST LA PREMIÈRE FOIS
+# EN: THAT I HAD MET EYES LIKE THOSE. (oubli : suite de la légende précédente)
+002.100 | systeme {"box": [90, 4160, 710, 4390], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | QUE JE CROISAIS\nUN TEL REGARD.
+002.4 | dialogue | -
+002.5 | dialogue | TOI.
+002.6 | dialogue | TU TE SOUVIENS DE CET ENDROIT ?
+002.7 | dialogue | BIEN SÛR.
+002.8 | dialogue | CE N’EST PAS LA CABANE OÙ TOI ET MOI NOUS SOMMES RENCONTRÉS ?
+002.9 | dialogue | HMM... COMME PRÉVU.
+002.10 | dialogue | C’EST DONC CE QUE TU PENSES.
+002.11 | dialogue | -
+002.12 | dialogue | MAIS C’EST DIFFÉRENT.
+003.1 | dialogue | PEU APRÈS TON DÉPART...
+003.2 | dialogue | J’AI BRÛLÉ CETTE CABANE.
+003.3 | dialogue | CETTE CABANE ME FAISAIT PENSER À "CE MOMENT" QUI FINIRAIT PAR ARRIVER...
+003.4 | dialogue | ELLE ME RAPPELAIT "L’HEURE CONVENUE".
+003.5 | dialogue | MAIS IL Y A TROIS ANS.
+003.6 | dialogue | QUAND J’AI COMPRIS QU’IL NE ME RESTAIT PLUS BEAUCOUP DE TEMPS...
+003.7 | dialogue | J’AI RECONSTRUIT CETTE CABANE.
+003.8 | dialogue | AVEC EXACTEMENT LES MÊMES MATÉRIAUX QU’AVANT,
+003.9 | dialogue | AU MÊME ENDROIT. AVEC LA MÊME FORME.
+003.10 | dialogue | JE L’AI RECONSTRUITE.
+003.11 | dialogue | CET ENDROIT.
+003.12 | dialogue | -
+003.13 | dialogue | C’EST TOUJOURS LE MÊME ENDROIT OÙ NOUS NOUS SOMMES RENCONTRÉS, NON ?
+004.1 | dialogue | EST-CE UNE QUESTION...
+004.2 | dialogue | IMPORTANTE ?
+004.3 | dialogue | TU L’ÉVITES.
+004.4 | dialogue | ÇA NE TE RESSEMBLE PAS.
+004.5 | dialogue | OUAIS...
+004.6 | dialogue | JE M’Y ATTENDAIS.
+004.7 | dialogue | PARCE QUE JE TROUVE QUE TU RESSEMBLES À CETTE CABANE.
+004.8 | dialogue | "L’ÊTRE SANS NOM."
+004.9 | dialogue | SI ON DISCUTAIT UN MOMENT ?
+004.10 | dialogue | "JE RÉPONDRAI SANS FAUTE À TA QUESTION." CE N’EST PAS ÇA, "L’ESSENCE" ?
+004.11 | dialogue | -
+004.12 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | CE MOMENT-LÀ.
+005.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | JE N’AURAIS JAMAIS DÛ\nENGAGER CETTE\nCONVERSATION.
+005.2 | dialogue | LE "KARMA" QUE TU M’AS ACCORDÉ PREND LA FORME D’UNE FLAMME.
+005.3 | dialogue | SA NATURE EST, EN FAIT, EXACTEMENT LA MÊME.
+005.4 | dialogue | MAIS CE POUVOIR N’EST, AU FOND, QU’UN ÉNORME BLOC D’ÂME.
+005.5 | dialogue | LA "NATURE" DE CETTE FLAMME EST NÉE AU CONTACT DE MON ÂME.
+005.6 | dialogue {"point": [376, 3997], "cut": [[293, 4160], [553, 4160]]} | ...C’EST CE QUE JE CROIS.
+005.7 | dialogue | OUAIS.
+005.8 | dialogue | TOI QUI M’AS RÉCUPÉRÉ, POURRAS-TU CONTRÔLER MES CAPACITÉS ?
+005.9 | dialogue | OUAIS.
+005.10 | dialogue | TU DÉSIRES DES POUVOIRS TIRÉS DE MOI ?
+005.11 | dialogue | -
+005.12 | dialogue | ...OUAIS ?
+005.100 | dialogue {"point": [425, 4256], "cut": [[293, 4160], [553, 4160]]} | PAS VRAI ?
+006.1 | dialogue | HMMM...
+006.2 | dialogue | -
+006.3 | dialogue | JE VOIS, C’EST JUSTE CE QUE JE PENSE.
+006.4 | dialogue | TU PEUX CONTINUER À POSER DES QUESTIONS.
+006.5 | dialogue | "CE RÉCEPTACLE", NON...
+006.6 | dialogue | TU TE SOUVIENS DU NOM DE "CETTE FEMME" ?
+006.7 | dialogue | EH BIEN...
+006.8 | dialogue | EST-ELLE TOUJOURS EN VIE ?
+006.9 | dialogue | BIEN SÛR !
+006.10 | dialogue | ET LES CONTRACTANTS ?
+006.11 | dialogue | HUHU ! TU CROIS QUE CE SERA DIFFÉRENT ?
+006.12 | dialogue | -
+006.13 | dialogue | -
+006.14 | dialogue | MAIS PEUVENT-ILS UTILISER LEUR CAPACITÉ ?
+007.1 | dialogue | JE CROIS, OUI ?
+007.2 | dialogue | SI C’EST LE CAS...
+007.3 | dialogue | LEURS ÂMES DOIVENT DEMEURER DANS TON KARMA.
+007.4 | dialogue | CE QUI VEUT DIRE QUE MOI AUSSI, JE FINIRAI DE LA MÊME FAÇON.
+007.5 | dialogue | TU NE LE REGARDES PAS ENCORE EN FACE, C’EST TOUT.
+007.6 | dialogue | QU’EST-CE QUE TU VEUX DIRE ?
+007.7 | dialogue | TOI.
+007.8 | dialogue | TON ESSENCE EST-ELLE MASCULINE OU FÉMININE ?
+007.9 | dialogue | AS-TU DÉJÀ PRIS FORME HUMAINE ?
+007.10 | dialogue | D’OÙ VIENS-TU ?
+007.11 | dialogue | DEPUIS QUAND EXISTES-TU ?
+007.12 | dialogue | À COMBIEN DE GENS AS-TU ACCORDÉ PUIS REPRIS LE "KARMA" JUSQU’ICI ?
+007.13 | dialogue | COMBIEN DE KARMA, OU DE "RÉTRIBUTION", S’EST ACCUMULÉ EN TOI ?
+007.14 | dialogue | COMPTES-TU PRENDRE MON CORPS, MON "RÉCEPTACLE", ET CONTINUER À VIVRE EN TANT QUE "MOI" ?
+007.15 | dialogue | SINON, ESSAIES-TU DE VIVRE EN TANT QUE "NOUVEAU TOI" ?
+008.1 | dialogue | PAS QUESTION.
+# EN: STOP. / ARE YOU TRYING TO TEACH ME? (oublis)
+008.100 | dialogue {"point": [404, 891]} | ARRÊTE.
+008.102 | cri {"point": [400, 2960]} | HUMAIN.
+008.101 | cri {"point": [415, 6270]} | TU ESSAIES DE\nME FAIRE\nLA LEÇON ?
+008.2 | dialogue | AS-TU OUBLIÉ "TOI-MÊME" ?
+008.3 | dialogue | HA ! TU ME MENACES, MAINTENANT ?
+008.4 | dialogue | EH BIEN, C’EST DRÔLE.
+008.5 | dialogue | -
+008.6 | dialogue | APRÈS AVOIR REÇU TON POUVOIR,
+008.7 | dialogue | J’AI AUSSITÔT MIS EN ŒUVRE MES RÊVES DE TOUJOURS.
+008.8 | dialogue | RÉSULTAT, CETTE TERRE STÉRILE EST DEVENUE ASSEZ FERTILE POUR PRODUIRE MÊME DU VIN.
+009.1 | dialogue | JE SUIS DEVENU UN HÉROS.
+009.2 | dialogue | ET PUIS,
+009.3 | dialogue | L’AMANTE AVEC QUI J’AVAIS PARLÉ D’AVENIR A COMMENCÉ À M’APPARAÎTRE COMME UN SIMPLE INSECTE.
+009.4 | dialogue | À CET INSTANT, J’AI COMPRIS.
+009.5 | dialogue | DÈS L’INSTANT OÙ "TU" ES ENTRÉ EN "MOI",
+009.6 | dialogue | J’AVAIS COMPLÈTEMENT OUBLIÉ QUI J’ÉTAIS.
+009.7 | dialogue | N’OUBLIE PAS.
+009.8 | dialogue | "SANS-NOM."
+009.9 | dialogue | JE SURVEILLE TOUJOURS...
+009.10 | dialogue | TON KARMA.
+009.11 | dialogue | TOI AUSSI.
+009.12 | dialogue | -
+009.13 | dialogue | -
+009.14 | dialogue | TU DEVRAS UN JOUR Y FAIRE FACE.
+009.15 | dialogue | D’ICI LÀ...
+010.1 | dialogue | TU DOIS LE REGARDER.
+010.2 | dialogue | OUAIS.
+010.3 | dialogue | COMME PRÉVU, UN CORPS D’HOMME CONVIENT MIEUX.
+010.4 | dialogue | BIEN.
+010.5 | dialogue | -
+010.6 | dialogue | -
+010.7 | dialogue | OÙ EST-CE QUE JE VAIS, MAINTENANT ?
+010.8 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | AU MIEUX, C’EST LA DERNIÈRE\nTENTATIVE DÉSESPÉRÉE\nDES HUMAINS.
+010.9 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | MAIS ÇA NE ME\nDÉRANGEAIT PAS DU TOUT.
+010.10 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | ÇA DOIT\nÊTRE LE CAS.
+010.11 | dialogue | -
+010.12 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | AU BOUT D’UN MOMENT...
+010.13 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | JE PEUX ACHEVER CE\nRÉCEPTACLE PLUS TÔT.
+011.1 | systeme {"box": [310, 140, 480, 1170], "target": [330, 165, 460, 1140], "light": true, "solid": 7, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4, "angle": -90} | MAIS DEPUIS QUAND ?
+011.2 | dialogue | -
+011.3 | systeme {"box": [120, 3780, 700, 3995], "light": true, "light_min": 200, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 80} | DEPUIS QUAND\nÇA A COMMENCÉ ?
+011.4 | systeme {"box": [25, 4940, 775, 5185], "light": true, "light_min": 200, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 80} | CE SENTIMENT\nDÉSAGRÉABLE...
+011.100 | systeme {"box": [130, 6445, 675, 6555], "target": [140, 6450, 665, 6550], "ink_max": 256, "grow": 0, "vfill": true, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 5} | DEPUIS QUAND...
+011.5 | systeme {"box": [200, 8455, 630, 8585], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | MA DÉFAITE\nÉTAIT DÉCIDÉE ?!?
+011.6 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | ÉTAIT-CE QUAND TU TE TENAIS\nLÀ, DANS LE RÉCEPTACLE\nDE CET HOMME ?
+011.7 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | ÉTAIT-CE QUAND TU ÉTAIS\nENFERMÉ DANS L’ESPACE\nDU CONTRAT ?
+011.8 | systeme {"box": [160, 10165, 650, 10405], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | ÉTAIT-CE QUAND LE PLAN\nA COMMENCÉ À\nPRENDRE FORME ?
+011.9 | systeme {"box": [150, 10830, 650, 11025], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | ÉTAIT-CE QUAND J’AI\nDÉCIDÉ DE PARTICIPER À\nLA BATAILLE FINALE ?
+011.10 | dialogue | -
+011.11 | systeme {"box": [175, 11540, 630, 11725], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | ÉTAIT-CE QUAND J’AI\nRENCONTRÉ MIRAGE\nPOUR LA PREMIÈRE FOIS ?
+011.12 | systeme {"box": [120, 12240, 670, 12380], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | ÉTAIT-CE QUAND TU AS ÉTÉ\nVAINCU PAR ARTHUR ?
+011.13 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | ÉTAIT-CE QUAND TU T’ES\nDIRIGÉ VERS LA TOUR ?
+011.14 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | ATTENDS, ÇA DOIT\nÊTRE CE MOMENT-LÀ !
+012.1 | systeme {"box": [40, 180, 760, 300], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | C’EST À CAUSE DE LUI !
+012.2 | dialogue | -
+012.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | SI SEULEMENT JE N’AVAIS PAS\nÉCOUTÉ L’HISTOIRE\nDE CE TYPE...
+012.4 | dialogue | TU ACCUSES ENCORE QUELQU’UN ?
+012.5 | dialogue | CE N’EST PAS TOI QUI AS COMMENCÉ CETTE HISTOIRE ?
+012.6 | dialogue | IL N’EST PAS ENCORE TROP TARD.
+012.7 | dialogue | TU NE VEUX PAS LA COMMENCER AVEC MOI ?
+012.8 | dialogue | COMMENÇONS UN VRAI COMBAT...
+012.9 | dialogue | AVEC TON KARMA.
+013.1 | dialogue | ...TU M’IGNORES ?
+013.2 | dialogue | OUAIS.
+013.3 | dialogue {"point": [424, 7000], "cut": [[224, 6793], [463, 6793]]} | C’EST UN CHOIX QUI TE RESSEMBLE BIEN.
+013.4 | cri | TAIS-TOI !
+013.100 | titre {"box": [110, 8670, 690, 8945], "target": [130, 8690, 670, 8925], "ink_max": 256, "grow": 0, "stretch": 2.5, "colors": [[255,255,255],[255,255,255]], "outline": [150,70,220], "outline_width": 4} | LIBÉRATION
+013.5 | titre {"box": [130, 9330, 700, 9810], "target": [150, 9330, 680, 9800], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "stretch": 2, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4} | ARME\nD’EGO
+013.6 | titre {"box": [100, 10600, 720, 11050], "target": [120, 10625, 700, 11025], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "stretch": 2, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4} | FORME DE LA\nGLOUTONNERIE
+013.102 | cri {"point": [500, 11275], "cut": [[380, 11352], [612, 11352]]} | TAIS-TOI !
+013.103 | cri {"point": [581, 11487], "cut": [[380, 11352], [612, 11352]]} | TAIS-TOI,\nTAIS-TOI...
+013.7 | dialogue | -
+013.101 | dialogue {"point": [343, 6660], "cut": [[224, 6793], [463, 6793]]} | ENCORE UNE FOIS...
+014.1 | dialogue | TAIS-TOI !
+014.2 | dialogue | -

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-251/023.webp",
+ "output": "chapters_fr/chapter-251/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI LEUR RÔLE EST D’ÊTRE DES JOUETS POUR AMUSER LE SEIGNEUR ARTHUR,",
+   "style": "pensee",
+   "point": [
+    360,
+    310
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS LE MIEN EST D’ÊTRE LE HANDICAP QUI REND ÇA AMUSANT.",
+   "style": "pensee",
+   "point": [
+    488,
+    934
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’ACCOMPLIRAI MON RÔLE D’OUTIL.",
+   "style": "pensee",
+   "point": [
+    388,
+    1808
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AVEC TOUTE LA FIERTÉ D’UNE ARME D’EGO...!",
+   "style": "pensee",
+   "point": [
+    397,
+    3838
+   ]
+  },
+  {
+   "id": 8,
+   "text": "OUI, C’EST ÇA.",
+   "style": "italique",
+   "point": [
+    437,
+    4783
+   ]
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "source": "chapters_en/chapter-238/008.webp",
+ "output": "chapters_fr/chapter-238/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE ME SOUVIENS.",
+   "style": "dialogue",
+   "point": [
+    417,
+    644
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DE CE JOUR-LÀ.",
+   "style": "dialogue",
+   "point": [
+    400,
+    1596
+   ]
+  },
+  {
+   "id": 3,
+   "text": "À LA PLAGE.",
+   "style": "dialogue",
+   "point": [
+    389,
+    2176
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AVEC SEOL-JIN HEO.",
+   "style": "dialogue",
+   "point": [
+    405,
+    3205
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TOUS LES DEUX... ARGH-",
+   "style": "dialogue",
+   "point": [
+    448,
+    4495
+   ]
+  },
+  {
+   "id": 6,
+   "text": "Q-QUOI ?! JE DORMAIS ?! DEPUIS QUAND ?!",
+   "style": "italique",
+   "point": [
+    403,
+    7052
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ET LES ARMES D’EGO ? LA MISSION ?!",
+   "style": "italique",
+   "point": [
+    467,
+    7958
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU ES TELLEMENT INNOCENTE, SÉRIEUX.",
+   "style": "dialogue",
+   "point": [
+    293,
+    8670
+   ]
+  },
+  {
+   "id": 9,
+   "text": "J’ÉTAIS COMME ÇA AUSSI, AVANT...",
+   "style": "dialogue",
+   "point": [
+    365,
+    9005
+   ]
+  },
+  {
+   "id": 11,
+   "text": "AH, C’EST VRAI. C’EST UNE COMMISSION.",
+   "style": "dialogue",
+   "point": [
+    256,
+    10207
+   ]
+  },
+  {
+   "id": 12,
+   "text": "PRENDS ÇA.",
+   "style": "dialogue",
+   "point": [
+    319,
+    10911
+   ]
+  },
+  {
+   "id": 13,
+   "text": "DEAN M’A DEMANDÉ DE TE LE DONNER.",
+   "style": "dialogue",
+   "point": [
+    449,
+    11132
+   ]
+  },
+  {
+   "id": 15,
+   "text": "UNE RÉCOMPENSE POUR L’ACHÈVEMENT...",
+   "style": "dialogue",
+   "point": [
+    387,
+    12233
+   ]
+  }
+ ]
+}

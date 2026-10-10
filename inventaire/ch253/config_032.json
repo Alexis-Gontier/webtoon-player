@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-253/032.webp",
+ "output": "chapters_fr/chapter-253/032.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "HAA...",
+   "style": "dialogue",
+   "point": [
+    443,
+    1281
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ON DIRAIT QU’ON A COMPLÈTEMENT PERDU... TOI ET MOI...",
+   "style": "dialogue",
+   "point": [
+    368,
+    2130
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SANS-NOM.",
+   "style": "dialogue",
+   "point": [
+    413,
+    3633
+   ]
+  },
+  {
+   "id": 100,
+   "text": "NOUS PUISSIONS\nRESTER.",
+   "style": "dialogue",
+   "box": [
+    140,
+    0,
+    480,
+    110
+   ],
+   "target": [
+    150,
+    0,
+    470,
+    80
+   ],
+   "max_size": 28,
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "seam": "top"
+  }
+ ]
+}

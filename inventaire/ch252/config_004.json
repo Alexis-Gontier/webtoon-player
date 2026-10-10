@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-252/004.webp",
+ "output": "chapters_fr/chapter-252/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CAR IL Y A LONGTEMPS QUE J’AI RENONCÉ À TENIR À LA SURVIE DE MON ÂME.",
+   "style": "pensee",
+   "point": [
+    378,
+    771
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI...",
+   "style": "italique",
+   "point": [
+    359,
+    1888
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CETTE FOIS, LE MOMENT EST PEUT-ÊTRE VRAIMENT VENU D’ÉTEINDRE CETTE FLAMME.",
+   "style": "italique",
+   "point": [
+    381,
+    3043
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET POURTANT,\nMÊME ELLE...",
+   "style": "cartouche",
+   "point": [
+    356,
+    4287
+   ]
+  },
+  {
+   "id": 5,
+   "text": "NE ME DITES\nPAS...",
+   "style": "dialogue",
+   "point": [
+    335,
+    4693
+   ]
+  }
+ ]
+}

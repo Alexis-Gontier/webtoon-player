@@ -1,0 +1,84 @@
+{
+ "source": "chapters_en/chapter-262/001.webp",
+ "output": "chapters_fr/chapter-262/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "JE LE SAVAIS DÉJÀ,\nAVANT MÊME DE LE TENIR\nENTRE MES MAINS.",
+   "style": "systeme",
+   "box": [
+    42,
+    1904,
+    675,
+    2119
+   ],
+   "light": true,
+   "max_letter": 70,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUI, BIEN\nSÛR.",
+   "style": "italique",
+   "point": [
+    375,
+    2681
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE DÉSIRAIS SEULEMENT CETTE LUMIÈRE.",
+   "style": "italique",
+   "point": [
+    269,
+    3530
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CAR CE N’ÉTAIT PAS UNE CHOSE DONT J’AVAIS VRAIMENT BESOIN.",
+   "style": "italique",
+   "point": [
+    461,
+    3768
+   ]
+  },
+  {
+   "id": 100,
+   "text": "AH...",
+   "style": "systeme",
+   "box": [
+    250,
+    4580,
+    470,
+    4720
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

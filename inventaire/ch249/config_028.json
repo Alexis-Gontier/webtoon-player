@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-249/028.webp",
+ "output": "chapters_fr/chapter-249/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE LEUR AI CONFIÉ MON ÉPÉE...",
+   "style": "dialogue",
+   "point": [
+    326,
+    279
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS JE N’AI QU’UNE CHOSE À DIRE.",
+   "style": "dialogue",
+   "point": [
+    412,
+    1246
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AIE CONFIANCE ET CROIS...",
+   "style": "dialogue",
+   "point": [
+    274,
+    1917
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EN LA PERSONNE QUE NOUS AVONS CHOISIE.",
+   "style": "dialogue",
+   "point": [
+    438,
+    2657
+   ]
+  },
+  {
+   "id": 5,
+   "text": "COMME SEOL-JIN ET LIBUR L’ONT FAIT POUR NOUS.",
+   "style": "dialogue",
+   "point": [
+    326,
+    3708
+   ]
+  }
+ ]
+}

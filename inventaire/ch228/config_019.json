@@ -1,0 +1,59 @@
+{
+ "source": "chapters_en/chapter-228/019.webp",
+ "output": "chapters_fr/chapter-228/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JUSQU’À CE QUE \"CE JOUR\"\nARRIVE.",
+   "style": "systeme",
+   "box": [
+    101,
+    471,
+    700,
+    655
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 2,
+   "text": "LE CYCLE DU KARMA EST DÉSORMAIS ROMPU.",
+   "style": "dialogue",
+   "point": [
+    404,
+    2622
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LA PROMESSE DE LA \"MORT\" EST UNE CHOSE QUI NE PEUT JAMAIS ÊTRE DÉFAITE.",
+   "style": "dialogue",
+   "point": [
+    313,
+    4626
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUELQUE CHOSE CONTRÔLE LA MORT.",
+   "style": "dialogue",
+   "point": [
+    495,
+    4965
+   ]
+  }
+ ]
+}

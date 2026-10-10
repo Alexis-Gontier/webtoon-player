@@ -1,0 +1,88 @@
+{
+ "source": "chapters_en/chapter-227/028.webp",
+ "output": "chapters_fr/chapter-227/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA MALÉDICTION DIVINE\nACCORDÉE\nPAR LES DIEUX.",
+   "style": "systeme",
+   "point": [
+    443,
+    2843
+   ],
+   "box": [
+    80,
+    2735,
+    770,
+    3040
+   ],
+   "target": [
+    95,
+    2750,
+    755,
+    3030
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4,
+   "max_letter": 85
+  },
+  {
+   "id": 100,
+   "text": "L’ÉPÉE DE L’ÂME, FORGÉE\nAVEC 99 ÂMES\nEMPRUNTÉES.",
+   "style": "systeme",
+   "box": [
+    62,
+    4500,
+    765,
+    4830
+   ],
+   "target": [
+    100,
+    4515,
+    720,
+    4815
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 76,
+   "grow": 6,
+   "stretch": 1.6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4
+  }
+ ]
+}

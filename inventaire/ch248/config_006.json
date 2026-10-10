@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/006.webp",
+ "output": "chapters_fr/chapter-248/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OH, LIBUR...",
+   "style": "italique",
+   "point": [
+    382,
+    2194
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU RESSENS ENCORE QUELQUE CHOSE POUR ARTHUR...",
+   "style": "italique",
+   "point": [
+    397,
+    4342
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-233/011.webp",
+ "output": "chapters_fr/chapter-233/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AUGMENTE LA PUISSANCE !",
+   "style": "italique",
+   "point": [
+    349,
+    802
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DE QUOI ME FAIRE TREMBLER LES MAINS... !",
+   "style": "italique",
+   "point": [
+    420,
+    1141
+   ]
+  },
+  {
+   "id": 3,
+   "text": "KYAK~",
+   "style": "dialogue",
+   "point": [
+    495,
+    1936
+   ]
+  },
+  {
+   "id": 4,
+   "text": "\"LA VARIABLE\" EST APPARUE !",
+   "style": "italique",
+   "point": [
+    406,
+    3603
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALORS, FAIS-MOI CONFIANCE !",
+   "style": "dialogue",
+   "point": [
+    377,
+    6043
+   ]
+  },
+  {
+   "id": 7,
+   "text": "HÉ, VOUS, LES MACHINS-EGO, C’EST ÇA ?",
+   "style": "dialogue",
+   "point": [
+    403,
+    10623
+   ]
+  },
+  {
+   "id": 10,
+   "text": "J’AI CRU QUE J’ALLAIS MOURIR À ATTENDRE.",
+   "style": "dialogue",
+   "point": [
+    426,
+    12406
+   ]
+  },
+  {
+   "id": 11,
+   "text": "UN SIMPLE HUMAIN. UN DÉCHET,",
+   "style": "dialogue",
+   "point": [
+    353,
+    13059
+   ]
+  },
+  {
+   "id": 12,
+   "text": "NE ME DIS PAS... QUE TU PENSES À ESSAYER DE NOUS ARRÊTER ?",
+   "style": "dialogue",
+   "point": [
+    441,
+    14125
+   ]
+  }
+ ]
+}

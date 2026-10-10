@@ -1,0 +1,95 @@
+{
+ "source": "chapters_en/chapter-229/011.webp",
+ "output": "chapters_fr/chapter-229/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA SUFFIT DÉJÀ...",
+   "style": "dialogue",
+   "point": [
+    415,
+    208
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POUR ME FAIRE RIRE !",
+   "style": "dialogue",
+   "point": [
+    429,
+    2552
+   ]
+  },
+  {
+   "id": 3,
+   "text": "\"ARME D’ÂME\" ?",
+   "style": "dialogue",
+   "point": [
+    428,
+    4192
+   ]
+  },
+  {
+   "id": 4,
+   "text": "J’EN AI VRAIMENT BESOIN ?",
+   "style": "dialogue",
+   "point": [
+    462,
+    6347
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI C’EST CE QUE TU PENSES, J’EN FERAI UNE.",
+   "style": "dialogue",
+   "point": [
+    415,
+    7290
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MÊME\nS’IL FAUT...",
+   "style": "dialogue",
+   "point": [
+    420,
+    9228
+   ]
+  },
+  {
+   "id": 7,
+   "text": "BRÛLER\nMON ÂME !",
+   "style": "cri",
+   "point": [
+    402,
+    13485
+   ]
+  },
+  {
+   "id": 8,
+   "text": "C’EST TOUT",
+   "style": "dialogue",
+   "point": [
+    384,
+    14928
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    290,
+    14960,
+    510,
+    15000
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-246/024.webp",
+ "output": "chapters_fr/chapter-246/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMME TU L’AS TOUJOURS FAIT POUR MOI,",
+   "style": "dialogue",
+   "point": [
+    321,
+    2960
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CETTE FOIS, C’EST MOI QUI ME METTRAI DEVANT POUR TE PROTÉGER.",
+   "style": "dialogue",
+   "point": [
+    494,
+    4574
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JUSQU’À CE QUE\nTON COMBAT...",
+   "style": "cri",
+   "point": [
+    389,
+    7838
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-243/008.webp",
+ "output": "chapters_fr/chapter-243/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE N’EST TOUJOURS PAS ASSEZ !",
+   "style": "italique",
+   "point": [
+    373,
+    2579
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA NE SUFFIT PAS !",
+   "style": "italique",
+   "point": [
+    433,
+    3671
+   ]
+  }
+ ]
+}

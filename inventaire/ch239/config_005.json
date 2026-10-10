@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-239/005.webp",
+ "output": "chapters_fr/chapter-239/005.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "...",
+   "style": "dialogue",
+   "point": [
+    410,
+    4252
+   ]
+  }
+ ]
+}

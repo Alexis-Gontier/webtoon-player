@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-242/008.webp",
+ "output": "chapters_fr/chapter-242/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DE CE MONDE DE MERDE.",
+   "style": "dialogue",
+   "point": [
+    368,
+    374
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS...",
+   "style": "dialogue",
+   "point": [
+    342,
+    1314
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PARTONS \"ENSEMBLE\", LANCELOT.",
+   "style": "dialogue",
+   "point": [
+    477,
+    2331
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUAIS !",
+   "style": "dialogue",
+   "point": [
+    395,
+    4404
+   ]
+  }
+ ]
+}

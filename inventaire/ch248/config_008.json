@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/008.webp",
+ "output": "chapters_fr/chapter-248/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE SERAI LÀ,\nTOUT PRÈS\nDE TOI...",
+   "style": "italique",
+   "point": [
+    376,
+    65
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JUSQU’AU MOMENT OÙ TU POURRAS AFFRONTER CES SENTIMENTS.",
+   "style": "italique",
+   "point": [
+    315,
+    979
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "source": "chapters_en/chapter-226/009.webp",
+ "output": "chapters_fr/chapter-226/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE RÉCEPTACLE N’ÉTAIT PAS FAIT POUR ÊTRE ACHEVÉ POUR UNE CHOSE PAREILLE.",
+   "style": "dialogue",
+   "point": [
+    427,
+    912
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET... MERCI.",
+   "style": "dialogue",
+   "point": [
+    405,
+    1788
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DE M’AVOIR DONNÉ L’OCCASION",
+   "style": "dialogue",
+   "point": [
+    403,
+    3540
+   ]
+  },
+  {
+   "id": 4,
+   "text": "D’AFFRONTER CELUI QUE J’ÉTAIS.",
+   "style": "dialogue",
+   "point": [
+    391,
+    4458
+   ]
+  },
+  {
+   "id": 5,
+   "text": "\"TOUT CELA\nN’A AUCUN SENS.\"",
+   "style": "cri",
+   "box": [
+    70,
+    4790,
+    750,
+    5115
+   ],
+   "fill": [
+    190,
+    190,
+    190
+   ],
+   "ink_max": 100,
+   "grow": 3,
+   "max_letter": 150,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "text": "...JE VOIS.",
+   "style": "dialogue",
+   "point": [
+    359,
+    8571
+   ]
+  },
+  {
+   "id": 7,
+   "text": "SI C’EST TON CHOIX.",
+   "style": "dialogue",
+   "point": [
+    373,
+    9450
+   ]
+  },
+  {
+   "id": 8,
+   "text": "EX-RANG 74 - CLASSE :\nCONTRAT DE MAÎTRE DE L’ONDE",
+   "style": "titre",
+   "box": [
+    85,
+    9700,
+    710,
+    9880
+   ],
+   "target": [
+    113,
+    9732,
+    700,
+    9867
+   ],
+   "vfill": true,
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  },
+  {
+   "id": 9,
+   "text": "EX-RANG 22 - CLASSE :\nCONTRAT DE CORPS-À-CORPS",
+   "style": "titre",
+   "point": [
+    401,
+    10330
+   ],
+   "box": [
+    100,
+    10200,
+    700,
+    10370
+   ],
+   "target": [
+    111,
+    10227,
+    691,
+    10366
+   ],
+   "vfill": true,
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  },
+  {
+   "id": 10,
+   "text": "EX-RANG 9 -\nCLASSE : CONTRAT DE\nDANSEUR D’ÉPÉE",
+   "style": "titre",
+   "point": [
+    465,
+    11427
+   ],
+   "box": [
+    140,
+    11280,
+    650,
+    11515
+   ],
+   "target": [
+    157,
+    11285,
+    634,
+    11505
+   ],
+   "vfill": true,
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  },
+  {
+   "id": 100,
+   "text": "EX-RANG 18 -\nCLASSE : CONTRAT DE DÉMONIDE",
+   "style": "titre",
+   "box": [
+    90,
+    10705,
+    712,
+    10885
+   ],
+   "target": [
+    110,
+    10728,
+    695,
+    10868
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4,
+   "vfill": true
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-256/019.webp",
+ "output": "chapters_fr/chapter-256/019.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "EN PLEIN\nDANS LE MILLE !",
+   "style": "dialogue",
+   "point": [
+    393,
+    4542
+   ]
+  }
+ ]
+}

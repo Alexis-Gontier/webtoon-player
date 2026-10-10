@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/020.webp",
+ "output": "chapters_fr/chapter-257/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON L’APPELLE LE \"RÉGULATEUR DU MONDE\".",
+   "style": "dialogue",
+   "point": [
+    480,
+    371
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST LE TRÉSOR PRIMORDIAL QUI FAIT CIRCULER DANS TOUT LE MONDE LE KARMA DU RÉCEPTACLE DE DIEU...",
+   "style": "dialogue",
+   "point": [
+    363,
+    2048
+   ]
+  },
+  {
+   "id": 3,
+   "text": "UNE CRÉATION MIRACULEUSE QUI PROUVE L’EXISTENCE DU DIEU ABSOLU.",
+   "style": "dialogue",
+   "point": [
+    518,
+    2497
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET POUR\nMOI...",
+   "style": "dialogue",
+   "point": [
+    441,
+    3556
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-246/020.webp",
+ "output": "chapters_fr/chapter-246/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN, ÇA FAIT 2-0.",
+   "style": "dialogue",
+   "point": [
+    353,
+    205
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL EST TEMPS DE LA SORTIR, TU NE CROIS PAS ?",
+   "style": "dialogue",
+   "point": [
+    408,
+    2311
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CETTE ÉPÉE QUE TU AS REÇUE DE DEAN.",
+   "style": "dialogue",
+   "point": [
+    405,
+    3294
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SEOL-JIN HEO, RÉVEILLE-TOI ! OÙ EST PASSÉE LA FLAMME QUE TU AVAIS CONTRE DEAN ?!",
+   "style": "italique",
+   "point": [
+    365,
+    5700
+   ]
+  },
+  {
+   "id": 8,
+   "text": "...JE VOIS. IL N’EST \"PAS ENCORE PRÊT\".",
+   "style": "dialogue",
+   "point": [
+    494,
+    7296
+   ]
+  },
+  {
+   "id": 9,
+   "text": "TU L’ATTENDS,",
+   "style": "dialogue",
+   "point": [
+    350,
+    8374
+   ]
+  },
+  {
+   "id": 10,
+   "text": "SEOL-JIN\nHEO...!",
+   "style": "dialogue",
+   "point": [
+    419,
+    9255
+   ]
+  }
+ ]
+}

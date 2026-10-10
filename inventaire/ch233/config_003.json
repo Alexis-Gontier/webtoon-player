@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-233/003.webp",
+ "output": "chapters_fr/chapter-233/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "À PARTIR DE MAINTENANT,",
+   "style": "italique",
+   "point": [
+    342,
+    1133
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UNE SEULE \"VARIABLE\" DÉCIDERA DE LA VICTOIRE OU DE LA DÉFAITE... !",
+   "style": "italique",
+   "point": [
+    467,
+    1988
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HMPH !",
+   "style": "dialogue",
+   "point": [
+    313,
+    11606
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUE C’EST VULGAIRE !",
+   "style": "dialogue",
+   "point": [
+    453,
+    12748
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST DANS CE PETIT TROU À RATS QUE TU TE CACHAIS ?",
+   "style": "dialogue",
+   "point": [
+    410,
+    14031
+   ]
+  }
+ ]
+}

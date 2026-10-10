@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/028.webp",
+ "output": "chapters_fr/chapter-252/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU LE SAIS DÉJÀ, NON ?",
+   "style": "dialogue",
+   "point": [
+    333,
+    184
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QU’À UN MOMENT, TU DEVRAS LÂCHER L’UNE D’ELLES.",
+   "style": "dialogue",
+   "point": [
+    381,
+    1292
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NE ME DIS\nPAS...",
+   "style": "dialogue",
+   "point": [
+    361,
+    2984
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUE TU N’AS MÊME PAS CETTE DÉTERMINATION ?",
+   "style": "dialogue",
+   "point": [
+    344,
+    4271
+   ]
+  }
+ ]
+}

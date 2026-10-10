@@ -1,0 +1,233 @@
+{
+ "source": "chapters_en/chapter-240/013.webp",
+ "output": "chapters_fr/chapter-240/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...TU M’IGNORES ?",
+   "style": "dialogue",
+   "point": [
+    435,
+    4209
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    379,
+    5473
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST UN CHOIX QUI TE RESSEMBLE BIEN.",
+   "style": "dialogue",
+   "point": [
+    424,
+    7000
+   ],
+   "cut": [
+    [
+     224,
+     6793
+    ],
+    [
+     463,
+     6793
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TAIS-TOI !",
+   "style": "cri",
+   "point": [
+    441,
+    7453
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ARME\nD’EGO",
+   "style": "titre",
+   "point": [
+    414,
+    9673
+   ],
+   "box": [
+    130,
+    9330,
+    700,
+    9810
+   ],
+   "target": [
+    150,
+    9330,
+    680,
+    9800
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "stretch": 2,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4
+  },
+  {
+   "id": 6,
+   "text": "FORME DE LA\nGLOUTONNERIE",
+   "style": "titre",
+   "box": [
+    100,
+    10600,
+    720,
+    11050
+   ],
+   "target": [
+    120,
+    10625,
+    700,
+    11025
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "stretch": 2,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4
+  },
+  {
+   "id": 100,
+   "text": "LIBÉRATION",
+   "style": "titre",
+   "box": [
+    110,
+    8670,
+    690,
+    8945
+   ],
+   "target": [
+    130,
+    8690,
+    670,
+    8925
+   ],
+   "ink_max": 256,
+   "grow": 0,
+   "stretch": 2.5,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    150,
+    70,
+    220
+   ],
+   "outline_width": 4
+  },
+  {
+   "id": 102,
+   "text": "TAIS-TOI !",
+   "style": "cri",
+   "point": [
+    500,
+    11275
+   ],
+   "cut": [
+    [
+     380,
+     11352
+    ],
+    [
+     612,
+     11352
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "text": "TAIS-TOI,\nTAIS-TOI...",
+   "style": "cri",
+   "point": [
+    581,
+    11487
+   ],
+   "cut": [
+    [
+     380,
+     11352
+    ],
+    [
+     612,
+     11352
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ENCORE UNE FOIS...",
+   "style": "dialogue",
+   "point": [
+    343,
+    6660
+   ],
+   "cut": [
+    [
+     224,
+     6793
+    ],
+    [
+     463,
+     6793
+    ]
+   ]
+  }
+ ]
+}

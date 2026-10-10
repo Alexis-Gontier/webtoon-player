@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/006.webp",
+ "output": "chapters_fr/chapter-258/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...QU’ELLE ÉTAIT DEVENUE LA MAÎTRESSE D’UN NOUVEAU MONDE.",
+   "style": "cartouche",
+   "point": [
+    437,
+    842
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LA PREMIÈRE CHOSE QU’ELLE FIT...",
+   "style": "cartouche",
+   "point": [
+    322,
+    1779
+   ]
+  },
+  {
+   "id": 3,
+   "text": "FUT DE TENIR LA PROMESSE FAITE À VAN ZICHMUND.",
+   "style": "cartouche",
+   "point": [
+    511,
+    2161
+   ]
+  }
+ ]
+}

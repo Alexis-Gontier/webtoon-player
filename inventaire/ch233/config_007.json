@@ -1,0 +1,116 @@
+{
+ "source": "chapters_en/chapter-233/007.webp",
+ "output": "chapters_fr/chapter-233/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...IL N’Y A AUCUNE PREUVE,",
+   "style": "dialogue",
+   "point": [
+    293,
+    879
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS JE NE SAIS PAS POURQUOI, CE SENTIMENT... OUAIS.",
+   "style": "dialogue",
+   "point": [
+    465,
+    1184
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POUR L’INSTANT...",
+   "style": "dialogue",
+   "point": [
+    311,
+    1991
+   ],
+   "cut": [
+    [
+     135,
+     2118
+    ],
+    [
+     489,
+     2118
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BON SANG.",
+   "style": "italique",
+   "point": [
+    367,
+    4712
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LA PUISSANCE DU NOYAU... !",
+   "style": "italique",
+   "point": [
+    450,
+    5595
+   ]
+  },
+  {
+   "id": 7,
+   "text": "NE T’ARRÊTE PAS !",
+   "style": "italique",
+   "point": [
+    381,
+    12241
+   ]
+  },
+  {
+   "id": 8,
+   "text": "BRÛLE !",
+   "style": "italique",
+   "point": [
+    373,
+    13291
+   ]
+  },
+  {
+   "id": 9,
+   "text": "MON ÂME !",
+   "style": "italique",
+   "point": [
+    332,
+    14125
+   ]
+  },
+  {
+   "id": 10,
+   "text": "MON CORPS !",
+   "style": "italique",
+   "point": [
+    534,
+    14490
+   ]
+  },
+  {
+   "id": 100,
+   "text": "FAISONS TOUT CE QU’ON PEUT POUR LA VICTOIRE DE DEAN.",
+   "style": "dialogue",
+   "point": [
+    440,
+    2335
+   ],
+   "cut": [
+    [
+     135,
+     2118
+    ],
+    [
+     489,
+     2118
+    ]
+   ]
+  }
+ ]
+}

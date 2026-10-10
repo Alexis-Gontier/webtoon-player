@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-255/009.webp",
+ "output": "chapters_fr/chapter-255/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST CE QUE TU APPELLES LA \"FOLIE DU DÉSIR INFINI\".",
+   "style": "dialogue",
+   "point": [
+    387,
+    361
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PAS ÉTONNANT QU’ON LE DISE TRÈS PROCHE DE \"LUI\".",
+   "style": "dialogue",
+   "point": [
+    294,
+    2335
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMMENT DIRE... BAH, QUI SE RESSEMBLE S’ASSEMBLE.",
+   "style": "dialogue",
+   "point": [
+    440,
+    3621
+   ]
+  }
+ ]
+}

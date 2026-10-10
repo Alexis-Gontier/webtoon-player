@@ -1,0 +1,84 @@
+{
+ "source": "chapters_en/chapter-251/019.webp",
+ "output": "chapters_fr/chapter-251/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUELQUE CHOSE CLOCHE.",
+   "style": "systeme",
+   "point": [
+    398,
+    1013
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CET HOMME...",
+   "style": "systeme",
+   "point": [
+    396,
+    1516
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL A QUELQUE\nCHOSE D’ANORMAL.",
+   "style": "systeme",
+   "point": [
+    402,
+    2280
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

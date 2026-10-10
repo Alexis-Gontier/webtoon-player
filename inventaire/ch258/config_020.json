@@ -1,0 +1,74 @@
+{
+ "source": "chapters_en/chapter-258/020.webp",
+ "output": "chapters_fr/chapter-258/020.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ET AINSI...",
+   "style": "cartouche",
+   "point": [
+    301,
+    1921
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE MONDE INJUSTE PRIT FIN.",
+   "style": "cartouche",
+   "point": [
+    471,
+    2146
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LIBÉRÉ DE L’EMPRISE D’UNE CHOSE AUSSI FUTILE QUE LE DIVERTISSEMENT.",
+   "style": "cartouche",
+   "point": [
+    400,
+    3385
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE VRAI MONDE ALLAIT ADVENIR.",
+   "style": "cartouche",
+   "point": [
+    420,
+    4689
+   ]
+  },
+  {
+   "id": 100,
+   "text": "NIVEAU\nCACHÉ\n\nOUVERT",
+   "style": "titre",
+   "box": [
+    140,
+    3540,
+    660,
+    4430
+   ],
+   "light_any": 140,
+   "grow": 12,
+   "blur_fill": 40,
+   "colors": [
+    [
+     230,
+     40,
+     90
+    ],
+    [
+     200,
+     30,
+     80
+    ]
+   ],
+   "outline": [
+    60,
+    20,
+    60
+   ],
+   "outline_width": 3
+  }
+ ]
+}

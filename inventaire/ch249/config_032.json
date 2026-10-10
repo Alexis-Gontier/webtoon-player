@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-249/032.webp",
+ "output": "chapters_fr/chapter-249/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SEOL-JIN, EN VÉRITÉ...",
+   "style": "italique",
+   "point": [
+    364,
+    3531
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE N’EST PAS ARTHUR QUE JE CRAIGNAIS.",
+   "style": "italique",
+   "point": [
+    364,
+    4782
+   ]
+  }
+ ]
+}

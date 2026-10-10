@@ -1,0 +1,106 @@
+{
+ "source": "chapters_en/chapter-252/021.webp",
+ "output": "chapters_fr/chapter-252/021.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    110,
+    0,
+    620,
+    125
+   ],
+   "ink_max": 100,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "OUBLIE CE QUE\nJ’AI DIT !",
+   "style": "dialogue",
+   "box": [
+    120,
+    0,
+    610,
+    130
+   ],
+   "target": [
+    175,
+    5,
+    555,
+    125
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 55
+  },
+  {
+   "id": 102,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    160,
+    430,
+    690,
+    630
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 103,
+   "text": "ARTHUR M’A TELLEMENT\nTABASSÉ QUE MON CERVEAU\nNE MARCHE PLUS BIEN !",
+   "style": "dialogue",
+   "box": [
+    170,
+    420,
+    680,
+    640
+   ],
+   "target": [
+    210,
+    435,
+    635,
+    625
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 55
+  }
+ ]
+}

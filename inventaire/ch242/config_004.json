@@ -1,0 +1,89 @@
+{
+ "source": "chapters_en/chapter-242/004.webp",
+ "output": "chapters_fr/chapter-242/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE NE PEUX PAS TE PARDONNER, VIVIAN.",
+   "style": "italique",
+   "point": [
+    398,
+    678
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE L’AI DÉTESTÉE\nJUSQU’AU BOUT,",
+   "style": "systeme",
+   "point": [
+    399,
+    1675
+   ],
+   "box": [
+    150,
+    1585,
+    650,
+    1765
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 4,
+   "text": "JE ME SOUVIENS...",
+   "style": "dialogue",
+   "point": [
+    397,
+    2561
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DE TOUT CE QUE TU AS FAIT.",
+   "style": "dialogue",
+   "point": [
+    391,
+    3616
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE NE VOULAIS PAS\nCOMPRENDRE.",
+   "style": "systeme",
+   "point": [
+    402,
+    4472
+   ],
+   "box": [
+    150,
+    4395,
+    650,
+    4550
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-237/017.webp",
+ "output": "chapters_fr/chapter-237/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUI... C’EST VRAI.",
+   "style": "dialogue",
+   "point": [
+    431,
+    2479
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...MERCI, MA LUCIA. GRÂCE À TOI, JE ME SENS MIEUX.",
+   "style": "dialogue",
+   "point": [
+    335,
+    3428
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU AS DÛ T’INQUIÉTER.",
+   "style": "dialogue",
+   "point": [
+    402,
+    3737
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BON SANG~ VAN, QUEL PLEURNICHARD TU FAIS",
+   "style": "italique",
+   "point": [
+    359,
+    4760
+   ]
+  },
+  {
+   "id": 5,
+   "text": "J’AVAIS JUSTE PEUR QUE TU MEURES TOUT SEUL COMME UN IDIOT",
+   "style": "italique",
+   "point": [
+    530,
+    5151
+   ]
+  },
+  {
+   "id": 6,
+   "text": "EUH... VAN...",
+   "style": "dialogue",
+   "point": [
+    325,
+    5835
+   ]
+  },
+  {
+   "id": 7,
+   "text": "J’AI UNE FAVEUR À TE DEMANDER.",
+   "style": "dialogue",
+   "point": [
+    440,
+    7123
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CE QUE TU M’AS DIT LE JOUR DE NOTRE RENCONTRE.",
+   "style": "dialogue",
+   "point": [
+    369,
+    7855
+   ]
+  },
+  {
+   "id": 9,
+   "text": "TU PEUX LE REDIRE ?",
+   "style": "dialogue",
+   "point": [
+    430,
+    9338
+   ]
+  }
+ ]
+}

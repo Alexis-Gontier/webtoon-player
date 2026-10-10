@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-255/027.webp",
+ "output": "chapters_fr/chapter-255/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EH BIEN, REGARDEZ-MOI ÇA.",
+   "style": "dialogue",
+   "point": [
+    374,
+    550
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUI AURAIT CRU QU’UN JOUR, JE SERAIS LE PREMIER À PERDRE MON SOURIRE.",
+   "style": "italique",
+   "point": [
+    368,
+    1622
+   ]
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "source": "chapters_en/chapter-258/018.webp",
+ "output": "chapters_fr/chapter-258/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TANDIS QUE L’AXE DU DESTIN\nDU MONDE SE METTAIT\nÀ TOURNER,",
+   "style": "systeme",
+   "point": [
+    399,
+    237
+   ],
+   "box": [
+    70,
+    120,
+    740,
+    350
+   ],
+   "light": true,
+   "light_min": 225,
+   "max_letter": 60,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    60
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 2,
+   "text": "LE CIEL ET LA TERRE\nS’INVERSÈRENT.",
+   "style": "systeme",
+   "point": [
+    480,
+    1872
+   ],
+   "box": [
+    70,
+    1770,
+    730,
+    1960
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    60
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 3,
+   "text": "ET LES \"RÉSIDUS DE KARMA\"\nQUE VAN ZICHMUND\nHAÏSSAIT TANT...",
+   "style": "systeme",
+   "box": [
+    44,
+    3798,
+    757,
+    4126
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    60
+   ],
+   "outline_width": 3
+  }
+ ]
+}

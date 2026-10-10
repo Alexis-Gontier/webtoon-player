@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-257/029.webp",
+ "output": "chapters_fr/chapter-257/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET ENFIN, IL ABANDONNA LE NOM QUE LUI AVAIT DONNÉ SON DESTIN TOUT TRACÉ.",
+   "style": "cartouche",
+   "point": [
+    391,
+    2217
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET ALORS...",
+   "style": "cartouche",
+   "point": [
+    410,
+    3667
+   ]
+  }
+ ]
+}

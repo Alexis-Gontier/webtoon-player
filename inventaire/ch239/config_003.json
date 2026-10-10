@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-239/003.webp",
+ "output": "chapters_fr/chapter-239/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE ME SOUVIENS DE MA PREMIÈRE ASCENSION DE LA TOUR.",
+   "style": "dialogue",
+   "point": [
+    352,
+    218
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE N’AURAIS JAMAIS CRU ÊTRE AUSSI HEUREUX QUE MON HISTOIRE NE SOIT PAS ENCORE FINIE !",
+   "style": "dialogue",
+   "point": [
+    438,
+    1372
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/009.webp",
+ "output": "chapters_fr/chapter-257/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS C’ÉTAIT IMPOSSIBLE.",
+   "style": "cartouche",
+   "point": [
+    437,
+    252
+   ]
+  },
+  {
+   "id": 2,
+   "text": "APRÈS TOUT, LES TÉNÈBRES NE POURRAIENT JAMAIS VAINCRE LA LUMIÈRE.",
+   "style": "cartouche",
+   "point": [
+    426,
+    1372
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ALORS, ELLE CHOISIT DE SIMPLEMENT REGARDER.",
+   "style": "cartouche",
+   "point": [
+    342,
+    2740
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CAR ELLE POSSÉDAIT L’ÉTERNITÉ MÊME.",
+   "style": "cartouche",
+   "point": [
+    496,
+    4137
+   ]
+  }
+ ]
+}

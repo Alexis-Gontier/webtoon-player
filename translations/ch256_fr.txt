@@ -1,0 +1,358 @@
+# Chapitre 256 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+# Ray vouvoie Arthur ; Arthur tutoie tout le monde. Onomatopées coréennes gardées.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+001.3 | systeme | -
+# EN: ARTHUR.
+001.4 | dialogue | ARTHUR.
+# EN: HAVE YOU DECIDED ON A NAME FOR THE CANDIDATES YET?
+001.5 | dialogue | TU AS CHOISI UN NOM POUR LES CANDIDATS ?
+# EN: HMM, JUST AS I THOUGHT.
+001.6 | dialogue | HMM, COMME\nJE PENSAIS.
+001.7 | dialogue | -
+
+## 002.webp
+# EN: NO MATTER HOW MUCH I THINK ABOUT IT, I ONLY HAVE ONE CHOICE.
+002.1 | dialogue | J’AI BEAU Y RÉFLÉCHIR, JE N’AI QU’UN SEUL CHOIX.
+# EN: "PLAYER!"
+002.2 | dialogue | "PLAYER !"
+# EN: THE ONE WHO WILL BRING MY STORY TO AN END...
+002.3 | dialogue | CELUI QUI METTRA FIN À MON HISTOIRE...
+# EN: ...NEEDS TO LOOK EVEN HAPPIER THAN I DO.
+002.4 | dialogue | ...DOIT AVOIR L’AIR ENCORE PLUS HEUREUX QUE MOI.
+002.5 | dialogue | -
+# EN: HAPPIER THAN YOU? THAT'S A TALL ORDER.
+002.6 | dialogue | PLUS HEUREUX QUE TOI ? C’EST BEAUCOUP DEMANDER.
+# EN: NO ONE IN THEIR RIGHT MIND WOULD DO THAT.
+002.7 | dialogue | PERSONNE DE SENSÉ NE FERAIT ÇA.
+
+## 003.webp
+# EN: SO WHAT?! DON'T YOU UNDERSTAND ROMANCE?
+003.1 | dialogue | ET ALORS ?! TU NE COMPRENDS RIEN AU ROMANTISME ?
+# EN: IS THIS... A MEMORY OF ARTHUR-NIM?
+003.2 | pensee | C’EST... UN SOUVENIR D’ARTHUR ?
+# EN: ARTHUR-NIM, I KNOW VERY WELL.
+003.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | ARTHUR, JE LE SAIS BIEN.
+
+## 004.webp
+
+## 005.webp
+# EN: SOMEONE LIKE ME...
+005.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | QUELQU’UN COMME MOI...
+# EN: ...CAN NEVER FILL THE VOID SHE LEFT BEHIND.
+005.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | ...NE POURRA JAMAIS\nCOMBLER LE VIDE\nQU’ELLE A LAISSÉ.
+# EN: IF THAT'S THE CASE,
+005.3 | pensee | DANS CE CAS,
+# EN: THEN WHAT SHOULD I DO...
+005.4 | pensee | QUE DOIS-JE FAIRE...
+# EN: ...TO FILL THE VOID IN YOU?
+005.5 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | ...POUR COMBLER\nVOTRE VIDE ?
+
+## 006.webp
+
+## 007.webp
+# EN: VERY WELL, HEO SEOL-JIN.
+007.1 | dialogue | TRÈS BIEN,\nSEOL-JIN HEO.
+# EN: LET'S BRING THIS TO A PERFECT ENDING TOGETHER.
+007.2 | dialogue | OFFRONS-NOUS ENSEMBLE UNE FIN PARFAITE.
+
+## 008.webp
+008.1 | dialogue | -
+008.2 | dialogue | -
+
+## 009.webp
+009.1 | systeme | -
+
+## 010.webp
+
+## 011.webp
+# EN: GO,
+011.100 | cri {"point": [480, 430]} | VAS-Y,
+# EN: HEO SEOL-JIN!!!
+011.101 | cri {"point": [430, 2470]} | SEOL-JIN\nHEO !!!
+
+## 012.webp
+012.1 | dialogue | -
+
+## 013.webp
+# EN: DIVINE SWORD...
+013.1 | italique | ÉPÉE\nDIVINE...
+013.2 | dialogue | -
+013.3 | dialogue | -
+
+## 014.webp
+# EN: CHAOTIC DANCE!
+014.1 | italique {"erase_color": true} | DANSE DU\nCHAOS !
+
+## 015.webp
+# EN: CRACK! CRACK! (onomatopée gardée : lettres collées au contour)
+015.100 | dialogue | -
+015.1 | dialogue | -
+
+## 016.webp
+
+## 017.webp
+# EN: DEAN, LOOK AT THAT!
+017.1 | dialogue | DEAN,\nREGARDE ÇA !
+# EN: THAT SKILL... IT'S REALLY IT, ISN'T IT?!
+017.2 | dialogue | CETTE COMPÉTENCE... C’EST BIEN ELLE, HEIN ?!
+
+## 018.webp
+# EN: I'LL BE DAMNED...
+018.1 | dialogue | ÇA ALORS...
+# EN: THOSE CHEEKY BRATS!
+018.2 | dialogue | CES SALES\nGOSSES !
+
+## 019.webp
+019.1 | dialogue | -
+# EN: A DIRECT HIT!
+019.2 | dialogue | EN PLEIN\nDANS LE MILLE !
+
+## 020.webp
+020.1 | dialogue | -
+# EN: HAAAAAAAAA / AAAAAAAAAHH!!
+# 020.100 | cri {"box": [0, 1290, 800, 1660], "ink_max": 70, "thick": 4, "grow": 6, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | OUAAAAAAAA   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+# 020.101 | cri {"box": [0, 3660, 800, 4110], "ink_max": 70, "thick": 4, "grow": 6, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | AAAAAAAAIS !!   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+
+## 021.webp
+021.1 | dialogue | -
+021.2 | dialogue | -
+021.3 | dialogue | -
+# EN: LORD... ARTHUR?!
+021.4 | dialogue | SEIGNEUR...\nARTHUR ?!
+021.5 | dialogue | -
+
+## 022.webp
+# EN: YOU'VE ALL GROWN SO MUCH STRONGER...
+022.1 | italique | VOUS ÊTES TOUS DEVENUS TELLEMENT PLUS FORTS...
+022.2 | dialogue | -
+# EN: EVERY SINGLE ONE OF YOU.
+022.3 | dialogue | CHACUN\nD’ENTRE VOUS.
+
+## 023.webp
+023.1 | dialogue | -
+# EN: YEAH!
+023.2 | cri | OUAIS !
+# EN: I DON'T EVEN NEED TO CHECK.
+023.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | PAS BESOIN\nDE VÉRIFIER.
+# EN: THAT...
+023.4 | systeme {"box": [240, 4825, 530, 4935], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | ÇA...
+
+## 024.webp
+# EN: ISN'T SOMETHING HEO SEOL-JIN IS SHOWING ME.
+024.1 | systeme {"box": [160, 475, 640, 715], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | CE N’EST PAS\nSEOL-JIN HEO\nQUI ME LE MONTRE.
+# EN: WHICH MEANS...
+024.2 | systeme {"box": [170, 1205, 630, 1295], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | CE QUI VEUT DIRE...
+# EN: THIS IS MY OWN...
+024.100 | systeme {"box": [120, 2830, 690, 2950], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | C’EST MON PROPRE...
+# EN: DAMN, AT THIS RATE...
+024.3 | dialogue | BON SANG, À\nCE RYTHME...
+
+## 025.webp
+# EN: COVERING MY EYES WAS COMPLETELY POINTLESS.
+025.1 | dialogue | ME COUVRIR LES YEUX NE SERVAIT ABSOLUMENT À RIEN.
+
+## 026.webp
+026.1 | dialogue | -
+
+## 027.webp
+# EN: I DON'T NEED TO SEE.
+027.1 | dialogue | JE N’AI PAS\nBESOIN DE VOIR.
+027.2 | dialogue | -
+# EN: AFTER ALL, MY PATH IS ALREADY SET.
+027.3 | dialogue | APRÈS TOUT, MA VOIE EST DÉJÀ TRACÉE.
+027.4 | dialogue | -
+
+## 028.webp
+
+## 029.webp
+029.1 | dialogue | -
+029.2 | dialogue | -
+
+## 030.webp
+
+## 031.webp
+
+## 032.webp
+032.1 | dialogue | -
+
+## 033.webp
+# EN: ...HA!
+033.1 | dialogue | ...HA !
+033.2 | dialogue | -
+# EN: WELL, LOOK AT THAT.
+033.3 | dialogue | EH BIEN,\nREGARDEZ ÇA.
+
+## 034.webp
+# EN: YEAH, THAT'S RIGHT.
+034.1 | dialogue | OUAIS, C’EST ÇA.
+# EN: I'M ACTUALLY QUITE SURPRISED MYSELF.
+034.2 | dialogue | J’EN SUIS MOI-MÊME ASSEZ SURPRIS.
+
+## 035.webp
+# EN: THAT I CAN STILL REMEMBER YOUR FACE SO CLEARLY.
+035.1 | dialogue | DE ME SOUVENIR ENCORE SI BIEN DE TON VISAGE.
+# EN: FINE, I ADMIT IT! I ACTUALLY THOUGHT OF YOU...
+035.2 | dialogue | BON, JE L’AVOUE ! J’AI PENSÉ À TOI...
+# EN: RIGHT AT THE VERY END!
+035.3 | dialogue | TOUT À\nLA FIN !
+
+## 036.webp
+# EN: YEAH...
+036.1 | dialogue | OUAIS...
+# EN: THIS IS THE END.
+036.2 | dialogue | C’EST LA FIN.
+# EN: IT LOOKS LIKE THIS IS WHERE MY STORY CONCLUDES.
+036.3 | dialogue | ON DIRAIT QUE MON HISTOIRE S’ACHÈVE ICI.
+
+## 037.webp
+
+## 038.webp
+# EN: THAT'S ENOUGH.
+038.1 | dialogue | ÇA SUFFIT.
+# EN: I HATE DEPRESSING THINGS.
+038.2 | italique | JE DÉTESTE LES TRUCS DÉPRIMANTS.
+
+## 039.webp
+# EN: WE'VE SHOWN ENOUGH OF THE STORY,
+039.1 | italique | ON A ASSEZ MONTRÉ DE L’HISTOIRE,
+# EN: DON'T YOU THINK?
+039.2 | italique | TU NE CROIS\nPAS ?
+# EN: SO!
+039.3 | dialogue | BREF !
+# EN: THE STORY I'VE PREPARED ENDS HERE.
+039.4 | dialogue | L’HISTOIRE QUE J’AI PRÉPARÉE S’ARRÊTE ICI.
+
+## 040.webp
+# EN: ALL THINGS CONSIDERED, IT WASN'T HALF BAD, WAS IT?
+040.1 | dialogue | TOUT BIEN CONSIDÉRÉ, CE N’ÉTAIT PAS SI MAL, HEIN ?
+# EN: THAT BEING SAID,
+040.2 | dialogue | CELA DIT,
+# EN: LET'S MEET AGAIN ANOTHER DAY, IN ANOTHER STORY.
+040.3 | dialogue | RETROUVONS-NOUS UN AUTRE JOUR, DANS UNE AUTRE HISTOIRE.
+
+## 041.webp
+# EN: THANK YOU FOR COMING THIS FAR WITH ME,
+041.1 | dialogue | MERCI DE M’AVOIR ACCOMPAGNÉ JUSQU’ICI,
+# EN: MY DEAR "PLAYERS"!
+041.2 | dialogue | MES CHERS\n"PLAYERS" !
+# EN: IT WAS THE BEST STORY OF ALL.
+041.3 | dialogue | C’ÉTAIT LA MEILLEURE DES HISTOIRES.
+
+## 042.webp
+042.1 | dialogue | -
+# EN: ARTHUR-NIM.
+042.2 | dialogue | ARTHUR.
+# EN: OF COURSE IT WAS.
+042.3 | dialogue | ÉVIDEMMENT.
+042.4 | dialogue | -
+# EN: AFTER ALL, THIS IS THE WORLD I CREATED.
+042.5 | dialogue | APRÈS TOUT, C’EST LE MONDE QUE J’AI CRÉÉ.
+# EN: NOW.
+042.6 | dialogue | ALLEZ.
+
+## 043.webp
+# EN: COME.
+043.1 | dialogue | VIENS.
+# EN: WITH THAT SWORD OF THE RIFT OR WHATEVER IT WAS... YOU SAID YOU'D USE IT AGAINST ME.
+043.2 | dialogue | AVEC CETTE ÉPÉE DE LA FAILLE OU JE NE SAIS QUOI... TU AS DIT QUE TU L’UTILISERAIS CONTRE MOI.
+
+## 044.webp
+# EN: EVEN AT THE END... I FEEL LIKE I'M DANCING IN THE PALM OF YOUR HAND.
+044.1 | dialogue | MÊME À LA FIN... J’AI L’IMPRESSION DE DANSER DANS LA PAUME DE TA MAIN.
+# EN: SWORD OF THE RIFT!
+044.2 | italique {"erase_color": true} | ÉPÉE DE\nLA FAILLE !
+
+## 045.webp
+045.1 | dialogue | -
+045.2 | dialogue | -
+
+## 046.webp
+046.1 | dialogue | -
+
+## 047.webp
+# EN: ...?
+047.1 | dialogue | ...?
+# EN: WHAT ARE YOU DOING?
+047.2 | dialogue | QU’EST-CE QUE TU FAIS ?
+047.3 | dialogue | -
+
+## 048.webp
+# EN: P- / PLEASE...
+048.100 | dialogue {"point": [155, 2975]} | J-
+048.1 | dialogue | JE VOUS\nEN PRIE...
+# EN: I'M SORRY, ARTHUR-NIM...
+048.2 | dialogue | PARDON, ARTHUR...
+
+## 049.webp
+# EN: IF THERE WAS ANYTHING THAT DISPLEASED YOU,
+049.1 | italique | SI QUELQUE CHOSE VOUS A DÉPLU,
+# EN: I'LL MAKE SURE TO FIX IT.
+049.2 | italique | JE LE\nCORRIGERAI.
+
+## 050.webp
+# EN: SO... PLEASE, DON'T LEAVE ME BEHIND...
+050.1 | dialogue | ALORS... JE VOUS EN PRIE, NE ME LAISSEZ PAS...
+050.2 | dialogue | -
+# EN: MAN, I WONDERED WHEN YOU'D FINALLY GROW UP.
+050.3 | dialogue | DIS DONC, JE ME DEMANDAIS QUAND TU GRANDIRAIS ENFIN.
+
+## 051.webp
+051.1 | dialogue | -
+# EN: BUT IT LOOKS LIKE YOU'LL BE THIS WAY UNTIL THE END...
+051.2 | dialogue | MAIS ON DIRAIT QUE TU RESTERAS COMME ÇA JUSQU’AU BOUT...
+# EN: WELL, I SUPPOSE I CAN CONSIDER THAT A CHOICE.
+051.3 | italique | BAH, JE SUPPOSE QUE C’EST AUSSI UN CHOIX.
+
+## 052.webp
+# EN: LISTEN CLOSELY, RAY.
+052.1 | dialogue | ÉCOUTE BIEN,\nRAY.
+# EN: I'M NOT LEAVING.
+052.2 | italique | JE NE PARS\nPAS.
+# EN: I'M JUST BECOMING IMMORTAL WITHIN MY OWN STORY.
+052.3 | italique | JE DEVIENS SIMPLEMENT IMMORTEL DANS MA PROPRE HISTOIRE.
+052.4 | dialogue | -
+
+## 053.webp
+# EN: SO, YOU SHOULD ALSO
+053.1 | dialogue | ALORS, TOI AUSSI,
+# EN: CREATE YOUR OWN STORY.
+053.2 | dialogue | CRÉE TA PROPRE HISTOIRE.
+
+## 054.webp
+# EN: LORD ARTHUR...?
+054.1 | italique | SEIGNEUR\nARTHUR...?
+
+## 055.webp
+055.1 | dialogue | -
+# EN: LORD ARTHUR!!!
+055.2 | cri | SEIGNEUR\nARTHUR !!!
+
+## 056.webp
+# EN: AH♥ (gardés)
+056.1 | dialogue | -
+056.2 | dialogue | -
+056.3 | dialogue | -
+056.4 | dialogue | -
+# EN: FINALLY...
+056.5 | dialogue | ENFIN...
+# EN: FINALLY♥
+056.6 | dialogue | ENFIN♥
+# EN: I FINALLY GOT MY HANDS ON IT.
+056.7 | italique | JE L’AI ENFIN ENTRE LES MAINS.
+
+## 057.webp
+057.1 | dialogue | -
+057.2 | dialogue | -
+# EN: HEO SEOL-JIN!!!
+057.100 | cri {"point": [380, 3760]} | SEOL-JIN HEO !!!
+
+## 058.webp
+058.1 | dialogue | -
+# EN: THAT WAS DELICIOUS.
+058.2 | cri | C’ÉTAIT\nDÉLICIEUX.
+
+## 059.webp
+059.1 | systeme | -

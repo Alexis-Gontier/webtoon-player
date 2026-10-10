@@ -1,0 +1,151 @@
+{
+ "source": "chapters_en/chapter-231/002.webp",
+ "output": "chapters_fr/chapter-231/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VEUX DIRE \"EUX\".",
+   "style": "dialogue",
+   "point": [
+    355,
+    639
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST PARCE QUE CE NE SONT PAS DES CRÉATURES QUE J’AI CRÉÉES.",
+   "style": "dialogue",
+   "point": [
+    403,
+    1517
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DANS CETTE TOUR, CES \"ÉTRANGERS\" EXISTENT À PART.",
+   "style": "dialogue",
+   "point": [
+    396,
+    2868
+   ]
+  },
+  {
+   "id": 6,
+   "text": "...\"ÉTRANGERS\" ?",
+   "style": "dialogue",
+   "point": [
+    473,
+    3890
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ALORS NE LES QUITTE PAS DES YEUX, REGARDE BIEN.",
+   "style": "dialogue",
+   "point": [
+    400,
+    4907
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CELUI-LÀ AUSSI EST L’UN DES \"ÉTRANGERS\"...",
+   "style": "dialogue",
+   "point": [
+    407,
+    8456
+   ]
+  },
+  {
+   "id": 9,
+   "text": "C’EST LEUR \"ORIGINE\".",
+   "style": "dialogue",
+   "point": [
+    326,
+    9758
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ARME\nD’EGO\nLUCIA",
+   "style": "systeme",
+   "box": [
+    130,
+    10460,
+    670,
+    11260
+   ],
+   "target": [
+    175,
+    10500,
+    625,
+    11225
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 3
+  },
+  {
+   "id": 12,
+   "text": "LIBÉRATION\nCOMPLÈTE\nDE L’ÂME",
+   "style": "systeme",
+   "box": [
+    30,
+    13760,
+    770,
+    14460
+   ],
+   "target": [
+    60,
+    13800,
+    740,
+    14425
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 3
+  }
+ ]
+}

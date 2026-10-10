@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-246/009.webp",
+ "output": "chapters_fr/chapter-246/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OH~\nIMPRESSIONNANT !",
+   "style": "dialogue",
+   "point": [
+    399,
+    3033
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS, TU T’ATTENDAIS À UN TEL ÉCART ?",
+   "style": "dialogue",
+   "point": [
+    440,
+    3969
+   ]
+  }
+ ]
+}

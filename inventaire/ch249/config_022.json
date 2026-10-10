@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-249/022.webp",
+ "output": "chapters_fr/chapter-249/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TSS.",
+   "style": "dialogue",
+   "point": [
+    278,
+    2381
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JUSTE UNE ÉRAFLURE, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    354,
+    3361
+   ]
+  }
+ ]
+}

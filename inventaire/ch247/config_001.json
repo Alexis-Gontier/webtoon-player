@@ -1,0 +1,50 @@
+{
+ "source": "chapters_en/chapter-247/001.webp",
+ "output": "chapters_fr/chapter-247/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "\"ON DIT QU’ON PEUT\nLIRE DANS UN CŒUR\nEN CROISANT LE FER...\"",
+   "style": "systeme",
+   "box": [
+    124,
+    1189,
+    599,
+    1364
+   ],
+   "light": true,
+   "grow": 6,
+   "blur_fill": 10,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET TOI...",
+   "style": "dialogue",
+   "point": [
+    378,
+    2245
+   ]
+  },
+  {
+   "id": 7,
+   "text": "TU HÉSITES.",
+   "style": "dialogue",
+   "point": [
+    336,
+    4446
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-236/007.webp",
+ "output": "chapters_fr/chapter-236/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE LE SAVAIS !",
+   "style": "dialogue",
+   "point": [
+    327,
+    5950
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IL Y A ENCORE UN MOYEN !",
+   "style": "dialogue",
+   "point": [
+    367,
+    8709
+   ]
+  }
+ ]
+}

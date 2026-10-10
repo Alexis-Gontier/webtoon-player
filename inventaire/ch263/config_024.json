@@ -1,0 +1,57 @@
+{
+ "source": "chapters_en/chapter-263/024.webp",
+ "output": "chapters_fr/chapter-263/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SALUT.",
+   "style": "dialogue",
+   "point": [
+    333,
+    60
+   ],
+   "box": [
+    255,
+    0,
+    410,
+    60
+   ],
+   "target": [
+    265,
+    0,
+    400,
+    50
+   ],
+   "ink_max": 100,
+   "max_letter": 70,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 60
+  },
+  {
+   "id": 3,
+   "text": "DÉSOLÉ DE T’AVOIR FAIT ATTENDRE.",
+   "style": "dialogue",
+   "point": [
+    389,
+    1028
+   ]
+  }
+ ]
+}

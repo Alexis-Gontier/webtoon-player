@@ -1,0 +1,66 @@
+{
+ "source": "chapters_en/chapter-250/008.webp",
+ "output": "chapters_fr/chapter-250/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE DOIS GAGNER.",
+   "style": "systeme",
+   "box": [
+    110,
+    1645,
+    650,
+    1760
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POUR L’AVENIR\nQUE NOUS SOUHAITONS\nTOUS.",
+   "style": "systeme",
+   "point": [
+    359,
+    3832
+   ],
+   "box": [
+    85,
+    3700,
+    635,
+    3965
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

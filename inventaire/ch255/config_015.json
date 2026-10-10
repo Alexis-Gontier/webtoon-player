@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-255/015.webp",
+ "output": "chapters_fr/chapter-255/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HÉ, VOUS N’AVEZ PAS HONTE ?",
+   "style": "italique",
+   "point": [
+    364,
+    553
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VOUS TOUS, À VOUS EMBALLER POUR UN SIMPLE GAMIN~",
+   "style": "italique",
+   "point": [
+    394,
+    1630
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BIEN SÛR\nQUE NON...",
+   "style": "dialogue",
+   "point": [
+    306,
+    2505
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST LA VOIE QUE NOUS AVONS CHOISIE.",
+   "style": "dialogue",
+   "point": [
+    405,
+    3473
+   ]
+  }
+ ]
+}

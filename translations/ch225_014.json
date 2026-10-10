@@ -1,0 +1,87 @@
+{
+  "source": "chapters_en/chapter-225/014.webp",
+  "output": "chapters_fr/chapter-225/014.webp",
+  "bubbles": [
+    {
+      "point": [
+        308,
+        608
+      ],
+      "text": "ET TU PEUX VRAIMENT AFFRONTER CE TYPE ?"
+    },
+    {
+      "point": [
+        525,
+        1520
+      ],
+      "text": "MÊME POUR LA FORME ?"
+    },
+    {
+      "point": [
+        328,
+        2200
+      ],
+      "text": "AH...",
+      "max_size": 70,
+      "cut": [
+        [
+          250,
+          2301
+        ],
+        [
+          431,
+          2280
+        ]
+      ]
+    },
+    {
+      "point": [
+        365,
+        2560
+      ],
+      "text": "ÉCOUTE,\nTAE-WON KIM,\nC’EST MOI QUI\nVAIS AFFRONTER\nCE TYPE.",
+      "cut": [
+        [
+          250,
+          2301
+        ],
+        [
+          431,
+          2280
+        ]
+      ]
+    },
+    {
+      "point": [
+        422,
+        3600
+      ],
+      "text": "PARCE QUE...",
+      "max_size": 62
+    },
+    {
+      "point": [
+        408,
+        4480
+      ],
+      "text": "C’EST ÇA QUI EST AMUSANT.",
+      "max_size": 62
+    },
+    {
+      "point": [
+        405,
+        8347
+      ],
+      "text": "À TOUS LES PARTICIPANTS.",
+      "max_size": 70
+    },
+    {
+      "point": [
+        408,
+        12022
+      ],
+      "text": "EN PLACE !",
+      "max_size": 80
+    }
+  ]
+}

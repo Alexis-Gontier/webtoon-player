@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-236/017.webp",
+ "output": "chapters_fr/chapter-236/017.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "AU FINAL,",
+   "style": "dialogue",
+   "point": [
+    285,
+    1752
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MÊME LA DÉCISION DE SACRIFIER SA PROPRE VIE.",
+   "style": "dialogue",
+   "point": [
+    463,
+    2023
+   ]
+  },
+  {
+   "id": 5,
+   "text": "UN.",
+   "style": "dialogue",
+   "point": [
+    299,
+    2858
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LE CRIME D’AVOIR FUI L’\"ARÈNE CÉLESTE\" EN VIOLANT L’\"ORDRE DE CONCENTRATION GÉNÉRALE\" DE DAME ASHA.",
+   "style": "dialogue",
+   "point": [
+    434,
+    3191
+   ]
+  },
+  {
+   "id": 8,
+   "text": "DEUX.",
+   "style": "dialogue",
+   "point": [
+    257,
+    7194
+   ]
+  },
+  {
+   "id": 9,
+   "text": "LE CRIME DE \"TRICHERIE\" EN AIDANT LE COMBAT DE \"DEAN\", PARTICIPANT DU DEUXIÈME ROUND DE LA BATAILLE FINALE.",
+   "style": "dialogue",
+   "point": [
+    444,
+    7813
+   ]
+  }
+ ]
+}

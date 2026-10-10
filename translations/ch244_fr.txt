@@ -1,0 +1,85 @@
+# Chapitre 244. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+
+## 001.webp
+001.1 | systeme | -
+001.2 | italique | ALORS, JE ME DOUTAIS QUE TU L’ACCEPTERAIS.
+001.3 | cri | SEOL-JIN\nHEO !
+001.4 | cri | V16, LIBÉRATION\nDE L’ÉPÉE.
+001.5 | cri | ÉPÉE\nDÉCHIRANTE !
+
+## 002.webp
+002.1 | dialogue | PLUTÔT QUE DES MOTS,
+002.2 | dialogue | AVEC CETTE ÉPÉE.
+002.3 | dialogue | PLUTÔT QU’AVEC LE CORPS,
+002.4 | dialogue | AVEC LE CŒUR.
+002.5 | dialogue | CECI...
+002.6 | dialogue | EST LE COUP QUI RENFERME TOUT CE QUE J’AI EN CE MOMENT.
+002.7 | cri | PRENDS-LE,\nPETIT !
+002.8 | dialogue | -
+
+## 003.webp
+003.1 | dialogue | -
+003.2 | dialogue | -
+
+## 004.webp
+004.1 | dialogue | -
+
+## 005.jpg
+005.1 | dialogue | -
+005.100 | cri {"point": [400, 2250]} | ENCORE\nUNE FOIS !
+005.101 | cri {"point": [420, 4690]} | À FOND.
+005.2 | italique | FRAPPE ENCORE ET ENCORE.
+005.3 | italique | JE VAIS TOUT DONNER !
+005.102 | italique {"point": [345, 7880]} | ALORS...
+005.4 | italique | MONTRE-MOI AUSSI !
+005.5 | italique | TOUT CE QUE TU AS !
+005.6 | italique | ET\nL’"ESPOIR"
+005.7 | dialogue | -
+005.8 | dialogue | QUE TU PORTES !
+
+## 006.webp
+006.1 | dialogue | -
+006.2 | dialogue | BIEN JOUÉ, PETIT !
+006.3 | dialogue | -
+
+## 007.webp
+007.1 | dialogue | -
+007.2 | dialogue | À MOI...
+007.3 | dialogue | DE JOUER !
+007.4 | dialogue | -
+
+## 008.webp
+008.100 | systeme {"vfill": true, "box": [130, 890, 670, 1130], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | ÇA FAIT COMBIEN\nDE TEMPS ?
+008.1 | systeme {"vfill": true, "box": [90, 2125, 710, 2440], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | QUE MON CŒUR NE\nS’EST PAS ENFLAMMÉ\nÀ CE POINT...
+008.2 | systeme {"vfill": true, "box": [90, 3225, 715, 3540], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | QU’IL N’A PAS\nÉTÉ AUSSI\nEXALTÉ...
+008.3 | systeme {"vfill": true, "box": [110, 4425, 690, 4750], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | À AFFRONTER\nUNE ÉPÉE AVEC\nUNE TELLE JOIE !
+008.4 | dialogue | -
+008.5 | dialogue | J’ARRIVE,\n"PLAYER" !
+008.6 | dialogue | -
+008.7 | dialogue | -
+
+## 009.jpg
+009.1 | dialogue | -
+009.2 | dialogue | -
+009.3 | dialogue | -
+
+## 011.webp
+011.100 | dialogue {"point": [426, 9625]} | SEOL-JIN\nHEO !
+011.1 | dialogue | -
+011.2 | dialogue | -
+011.3 | dialogue | -
+011.4 | dialogue | JE TE CONFIE MON MONDE.
+
+## 012.webp
+012.1 | cri | PRENDS-LE,\nMON ÉPÉE.
+012.100 | systeme {"box": [130, 7255, 670, 7480], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | BATAILLE FINALE\nDEMI-FINALE
+012.2 | systeme | -
+012.3 | dialogue | -
+012.101 | systeme {"box": [130, 7880, 670, 7975], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | SEOL-JIN HEO
+012.4 | dialogue | -
+012.102 | systeme {"box": [190, 9325, 612, 9505], "grow": 6, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "max_letter": 145} | VAINQUEUR :
+012.103 | systeme {"box": [70, 9515, 740, 9685], "target": [80, 9525, 730, 9675], "ink_max": 256, "grow": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "max_letter": 230} | SEOL-JIN HEO.
+012.5 | systeme | -
+012.6 | systeme | -
+012.7 | systeme | -
+012.8 | systeme | -

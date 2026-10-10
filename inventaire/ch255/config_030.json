@@ -1,0 +1,86 @@
+{
+ "source": "chapters_en/chapter-255/030.webp",
+ "output": "chapters_fr/chapter-255/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON,\nBON...",
+   "style": "dialogue",
+   "point": [
+    387,
+    559
+   ]
+  },
+  {
+   "id": 2,
+   "text": "FAUT CROIRE QUE JE N’AI PAS LE CHOIX, JE DOIS L’ADMETTRE...",
+   "style": "dialogue",
+   "point": [
+    337,
+    1807
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUE CET ENDROIT...",
+   "style": "systeme",
+   "box": [
+    51,
+    2585,
+    666,
+    2687
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  },
+  {
+   "id": 4,
+   "text": "N’EST PLUS\nMA SCÈNE.",
+   "style": "systeme",
+   "box": [
+    127,
+    3436,
+    584,
+    3629
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  }
+ ]
+}

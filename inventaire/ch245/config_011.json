@@ -1,0 +1,70 @@
+{
+ "source": "chapters_en/chapter-245/011.webp",
+ "output": "chapters_fr/chapter-245/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUI,\nON VA...!",
+   "style": "italique",
+   "point": [
+    352,
+    292
+   ]
+  },
+  {
+   "id": 100,
+   "text": "JE\nVAIS...!",
+   "style": "italique",
+   "point": [
+    412,
+    1325
+   ]
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    218,
+    2205,
+    264,
+    2295
+   ],
+   "ink_max": 150,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 102,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    585,
+    2215,
+    625,
+    2290
+   ],
+   "ink_max": 150,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 103,
+   "text": "Y ARRIVER,\nC’EST SÛR...!",
+   "style": "italique",
+   "point": [
+    350,
+    2257
+   ]
+  }
+ ]
+}

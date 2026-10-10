@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-256/056.webp",
+ "output": "chapters_fr/chapter-256/056.webp",
+ "bubbles": [
+  {
+   "id": 5,
+   "text": "ENFIN...",
+   "style": "dialogue",
+   "point": [
+    244,
+    2743
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ENFIN♥",
+   "style": "dialogue",
+   "point": [
+    516,
+    3820
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE L’AI ENFIN ENTRE LES MAINS.",
+   "style": "italique",
+   "point": [
+    397,
+    4807
+   ]
+  }
+ ]
+}

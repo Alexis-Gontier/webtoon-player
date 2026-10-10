@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/026.webp",
+ "output": "chapters_fr/chapter-257/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SOIS À MOI.",
+   "style": "dialogue",
+   "point": [
+    492,
+    688
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI TU\nACCEPTES...",
+   "style": "dialogue",
+   "point": [
+    356,
+    3388
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE T’OFFRIRAI LE DERNIER BATTEMENT DE MON CŒUR.",
+   "style": "dialogue",
+   "point": [
+    504,
+    3781
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LUCIA.",
+   "style": "dialogue",
+   "point": [
+    338,
+    350
+   ]
+  }
+ ]
+}

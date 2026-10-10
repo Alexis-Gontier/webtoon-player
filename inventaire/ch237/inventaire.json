@@ -1,0 +1,2220 @@
+{
+ "001.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    151,
+    881,
+    645,
+    1783
+   ],
+   "id": 1,
+   "point": [
+    398,
+    1332
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "UMM,..",
+   "box": [
+    196,
+    2733,
+    355,
+    2779
+   ],
+   "point": [
+    275,
+    2756
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "HIMM,",
+   "box": [
+    433,
+    3321,
+    553,
+    3367
+   ],
+   "point": [
+    493,
+    3344
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    238,
+    3993,
+    386,
+    4039
+   ],
+   "id": 4,
+   "point": [
+    312,
+    4016
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    400,
+    4495,
+    562,
+    4557
+   ],
+   "id": 5,
+   "point": [
+    481,
+    4526
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "AMM",
+   "box": [
+    431,
+    5190,
+    568,
+    5250
+   ],
+   "point": [
+    499,
+    5220
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 60
+  },
+  {
+   "text": "UMMMM",
+   "box": [
+    137,
+    5651,
+    374,
+    5709
+   ],
+   "point": [
+    255,
+    5680
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 58
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    155,
+    6030,
+    436,
+    6169
+   ],
+   "id": 8,
+   "point": [
+    295,
+    6099
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    320,
+    6200,
+    678,
+    6400
+   ],
+   "id": 9,
+   "point": [
+    499,
+    6300
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    414,
+    6437,
+    580,
+    6611
+   ],
+   "id": 10,
+   "point": [
+    497,
+    6524
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    306,
+    7281,
+    495,
+    7347
+   ],
+   "id": 11,
+   "point": [
+    400,
+    7314
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "002.webp": [
+  {
+   "text": "LAY!",
+   "box": [
+    309,
+    172,
+    529,
+    277
+   ],
+   "point": [
+    419,
+    224
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 105
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    130,
+    978,
+    364,
+    1296
+   ],
+   "id": 2,
+   "point": [
+    247,
+    1137
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "gow WAS THE",
+   "box": [
+    250,
+    2620,
+    588,
+    2669
+   ],
+   "point": [
+    419,
+    2644
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "SShl,",
+   "box": [
+    315,
+    2999,
+    532,
+    3101
+   ],
+   "point": [
+    423,
+    3050
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 102
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    172,
+    6008,
+    662,
+    6085
+   ],
+   "id": 5,
+   "point": [
+    417,
+    6046
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "oog- WHAT'S THIS!",
+   "box": [
+    265,
+    8330,
+    581,
+    8447
+   ],
+   "point": [
+    423,
+    8388
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 50
+  }
+ ],
+ "003.webp": [
+  {
+   "text": "1 CAME JUST AT THE RIGHT TIME/",
+   "box": [
+    249,
+    130,
+    540,
+    293
+   ],
+   "point": [
+    394,
+    211
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    350,
+    2569,
+    567,
+    2836
+   ],
+   "id": 2,
+   "point": [
+    458,
+    2702
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "THE NEXT MOVE,",
+   "box": [
+    337,
+    6250,
+    613,
+    6388
+   ],
+   "point": [
+    475,
+    6319
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 58
+  },
+  {
+   "text": "WILL PEC/PE WINNEZ",
+   "box": [
+    228,
+    7543,
+    506,
+    7755
+   ],
+   "point": [
+    367,
+    7649
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 62
+  }
+ ],
+ "004.webp": [
+  {
+   "text": "COMBAT BOSS SYSTEM ALERT.ALL SPARE UMTS CONSUMED - 237",
+   "box": [
+    163,
+    263,
+    546,
+    410
+   ],
+   "point": [
+    354,
+    336
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 39
+  },
+  {
+   "text": "ALL SPARE UMTS HAVE BEEN FULLY CONSUMED.",
+   "box": [
+    266,
+    1328,
+    626,
+    1528
+   ],
+   "point": [
+    446,
+    1428
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 52
+  },
+  {
+   "text": "COLLECTING BLACK BOX DATA",
+   "box": [
+    209,
+    2515,
+    598,
+    2658
+   ],
+   "point": [
+    403,
+    2586
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 59
+  },
+  {
+   "text": "DO YOU NEAR ME/ DEAN?",
+   "box": [
+    241,
+    5760,
+    596,
+    5891
+   ],
+   "point": [
+    418,
+    5825
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 57
+  },
+  {
+   "text": "MARY GENNOS' HAS BEEN SAFELY SECURED.",
+   "box": [
+    251,
+    7162,
+    532,
+    7374
+   ],
+   "point": [
+    391,
+    7268
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 42
+  }
+ ],
+ "005.webp": [
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    302,
+    883,
+    548,
+    945
+   ],
+   "id": 1,
+   "point": [
+    425,
+    914
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "OPEN THE FUTURE FOR US.",
+   "box": [
+    242,
+    1906,
+    581,
+    2111
+   ],
+   "point": [
+    411,
+    2008
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 56
+  },
+  {
+   "text": "FUTURE...",
+   "box": [
+    202,
+    4346,
+    483,
+    4407
+   ],
+   "point": [
+    342,
+    4376
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 61
+  },
+  {
+   "text": "NONSENSE.",
+   "box": [
+    325,
+    5658,
+    626,
+    5713
+   ],
+   "point": [
+    475,
+    5685
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 55
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    150,
+    6301,
+    366,
+    6547
+   ],
+   "id": 5,
+   "point": [
+    258,
+    6424
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "TH/S",
+   "box": [
+    335,
+    6963,
+    467,
+    7024
+   ],
+   "point": [
+    401,
+    6993
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 61
+  }
+ ],
+ "006.webp": [
+  {
+   "text": "my OLD MEMOR/ES ARE COM/NGBACK.",
+   "box": [
+    268,
+    1301,
+    552,
+    1438
+   ],
+   "point": [
+    410,
+    1369
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "RAN/ MARE rws MUCH... MUCH...",
+   "box": [
+    211,
+    5019,
+    470,
+    5200
+   ],
+   "point": [
+    340,
+    5109
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 50
+  },
+  {
+   "text": "WOULD you ENOUGH?",
+   "box": [
+    279,
+    6122,
+    529,
+    6277
+   ],
+   "point": [
+    404,
+    6199
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 44
+  }
+ ],
+ "007.webp": [
+  {
+   "text": "'d/ / Il",
+   "box": [
+    374,
+    2537,
+    521,
+    2598
+   ],
+   "point": [
+    447,
+    2567
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 61
+  },
+  {
+   "text": "DEAN,",
+   "box": [
+    243,
+    3727,
+    421,
+    3791
+   ],
+   "point": [
+    332,
+    3759
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 64
+  },
+  {
+   "text": "ARE YOU,- SER/OUS7",
+   "box": [
+    363,
+    5005,
+    626,
+    5123
+   ],
+   "point": [
+    494,
+    5064
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 50
+  },
+  {
+   "text": "NOW/ ooUERO.\"",
+   "box": [
+    152,
+    7107,
+    341,
+    7220
+   ],
+   "point": [
+    246,
+    7163
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 53
+  },
+  {
+   "text": "1 WAS EVEN KIND ENOUGH TO REMOVE THE OBSTACLES FOR YOU.",
+   "box": [
+    186,
+    7411,
+    487,
+    7555
+   ],
+   "point": [
+    336,
+    7483
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 28
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    453,
+    8200,
+    520,
+    8298
+   ],
+   "id": 6,
+   "point": [
+    486,
+    8249
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "NOW SHOW ME WHAT YOU'VE GOT.",
+   "box": [
+    352,
+    8958,
+    648,
+    9090
+   ],
+   "point": [
+    500,
+    9024
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 36
+  }
+ ],
+ "008.webp": [
+  {
+   "text": "IN THE FINAL COMPLETION OF YOUR",
+   "box": [
+    214,
+    183,
+    547,
+    326
+   ],
+   "point": [
+    380,
+    254
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "SPARE UNIT BLACK BOX DATA COLLECTION COMPLETE.",
+   "box": [
+    159,
+    951,
+    486,
+    1093
+   ],
+   "point": [
+    322,
+    1022
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "CLOUD SYNC IN PROGRESS... 990/0... 1000/0.",
+   "box": [
+    351,
+    1278,
+    649,
+    1434
+   ],
+   "point": [
+    500,
+    1356
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "RENDEZVOUS STANDBY REQUESTED. ENTERING THE FINAL PHASE.",
+   "box": [
+    216,
+    5373,
+    582,
+    5597
+   ],
+   "point": [
+    399,
+    5485
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 45
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    473,
+    5877,
+    758,
+    6089
+   ],
+   "id": 5,
+   "point": [
+    615,
+    5983
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "009.webp": [
+  {
+   "text": "PROJECT:HOPE ZONLINE",
+   "box": [
+    0,
+    558,
+    731,
+    813
+   ],
+   "point": [
+    365,
+    685
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 101
+  },
+  {
+   "text": "DEAN 1 1 FULFILLED MY PART OF THE PROMISE...",
+   "box": [
+    168,
+    2171,
+    466,
+    2374
+   ],
+   "point": [
+    317,
+    2272
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "YOU MUST COME BACK.",
+   "box": [
+    248,
+    4042,
+    590,
+    4174
+   ],
+   "point": [
+    419,
+    4108
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 56
+  },
+  {
+   "text": "Inhll",
+   "box": [
+    405,
+    6397,
+    450,
+    6430
+   ],
+   "point": [
+    427,
+    6413
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 33
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    30,
+    6573,
+    108,
+    6799
+   ],
+   "id": 5,
+   "point": [
+    69,
+    6686
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    515,
+    7554,
+    623,
+    7695
+   ],
+   "id": 6,
+   "point": [
+    569,
+    7624
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "010.webp": [
+  {
+   "text": "OKAY IF I CANT MOVE FORWARD ANY FURTHER.",
+   "box": [
+    129,
+    1613,
+    673,
+    1821
+   ],
+   "point": [
+    401,
+    1717
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 62
+  },
+  {
+   "text": "Il)) I",
+   "box": [
+    368,
+    2415,
+    492,
+    2521
+   ],
+   "point": [
+    430,
+    2468
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 106
+  },
+  {
+   "text": "IN THIS LEFT ARM IS...",
+   "box": [
+    240,
+    3363,
+    559,
+    3493
+   ],
+   "point": [
+    399,
+    3428
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 59
+  },
+  {
+   "text": "OUR",
+   "box": [
+    165,
+    5013,
+    270,
+    5072
+   ],
+   "point": [
+    217,
+    5042
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 59
+  }
+ ],
+ "011.webp": [
+  {
+   "text": "ACTIVATION,",
+   "box": [
+    243,
+    3204,
+    593,
+    3303
+   ],
+   "point": [
+    418,
+    3253
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 99
+  },
+  {
+   "text": "PROJECT:HOPÈ MODEL 000",
+   "box": [
+    57,
+    4010,
+    742,
+    4545
+   ],
+   "point": [
+    399,
+    4277
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 136
+  }
+ ],
+ "012.webp": [
+  {
+   "text": "DEAN)C CHOICE...",
+   "box": [
+    181,
+    90,
+    360,
+    192
+   ],
+   "point": [
+    270,
+    141
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "WACN)T JUST PICKING HIC LIFE.",
+   "box": [
+    360,
+    665,
+    640,
+    836
+   ],
+   "point": [
+    500,
+    750
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "WHAT HE POURED INTO THE \"LORE\" VAS...",
+   "box": [
+    206,
+    1288,
+    593,
+    1458
+   ],
+   "point": [
+    399,
+    1373
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 48
+  },
+  {
+   "text": "I ONE \"PERF,EtT WORLD.\"",
+   "box": [
+    228,
+    2527,
+    554,
+    2633
+   ],
+   "point": [
+    391,
+    2580
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 48
+  },
+  {
+   "text": "THE MEMORY.",
+   "box": [
+    175,
+    3789,
+    406,
+    3828
+   ],
+   "point": [
+    290,
+    3808
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "THE EMOTION.",
+   "box": [
+    427,
+    4273,
+    652,
+    4309
+   ],
+   "point": [
+    539,
+    4291
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "THE EXPERIENCE.",
+   "box": [
+    157,
+    4683,
+    396,
+    4716
+   ],
+   "point": [
+    276,
+    4699
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "THE PAST.",
+   "box": [
+    465,
+    5215,
+    656,
+    5262
+   ],
+   "point": [
+    560,
+    5238
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 47
+  },
+  {
+   "text": "THE FUTURE.",
+   "box": [
+    199,
+    5757,
+    434,
+    5802
+   ],
+   "point": [
+    316,
+    5779
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "DEAN POURED OUT EVERYTHING HE PACT AND FUTURE)",
+   "box": [
+    130,
+    7269,
+    483,
+    7413
+   ],
+   "point": [
+    306,
+    7341
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "AND COMPLETELY EMBODIED THE POTENTIAL FOR GROWTH.",
+   "box": [
+    316,
+    7642,
+    726,
+    7764
+   ],
+   "point": [
+    521,
+    7703
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "BY CHOOCING A DEFINITE FORM)",
+   "box": [
+    102,
+    9660,
+    417,
+    9760
+   ],
+   "point": [
+    259,
+    9710
+   ],
+   "id": 12,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "DEAN) AT THIC VERY MOMENT) HAD BECOME COMPLETE.",
+   "box": [
+    361,
+    9941,
+    645,
+    10144
+   ],
+   "point": [
+    503,
+    10042
+   ],
+   "id": 13,
+   "kind": "bulle",
+   "line_h": 44
+  }
+ ],
+ "013.webp": [
+  {
+   "text": "UPON WITNECCING THAT STATE)",
+   "box": [
+    176,
+    770,
+    425,
+    926
+   ],
+   "point": [
+    300,
+    848
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    96,
+    963,
+    709,
+    1386
+   ],
+   "id": 2,
+   "point": [
+    402,
+    1174
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "VAN ZICHMUND)",
+   "box": [
+    306,
+    1869,
+    672,
+    1926
+   ],
+   "point": [
+    489,
+    1897
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 57
+  },
+  {
+   "text": "INTO DEEP DECPAIR.",
+   "box": [
+    299,
+    2797,
+    588,
+    2915
+   ],
+   "point": [
+    443,
+    2856
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 53
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    145,
+    3426,
+    712,
+    3899
+   ],
+   "id": 5,
+   "point": [
+    428,
+    3662
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "NO",
+   "box": [
+    217,
+    4630,
+    356,
+    4712
+   ],
+   "point": [
+    286,
+    4671
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 82
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    139,
+    5572,
+    489,
+    5624
+   ],
+   "id": 7,
+   "point": [
+    314,
+    5598
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    204,
+    6512,
+    294,
+    6629
+   ],
+   "id": 8,
+   "point": [
+    249,
+    6570
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    323,
+    6923,
+    694,
+    7073
+   ],
+   "id": 9,
+   "point": [
+    508,
+    6998
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "014.webp": [
+  {
+   "text": "Vop",
+   "box": [
+    250,
+    150,
+    368,
+    200
+   ],
+   "point": [
+    309,
+    175
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 50
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    587,
+    919,
+    654,
+    1019
+   ],
+   "id": 2,
+   "point": [
+    620,
+    969
+   ],
+   "kind": "dessin",
+   "line_h": 0
+  },
+  {
+   "text": "MY ha.o,..",
+   "box": [
+    374,
+    2020,
+    610,
+    2065
+   ],
+   "point": [
+    492,
+    2042
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "Ut ON",
+   "box": [
+    325,
+    2137,
+    462,
+    2181
+   ],
+   "point": [
+    393,
+    2159
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "gow MUCH MORE DOES IT WANT TO TAKE FROM ME BEFORE IT'S SATISFIED,",
+   "box": [
+    232,
+    3035,
+    564,
+    3185
+   ],
+   "point": [
+    398,
+    3110
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 30
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    290,
+    3421,
+    495,
+    3591
+   ],
+   "id": 6,
+   "point": [
+    392,
+    3506
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "THIS UNFAIR",
+   "box": [
+    266,
+    4698,
+    584,
+    4754
+   ],
+   "point": [
+    425,
+    4726
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 56
+  },
+  {
+   "text": "LUCIA,",
+   "box": [
+    234,
+    6124,
+    425,
+    6189
+   ],
+   "point": [
+    329,
+    6156
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 65
+  },
+  {
+   "text": "SHOUUD 1 NAVE STO?PED",
+   "box": [
+    329,
+    7386,
+    638,
+    7510
+   ],
+   "point": [
+    483,
+    7448
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 65
+  },
+  {
+   "text": "NORIEISC\\NS.COM",
+   "box": [
+    66,
+    7401,
+    211,
+    7442
+   ],
+   "point": [
+    138,
+    7421
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 41
+  }
+ ],
+ "015.webp": [
+  {
+   "text": "IF 1 STOPPED THEN MY UERO,..",
+   "box": [
+    225,
+    156,
+    550,
+    336
+   ],
+   "point": [
+    387,
+    246
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "COUD HAVE ENDED IT WITHOUT MAKING SUCH A MEANINGLESS SACRIFICE?",
+   "box": [
+    182,
+    2030,
+    590,
+    2250
+   ],
+   "point": [
+    386,
+    2140
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "MY VAN, DON'T BE TOO SAD.",
+   "box": [
+    239,
+    3257,
+    578,
+    3427
+   ],
+   "point": [
+    408,
+    3342
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 48
+  },
+  {
+   "text": "YOUR HERO DID NOT BETRAY YOUR FAITH/",
+   "box": [
+    207,
+    4971,
+    559,
+    5136
+   ],
+   "point": [
+    383,
+    5053
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "UE SIMPLY CHOSE TO REMAIN UUMAN UNIL THE VERY END.",
+   "box": [
+    243,
+    7096,
+    594,
+    7290
+   ],
+   "point": [
+    418,
+    7193
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "BUT VAN/ DON'T FORGET.",
+   "box": [
+    239,
+    8224,
+    570,
+    8327
+   ],
+   "point": [
+    404,
+    8275
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 46
+  }
+ ],
+ "016.webp": [
+  {
+   "text": "YOU HAVE...",
+   "box": [
+    185,
+    208,
+    574,
+    288
+   ],
+   "point": [
+    379,
+    248
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 80
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    196,
+    2234,
+    639,
+    2319
+   ],
+   "id": 2,
+   "point": [
+    417,
+    2276
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "DO YOU REMEMBER/ VAN?",
+   "box": [
+    279,
+    3597,
+    553,
+    3773
+   ],
+   "point": [
+    416,
+    3685
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "THE DAY WE FIRST MET/ IN THE DEEPEST DARKNESS OF THE TOWER.",
+   "box": [
+    232,
+    7685,
+    591,
+    7858
+   ],
+   "point": [
+    411,
+    7771
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "WE MADE A PROMISE/",
+   "box": [
+    168,
+    9167,
+    439,
+    9288
+   ],
+   "point": [
+    303,
+    9227
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 51
+  },
+  {
+   "text": "TO SHARE EACH OTUER'S DARKNESS.",
+   "box": [
+    327,
+    9496,
+    631,
+    9655
+   ],
+   "point": [
+    479,
+    9575
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    325,
+    10077,
+    652,
+    10584
+   ],
+   "id": 7,
+   "point": [
+    488,
+    10330
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "017.webp": [
+  {
+   "text": "YEAH,.. THAT DID UAPPEN.",
+   "box": [
+    278,
+    2419,
+    584,
+    2540
+   ],
+   "point": [
+    431,
+    2479
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 55
+  },
+  {
+   "text": "...THANK YOU/ MY LUCIA. THANKS TO YOU/ 1 FEEL BETTER.",
+   "box": [
+    187,
+    3342,
+    483,
+    3514
+   ],
+   "point": [
+    335,
+    3428
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "YOU MUST HAVE BEEN WORRIED.",
+   "box": [
+    310,
+    3671,
+    494,
+    3803
+   ],
+   "point": [
+    402,
+    3737
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "GOS+F VAN, YOO'RE SOCH A CRYBABY",
+   "box": [
+    184,
+    4694,
+    534,
+    4827
+   ],
+   "point": [
+    359,
+    4760
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "1 JOST WORRIEP YOU MIGHT PIE ON YOUR OWN LIKE A foot",
+   "box": [
+    356,
+    5076,
+    705,
+    5226
+   ],
+   "point": [
+    530,
+    5151
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 30
+  },
+  {
+   "text": "UHM„. VAN",
+   "box": [
+    196,
+    5811,
+    454,
+    5860
+   ],
+   "point": [
+    325,
+    5835
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "1 HAVE A FAVOR TO ASK.",
+   "box": [
+    301,
+    7035,
+    580,
+    7211
+   ],
+   "point": [
+    440,
+    7123
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 47
+  },
+  {
+   "text": "THAT THING YOU SAID TO ME ON THE DAY WE FIRST MET.",
+   "box": [
+    207,
+    7773,
+    532,
+    7937
+   ],
+   "point": [
+    369,
+    7855
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "CAN YOU SAY IT AGAIN?",
+   "box": [
+    298,
+    9289,
+    562,
+    9388
+   ],
+   "point": [
+    430,
+    9338
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 42
+  }
+ ],
+ "018.webp": [
+  {
+   "text": "MY BEAUTIFUL",
+   "box": [
+    239,
+    172,
+    580,
+    222
+   ],
+   "point": [
+    409,
+    197
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 50
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    324,
+    732,
+    517,
+    869
+   ],
+   "id": 2,
+   "point": [
+    420,
+    800
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    289,
+    886,
+    505,
+    1052
+   ],
+   "id": 3,
+   "point": [
+    397,
+    969
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "1 WILL BECOME YOUR ETERNAL DARKNESS.",
+   "box": [
+    241,
+    1752,
+    573,
+    1915
+   ],
+   "point": [
+    407,
+    1833
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "SO FOR",
+   "box": [
+    241,
+    2535,
+    421,
+    2584
+   ],
+   "point": [
+    331,
+    2559
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "MAKE A SINCERE WORLD.",
+   "box": [
+    359,
+    2794,
+    600,
+    2974
+   ],
+   "point": [
+    479,
+    2884
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 51
+  },
+  {
+   "text": "OKAY",
+   "box": [
+    287,
+    3677,
+    472,
+    3746
+   ],
+   "point": [
+    379,
+    3711
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 69
+  },
+  {
+   "text": "DEFIMTELY MAKE IT/ A SINCERE WORLD",
+   "box": [
+    208,
+    5437,
+    634,
+    5605
+   ],
+   "point": [
+    421,
+    5521
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 47
+  },
+  {
+   "text": "r-•frr-—",
+   "box": [
+    653,
+    6747,
+    780,
+    6806
+   ],
+   "point": [
+    716,
+    6776
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 59
+  }
+ ],
+ "019.webp": [
+  {
+   "text": "WHAT A BUMMER.",
+   "box": [
+    207,
+    7726,
+    462,
+    7863
+   ],
+   "point": [
+    334,
+    7794
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 58
+  },
+  {
+   "text": "EVEN IF 1 TRY/ UNDERSTANDING YOU COMPLETELY IS IMPOSSIBLE.",
+   "box": [
+    191,
+    9181,
+    556,
+    9357
+   ],
+   "point": [
+    373,
+    9269
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 36
+  }
+ ],
+ "020.webp": [
+  {
+   "text": "1 TRUCY SYMPATUIZE WITH YOU,",
+   "box": [
+    259,
+    257,
+    587,
+    399
+   ],
+   "point": [
+    423,
+    328
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "MASTER OF AVALON/ VAN ZICHMUND.",
+   "box": [
+    224,
+    1927,
+    599,
+    2098
+   ],
+   "point": [
+    411,
+    2012
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 48
+  },
+  {
+   "text": "THE FINAL BATTLE- ZND ROUND",
+   "box": [
+    67,
+    5415,
+    731,
+    5611
+   ],
+   "point": [
+    399,
+    5513
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 89
+  },
+  {
+   "text": "DEAN",
+   "box": [
+    309,
+    5754,
+    488,
+    5837
+   ],
+   "point": [
+    398,
+    5795
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 83
+  },
+  {
+   "text": "vs",
+   "box": [
+    359,
+    5979,
+    442,
+    6062
+   ],
+   "point": [
+    400,
+    6020
+   ],
+   "id": 5,
+   "kind": "dessin",
+   "line_h": 83
+  },
+  {
+   "text": "ZICHMUND",
+   "box": [
+    226,
+    6205,
+    570,
+    6294
+   ],
+   "point": [
+    398,
+    6249
+   ],
+   "id": 6,
+   "kind": "dessin",
+   "line_h": 89
+  }
+ ],
+ "021.webp": [
+  {
+   "text": "WINNER DEAN",
+   "box": [
+    200,
+    570,
+    600,
+    1024
+   ],
+   "point": [
+    400,
+    797
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 136
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    73,
+    2251,
+    727,
+    2909
+   ],
+   "id": 2,
+   "point": [
+    400,
+    2580
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "THE FINAL BATTLE- 3D ROUND",
+   "box": [
+    76,
+    4972,
+    724,
+    5168
+   ],
+   "point": [
+    400,
+    5070
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 89
+  },
+  {
+   "text": "HEO HEO SEOL-JIN",
+   "box": [
+    179,
+    5300,
+    620,
+    5394
+   ],
+   "point": [
+    399,
+    5347
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 88
+  },
+  {
+   "text": "UNNAME",
+   "box": [
+    276,
+    5755,
+    560,
+    5855
+   ],
+   "point": [
+    418,
+    5805
+   ],
+   "id": 5,
+   "kind": "dessin",
+   "line_h": 100
+  },
+  {
+   "text": "Ifi1ÏlllSSf11fSf11SÏiÉ Ifi1ÏlllSSf11fSF11SÏiÏ:",
+   "box": [
+    5,
+    6800,
+    800,
+    6901
+   ],
+   "point": [
+    402,
+    6850
+   ],
+   "id": 6,
+   "kind": "dessin",
+   "line_h": 94
+  }
+ ]
+}

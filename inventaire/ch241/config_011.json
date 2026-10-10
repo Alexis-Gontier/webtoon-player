@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-241/011.webp",
+ "output": "chapters_fr/chapter-241/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST \"CETTE FEMME\".",
+   "style": "dialogue",
+   "point": [
+    383,
+    686
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...C’EST VRAIMENT LOURD.",
+   "style": "dialogue",
+   "point": [
+    409,
+    1728
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE KARMA. CETTE CHOSE S’APPELLE \"RÉTRIBUTION\".",
+   "style": "dialogue",
+   "point": [
+    399,
+    3303
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SEOL-JIN.",
+   "style": "dialogue",
+   "point": [
+    409,
+    10028
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PEUX-TU ME PARDONNER ?",
+   "style": "dialogue",
+   "point": [
+    401,
+    11542
+   ]
+  }
+ ]
+}

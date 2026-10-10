@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/031.webp",
+ "output": "chapters_fr/chapter-254/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HA !",
+   "style": "dialogue",
+   "point": [
+    390,
+    921
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LES COMPÉTENCES ONT UNE \"LIMITE\" ABSOLUE.",
+   "style": "cartouche",
+   "point": [
+    365,
+    2197
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE CONTRAT FINAL DE MIRAGE,",
+   "style": "cartouche",
+   "point": [
+    298,
+    3127
+   ]
+  },
+  {
+   "id": 5,
+   "text": "L’AVALON DE TAE-WON KIM,",
+   "style": "cartouche",
+   "point": [
+    439,
+    4558
+   ]
+  }
+ ]
+}

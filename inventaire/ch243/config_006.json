@@ -1,0 +1,46 @@
+{
+ "source": "chapters_en/chapter-243/006.webp",
+ "output": "chapters_fr/chapter-243/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DÉCIDERA DU SOMMET DE L’ARÈNE CÉLESTE DU TERRARIUM DE LA TOUR CÉLESTE.",
+   "style": "italique",
+   "point": [
+    406,
+    1682
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DÉBUT DU\nCOMBAT",
+   "style": "systeme",
+   "point": [
+    368,
+    5452
+   ],
+   "box": [
+    20,
+    5000,
+    780,
+    5600
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 260,
+   "stretch": 1.6
+  }
+ ]
+}

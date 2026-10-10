@@ -1,0 +1,54 @@
+{
+ "source": "chapters_en/chapter-257/046.webp",
+ "output": "chapters_fr/chapter-257/046.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "REGARDE BIEN, VAN.",
+   "style": "dialogue",
+   "point": [
+    315,
+    290
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TON DERNIER BATTEMENT...",
+   "style": "dialogue",
+   "point": [
+    410,
+    2021
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’EN FERAI\nBON USAGE",
+   "style": "italique",
+   "box": [
+    215,
+    3495,
+    620,
+    3745
+   ],
+   "light_any": 60,
+   "grow": 4,
+   "fill": [
+    0,
+    0,
+    0
+   ],
+   "colors": [
+    [
+     208,
+     26,
+     38
+    ],
+    [
+     208,
+     26,
+     38
+    ]
+   ]
+  }
+ ]
+}

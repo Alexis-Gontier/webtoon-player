@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-228/035.webp",
+ "output": "chapters_fr/chapter-228/035.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LIBÉRATION",
+   "style": "dialogue",
+   "point": [
+    402,
+    1763
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LE DÉFILÉ\nNOCTURNE\nDES CENT\nDÉMONS",
+   "style": "cri",
+   "box": [
+    10,
+    5590,
+    710,
+    6420
+   ],
+   "ink_max": 90,
+   "max_letter": 260,
+   "grow": 5,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "stretch": 1.6
+  }
+ ]
+}

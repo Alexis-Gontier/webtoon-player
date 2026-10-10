@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-249/033.webp",
+ "output": "chapters_fr/chapter-249/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’AVAIS PEUR...",
+   "style": "italique",
+   "point": [
+    342,
+    379
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PEUR QUE TU DÉCOUVRES CE QUE JE RESSENTAIS VRAIMENT.",
+   "style": "italique",
+   "point": [
+    356,
+    1183
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST POUR ÇA QUE JE DÉTOURNAIS LE REGARD...",
+   "style": "italique",
+   "point": [
+    343,
+    1882
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LE PEU DE VALEUR QUE JE M’ACCORDAIS...",
+   "style": "italique",
+   "point": [
+    307,
+    2730
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET À QUEL POINT ÇA TE BLESSERAIT...!",
+   "style": "italique",
+   "point": [
+    440,
+    2985
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LES PROFONDES CICATRICES QUE JE TE LAISSERAIS...!",
+   "style": "italique",
+   "point": [
+    360,
+    4190
+   ]
+  }
+ ]
+}

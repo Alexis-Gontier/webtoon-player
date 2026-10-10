@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/017.webp",
+ "output": "chapters_fr/chapter-256/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DEAN,\nREGARDE ÇA !",
+   "style": "dialogue",
+   "point": [
+    373,
+    1150
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CETTE COMPÉTENCE... C’EST BIEN ELLE, HEIN ?!",
+   "style": "dialogue",
+   "point": [
+    426,
+    2223
+   ]
+  }
+ ]
+}

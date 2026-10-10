@@ -1,0 +1,123 @@
+{
+ "source": "chapters_en/chapter-230/014.webp",
+ "output": "chapters_fr/chapter-230/014.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "BIEN,\nVAN ZICHMUND.",
+   "style": "systeme",
+   "point": [
+    398,
+    4870
+   ],
+   "box": [
+    100,
+    4760,
+    700,
+    4980
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 3,
+   "text": "COMME PROMIS,\nJE TIENDRAI PAROLE,",
+   "style": "systeme",
+   "point": [
+    391,
+    6082
+   ],
+   "box": [
+    92,
+    5975,
+    690,
+    6190
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 4,
+   "text": "JE VAIS PROUVER\nQUE JE PEUX TE BATTRE,\nCETTE FOIS,",
+   "style": "systeme",
+   "point": [
+    400,
+    6794
+   ],
+   "box": [
+    113,
+    6650,
+    687,
+    6940
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 5,
+   "text": "HA ! ESPÈCE D’ENFOIRÉ !",
+   "style": "dialogue",
+   "point": [
+    339,
+    11743
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU NE SAIS MÊME PAS UN TRUC AUSSI BASIQUE... ?",
+   "style": "dialogue",
+   "point": [
+    409,
+    12809
+   ]
+  }
+ ]
+}

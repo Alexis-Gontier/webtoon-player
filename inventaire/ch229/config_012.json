@@ -1,0 +1,73 @@
+{
+ "source": "chapters_en/chapter-229/012.webp",
+ "output": "chapters_fr/chapter-229/012.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MAIS TU NE DOIS PAS MOURIR,",
+   "style": "dialogue",
+   "point": [
+    337,
+    4854
+   ],
+   "cut": [
+    [
+     259,
+     5108
+    ],
+    [
+     647,
+     5108
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POUR LE MONDE D’APRÈS !",
+   "style": "dialogue",
+   "point": [
+    457,
+    5297
+   ],
+   "cut": [
+    [
+     259,
+     5108
+    ],
+    [
+     647,
+     5108
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "TOI !",
+   "style": "dialogue",
+   "box": [
+    300,
+    0,
+    500,
+    68
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  }
+ ]
+}

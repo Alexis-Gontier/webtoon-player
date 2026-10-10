@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-228/003.webp",
+ "output": "chapters_fr/chapter-228/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU AS EU DE LA CHANCE.",
+   "style": "dialogue",
+   "point": [
+    302,
+    1309
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IL N’Y A PRESQUE PERSONNE DANS LES CONTRÉES RECULÉES DU NORD.",
+   "style": "dialogue",
+   "point": [
+    470,
+    2318
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PAR BONHEUR, IL Y AVAIT UN VILLAGE PRÈS DE L’ENDROIT OÙ TU T’ES EFFONDRÉ.",
+   "style": "dialogue",
+   "point": [
+    320,
+    3060
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST UN ENDROIT OÙ SE RASSEMBLENT CEUX QUI ONT PERDU LEUR CHEMIN.",
+   "style": "dialogue",
+   "point": [
+    527,
+    4228
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST PEUT-ÊTRE EXAGÉRÉ, MAIS...",
+   "style": "dialogue",
+   "point": [
+    314,
+    4893
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’EST MOI QUI DIRIGE CE VILLAGE.",
+   "style": "dialogue",
+   "point": [
+    464,
+    6047
+   ]
+  }
+ ]
+}

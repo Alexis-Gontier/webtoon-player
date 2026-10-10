@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-246/016.webp",
+ "output": "chapters_fr/chapter-246/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PAS ENCORE.",
+   "style": "italique",
+   "point": [
+    299,
+    217
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE N’AI PAS\nENCORE FINI !",
+   "style": "italique",
+   "point": [
+    367,
+    1144
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OH, J’AIME BIEN CETTE TÊTE QUE TU FAIS !",
+   "style": "dialogue",
+   "point": [
+    390,
+    2004
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU CROIS POUVOIR ENCAISSER ÇA AUSSI ?",
+   "style": "dialogue",
+   "point": [
+    423,
+    3010
+   ]
+  },
+  {
+   "id": 100,
+   "text": "HOP !",
+   "style": "dialogue",
+   "point": [
+    405,
+    4280
+   ]
+  }
+ ]
+}

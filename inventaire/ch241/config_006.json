@@ -1,0 +1,161 @@
+{
+ "source": "chapters_en/chapter-241/006.webp",
+ "output": "chapters_fr/chapter-241/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CET ENDROIT ET CETTE TENUE, C’EST UN DÉCOR DU MONDE OÙ TU VIVAIS ?",
+   "style": "dialogue",
+   "point": [
+    390,
+    212
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAÎTRE\nD’ARME D’EGO",
+   "style": "cartouche",
+   "point": [
+    423,
+    1877
+   ],
+   "box": [
+    235,
+    1720,
+    610,
+    1880
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 90,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AH, OUI !",
+   "style": "dialogue",
+   "point": [
+    407,
+    2620
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU DEVAIS VRAIMENT AIMER CET ENDROIT, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    289,
+    4584
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR L’AVOIR RECRÉÉ AUSSI NETTEMENT DANS TON MONDE MENTAL.",
+   "style": "dialogue",
+   "point": [
+    395,
+    4914
+   ]
+  },
+  {
+   "id": 6,
+   "text": "AH. NON, C’EST JUSTE...",
+   "style": "dialogue",
+   "point": [
+    412,
+    6052
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST LE SEUL ENDROIT DONT JE ME SOUVIENNE...",
+   "style": "dialogue",
+   "point": [
+    390,
+    6993
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TA PARTENAIRE ?",
+   "style": "dialogue",
+   "point": [
+    302,
+    10557
+   ]
+  },
+  {
+   "id": 9,
+   "text": "DE GARDE",
+   "style": "cartouche",
+   "point": [
+    434,
+    10966
+   ],
+   "box": [
+    378,
+    10945,
+    492,
+    10987
+   ],
+   "light": true,
+   "light_min": 180,
+   "grow": 3,
+   "max_letter": 40,
+   "colors": [
+    [
+     228,
+     238,
+     232
+    ],
+    [
+     228,
+     238,
+     232
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "text": "LIBUR MONTRE CET ENDROIT À TOUT LE MONDE.",
+   "style": "dialogue",
+   "point": [
+    482,
+    11453
+   ]
+  },
+  {
+   "id": 11,
+   "text": "ELLE VEUT CRÉER DE BEAUX SOUVENIRS POUR TOUT LE MONDE.",
+   "style": "dialogue",
+   "point": [
+    367,
+    12816
+   ]
+  },
+  {
+   "id": 12,
+   "text": "BON, MAINTENANT.",
+   "style": "dialogue",
+   "point": [
+    399,
+    13742
+   ]
+  }
+ ]
+}

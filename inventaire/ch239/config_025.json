@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-239/025.webp",
+ "output": "chapters_fr/chapter-239/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUOI... ?",
+   "style": "dialogue",
+   "point": [
+    394,
+    681
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OÙ EST-ELLE... ?",
+   "style": "dialogue",
+   "point": [
+    404,
+    1498
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DÉGAGE.",
+   "style": "dialogue",
+   "point": [
+    430,
+    4382
+   ]
+  }
+ ]
+}

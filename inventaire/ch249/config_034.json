@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-249/034.webp",
+ "output": "chapters_fr/chapter-249/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS MAINTENANT, JE PEUX LE DIRE...",
+   "style": "italique",
+   "point": [
+    373,
+    203
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE QUE JE RESSENS VRAIMENT !",
+   "style": "italique",
+   "point": [
+    346,
+    2056
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PARDON DE N’AVOIR PAS PU ÊTRE TON ÉPÉE.",
+   "style": "italique",
+   "point": [
+    270,
+    2719
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PARDON DE NE PAS AVOIR PENSÉ À TOI.",
+   "style": "italique",
+   "point": [
+    448,
+    3050
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE VEUX TE VOIR.",
+   "style": "italique",
+   "point": [
+    266,
+    4344
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE VEUX ÊTRE À TES CÔTÉS.",
+   "style": "italique",
+   "point": [
+    449,
+    4613
+   ]
+  }
+ ]
+}

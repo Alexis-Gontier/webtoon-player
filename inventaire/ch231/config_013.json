@@ -1,0 +1,106 @@
+{
+ "source": "chapters_en/chapter-231/013.webp",
+ "output": "chapters_fr/chapter-231/013.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ALORS, TU ÉTAIS SÉRIEUX !!!",
+   "style": "dialogue",
+   "point": [
+    425,
+    1449
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MAINTENANT, PLAYER \"VAN ZICHMUND\".",
+   "style": "dialogue",
+   "point": [
+    435,
+    4518
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AYONS UNE\nCONVERSATION D’ÂME !",
+   "style": "cri",
+   "point": [
+    397,
+    6074
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CHEF-D’ŒUVRE\nDE MARY GENNOS",
+   "style": "dialogue",
+   "point": [
+    377,
+    11193
+   ],
+   "box": [
+    155,
+    11100,
+    600,
+    11285
+   ],
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "ink_max": 245,
+   "grow": 7,
+   "target": [
+    170,
+    11115,
+    585,
+    11272
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ESPOIR",
+   "style": "systeme",
+   "box": [
+    278,
+    6895,
+    428,
+    7215
+   ],
+   "target": [
+    312,
+    6912,
+    412,
+    7198
+   ],
+   "ink_max": 140,
+   "max_letter": 110,
+   "grow": 6,
+   "angle": -102,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

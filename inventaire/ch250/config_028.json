@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-250/028.webp",
+ "output": "chapters_fr/chapter-250/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J-J’AI ENTENDU TA VOIX M’APPELER...",
+   "style": "dialogue",
+   "point": [
+    448,
+    672
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUOI ?! SI C’ÉTAIT AUSSI SIMPLE, IL FALLAIT LE FAIRE PLUS TÔT, IDIOT !",
+   "style": "italique",
+   "point": [
+    364,
+    1196
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AH !",
+   "style": "dialogue",
+   "point": [
+    343,
+    2151
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SÉRIEUX...!",
+   "style": "dialogue",
+   "point": [
+    365,
+    3546
+   ]
+  }
+ ]
+}

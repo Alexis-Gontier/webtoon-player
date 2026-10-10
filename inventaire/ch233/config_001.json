@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-233/001.webp",
+ "output": "chapters_fr/chapter-233/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUAIS, C’EST ÇA.",
+   "style": "dialogue",
+   "point": [
+    375,
+    9855
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST ÇA !",
+   "style": "dialogue",
+   "point": [
+    451,
+    11076
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST...",
+   "style": "dialogue",
+   "point": [
+    421,
+    12140
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-263/021.webp",
+ "output": "chapters_fr/chapter-263/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON VA\nALLER DE L’AVANT.",
+   "style": "dialogue",
+   "point": [
+    335,
+    871
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMME ON L’A TOUJOURS FAIT !",
+   "style": "dialogue",
+   "point": [
+    384,
+    2661
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ALLER DE L’AVANT...?! MÊME APRÈS LA DISPARITION DE LA TOUR ?",
+   "style": "dialogue",
+   "point": [
+    358,
+    3395
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET ALORS ? C’EST LA FIN DU MONDE, PEUT-ÊTRE ?",
+   "style": "dialogue",
+   "point": [
+    297,
+    4328
+   ]
+  },
+  {
+   "id": 7,
+   "text": "DANS CES MOMENTS-LÀ, IL FAUT VITE TROUVER UN NOUVEAU TERRAIN À EXPLORER.",
+   "style": "dialogue",
+   "point": [
+    463,
+    4617
+   ]
+  }
+ ]
+}

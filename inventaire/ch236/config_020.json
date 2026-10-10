@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-236/020.webp",
+ "output": "chapters_fr/chapter-236/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNE MINUTE, NON, MÊME JUSTE DIX SECONDES DE PLUS... !",
+   "style": "italique",
+   "point": [
+    403,
+    3945
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PAR BONHEUR, PEU DE TEMPS APRÈS,",
+   "style": "dialogue",
+   "point": [
+    331,
+    5020
+   ]
+  },
+  {
+   "id": 3,
+   "text": "RYUJIN ARRIVA.",
+   "style": "dialogue",
+   "point": [
+    457,
+    5333
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POURQUOI TOUT LE MONDE... ?",
+   "style": "dialogue",
+   "point": [
+    383,
+    7728
+   ]
+  }
+ ]
+}

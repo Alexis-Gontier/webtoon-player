@@ -1,0 +1,93 @@
+{
+ "source": "chapters_en/chapter-230/003.webp",
+ "output": "chapters_fr/chapter-230/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST UN ESPACE RÉSERVÉ À LA FAMILLE GENNOS.",
+   "style": "dialogue",
+   "point": [
+    334,
+    110
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ICI, ON EST AU NIVEAU LE PLUS BAS DE LA FORGE.",
+   "style": "dialogue",
+   "point": [
+    516,
+    392
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET PUISQUE J’AI ACTIVÉ LA LUMIÈRE DE DEAN...",
+   "style": "dialogue",
+   "point": [
+    418,
+    1570
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MOI AUSSI, JE DOIS...",
+   "style": "dialogue",
+   "point": [
+    275,
+    2961
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ASSUMER MES RESPONSABILITÉS JUSQU’AU BOUT.",
+   "style": "dialogue",
+   "point": [
+    493,
+    4170
+   ]
+  },
+  {
+   "id": 7,
+   "text": "POUR MON HÉROS !",
+   "style": "dialogue",
+   "point": [
+    401,
+    5335
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PROJET :\nESPOIR\nEN LIGNE",
+   "style": "systeme",
+   "box": [
+    120,
+    6060,
+    720,
+    6620
+   ],
+   "light": true,
+   "light_min": 225,
+   "max_letter": 200,
+   "grow": 5,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     250,
+     235
+    ]
+   ],
+   "outline": [
+    215,
+    120,
+    45
+   ],
+   "outline_width": 2
+  }
+ ]
+}

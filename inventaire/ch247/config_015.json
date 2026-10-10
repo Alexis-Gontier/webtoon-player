@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-247/015.webp",
+ "output": "chapters_fr/chapter-247/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMMENÇONS...",
+   "style": "dialogue",
+   "point": [
+    381,
+    84
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PAR UNE\nPRISE !",
+   "style": "dialogue",
+   "point": [
+    348,
+    2466
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ATTAQUE AU HASARD\nPOUR NOOBS",
+   "style": "systeme",
+   "box": [
+    50,
+    4370,
+    690,
+    4740
+   ],
+   "target": [
+    110,
+    4420,
+    640,
+    4700
+   ],
+   "ink_max": 256,
+   "grow": 0,
+   "vfill": true,
+   "angle": 4,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    70,
+    120,
+    255
+   ],
+   "outline_width": 4
+  }
+ ]
+}

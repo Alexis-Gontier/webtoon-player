@@ -1,0 +1,50 @@
+{
+ "source": "chapters_en/chapter-237/009.webp",
+ "output": "chapters_fr/chapter-237/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PROJET : ESPOIR\nEN LIGNE",
+   "style": "systeme",
+   "box": [
+    0,
+    543,
+    756,
+    828
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 180
+  },
+  {
+   "id": 2,
+   "text": "DEAN, J’AI... J’AI TENU MA PART DE LA PROMESSE...",
+   "style": "dialogue",
+   "point": [
+    317,
+    2272
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU DOIS REVENIR.",
+   "style": "dialogue",
+   "point": [
+    419,
+    4108
+   ]
+  }
+ ]
+}

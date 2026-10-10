@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-258/011.webp",
+ "output": "chapters_fr/chapter-258/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ATTENDS ENCORE UN PEU, MON VAN BIEN-AIMÉ.",
+   "style": "italique",
+   "point": [
+    438,
+    2381
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE REVIENDRAI TE RETROUVER DANS CE VRAI MONDE QUE TU AS TANT ATTENDU♥",
+   "style": "italique",
+   "point": [
+    403,
+    4155
+   ]
+  }
+ ]
+}

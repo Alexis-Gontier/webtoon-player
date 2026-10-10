@@ -1,0 +1,80 @@
+{
+ "source": "chapters_en/chapter-239/030.webp",
+ "output": "chapters_fr/chapter-239/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MON ÂME...",
+   "style": "italique",
+   "point": [
+    318,
+    228
+   ]
+  },
+  {
+   "id": 2,
+   "text": "S’EST FAIT RETOURNER... ?",
+   "style": "italique",
+   "point": [
+    335,
+    506
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMMENT MON ÂME PEUT-ELLE ÊTRE RABAISSÉE AU NIVEAU D’UN HUMAIN EN PLEIN JOUR... ?!",
+   "style": "italique",
+   "point": [
+    504,
+    1922
+   ],
+   "cut": [
+    [
+     335,
+     1758
+    ],
+    [
+     592,
+     1710
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ATTENDS...",
+   "style": "italique",
+   "point": [
+    416,
+    3239
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CES \"YEUX\"... !!!",
+   "style": "italique",
+   "point": [
+    395,
+    3669
+   ]
+  },
+  {
+   "id": 100,
+   "text": "IMPOSSIBLE.",
+   "style": "italique",
+   "point": [
+    440,
+    1560
+   ],
+   "cut": [
+    [
+     335,
+     1758
+    ],
+    [
+     592,
+     1710
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-243/010.webp",
+ "output": "chapters_fr/chapter-243/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE LE SAVAIS...",
+   "style": "dialogue",
+   "point": [
+    425,
+    1245
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VOUS ÊTES LES MEILLEURS !",
+   "style": "dialogue",
+   "point": [
+    423,
+    2667
+   ]
+  },
+  {
+   "id": 3,
+   "text": "UNE IMAGE RÉSIDUELLE... ?!",
+   "style": "italique",
+   "point": [
+    404,
+    9410
+   ]
+  }
+ ]
+}

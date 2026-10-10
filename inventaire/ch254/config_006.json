@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-254/006.webp",
+ "output": "chapters_fr/chapter-254/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VAIS TE MONTRER LA DIFFÉRENCE DE NIVEAU.",
+   "style": "italique",
+   "point": [
+    481,
+    2075
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PRÉPARE-TOI,\nLA \"NOVICE\" !",
+   "style": "italique",
+   "point": [
+    346,
+    3175
+   ]
+  },
+  {
+   "id": 100,
+   "text": "À PARTIR DE\nMAINTENANT,",
+   "style": "italique",
+   "point": [
+    388,
+    462
+   ]
+  }
+ ]
+}

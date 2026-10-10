@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-236/014.webp",
+ "output": "chapters_fr/chapter-236/014.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "C’EST QUOI CES BÊTISES ?",
+   "style": "dialogue",
+   "point": [
+    437,
+    2217
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LE PLAN DE PASTIS ÉTAIT COMME UN FILET.",
+   "style": "dialogue",
+   "point": [
+    406,
+    3223
+   ]
+  },
+  {
+   "id": 5,
+   "text": "COMPÉTENCE, \"GUILLOTINE\".",
+   "style": "dialogue",
+   "point": [
+    414,
+    4501
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ACTIVATION !",
+   "style": "dialogue",
+   "point": [
+    421,
+    5756
+   ]
+  },
+  {
+   "id": 7,
+   "text": "!!!",
+   "style": "dialogue",
+   "point": [
+    410,
+    8282
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SUMAMA !",
+   "style": "dialogue",
+   "point": [
+    387,
+    235
+   ]
+  }
+ ]
+}

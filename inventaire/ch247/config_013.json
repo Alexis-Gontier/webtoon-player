@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-247/013.webp",
+ "output": "chapters_fr/chapter-247/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HMM, QU’EST-CE QUE JE FAIS ?",
+   "style": "dialogue",
+   "point": [
+    366,
+    204
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MASSACRER LES FAIBLES, CE N’EST PAS VRAIMENT MON STYLE, TU SAIS ?",
+   "style": "dialogue",
+   "point": [
+    374,
+    1822
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS BON...",
+   "style": "dialogue",
+   "point": [
+    348,
+    3647
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/001.webp",
+ "output": "chapters_fr/chapter-256/001.webp",
+ "bubbles": [
+  {
+   "id": 5,
+   "text": "TU AS CHOISI UN NOM POUR LES CANDIDATS ?",
+   "style": "dialogue",
+   "point": [
+    409,
+    2291
+   ]
+  },
+  {
+   "id": 6,
+   "text": "HMM, COMME\nJE PENSAIS.",
+   "style": "dialogue",
+   "point": [
+    326,
+    4358
+   ]
+  }
+ ]
+}

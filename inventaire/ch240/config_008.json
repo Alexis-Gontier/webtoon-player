@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-240/008.webp",
+ "output": "chapters_fr/chapter-240/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PAS QUESTION.",
+   "style": "dialogue",
+   "point": [
+    320,
+    154
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AS-TU OUBLIÉ \"TOI-MÊME\" ?",
+   "style": "dialogue",
+   "point": [
+    448,
+    483
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HA ! TU ME MENACES, MAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    403,
+    8232
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EH BIEN, C’EST DRÔLE.",
+   "style": "dialogue",
+   "point": [
+    404,
+    9830
+   ]
+  },
+  {
+   "id": 6,
+   "text": "APRÈS AVOIR REÇU TON POUVOIR,",
+   "style": "dialogue",
+   "point": [
+    337,
+    12201
+   ]
+  },
+  {
+   "id": 7,
+   "text": "J’AI AUSSITÔT MIS EN ŒUVRE MES RÊVES DE TOUJOURS.",
+   "style": "dialogue",
+   "point": [
+    418,
+    12526
+   ]
+  },
+  {
+   "id": 8,
+   "text": "RÉSULTAT, CETTE TERRE STÉRILE EST DEVENUE ASSEZ FERTILE POUR PRODUIRE MÊME DU VIN.",
+   "style": "dialogue",
+   "point": [
+    367,
+    13658
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ARRÊTE.",
+   "style": "dialogue",
+   "point": [
+    404,
+    891
+   ]
+  },
+  {
+   "id": 102,
+   "text": "HUMAIN.",
+   "style": "cri",
+   "point": [
+    400,
+    2960
+   ]
+  },
+  {
+   "id": 101,
+   "text": "TU ESSAIES DE\nME FAIRE\nLA LEÇON ?",
+   "style": "cri",
+   "point": [
+    415,
+    6270
+   ]
+  }
+ ]
+}

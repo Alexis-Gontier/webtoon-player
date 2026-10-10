@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-226/006.webp",
+ "output": "chapters_fr/chapter-226/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EH BIEN, PLUTÔT QU’UN NOM...",
+   "style": "dialogue",
+   "point": [
+    360,
+    671
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST PLUTÔT UN TITRE DONNÉ PAR CETTE ÉPOQUE.",
+   "style": "dialogue",
+   "point": [
+    443,
+    2033
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUOI, TU TIENS TANT QUE ÇA À ME CONNAÎTRE ?",
+   "style": "dialogue",
+   "point": [
+    337,
+    2754
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ET MÊME SI C’ÉTAIT LE CAS, QU’EST-CE QUE ÇA CHANGERAIT À LA VIE QUE TU AS VÉCUE ?",
+   "style": "dialogue",
+   "point": [
+    414,
+    3889
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BON SANG, TOUT CE CINÉMA POUR UN SIMPLE NOM.",
+   "style": "dialogue",
+   "point": [
+    416,
+    7479
+   ]
+  },
+  {
+   "id": 7,
+   "text": "SI TU VEUX PAS RÉPONDRE, ALORS RÉPONDS PAS, ENFOIRÉ.",
+   "style": "italique",
+   "point": [
+    411,
+    10644
+   ]
+  },
+  {
+   "id": 8,
+   "text": "FRANCHEMENT,\nJE M’EN FICHE\nCOMPLÈTEMENT !",
+   "style": "cri",
+   "point": [
+    421,
+    11683
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-243/013.webp",
+ "output": "chapters_fr/chapter-243/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HAHA !",
+   "style": "dialogue",
+   "point": [
+    396,
+    3184
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST QUOI ÇA ? PETIT MERDEUX !!!",
+   "style": "dialogue",
+   "point": [
+    377,
+    5091
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POUR FAIRE SIMPLE,",
+   "style": "dialogue",
+   "point": [
+    424,
+    8340
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CETTE ÉPÉE NE PEUT PAS TRANCHER SEOL-JIN HEO NI LIBUR.",
+   "style": "dialogue",
+   "point": [
+    419,
+    9215
+   ]
+  }
+ ]
+}

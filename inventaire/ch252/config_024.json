@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-252/024.webp",
+ "output": "chapters_fr/chapter-252/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS ÇA PREND\nFIN AUJOURD’HUI.",
+   "style": "italique",
+   "point": [
+    366,
+    262
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU SAIS QUI\nJE SUIS ?",
+   "style": "dialogue",
+   "point": [
+    415,
+    1227
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PETIT,",
+   "style": "dialogue",
+   "point": [
+    412,
+    862
+   ]
+  }
+ ]
+}

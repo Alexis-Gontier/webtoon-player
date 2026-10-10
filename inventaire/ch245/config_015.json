@@ -1,0 +1,73 @@
+{
+ "source": "chapters_en/chapter-245/015.webp",
+ "output": "chapters_fr/chapter-245/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE NE DOIS PAS\nABANDONNER.",
+   "style": "italique",
+   "point": [
+    431,
+    1388
+   ]
+  },
+  {
+   "id": 100,
+   "text": "OUAIS,",
+   "style": "italique",
+   "point": [
+    400,
+    300
+   ]
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "italique",
+   "box": [
+    205,
+    2195,
+    595,
+    2460
+   ],
+   "ink_max": 130,
+   "grow": 4,
+   "max_letter": 90,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 102,
+   "text": "POUR L’AVENIR\nQUE NOUS\nSOUHAITONS !",
+   "style": "italique",
+   "box": [
+    200,
+    2200,
+    590,
+    2455
+   ],
+   "target": [
+    205,
+    2205,
+    585,
+    2450
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

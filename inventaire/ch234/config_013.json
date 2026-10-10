@@ -1,0 +1,105 @@
+{
+ "source": "chapters_en/chapter-234/013.webp",
+ "output": "chapters_fr/chapter-234/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE SAVAIS QUE ÇA ARRIVERAIT.",
+   "style": "italique",
+   "point": [
+    370,
+    240
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MÊME SI J’ESSAIE DE L’ARRÊTER MAINTENANT, ÇA AURA UN EFFET NÉGATIF SUR LE COMBAT ET SUR TOI AUSSI.",
+   "style": "italique",
+   "point": [
+    326,
+    1370
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CONTENTONS-NOUS D’OBSERVER POUR L’INSTANT.",
+   "style": "italique",
+   "point": [
+    474,
+    1695
+   ]
+  },
+  {
+   "id": 4,
+   "text": "J’ESPÈRE SEULEMENT QU’ELLE REPRENDRA SES ESPRITS PLUS VITE QUE CETTE PERSONNE...",
+   "style": "italique",
+   "point": [
+    409,
+    3254
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MALHEUREUSEMENT...",
+   "style": "dialogue",
+   "point": [
+    405,
+    4879
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LA PREMIÈRE CHOSE QUE J’AI TROUVÉE, C’ÉTAIT...",
+   "style": "dialogue",
+   "point": [
+    301,
+    5850
+   ]
+  },
+  {
+   "id": 7,
+   "text": "\"HACHE.\"",
+   "style": "dialogue",
+   "point": [
+    508,
+    6125
+   ]
+  },
+  {
+   "id": 8,
+   "text": "METTRE VITE FIN À L’\"ACTE INJUSTE\".",
+   "style": "italique",
+   "point": [
+    302,
+    8491
+   ]
+  },
+  {
+   "id": 9,
+   "text": "C’EST MA MISSION.",
+   "style": "italique",
+   "point": [
+    366,
+    8834
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ALORS, QU’EST-CE QUE JE FAIS EXACTEMENT, LÀ ?",
+   "style": "italique",
+   "point": [
+    466,
+    10418
+   ]
+  },
+  {
+   "id": 11,
+   "text": "QUAND J’Y PENSE, CETTE BÊTE...",
+   "style": "italique",
+   "point": [
+    326,
+    11257
+   ]
+  }
+ ]
+}

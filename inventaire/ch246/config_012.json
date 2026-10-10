@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-246/012.webp",
+ "output": "chapters_fr/chapter-246/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SPATULE !\nPROTÈGE\nLE PUBLIC !",
+   "style": "cri",
+   "point": [
+    279,
+    175
+   ]
+  },
+  {
+   "id": 2,
+   "text": "À-À VOS\nORDRES !!",
+   "style": "cri",
+   "point": [
+    450,
+    1154
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HÉ, BAISSE ENCORE LA PUISSANCE. JE NE VEUX PAS QU’IL CASSE AVANT MÊME QUE J’AIE PU M’AMUSER.",
+   "style": "dialogue",
+   "point": [
+    368,
+    7041
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMPRIS, MAÎTRE ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    483,
+    7882
+   ]
+  }
+ ]
+}

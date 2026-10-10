@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-260/008.webp",
+ "output": "chapters_fr/chapter-260/008.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "TOI...",
+   "style": "dialogue",
+   "point": [
+    307,
+    1780
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU ES SÛR DE NE PAS VENIR ?",
+   "style": "dialogue",
+   "point": [
+    390,
+    2085
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BAH, J’AI DÉJÀ VU TOUT CE QUI ÉTAIT INTÉRESSANT.",
+   "style": "dialogue",
+   "point": [
+    410,
+    3953
+   ]
+  }
+ ]
+}

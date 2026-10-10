@@ -1,0 +1,41 @@
+{
+ "source": "chapters_en/chapter-262/022.webp",
+ "output": "chapters_fr/chapter-262/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST DÉJÀ\nBIEN PLUS QUE\nSUFFISANT...",
+   "style": "systeme",
+   "box": [
+    115,
+    22,
+    603,
+    265
+   ],
+   "light": true,
+   "max_letter": 70,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA S’EFFONDRE.",
+   "style": "dialogue",
+   "point": [
+    417,
+    4684
+   ]
+  }
+ ]
+}

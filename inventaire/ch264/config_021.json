@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-264/021.webp",
+ "output": "chapters_fr/chapter-264/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LIBUR, LILLET ! SURVEILLEZ-LE POUR QU’IL NE FASSE PAS DE BÊTISES !",
+   "style": "dialogue",
+   "point": [
+    289,
+    451
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OK~ !",
+   "style": "dialogue",
+   "point": [
+    561,
+    705
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MOI AUSSI ? TU ES SÛR ?",
+   "style": "dialogue",
+   "point": [
+    337,
+    1964
+   ]
+  }
+ ]
+}

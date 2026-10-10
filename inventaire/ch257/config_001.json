@@ -1,0 +1,144 @@
+{
+ "source": "chapters_en/chapter-257/001.webp",
+ "output": "chapters_fr/chapter-257/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "IL Y A LONGTEMPS,\nTRÈS LONGTEMPS.",
+   "style": "systeme",
+   "point": [
+    310,
+    1389
+   ],
+   "box": [
+    130,
+    1300,
+    690,
+    1480
+   ],
+   "outlined": 2,
+   "ink_max": 130,
+   "light_min": 200,
+   "max_letter": 70,
+   "grow": 4,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    40
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 4,
+   "text": "PAR LA VOLONTÉ DU DIEU ABSOLU ARTHUR,\nLA TOUR CÉLESTE, LE TERRARIUM,\nVIT LE JOUR.",
+   "style": "systeme",
+   "point": [
+    414,
+    2372
+   ],
+   "box": [
+    90,
+    2270,
+    745,
+    2525
+   ],
+   "outlined": 2,
+   "ink_max": 130,
+   "light_min": 200,
+   "max_letter": 70,
+   "grow": 4,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    40
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 5,
+   "text": "ET ALORS...",
+   "style": "systeme",
+   "box": [
+    234,
+    3563,
+    583,
+    3646
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    40
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 6,
+   "text": "COMME UNE OMBRE NOIRE SE PROJETTE\nSOUS UNE LUMIÈRE ÉCLATANTE...",
+   "style": "systeme",
+   "box": [
+    77,
+    4354,
+    752,
+    4557
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    40
+   ],
+   "outline_width": 3
+  }
+ ]
+}

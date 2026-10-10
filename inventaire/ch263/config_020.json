@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-263/020.webp",
+ "output": "chapters_fr/chapter-263/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MA DAME...",
+   "style": "dialogue",
+   "point": [
+    432,
+    3175
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET MAINTENANT, QU’EST-CE QU’ON VA FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    419,
+    4828
+   ]
+  }
+ ]
+}

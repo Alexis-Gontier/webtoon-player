@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-230/012.webp",
+ "output": "chapters_fr/chapter-230/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...MOI AUSSI,",
+   "style": "dialogue",
+   "point": [
+    411,
+    931
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE TIENS LE COUP EN PENSANT À ÇA !",
+   "style": "dialogue",
+   "point": [
+    368,
+    3558
+   ]
+  },
+  {
+   "id": 3,
+   "text": "KYAH~",
+   "style": "dialogue",
+   "point": [
+    395,
+    6044
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU ES JALOUSE ? QUE C’EST MIGNON~",
+   "style": "dialogue",
+   "point": [
+    400,
+    8715
+   ]
+  },
+  {
+   "id": 7,
+   "text": "TU ES PLUTÔT ADORABLE DE PRÈS.",
+   "style": "dialogue",
+   "point": [
+    426,
+    9512
+   ]
+  },
+  {
+   "id": 8,
+   "text": "MAIS TU N’ES PAS MON GENRE~",
+   "style": "dialogue",
+   "point": [
+    468,
+    10661
+   ]
+  }
+ ]
+}

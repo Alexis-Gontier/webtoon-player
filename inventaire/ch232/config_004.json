@@ -1,0 +1,118 @@
+{
+ "source": "chapters_en/chapter-232/004.webp",
+ "output": "chapters_fr/chapter-232/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON DIRAIT UN RÊVE.",
+   "style": "dialogue",
+   "point": [
+    262,
+    215
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DE POUVOIR ME BATTRE SANS M’INQUIÉTER DE MON...",
+   "style": "dialogue",
+   "point": [
+    456,
+    1070
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON, MAINTENANT...",
+   "style": "dialogue",
+   "point": [
+    571,
+    1980
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON PASSE À ÇA, ENSUITE ?",
+   "style": "dialogue",
+   "point": [
+    406,
+    4368
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LE NOYAU DE DEAN, ALIMENTÉ PAR LA V16,",
+   "style": "dialogue",
+   "point": [
+    399,
+    7108
+   ]
+  },
+  {
+   "id": 6,
+   "text": "FONCTIONNE AU-DELÀ DE SES LIMITES.",
+   "style": "dialogue",
+   "point": [
+    431,
+    8030
+   ]
+  },
+  {
+   "id": 7,
+   "text": "CE\nRÉGIME...",
+   "style": "dialogue",
+   "point": [
+    307,
+    9124
+   ],
+   "box": [
+    190,
+    8930,
+    596,
+    9228
+   ],
+   "target": [
+    235,
+    9030,
+    535,
+    9160
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 70,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "text": "PRODUISIT UN RUGISSEMENT À PERCER LES TYMPANS.",
+   "style": "dialogue",
+   "point": [
+    396,
+    11319
+   ]
+  },
+  {
+   "id": 9,
+   "text": "FAUT-IL Y VOIR L’EFFET DE LA V16 ?",
+   "style": "dialogue",
+   "point": [
+    377,
+    12458
+   ]
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "source": "chapters_en/chapter-234/007.webp",
+ "output": "chapters_fr/chapter-234/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ILS N’ONT VRAIMENT PAS DE CHANCE.",
+   "style": "italique",
+   "point": [
+    276,
+    335
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LEUR TOUT PREMIER COMBAT APRÈS LEUR NAISSANCE EST CONTRE MOI.",
+   "style": "italique",
+   "point": [
+    461,
+    647
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ALORS, CHOISISSEZ BIEN, LES OISILLONS !",
+   "style": "dialogue",
+   "point": [
+    436,
+    2092
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OBJECTIVEMENT, MÊME LA LILLET ACTUELLE",
+   "style": "italique",
+   "point": [
+    308,
+    3730
+   ]
+  },
+  {
+   "id": 5,
+   "text": "N’A \"ABSOLUMENT\" AUCUNE CHANCE DE BATTRE CES MONSTRES.",
+   "style": "italique",
+   "point": [
+    410,
+    4057
+   ]
+  },
+  {
+   "id": 6,
+   "text": "AU MIEUX, ELLE POURRAIT GAGNER DU TEMPS.",
+   "style": "italique",
+   "point": [
+    432,
+    5684
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ALORS, S’IL TE PLAÎT.",
+   "style": "dialogue",
+   "point": [
+    298,
+    6533
+   ]
+  },
+  {
+   "id": 9,
+   "text": "RESTE COMME ÇA, S’IL TE PLAÎT...",
+   "style": "italique",
+   "point": [
+    496,
+    7480
+   ]
+  },
+  {
+   "id": 10,
+   "text": "QU’EST-CE QUE TU FAIS ? BÊTE.",
+   "style": "dialogue",
+   "point": [
+    469,
+    7796
+   ]
+  },
+  {
+   "id": 11,
+   "text": "SI TU NE VIENS PAS,\nC’EST MOI\nQUI VIENDRAI !",
+   "style": "dialogue",
+   "box": [
+    190,
+    10205,
+    605,
+    10400
+   ],
+   "target": [
+    200,
+    10200,
+    560,
+    10400
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 90,
+   "max_letter": 60
+  }
+ ]
+}

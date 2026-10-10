@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-239/027.webp",
+ "output": "chapters_fr/chapter-239/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HAHA ! ALORS CE GENRE DE TRICHE NE MARCHE PAS VRAIMENT~",
+   "style": "dialogue",
+   "point": [
+    406,
+    243
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SEOL-JIN HEO EST UNE PERSONNE SPÉCIALE QUI M’A DONNÉ UNE PARTIE DE MOI-MÊME.",
+   "style": "dialogue",
+   "point": [
+    397,
+    1326
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST QUOI CE DÉLIRE ?! LAY, TU DIS QUE TU VAS DORMIR ?",
+   "style": "dialogue",
+   "point": [
+    452,
+    2239
+   ]
+  },
+  {
+   "id": 6,
+   "text": "OUAIS, OUAIS, T’ES ENCORE STRESSÉ ? PRENDS DES PLACES ! ILS FRAPPENT VRAIMENT FORT~",
+   "style": "dialogue",
+   "point": [
+    430,
+    3441
+   ]
+  },
+  {
+   "id": 7,
+   "text": "SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    363,
+    4346
+   ]
+  }
+ ]
+}

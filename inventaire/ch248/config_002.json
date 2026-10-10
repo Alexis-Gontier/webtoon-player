@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-248/002.webp",
+ "output": "chapters_fr/chapter-248/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UN MONDE INTÉRIEUR AUSSI INSTABLE NE POURRA JAMAIS CONTENIR LE DIEU ABSOLU.",
+   "style": "dialogue",
+   "point": [
+    267,
+    507
+   ]
+  },
+  {
+   "id": 2,
+   "text": "RENFORCE ENCORE TON IMAGE MENTALE.",
+   "style": "dialogue",
+   "point": [
+    435,
+    1516
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OUI,\nMONSIEUR !",
+   "style": "italique",
+   "point": [
+    424,
+    2926
+   ]
+  }
+ ]
+}

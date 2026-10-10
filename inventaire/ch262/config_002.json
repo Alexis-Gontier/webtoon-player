@@ -1,0 +1,110 @@
+{
+ "source": "chapters_en/chapter-262/002.webp",
+ "output": "chapters_fr/chapter-262/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUEL VIDE...",
+   "style": "systeme",
+   "box": [
+    55,
+    215,
+    610,
+    335
+   ],
+   "light": true,
+   "max_letter": 90,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VAN !",
+   "style": "systeme",
+   "box": [
+    288,
+    1862,
+    540,
+    1989
+   ],
+   "light": true,
+   "max_letter": 90,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "APRÈS TON DÉPART...\nQUE VAIS-JE\nDEVENIR ?",
+   "style": "systeme",
+   "box": [
+    103,
+    3782,
+    618,
+    4002
+   ],
+   "light": true,
+   "max_letter": 60,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "DIS-MOI... UNE FOIS\nTON RÊVE RÉALISÉ...",
+   "style": "systeme",
+   "box": [
+    100,
+    2930,
+    640,
+    3150
+   ],
+   "light": true,
+   "max_letter": 60,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

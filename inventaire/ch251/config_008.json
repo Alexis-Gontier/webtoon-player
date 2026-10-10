@@ -1,0 +1,68 @@
+{
+ "source": "chapters_en/chapter-251/008.webp",
+ "output": "chapters_fr/chapter-251/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...BON SANG !",
+   "style": "dialogue",
+   "point": [
+    418,
+    105
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PASTIS. TU RÉFLÉCHIS TROP À TOUT.",
+   "style": "italique",
+   "point": [
+    305,
+    698
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TES INQUIÉTUDES\nONT SAUVÉ\nTOUT LE MONDE\nTANT DE FOIS.",
+   "style": "italique",
+   "point": [
+    325,
+    1795
+   ],
+   "max_size": 32
+  },
+  {
+   "id": 4,
+   "text": "MAIS CETTE FOIS, ELLES NE FERONT QUE TE FREINER.",
+   "style": "italique",
+   "point": [
+    503,
+    2111
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AIDER CES GAMINS\nN’EST PAS TON RÔLE\nPOUR L’INSTANT.",
+   "style": "systeme",
+   "box": [
+    147,
+    3672,
+    654,
+    3874
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

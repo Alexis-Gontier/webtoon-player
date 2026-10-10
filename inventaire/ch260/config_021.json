@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-260/021.webp",
+ "output": "chapters_fr/chapter-260/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE N’EST\nPAS VRAI...♥",
+   "style": "cri",
+   "point": [
+    497,
+    1955
+   ]
+  },
+  {
+   "id": 100,
+   "text": "AH...♥",
+   "style": "cri",
+   "point": [
+    250,
+    300
+   ]
+  }
+ ]
+}

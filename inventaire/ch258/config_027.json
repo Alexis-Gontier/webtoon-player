@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/027.webp",
+ "output": "chapters_fr/chapter-258/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOI...",
+   "style": "dialogue",
+   "point": [
+    374,
+    2231
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...TU N’ES PAS VRAIMENT IDIOT, SI ?",
+   "style": "dialogue",
+   "point": [
+    376,
+    3894
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET SI TU TE FAISAIS AVALER AUSSI ?!",
+   "style": "dialogue",
+   "point": [
+    361,
+    4843
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-228/008.webp",
+ "output": "chapters_fr/chapter-228/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUAND JE T’AI TROUVÉ...",
+   "style": "dialogue",
+   "point": [
+    408,
+    228
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE N’AURAIS JAMAIS CRU QUE TU SERAIS ENCORE EN VIE.",
+   "style": "dialogue",
+   "point": [
+    412,
+    1816
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE NE L’AI COMPRIS QU’APRÈS T’AVOIR AMENÉ ICI.",
+   "style": "dialogue",
+   "point": [
+    306,
+    2450
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LE FAIT QUE TU N’AIES JAMAIS EU PEUR.",
+   "style": "dialogue",
+   "point": [
+    500,
+    3279
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ET CETTE EXPRESSION QUE TU AS.",
+   "style": "dialogue",
+   "point": [
+    400,
+    3906
+   ]
+  }
+ ]
+}

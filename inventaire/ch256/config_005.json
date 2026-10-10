@@ -1,0 +1,99 @@
+{
+ "source": "chapters_en/chapter-256/005.webp",
+ "output": "chapters_fr/chapter-256/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUELQU’UN COMME MOI...",
+   "style": "systeme",
+   "box": [
+    163,
+    329,
+    635,
+    408
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...NE POURRA JAMAIS\nCOMBLER LE VIDE\nQU’ELLE A LAISSÉ.",
+   "style": "systeme",
+   "box": [
+    155,
+    948,
+    645,
+    1173
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DANS CE CAS,",
+   "style": "pensee",
+   "point": [
+    411,
+    1888
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUE DOIS-JE FAIRE...",
+   "style": "pensee",
+   "point": [
+    406,
+    2945
+   ]
+  },
+  {
+   "id": 5,
+   "text": "...POUR COMBLER\nVOTRE VIDE ?",
+   "style": "systeme",
+   "box": [
+    196,
+    3850,
+    604,
+    4016
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

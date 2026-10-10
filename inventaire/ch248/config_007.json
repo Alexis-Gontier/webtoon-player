@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-248/007.webp",
+ "output": "chapters_fr/chapter-248/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NE T’INQUIÈTE PAS.",
+   "style": "italique",
+   "point": [
+    308,
+    3553
+   ]
+  }
+ ]
+}

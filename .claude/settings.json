@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(chapters_en/**)",
+      "Write(chapters_en/**)"
+    ]
+  }
+}

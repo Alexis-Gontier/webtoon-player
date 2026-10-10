@@ -1,0 +1,229 @@
+{
+ "source": "chapters_en/chapter-257/031.webp",
+ "output": "chapters_fr/chapter-257/031.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "CHAMBRE.",
+   "style": "cartouche",
+   "point": [
+    420,
+    3757
+   ],
+   "box": [
+    300,
+    3710,
+    545,
+    3805
+   ],
+   "ink_max": 100,
+   "grow": 3,
+   "fill": [
+    196,
+    193,
+    202
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAISON.",
+   "style": "cartouche",
+   "point": [
+    413,
+    4349
+   ]
+  },
+  {
+   "id": 6,
+   "text": "VILLE NATALE.",
+   "style": "cartouche",
+   "box": [
+    280,
+    4852,
+    552,
+    4920
+   ],
+   "ink_max": 100,
+   "grow": 3,
+   "fill": [
+    190,
+    192,
+    201
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    305,
+    578,
+    545,
+    670
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 102,
+   "text": "FAMILLE.",
+   "style": "cartouche",
+   "box": [
+    305,
+    578,
+    545,
+    670
+   ],
+   "target": [
+    320,
+    590,
+    530,
+    658
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "max_size": 75
+  },
+  {
+   "id": 103,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    305,
+    1270,
+    560,
+    1352
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 104,
+   "text": "AMIS.",
+   "style": "cartouche",
+   "box": [
+    305,
+    1270,
+    560,
+    1352
+   ],
+   "target": [
+    360,
+    1282,
+    505,
+    1340
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "max_size": 75
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    270,
+    2550,
+    590,
+    2625
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 105,
+   "text": "ORGANISATIONS.",
+   "style": "cartouche",
+   "box": [
+    270,
+    2550,
+    590,
+    2625
+   ],
+   "target": [
+    287,
+    2563,
+    573,
+    2612
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "max_size": 60
+  }
+ ]
+}

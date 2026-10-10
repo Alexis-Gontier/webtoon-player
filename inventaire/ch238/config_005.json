@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-238/005.webp",
+ "output": "chapters_fr/chapter-238/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOYONS... IL NE VAUDRAIT PAS MIEUX UTILISER LA DURÉE DE VIE ACCORDÉE PAR LES HUMAINS ?",
+   "style": "dialogue",
+   "point": [
+    332,
+    217
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UTILISE-LA AVEC PARCIMONIE, ELLE EST PRÉCIEUSE.",
+   "style": "dialogue",
+   "point": [
+    543,
+    550
+   ]
+  },
+  {
+   "id": 3,
+   "text": "A-ATTENDEZ ! VOUS... QU’EST-CE QUE VOUS FAITES... ?",
+   "style": "italique",
+   "point": [
+    413,
+    1881
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU N’AS PAS ENTENDU ? J’AI DIT QUE JE T’ÉPARGNERAIS.",
+   "style": "dialogue",
+   "point": [
+    382,
+    2856
+   ]
+  },
+  {
+   "id": 6,
+   "text": "VOUS, TAISEZ-VOUS ET FAITES UNE SIESTE.",
+   "style": "dialogue",
+   "point": [
+    406,
+    4492
+   ]
+  },
+  {
+   "id": 7,
+   "text": "...?",
+   "style": "dialogue",
+   "point": [
+    389,
+    5587
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TROUVÉ !",
+   "style": "dialogue",
+   "point": [
+    406,
+    6376
+   ]
+  },
+  {
+   "id": 9,
+   "text": "BIEN, ALORS, JE VAIS ARRANGER ÇA PROPREMENT~ !",
+   "style": "dialogue",
+   "point": [
+    423,
+    8006
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ATTENDS, SÉRIEUX ?",
+   "style": "dialogue",
+   "point": [
+    322,
+    13319
+   ]
+  },
+  {
+   "id": 11,
+   "text": "ÇA VA SE RÉGLER AUSSI FACILEMENT... ?",
+   "style": "dialogue",
+   "point": [
+    490,
+    14360
+   ]
+  }
+ ]
+}

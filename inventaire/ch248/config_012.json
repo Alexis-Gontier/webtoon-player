@@ -1,0 +1,34 @@
+{
+ "source": "chapters_en/chapter-248/012.webp",
+ "output": "chapters_fr/chapter-248/012.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "JE SUIS\nDÉÇU...",
+   "style": "dialogue",
+   "point": [
+    377,
+    830
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    230,
+    0,
+    495,
+    35
+   ],
+   "ink_max": 100,
+   "max_letter": 40,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

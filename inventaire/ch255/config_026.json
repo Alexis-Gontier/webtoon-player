@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-255/026.webp",
+ "output": "chapters_fr/chapter-255/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CIEL...!",
+   "style": "dialogue",
+   "point": [
+    395,
+    442
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE DIEU\nABSOLU...",
+   "style": "cri",
+   "point": [
+    350,
+    1273
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL NE SOURIT\nPLUS !",
+   "style": "cri",
+   "point": [
+    375,
+    2997
+   ]
+  }
+ ]
+}

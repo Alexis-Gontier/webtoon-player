@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-246/023.webp",
+ "output": "chapters_fr/chapter-246/023.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MAÎTRE\nARTHUR...!",
+   "style": "dialogue",
+   "point": [
+    397,
+    6233
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA VA,\nLIBUR.",
+   "style": "dialogue",
+   "point": [
+    412,
+    7489
+   ]
+  }
+ ]
+}

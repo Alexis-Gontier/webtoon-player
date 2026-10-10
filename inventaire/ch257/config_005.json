@@ -1,0 +1,40 @@
+{
+ "source": "chapters_en/chapter-257/005.webp",
+ "output": "chapters_fr/chapter-257/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ELLE SENTIT QUE SI ELLE POUVAIT LE POSSÉDER, PLUS RIEN NE LUI SERAIT IMPOSSIBLE.",
+   "style": "cartouche",
+   "point": [
+    415,
+    2513
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET AINSI, POUR LA\nPREMIÈRE FOIS...",
+   "style": "systeme",
+   "box": [
+    149,
+    3764,
+    679,
+    3941
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

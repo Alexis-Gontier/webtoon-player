@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-237/018.webp",
+ "output": "chapters_fr/chapter-237/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MA BELLE LUCIA.",
+   "style": "dialogue",
+   "point": [
+    409,
+    197
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE DEVIENDRAI TES TÉNÈBRES ÉTERNELLES.",
+   "style": "dialogue",
+   "point": [
+    407,
+    1833
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALORS, POUR MOI,",
+   "style": "dialogue",
+   "point": [
+    331,
+    2559
+   ]
+  },
+  {
+   "id": 6,
+   "text": "FAIS UN MONDE SINCÈRE.",
+   "style": "dialogue",
+   "point": [
+    479,
+    2884
+   ]
+  },
+  {
+   "id": 7,
+   "text": "D’ACCORD ♥",
+   "style": "dialogue",
+   "point": [
+    379,
+    3711
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE LE FERAI SANS FAUTE, UN MONDE SINCÈRE ♥",
+   "style": "dialogue",
+   "point": [
+    421,
+    5521
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-239/019.webp",
+ "output": "chapters_fr/chapter-239/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUAND MÊME, COUPER LA PAROLE À QUELQU’UN, C’EST IMPOLI... !",
+   "style": "dialogue",
+   "point": [
+    506,
+    49
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET ALORS ? ON VA FINIR PAR SE BATTRE DE TOUTE FAÇON.",
+   "style": "dialogue",
+   "point": [
+    294,
+    394
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EUH... VRAIMENT ?",
+   "style": "dialogue",
+   "point": [
+    471,
+    712
+   ]
+  },
+  {
+   "id": 6,
+   "text": "HA...",
+   "style": "dialogue",
+   "point": [
+    444,
+    2837
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-228/030.webp",
+ "output": "chapters_fr/chapter-228/030.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MIRAGE !",
+   "style": "dialogue",
+   "point": [
+    407,
+    2286
+   ]
+  }
+ ]
+}

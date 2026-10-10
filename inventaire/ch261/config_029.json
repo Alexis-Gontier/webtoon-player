@@ -1,0 +1,82 @@
+{
+ "source": "chapters_en/chapter-261/029.webp",
+ "output": "chapters_fr/chapter-261/029.webp",
+ "bubbles": [
+  {
+   "id": 110,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    140,
+    335,
+    640,
+    660
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 111,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    95,
+    660,
+    710,
+    920
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 112,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    145,
+    985,
+    650,
+    1245
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 115,
+   "text": "FORME :\nFRAPPE\nDÉCISIVE",
+   "style": "cri",
+   "box": [
+    60,
+    280,
+    740,
+    1290
+   ],
+   "ink_max": 0,
+   "target": [
+    100,
+    320,
+    700,
+    1250
+   ],
+   "stretch": 3,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 5
+  }
+ ]
+}

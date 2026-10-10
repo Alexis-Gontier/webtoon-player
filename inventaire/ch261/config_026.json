@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-261/026.webp",
+ "output": "chapters_fr/chapter-261/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST JUSTEMENT PARCE QUE TU DÉVORES TOUT QUE TU TE RETROUVES DANS CE GENRE DE SITUATION.",
+   "style": "italique",
+   "point": [
+    405,
+    1316
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MONSIEUR\nARTHUR !!",
+   "style": "cri",
+   "point": [
+    435,
+    4157
+   ]
+  },
+  {
+   "id": 100,
+   "text": "A-",
+   "style": "dialogue",
+   "point": [
+    290,
+    2000
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ARTHUR...?!",
+   "style": "dialogue",
+   "point": [
+    420,
+    2280
+   ]
+  }
+ ]
+}

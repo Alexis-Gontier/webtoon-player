@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-236/019.webp",
+ "output": "chapters_fr/chapter-236/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LES ARMES D’EGO, QUI AVAIENT VU QUELQU’UN PORTEUR D’UNE \"MENACE POTENTIELLE\" ET DU \"BUT QUI LES AVAIT AMENÉES ICI\",",
+   "style": "dialogue",
+   "point": [
+    379,
+    209
+   ]
+  },
+  {
+   "id": 2,
+   "text": "N’AVAIENT PLUS AUCUNE RAISON NI BESOIN",
+   "style": "dialogue",
+   "point": [
+    295,
+    734
+   ]
+  },
+  {
+   "id": 3,
+   "text": "D’OUVRIR LA PORTE AU-DELÀ.",
+   "style": "dialogue",
+   "point": [
+    536,
+    961
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HACHE, TOUT GARDER POUR TOI, C’EST DE LA TRICHE.",
+   "style": "dialogue",
+   "point": [
+    222,
+    1332
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DOMMAGE, IL EST MORT SUR LE COUP.",
+   "style": "dialogue",
+   "point": [
+    507,
+    1570
+   ]
+  },
+  {
+   "id": 6,
+   "text": "HÉ ! LÈVE-TOI ! MONTRE-NOUS LE TRUC DE TOUT À L’HEURE !",
+   "style": "dialogue",
+   "point": [
+    354,
+    3007
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MAIS MÊME AINSI...",
+   "style": "dialogue",
+   "point": [
+    268,
+    3872
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ON NE PEUT PAS CONTRÔLER MÊME LA PLUS SIMPLE RÉACTION ÉMOTIONNELLE D’UN INDIVIDU.",
+   "style": "dialogue",
+   "point": [
+    388,
+    5202
+   ]
+  },
+  {
+   "id": 10,
+   "text": "PASTIS...",
+   "style": "dialogue",
+   "point": [
+    391,
+    6613
+   ]
+  },
+  {
+   "id": 11,
+   "text": "N’EST PAS UN DIEU.",
+   "style": "dialogue",
+   "point": [
+    399,
+    7493
+   ]
+  }
+ ]
+}

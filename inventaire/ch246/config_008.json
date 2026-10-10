@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-246/008.webp",
+ "output": "chapters_fr/chapter-246/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON~\nC’EST DÉCIDÉ !",
+   "style": "dialogue",
+   "point": [
+    410,
+    3195
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE VAIS JOUER LE JEU JUSQU’À T’EFFACER CE SOURIRE DU VISAGE.",
+   "style": "dialogue",
+   "point": [
+    378,
+    4124
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA FAIT\n1-0 !",
+   "style": "dialogue",
+   "point": [
+    381,
+    6056
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QU’EST-CE QUE TU FAIS ? LÈVE-TOI.",
+   "style": "dialogue",
+   "point": [
+    395,
+    7112
+   ]
+  }
+ ]
+}

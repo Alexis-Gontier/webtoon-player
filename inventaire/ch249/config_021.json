@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-249/021.webp",
+ "output": "chapters_fr/chapter-249/021.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "CE N’EST PAS UNE COMPÉTENCE OFFENSIVE~ !",
+   "style": "dialogue",
+   "point": [
+    352,
+    677
+   ]
+  },
+  {
+   "id": 5,
+   "text": "VOYONS... C’ÉTAIT COMME ÇA ?",
+   "style": "dialogue",
+   "point": [
+    372,
+    3618
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ÉPÉE\nDÉCHIRANTE !",
+   "style": "cri",
+   "point": [
+    368,
+    4398
+   ]
+  },
+  {
+   "id": 100,
+   "text": "OUBLIÉ ?",
+   "style": "dialogue",
+   "box": [
+    200,
+    0,
+    550,
+    85
+   ],
+   "ink_max": 120,
+   "max_letter": 55,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 30,
+   "target": [
+    205,
+    0,
+    545,
+    85
+   ],
+   "seam": "top"
+  }
+ ]
+}

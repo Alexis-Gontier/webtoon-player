@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-234/014.webp",
+ "output": "chapters_fr/chapter-234/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE ME SOUVIENS DE L’AVOIR VUE DANS L’\"ARÈNE\".",
+   "style": "italique",
+   "point": [
+    427,
+    327
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS COMMENT A-T-ELLE ATTEINT CE NIVEAU ? ET À CETTE VITESSE...",
+   "style": "italique",
+   "point": [
+    295,
+    2275
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ATTENDS, PLUTÔT...",
+   "style": "italique",
+   "point": [
+    375,
+    2613
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POURQUOI ELLE ME BARRE LA ROUTE ?",
+   "style": "italique",
+   "point": [
+    340,
+    3509
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR QUOI FAIRE ?",
+   "style": "italique",
+   "point": [
+    503,
+    3862
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’EST UN PEU BIZARRE.",
+   "style": "italique",
+   "point": [
+    304,
+    4759
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST COMME SI ON M’AVAIT EUE...",
+   "style": "italique",
+   "point": [
+    471,
+    5588
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ALORS C’EST TOI ?",
+   "style": "dialogue",
+   "point": [
+    380,
+    10102
+   ]
+  }
+ ]
+}

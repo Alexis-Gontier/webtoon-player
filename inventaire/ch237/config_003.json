@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-237/003.webp",
+ "output": "chapters_fr/chapter-237/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE SUIS ARRIVÉ PILE AU BON MOMENT, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    394,
+    211
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...C’EST LE DERNIER.",
+   "style": "italique",
+   "point": [
+    458,
+    2702
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AVEC UN SEUL COUP DE PLUS,",
+   "style": "italique",
+   "point": [
+    475,
+    6319
+   ]
+  },
+  {
+   "id": 4,
+   "text": "IL EST TEMPS DE DÉCIDER DU VAINQUEUR.",
+   "style": "italique",
+   "point": [
+    367,
+    7649
+   ]
+  }
+ ]
+}

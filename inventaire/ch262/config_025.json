@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-262/025.webp",
+ "output": "chapters_fr/chapter-262/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AAAH ! PAREIL POUR MOI ! QU’EST-CE QU’ON VA FAIRE ?!",
+   "style": "dialogue",
+   "point": [
+    364,
+    179
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE LIEN ENTRE LES ÉTAGES EST COMPLÈTEMENT ROMPU.",
+   "style": "dialogue",
+   "point": [
+    374,
+    1196
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AUTREMENT DIT, LA TOUR EST VRAIMENT EN TRAIN DE S’EFFONDRER.",
+   "style": "dialogue",
+   "point": [
+    317,
+    1525
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI ÇA CONTINUE... NOUS DISPARAÎTRONS TOUS AVEC LA TOUR.",
+   "style": "italique",
+   "point": [
+    376,
+    3068
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ON DIRAIT QUE LES PORTAILS SONT BLOQUÉS AUSSI !",
+   "style": "italique",
+   "point": [
+    336,
+    4115
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-253/001.webp",
+ "output": "chapters_fr/chapter-253/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "ALORS, FAIS TON CHOIX. ENTRE CES DEUX-LÀ...",
+   "style": "dialogue",
+   "point": [
+    303,
+    995
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LAQUELLE TU\nPRÉFÈRES ?",
+   "style": "dialogue",
+   "point": [
+    432,
+    1295
+   ]
+  }
+ ]
+}

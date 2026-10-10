@@ -1,0 +1,76 @@
+{
+  "source": "chapters_en/chapter-259/006.jpg",
+  "output": "chapters_fr/chapter-259/006.jpg",
+  "bubbles": [
+    {
+      "point": [
+        400,
+        2840
+      ],
+      "text": "TOUT LE\nMONDE...",
+      "style": "cri"
+    },
+    {
+      "point": [
+        380,
+        12390
+      ],
+      "text": "PÈRE !!",
+      "style": "cri"
+    },
+    {
+      "point": [
+        440,
+        14080
+      ],
+      "text": "TU ES SÛR DE TOI ?"
+    },
+    {
+      "box": [
+        200,
+        3640,
+        600,
+        3910
+      ],
+      "text": "COMBATTEZ\nAVEC MOI !",
+      "style": "systeme",
+      "stretch": 1.5
+    },
+    {
+      "box": [
+        180,
+        4470,
+        640,
+        5130
+      ],
+      "text": "LIBÉRATION\nD’ÉNERGIE\nDIVINE",
+      "style": "systeme",
+      "stretch": 1.8
+    },
+    {
+      "box": [
+        10,
+        6730,
+        770,
+        7040
+      ],
+      "text": "FORME DE GARDIEN",
+      "style": "titre",
+      "stretch": 4.0,
+      "target": [
+        25,
+        6765,
+        755,
+        7012
+      ],
+      "ink_red_max": 120,
+      "grow": 9,
+      "outline": [
+        235,
+        245,
+        255
+      ],
+      "outline_width": 6
+    }
+  ]
+}

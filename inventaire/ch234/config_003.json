@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-234/003.webp",
+ "output": "chapters_fr/chapter-234/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...ET TROIS, CELUI QUI A LE PLUS DE CHANCES DE RÉUSSIR,",
+   "style": "dialogue",
+   "point": [
+    404,
+    931
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POUR CETTE MISSION, C’EST RYUJIN QUI IRA.",
+   "style": "dialogue",
+   "point": [
+    328,
+    1852
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET TU DOIS RISQUER TA VIE, RYUJIN.",
+   "style": "dialogue",
+   "point": [
+    461,
+    3498
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...MOI ?",
+   "style": "dialogue",
+   "point": [
+    382,
+    6164
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AH~ QU’EST-CE QUE JE FAIS~ ?",
+   "style": "dialogue",
+   "point": [
+    318,
+    8678
+   ]
+  },
+  {
+   "id": 7,
+   "text": "TOUT LE MONDE EST VRAIMENT PARTI~ ! J’ESPÈRE QU’IL N’ARRIVERA RIEN... !",
+   "style": "dialogue",
+   "point": [
+    404,
+    10388
+   ]
+  }
+ ]
+}

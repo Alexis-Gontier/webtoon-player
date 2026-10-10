@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-254/040.webp",
+ "output": "chapters_fr/chapter-254/040.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    0,
+    25,
+    445,
+    66
+   ],
+   "ink_max": 150,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

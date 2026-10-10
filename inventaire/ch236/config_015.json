@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-236/015.webp",
+ "output": "chapters_fr/chapter-236/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "FERMEZ LA PORTE !",
+   "style": "dialogue",
+   "point": [
+    415,
+    1219
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET ÇA, ALORS ? MA CAPACITÉ PEUT AUSSI FAIRE ÇA !",
+   "style": "dialogue",
+   "point": [
+    430,
+    3245
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CETTE FOIS, JE VAIS FAIRE ENCORE PLUS GROS !",
+   "style": "dialogue",
+   "point": [
+    437,
+    4396
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/026.webp",
+ "output": "chapters_fr/chapter-251/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...NE ME DÉÇOIS PAS.",
+   "style": "dialogue",
+   "point": [
+    398,
+    245
+   ]
+  },
+  {
+   "id": 100,
+   "text": "MONSIEUR LE\nPERSONNAGE\nPRINCIPAL !",
+   "style": "dialogue",
+   "point": [
+    400,
+    1700
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "source": "chapters_en/chapter-234/005.webp",
+ "output": "chapters_fr/chapter-234/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MA TECHNIQUE DE DÉGUISEMENT EST... PLUS UTILE QUE JE NE LE PENSAIS ?!",
+   "style": "italique",
+   "point": [
+    402,
+    267
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COMPÉTENCE ORIGINALE\nDE SHONAN\nDÉGUISEMENT +\nCLONAGE",
+   "style": "dialogue",
+   "point": [
+    421,
+    1241
+   ],
+   "max_size": 30
+  },
+  {
+   "id": 5,
+   "text": "BON SANG~ ! J’EN PEUX PLUS !",
+   "style": "italique",
+   "point": [
+    336,
+    2579
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SI JE REVOIS ÇA ENCORE QUELQUES FOIS, JE VAIS FAIRE UNE CRISE CARDIAQUE... !",
+   "style": "italique",
+   "point": [
+    371,
+    3370
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AIDEZ-MOI, LES GARS !",
+   "style": "italique",
+   "point": [
+    408,
+    4305
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE L’AI ENTENDU DE LIBUR, UNE FOIS.",
+   "style": "dialogue",
+   "point": [
+    385,
+    6842
+   ]
+  },
+  {
+   "id": 9,
+   "text": "LES ARMES D’EGO QUI ATTEIGNENT UN CERTAIN STADE",
+   "style": "dialogue",
+   "point": [
+    357,
+    8106
+   ]
+  },
+  {
+   "id": 10,
+   "text": "OBTIENNENT LES \"YEUX QUI VOIENT LES ÂMES\".",
+   "style": "dialogue",
+   "point": [
+    495,
+    8446
+   ]
+  },
+  {
+   "id": 11,
+   "text": "PREMIÈRE STRATÉGIE,",
+   "style": "dialogue",
+   "point": [
+    356,
+    9152
+   ]
+  },
+  {
+   "id": 12,
+   "text": "EXPLOITER CETTE FAIBLESSE.",
+   "style": "dialogue",
+   "point": [
+    386,
+    10273
+   ]
+  }
+ ]
+}

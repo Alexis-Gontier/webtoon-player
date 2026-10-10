@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-229/001.webp",
+ "output": "chapters_fr/chapter-229/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...MIRAGE, CE TYPE. IL A FINI PAR S’EN SERVIR.",
+   "style": "dialogue",
+   "point": [
+    358,
+    5102
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IL SUIT UN CHEMIN DIFFICILE, JUSQU’AU BOUT...",
+   "style": "dialogue",
+   "point": [
+    473,
+    6771
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL N’A AUCUN ESPOIR.",
+   "style": "italique",
+   "point": [
+    302,
+    7725
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PARCE QU’À LA FIN, J’AI ÉTÉ SAUVÉ.",
+   "style": "italique",
+   "point": [
+    506,
+    8863
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI JE DEVAIS CHOISIR UN CAMP...",
+   "style": "italique",
+   "point": [
+    408,
+    9599
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TOI AUSSI...",
+   "style": "italique",
+   "point": [
+    414,
+    10440
+   ]
+  },
+  {
+   "id": 7,
+   "text": "...TOUT LE MONDE, ATTENDEZ ENCORE UN PEU.",
+   "style": "italique",
+   "point": [
+    331,
+    13496
+   ]
+  },
+  {
+   "id": 8,
+   "text": "UNE FOIS MON DEVOIR ACCOMPLI,",
+   "style": "italique",
+   "point": [
+    318,
+    14345
+   ]
+  },
+  {
+   "id": 9,
+   "text": "JE REJOINDRAI CE TYPE, MOI AUSSI.",
+   "style": "italique",
+   "point": [
+    456,
+    14647
+   ]
+  }
+ ]
+}

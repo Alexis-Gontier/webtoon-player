@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-228/040.webp",
+ "output": "chapters_fr/chapter-228/040.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "L’ÂME DE NAGI... ?",
+   "style": "italique",
+   "point": [
+    339,
+    265
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE SCÉLÉRAT...",
+   "style": "italique",
+   "point": [
+    411,
+    1419
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL VISAIT ÇA DEPUIS LE DÉBUT !",
+   "style": "italique",
+   "point": [
+    419,
+    1759
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAINTENANT, TAE-WON KIM.",
+   "style": "dialogue",
+   "point": [
+    299,
+    5267
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AVEC ÇA, J’AI TENU MA PROMESSE.",
+   "style": "dialogue",
+   "point": [
+    377,
+    6704
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-251/033.webp",
+ "output": "chapters_fr/chapter-251/033.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "LIBUR ?!",
+   "style": "italique",
+   "point": [
+    394,
+    1526
+   ]
+  }
+ ]
+}

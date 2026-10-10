@@ -1,0 +1,283 @@
+# Chapitre 255 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+# EN: THE SACRED LAND RULED BY THE GREAT SAGE EQUAL TO HEAVEN - MOUNT HUAGUO -
+001.3 | cartouche | LA TERRE SACRÉE\nGOUVERNÉE PAR LE\nGRAND SAGE ÉGAL\nDU CIEL\n\n- MONT HUAGUO -
+# EN: FSSH...
+001.4 | dialogue | -
+
+## 002.webp
+# EN: THIS PRESENCE...
+002.1 | cri | CETTE\nPRÉSENCE...
+# EN: IT SEEMS THE DRAGON SUIT HAS FINALLY CHOSEN ITS OWNER.
+002.2 | dialogue | ON DIRAIT QUE L’ARMURE DU DRAGON A ENFIN CHOISI SON MAÎTRE.
+# EN: GREAT SAGE, THE TOWER'S ENERGY HAS BEGUN TO AFFECT MOUNT HUAGUO AS WELL.
+002.3 | dialogue | GRAND SAGE, L’ÉNERGIE DE LA TOUR COMMENCE À AFFECTER LE MONT HUAGUO AUSSI.
+
+## 003.webp
+# EN: WE ARE PREPARING FOR THE TRANSFER...
+003.1 | dialogue | NOUS PRÉPARONS LE TRANSFERT...
+# EN: SAMJANG...
+003.2 | dialogue | SAMJANG...
+# EN: AREN'T YOU WORRIED ABOUT "HIM"?
+003.3 | dialogue | TU NE T’INQUIÈTES PAS POUR "LUI" ?
+# EN: OF HIS OWN FREE WILL...
+003.4 | dialogue | DE SON PLEIN GRÉ...
+# EN: HE CHOSE TO LEAVE MOUNT HUAGUO TO WITNESS THE CONCLUSION OF THIS WORLD.
+003.5 | dialogue | IL A CHOISI DE QUITTER LE MONT HUAGUO POUR ASSISTER AU DÉNOUEMENT DE CE MONDE.
+
+## 004.webp
+
+## 005.webp
+# EN: ONCE HE ACHIEVES WHAT HE'S AFTER,
+005.1 | dialogue | UNE FOIS QU’IL AURA OBTENU CE QU’IL VEUT,
+# EN: HE'LL COME BACK WITH THAT STUPID GRIN ON HIS FACE, ACTING LIKE NOTHING HAPPENED.
+005.2 | dialogue | IL REVIENDRA AVEC SON SOURIRE BÊTE, COMME SI DE RIEN N’ÉTAIT.
+# EN: AFTER ALL, THAT'S JUST THE KIND OF MAN I CHOSE.
+005.3 | dialogue | APRÈS TOUT, C’EST LE GENRE D’HOMME QUE J’AI CHOISI.
+# EN: HEH HEH HEH...! IS THAT SO?
+005.4 | dialogue | HÉ HÉ HÉ...!\nVRAIMENT ?
+
+## 006.webp
+# EN: IT SEEMS MY SON FOUND A BRIDE FAR BETTER THAN HE DESERVES.
+006.1 | dialogue | ON DIRAIT QUE MON FILS A TROUVÉ UNE ÉPOUSE BIEN MEILLEURE QU’IL NE LE MÉRITE.
+# EN: THIS IS A GOOD OPPORTUNITY.
+006.2 | italique | C’EST UNE\nBONNE OCCASION.
+# EN: I'LL TEACH YOU SOMETHING INTERESTING, SAMJANG.
+006.3 | italique | JE VAIS T’APPRENDRE QUELQUE CHOSE D’INTÉRESSANT, SAMJANG.
+# EN: WHEN A SUPREME BEING REACHES A CERTAIN STAGE, THEY STOP EXPANDING THEIR OWN WORLD...
+006.4 | italique | QUAND UN ÊTRE SUPRÊME ATTEINT UN CERTAIN STADE, IL CESSE D’ÉTENDRE SON PROPRE MONDE...
+# EN: AND BEGIN TO LONG FOR STABILITY— THE CONSOLIDATION OF THEIR WORLD.
+006.5 | italique | ET ASPIRE À LA STABILITÉ : LA CONSOLIDATION DE SON MONDE.
+
+## 007.webp
+# EN: THAT'S BECAUSE WHAT THEY WISH TO PROTECT BECOMES UNSHAKEABLE.
+007.1 | italique | CAR CE QU’IL VEUT PROTÉGER DEVIENT INÉBRANLABLE.
+# EN: IN MY CASE, THAT WAS MOUNT HUAGUO.
+007.2 | italique | DANS MON CAS, C’ÉTAIT LE MONT HUAGUO.
+
+## 008.webp
+# EN: AND THAT'S EXACTLY WHY I COULDN'T OCCUPY THE DIVINE THRONE.
+008.1 | italique | ET C’EST EXACTEMENT POURQUOI JE N’AI PAS PU OCCUPER LE TRÔNE DIVIN.
+# EN: IN OTHER WORDS, THE CONDITION FOR ONE TO CALL THEMSELVES A "GOD"...
+008.2 | dialogue | AUTREMENT DIT, LA CONDITION POUR SE DIRE "DIEU"...
+
+## 009.webp
+# EN: IS WHAT YOU DESCRIBE AS THE "FOLLY OF INFINITE LONGING."
+009.1 | dialogue | C’EST CE QUE TU APPELLES LA "FOLIE DU DÉSIR INFINI".
+# EN: NO WONDER THEY SAY HE'S CLOSE FRIENDS WITH "HIM."
+009.2 | dialogue | PAS ÉTONNANT QU’ON LE DISE TRÈS PROCHE DE "LUI".
+009.3 | dialogue | -
+# EN: HOW SHOULD I PUT IT... WELL, BIRDS OF A FEATHER FLOCK TOGETHER.
+009.4 | dialogue | COMMENT DIRE... BAH, QUI SE RESSEMBLE S’ASSEMBLE.
+
+## 010.webp
+# EN: CONGRATULATIONS, ARTHUR!
+010.1 | italique | FÉLICITATIONS,\nARTHUR !
+
+## 011.webp
+# EN: IT LOOKS LIKE YOU'VE FINALLY FOUND A SUCCESSOR!
+011.1 | italique | ON DIRAIT QUE TU AS ENFIN TROUVÉ UN SUCCESSEUR !
+
+## 012.webp
+# EN: IT'S SEOL-JIN!
+012.1 | cri | C’EST\nSEOL-JIN !
+
+## 013.webp
+013.1 | dialogue | -
+
+## 014.webp
+
+## 015.webp
+# EN: HEY, AREN'T YOU ALL ASHAMED?
+015.1 | italique | HÉ, VOUS N’AVEZ PAS HONTE ?
+# EN: ALL OF YOU, GETTING CARRIED AWAY BY A MERE BRAT~
+015.2 | italique | VOUS TOUS, À VOUS EMBALLER POUR UN SIMPLE GAMIN~
+# EN: OF COURSE NOT...
+015.3 | dialogue | BIEN SÛR\nQUE NON...
+# EN: THIS IS THE PATH WE CHOSE.
+015.4 | dialogue | C’EST LA VOIE QUE NOUS AVONS CHOISIE.
+
+## 016.webp
+016.1 | dialogue | -
+# EN: THERE ISN'T A SINGLE SHRED OF SHAME IN MY SOUL!
+016.2 | italique | IL N’Y A PAS UNE MIETTE DE HONTE DANS MON ÂME !
+
+## 017.webp
+# EN: ARTHUR, WHY DO YOU KEEP HESITATING?
+017.1 | dialogue | ARTHUR, POURQUOI TU HÉSITES ENCORE ?
+# EN: YOU'RE THE ONE WHO HANDPICKED HIM. YOU KNOW BETTER THAN ANYONE, / DON'T YOU? (bulle coupée entre les pages 17 et 18)
+017.2 | dialogue | -
+017.100 | dialogue {"box": [160, 4855, 515, 5000], "target": [180, 4868, 495, 4995], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | C’EST TOI QUI\nL’AS CHOISI.\nTU SAIS MIEUX\nQUE PERSONNE,
+
+## 018.webp
+018.1 | dialogue | -
+018.100 | dialogue {"box": [240, 0, 435, 50], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | NON ?
+# EN: JUST HOW MASSIVE THAT BRAT'S TALENT REALLY IS!
+018.2 | dialogue | À QUEL POINT LE TALENT DE CE GAMIN EST IMMENSE !
+
+## 019.webp
+# EN: AN ABSTRACT "SCENARIO" TAKING SHAPE...
+019.1 | italique | UN "SCÉNARIO" ABSTRAIT QUI PREND FORME...
+# EN: AN UNSTABLE LIMIT, YET IT'S EXPANDING...
+019.2 | italique | UNE LIMITE INSTABLE, ET POURTANT ELLE S’ÉTEND...
+# EN: AND A "VESSEL" THAT REMAINS INTACT EVEN AFTER INVITING / ME INSIDE. (bulle coupée entre les pages 19 et 20)
+019.3 | italique | -
+019.100 | italique {"box": [195, 4830, 560, 5000], "target": [215, 4842, 540, 4995], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | ET UN\n"RÉCEPTACLE" QUI\nRESTE INTACT MÊME\nAPRÈS M’AVOIR
+
+## 020.webp
+020.1 | italique | -
+020.100 | italique {"box": [110, 0, 560, 75], "target": [290, 0, 470, 60], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | ACCUEILLI.
+# EN: HIS INNER WORLD IS COMPLETING ITSELF, MANIFESTING AS A SEPARATE UNIVERSE.
+020.2 | italique | SON MONDE INTÉRIEUR S’ACHÈVE ET SE MANIFESTE COMME UN UNIVERS À PART.
+# EN: IF MY NATURE IS DEFINED AS "RECREATION,"
+020.3 | dialogue | SI MA NATURE SE DÉFINIT PAR LA "RECRÉATION",
+# EN: THEN HIS WOULD LIKELY BE CALLED "HARMONY."
+020.4 | dialogue | LA SIENNE S’APPELLERAIT SANS DOUTE "HARMONIE".
+# EN: YEAH...
+020.5 | dialogue | OUAIS...
+# EN: IT'S A SHAME, BUT I THINK IT'S TIME TO PASS THE MANTLE...
+020.6 | dialogue | C’EST DOMMAGE, MAIS JE CROIS QU’IL EST TEMPS DE PASSER LE FLAMBEAU...
+
+## 021.webp
+
+## 022.webp
+# EN: MERLIN?
+022.1 | dialogue | MERLIN ?
+# EN: SO THAT'S HOW IT IS, HUH?
+022.2 | dialogue | C’EST DONC ÇA, HEIN ?
+# EN: IN THE END, EVEN YOUR SOUL CHOSE HIS WORLD...
+022.3 | dialogue | AU FINAL, MÊME TON ÂME A CHOISI SON MONDE...
+
+## 023.webp
+# EN: THIS...
+023.1 | dialogue | ÇA...
+# EN: ISN'T VERY FUNNY, IS IT?
+023.2 | dialogue | CE N’EST PAS\nTRÈS DRÔLE,\nHEIN ?
+# EN: ...!
+023.3 | dialogue | -
+
+## 024.webp
+024.1 | dialogue | -
+
+## 025.webp
+# EN: YOU DARE TRY TO TEACH ME SOMETHING IN THIS HALF-BAKED WORLD?
+025.1 | italique | TU OSES ME FAIRE LA LEÇON DANS CE MONDE À MOITIÉ FINI ?
+# EN: EVEN ARROGANCE HAS ITS LIMITS.
+025.2 | italique | MÊME L’ARROGANCE A SES LIMITES.
+025.3 | dialogue | -
+
+## 026.webp
+# EN: HEAVENS...!
+026.1 | dialogue | CIEL...!
+# EN: THE ABSOLUTE GOD...
+026.2 | cri | LE DIEU\nABSOLU...
+# EN: HE'S STOPPED SMILING!
+026.3 | cri | IL NE SOURIT\nPLUS !
+026.4 | dialogue | -
+
+## 027.webp
+# EN: WELL, WOULD YOU LOOK AT THAT.
+027.1 | dialogue | EH BIEN, REGARDEZ-MOI ÇA.
+# EN: WHO WOULD'VE THOUGHT THE DAY WOULD COME WHERE I'M THE FIRST ONE TO LOSE MY SMILE.
+027.2 | italique | QUI AURAIT CRU QU’UN JOUR, JE SERAIS LE PREMIER À PERDRE MON SOURIRE.
+027.3 | dialogue | -
+
+## 028.webp
+028.1 | dialogue | -
+028.2 | dialogue | -
+
+## 029.webp
+# EN: WHOOOOA!
+# 029.100 | cri {"box": [0, 230, 720, 800], "ink_max": 70, "thick": 4, "grow": 6, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "angle": 10} | OUAAAAH !   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+# 029.101 | cri {"box": [0, 2500, 720, 2980], "ink_max": 70, "thick": 4, "grow": 6, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "angle": 10} | OUAAAAH !   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+
+## 030.webp
+# EN: FINE, FINE...
+030.1 | dialogue | BON,\nBON...
+# EN: I GUESS I HAVE NO CHOICE BUT TO ADMIT IT...
+030.2 | dialogue | FAUT CROIRE QUE JE N’AI PAS LE CHOIX, JE DOIS L’ADMETTRE...
+# EN: THAT THIS PLACE...
+030.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | QUE CET ENDROIT...
+# EN: IS NO LONGER MY STAGE.
+030.4 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | N’EST PLUS\nMA SCÈNE.
+
+## 031.webp
+# EN: ARE YOU HESITATING, ARTHUR?
+031.1 | italique {"erase_color": true} | TU HÉSITES,\nARTHUR ?
+# EN: IF IT'S THESE KIDS...
+031.2 | italique {"erase_color": true} | SI C’EST CES\nGAMINS...
+# EN: I'M SURE THEY'LL BE ENOUGH TO SATISFY YOU.
+031.3 | italique {"erase_color": true} | ILS SAURONT SÛREMENT TE SATISFAIRE.
+# EN: SO, PLEASE...
+031.100 | italique {"point": [372, 3950], "erase_color": true} | ALORS,\nJE T’EN PRIE...
+# EN: USE YOUR FULL POWER...
+031.4 | italique {"erase_color": true} | UTILISE TOUTE\nTA PUISSANCE...
+
+## 032.webp
+# EN: CELESTIAL MANTLE RELEASE
+032.100 | systeme {"box": [40, 330, 690, 590], "light": true, "light_min": 200, "grow": 6, "blur_fill": 10, "colors": [[255,255,255],[255,255,255]], "style": "titre"} | LIBÉRATION\nDU MANTEAU CÉLESTE
+# EN: PLAYER ARTHUR!
+032.1 | italique {"erase_color": true} | PLAYER\nARTHUR !
+032.101 | systeme {"box": [40, 1340, 690, 1620], "light": true, "light_min": 225, "grow": 6, "colors": [[235,250,255],[235,250,255]], "style": "titre"} | LIBÉRATION\nDU MANTEAU CÉLESTE
+
+## 033.webp
+# EN: KEEP UP WITH ME, LAY.
+033.1 | dialogue | SUIS-MOI,\nLAY.
+# EN: THINGS ARE ABOUT TO GET INTENSE.
+033.2 | dialogue | ÇA VA DEVENIR INTENSE.
+
+## 034.webp
+# EN: ABSOLUTE GOD ARTHUR
+034.1 | dialogue | -
+034.100 | systeme {"box": [70, 290, 680, 700], "light": true, "light_min": 220, "max_letter": 180, "grow": 7, "blur_fill": 10, "colors": [[255,255,255],[255,255,255]], "style": "cri"} | DIEU ABSOLU\nARTHUR
+# EN: FULL RELEASE
+034.2 | dialogue | -
+034.101 | systeme {"box": [20, 1820, 600, 2220], "light": true, "light_min": 220, "max_letter": 230, "grow": 7, "blur_fill": 10, "colors": [[255,255,255],[255,255,255]], "style": "cri"} | LIBÉRATION\nTOTALE
+# EN: NOW THEN, HEO SEOL-JIN.
+034.3 | dialogue | BIEN, SEOL-JIN HEO.
+# EN: LET'S PUT AN / END TO THIS. (bulle coupée entre les pages 34 et 35)
+034.4 | dialogue | METTONS-Y
+
+## 035.webp
+035.1 | dialogue | -
+035.100 | dialogue {"box": [195, 0, 525, 60], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | UN TERME.
+
+## 036.webp
+# EN: AH♥ / AH♥ (gardés) / FINALLY
+036.1 | dialogue | -
+036.2 | dialogue | -
+036.3 | italique | ENFIN
+# EN: MY DREAM IS FINALLY COMING TRUE.
+036.4 | dialogue | MON RÊVE SE RÉALISE ENFIN.
+
+## 037.webp
+# EN: ARE YOU WATCHING, VAN?
+037.1 | dialogue | TU REGARDES, VAN ?
+# EN: IT'S HAPPENING EXACTLY AS YOU SAID.
+037.2 | dialogue | ÇA SE PASSE EXACTEMENT COMME TU L’AVAIS DIT.
+# EN: THE ONE WHO WILL SHATTER THE ABSOLUTE GOD'S VESSEL...
+037.3 | dialogue | CELUI QUI BRISERA LE RÉCEPTACLE DU DIEU ABSOLU...
+# EN: THE TRUE HERO HAS APPEARED...!
+037.4 | dialogue | LE VRAI HÉROS EST APPARU...!
+# EN: THANK YOU FOR KEEPING YOUR PROMISE, VAN.
+037.5 | italique | MERCI D’AVOIR\nTENU PAROLE,\nVAN.
+
+## 038.webp
+# EN: AND FOR THE SAKE OF OUR DREAM, UNTIL THE VERY END...
+038.1 | italique | ET POUR NOTRE RÊVE, JUSQU’AU BOUT...
+# EN: I PLAYED THE ROLE OF THE ULTIMATE VILLAINESS.
+038.2 | italique | J’AI JOUÉ LE RÔLE DE LA MÉCHANTE ULTIME.
+# EN: KEEP WATCHING ME...
+038.3 | italique | CONTINUE DE ME REGARDER...
+# EN: BECAUSE I'M GOING TO MAKE THE MOST...
+038.4 | italique | CAR JE VAIS PROFITER AU MAXIMUM...
+# EN: OF YOUR FINAL / HEARTBEAT. (bulle coupée entre les pages 38 et 39)
+038.5 | italique | -
+038.100 | italique {"box": [225, 4940, 545, 5000], "target": [250, 4945, 520, 4998], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | DE TON DERNIER
+
+## 039.webp
+039.1 | italique | -
+039.100 | italique {"box": [260, 0, 505, 50], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | BATTEMENT.

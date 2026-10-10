@@ -1,0 +1,68 @@
+{
+ "source": "chapters_en/chapter-257/011.webp",
+ "output": "chapters_fr/chapter-257/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PERSONNE NE MIT JAMAIS LES PIEDS EN CE LIEU.",
+   "style": "cartouche",
+   "point": [
+    422,
+    368
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TOUS POURSUIVAIENT LA GLOIRE QUI RÉSIDAIT AU SOMMET.",
+   "style": "cartouche",
+   "point": [
+    416,
+    2341
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    180,
+    4860,
+    650,
+    5000
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 101,
+   "text": "NUL NE SE SOUCIAIT\nDES PROFONDEURS OÙ\nGISAIENT LES TÉNÈBRES.",
+   "style": "cartouche",
+   "box": [
+    180,
+    4860,
+    650,
+    5000
+   ],
+   "target": [
+    200,
+    4868,
+    630,
+    4995
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 45
+  }
+ ]
+}

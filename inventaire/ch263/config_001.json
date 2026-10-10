@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-263/001.webp",
+ "output": "chapters_fr/chapter-263/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "LAISSEZ-MOI\nLE DÉNOUEMENT.",
+   "style": "italique",
+   "point": [
+    368,
+    1146
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CAR C’EST L’OPTION QUI A LE PLUS DE CHANCES DE RÉUSSIR.",
+   "style": "italique",
+   "point": [
+    383,
+    3240
+   ]
+  },
+  {
+   "id": 7,
+   "text": "VISUALISE\nL’IMAGE...",
+   "style": "italique",
+   "point": [
+    349,
+    4509
+   ]
+  }
+ ]
+}

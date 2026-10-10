@@ -1,0 +1,122 @@
+{
+ "source": "chapters_en/chapter-240/004.webp",
+ "output": "chapters_fr/chapter-240/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EST-CE UNE QUESTION...",
+   "style": "dialogue",
+   "point": [
+    333,
+    159
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IMPORTANTE ?",
+   "style": "dialogue",
+   "point": [
+    373,
+    1054
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU L’ÉVITES.",
+   "style": "dialogue",
+   "point": [
+    391,
+    1409
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA NE TE RESSEMBLE PAS.",
+   "style": "dialogue",
+   "point": [
+    375,
+    2510
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUAIS...",
+   "style": "dialogue",
+   "point": [
+    395,
+    4396
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE M’Y ATTENDAIS.",
+   "style": "dialogue",
+   "point": [
+    389,
+    5632
+   ]
+  },
+  {
+   "id": 7,
+   "text": "PARCE QUE JE TROUVE QUE TU RESSEMBLES À CETTE CABANE.",
+   "style": "dialogue",
+   "point": [
+    365,
+    6721
+   ]
+  },
+  {
+   "id": 8,
+   "text": "\"L’ÊTRE SANS NOM.\"",
+   "style": "dialogue",
+   "point": [
+    428,
+    9249
+   ]
+  },
+  {
+   "id": 9,
+   "text": "SI ON DISCUTAIT UN MOMENT ?",
+   "style": "dialogue",
+   "point": [
+    397,
+    10697
+   ]
+  },
+  {
+   "id": 10,
+   "text": "\"JE RÉPONDRAI SANS FAUTE À TA QUESTION.\" CE N’EST PAS ÇA, \"L’ESSENCE\" ?",
+   "style": "dialogue",
+   "point": [
+    416,
+    11569
+   ]
+  },
+  {
+   "id": 12,
+   "text": "CE MOMENT-LÀ.",
+   "style": "systeme",
+   "box": [
+    171,
+    14558,
+    641,
+    14653
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  }
+ ]
+}

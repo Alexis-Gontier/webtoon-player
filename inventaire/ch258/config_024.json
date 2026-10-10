@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-258/024.webp",
+ "output": "chapters_fr/chapter-258/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOUT...",
+   "style": "dialogue",
+   "point": [
+    394,
+    1545
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TOUT...",
+   "style": "dialogue",
+   "point": [
+    325,
+    2528
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...EST DE MA FAUTE.",
+   "style": "dialogue",
+   "point": [
+    455,
+    3332
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI JE NE M’ÉTAIS PAS INTERPOSÉE...",
+   "style": "dialogue",
+   "point": [
+    427,
+    4327
+   ]
+  }
+ ]
+}

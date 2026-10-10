@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-253/005.webp",
+ "output": "chapters_fr/chapter-253/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA PEUT SEMBLER IRRESPONSABLE...",
+   "style": "dialogue",
+   "point": [
+    294,
+    184
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS JE VEUX REVOIR TOUT LE MONDE SOURIRE, EN PAIX ET HEUREUX.",
+   "style": "dialogue",
+   "point": [
+    402,
+    1057
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOUS MES\nCOMPAGNONS...",
+   "style": "dialogue",
+   "point": [
+    345,
+    1672
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CHAQUE LIEN QUE J’AI TISSÉ JUSQU’ICI.",
+   "style": "dialogue",
+   "point": [
+    285,
+    2338
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE SOUHAITE UN AVENIR OÙ TOUT LE MONDE PEUT SOURIRE.",
+   "style": "dialogue",
+   "point": [
+    413,
+    3075
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’EST\nPOURQUOI...",
+   "style": "dialogue",
+   "point": [
+    302,
+    4306
+   ]
+  }
+ ]
+}

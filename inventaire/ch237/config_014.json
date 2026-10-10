@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-237/014.webp",
+ "output": "chapters_fr/chapter-237/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "POUR CE MONDE ORDURIER...",
+   "style": "dialogue",
+   "point": [
+    309,
+    175
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MON HÉROS... RENONCE À AVANCER... !",
+   "style": "dialogue",
+   "point": [
+    492,
+    2042
+   ]
+  },
+  {
+   "id": 5,
+   "text": "COMBIEN DE CHOSES VEUT-IL ENCORE ME PRENDRE AVANT D’ÊTRE SATISFAIT,",
+   "style": "dialogue",
+   "point": [
+    398,
+    3110
+   ]
+  },
+  {
+   "id": 7,
+   "text": "CE MONDE INJUSTE... !",
+   "style": "dialogue",
+   "point": [
+    425,
+    4726
+   ]
+  },
+  {
+   "id": 9,
+   "text": "AURAIS-JE DÛ L’ARRÊTER ?",
+   "style": "dialogue",
+   "point": [
+    483,
+    7448
+   ]
+  }
+ ]
+}

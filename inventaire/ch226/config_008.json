@@ -1,0 +1,166 @@
+{
+ "source": "chapters_en/chapter-226/008.webp",
+ "output": "chapters_fr/chapter-226/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MERCI... POUR CETTE TÊTE DE MERDE.",
+   "style": "dialogue",
+   "point": [
+    399,
+    1589
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CARTOUCHE OUVERTE",
+   "style": "systeme",
+   "box": [
+    89,
+    3099,
+    711,
+    3209
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 3,
+   "text": "GRÂCE À ÇA, ÇA ME FAIT MOINS MAL DE DÉMOLIR MON PROPRE VISAGE~ !",
+   "style": "italique",
+   "point": [
+    404,
+    3843
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ARTICLE 1 :\nCONTRAT DE PLAYER",
+   "style": "titre",
+   "point": [
+    529,
+    4504
+   ],
+   "box": [
+    110,
+    4320,
+    700,
+    4560
+   ],
+   "target": [
+    126,
+    4355,
+    690,
+    4548
+   ],
+   "vfill": true,
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  },
+  {
+   "id": 6,
+   "text": "RENFORCER SES CAPACITÉS PHYSIQUES PAR UN USAGE EXCESSIF DES CONTRATS.",
+   "style": "dialogue",
+   "point": [
+    399,
+    8031
+   ]
+  },
+  {
+   "id": 7,
+   "text": "UN STYLE DE COMBAT QUE LE VRAI MIRAGE N’AURAIT PAS PU SUPPORTER.",
+   "style": "dialogue",
+   "point": [
+    399,
+    8805
+   ]
+  },
+  {
+   "id": 8,
+   "text": "UN CHOIX IMPOSSIBLE S’IL N’AVAIT PAS EMPRUNTÉ LE CORPS DE TAE-WON KIM.",
+   "style": "dialogue",
+   "point": [
+    407,
+    9679
+   ]
+  },
+  {
+   "id": 9,
+   "text": "MIRAGE DÉCIDA DE PROFITER DES EFFORTS ACCUMULÉS PAR TAE-WON.",
+   "style": "dialogue",
+   "point": [
+    402,
+    10550
+   ]
+  },
+  {
+   "id": 10,
+   "text": "C’ÉTAIT PEUT-ÊTRE POUR ÇA.",
+   "style": "dialogue",
+   "point": [
+    404,
+    11337
+   ]
+  },
+  {
+   "id": 11,
+   "text": "OU PEUT-ÊTRE QUE, PARTAGEANT LE MÊME RÉCEPTACLE, LEURS ÂMES S’ÉTAIENT MISES À RÉSONNER.",
+   "style": "dialogue",
+   "point": [
+    411,
+    12236
+   ]
+  },
+  {
+   "id": 12,
+   "text": "MIRAGE NE POUVAIT PLUS\nDÉTOURNER LE REGARD.",
+   "style": "systeme",
+   "box": [
+    83,
+    13247,
+    684,
+    13415
+   ],
+   "target": [
+    108,
+    13262,
+    659,
+    13400
+   ]
+  },
+  {
+   "id": 13,
+   "text": "DÉSOLÉ, TAE-WON KIM.",
+   "style": "dialogue",
+   "point": [
+    381,
+    14253
+   ]
+  }
+ ]
+}

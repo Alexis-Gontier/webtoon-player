@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-255/008.webp",
+ "output": "chapters_fr/chapter-255/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET C’EST EXACTEMENT POURQUOI JE N’AI PAS PU OCCUPER LE TRÔNE DIVIN.",
+   "style": "italique",
+   "point": [
+    369,
+    2663
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AUTREMENT DIT, LA CONDITION POUR SE DIRE \"DIEU\"...",
+   "style": "dialogue",
+   "point": [
+    328,
+    4363
+   ]
+  }
+ ]
+}

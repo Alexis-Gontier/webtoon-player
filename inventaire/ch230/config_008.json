@@ -1,0 +1,114 @@
+{
+ "source": "chapters_en/chapter-230/008.webp",
+ "output": "chapters_fr/chapter-230/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DIS, MADEMOISELLE NABI, C’EST ÇA, LE \"RIDEAU\" ?",
+   "style": "dialogue",
+   "point": [
+    508,
+    615
+   ]
+  },
+  {
+   "id": 2,
+   "text": "NON, LE \"RIDEAU\" EST TOUJOURS RELIÉ AU SOL.",
+   "style": "dialogue",
+   "point": [
+    347,
+    1665
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA, CE N’EST PAS UNE COMPÉTENCE, C’EST JUSTE UNE BOULE DE KARMA STUPIDE QUE CET IDIOT A LANCÉE.",
+   "style": "dialogue",
+   "point": [
+    462,
+    2083
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AFFRONTER UN MONSTRE PAREIL SANS AUCUNE INFORMATION...",
+   "style": "dialogue",
+   "point": [
+    325,
+    3034
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST TELLEMENT INJUSTE.",
+   "style": "dialogue",
+   "point": [
+    464,
+    4132
+   ]
+  },
+  {
+   "id": 6,
+   "text": "\"INJUSTE\", TU DIS...",
+   "style": "dialogue",
+   "point": [
+    307,
+    4994
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST AUSSI CE QUE LOUISE A DIT.",
+   "style": "dialogue",
+   "point": [
+    471,
+    5926
+   ]
+  },
+  {
+   "id": 8,
+   "text": "MAIS DEAN...",
+   "style": "dialogue",
+   "point": [
+    363,
+    7131
+   ]
+  },
+  {
+   "id": 9,
+   "text": "S’EST TOUJOURS BATTU DE TOUTES SES FORCES !",
+   "style": "dialogue",
+   "point": [
+    406,
+    9599
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ALORS, QUI VA GAGNER, À TON AVIS ?",
+   "style": "dialogue",
+   "point": [
+    437,
+    10561
+   ]
+  },
+  {
+   "id": 13,
+   "text": "BIEN SÛR...",
+   "style": "dialogue",
+   "point": [
+    376,
+    12961
+   ]
+  },
+  {
+   "id": 14,
+   "text": "ON PENSE LA MÊME CHOSE.",
+   "style": "dialogue",
+   "point": [
+    408,
+    14042
+   ]
+  }
+ ]
+}

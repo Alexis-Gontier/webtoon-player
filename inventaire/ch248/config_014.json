@@ -1,0 +1,74 @@
+{
+ "source": "chapters_en/chapter-248/014.webp",
+ "output": "chapters_fr/chapter-248/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE PRENDS LE RELAIS POUR CE COMBAT.",
+   "style": "dialogue",
+   "point": [
+    392,
+    1239
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE CROIS QUE JE\nCOMPRENDS, MAINTENANT,\nMONSIEUR ARTHUR.",
+   "style": "systeme",
+   "box": [
+    120,
+    3490,
+    600,
+    3700
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POURQUOI VOUS\nPORTEZ CE BANDEAU\nSUR LES YEUX.",
+   "style": "systeme",
+   "box": [
+    110,
+    4435,
+    665,
+    4648
+   ],
+   "light": true,
+   "light_min": 215,
+   "max_letter": 70,
+   "grow": 6,
+   "blur_fill": 8,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-236/024.webp",
+ "output": "chapters_fr/chapter-236/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "S-SEIGNEUR ARTHUR ! ÉCOUTEZ-NOUS !",
+   "style": "dialogue",
+   "point": [
+    401,
+    224
+   ]
+  },
+  {
+   "id": 2,
+   "text": "NOUS...",
+   "style": "dialogue",
+   "point": [
+    457,
+    1697
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...N’AVONS FAIT QU’OBÉIR...",
+   "style": "dialogue",
+   "point": [
+    517,
+    2466
+   ]
+  }
+ ]
+}

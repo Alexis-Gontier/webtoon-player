@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-253/016.webp",
+ "output": "chapters_fr/chapter-253/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUEL\nSOULAGEMENT...",
+   "style": "italique",
+   "point": [
+    270,
+    483
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ON DIRAIT QU’ELLES ONT TOUTES LES DEUX RETROUVÉ LE MORAL.",
+   "style": "italique",
+   "point": [
+    316,
+    1551
+   ]
+  }
+ ]
+}

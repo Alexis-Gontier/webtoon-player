@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-228/042.webp",
+ "output": "chapters_fr/chapter-228/042.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST TOUTE L’HISTOIRE QUE JE PEUX TE MONTRER.",
+   "style": "italique",
+   "point": [
+    394,
+    1335
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS...",
+   "style": "italique",
+   "point": [
+    380,
+    2236
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE TE CONFIE LA \"SUITE\".",
+   "style": "italique",
+   "point": [
+    403,
+    3511
+   ]
+  }
+ ]
+}

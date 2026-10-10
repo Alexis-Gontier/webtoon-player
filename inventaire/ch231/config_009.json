@@ -1,0 +1,102 @@
+{
+ "source": "chapters_en/chapter-231/009.webp",
+ "output": "chapters_fr/chapter-231/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "À PARTIR\nDE MAINTENANT...",
+   "style": "cri",
+   "point": [
+    406,
+    1800
+   ]
+  },
+  {
+   "id": 2,
+   "text": "FAISONS-LE\nPOUR DE VRAI.",
+   "style": "cri",
+   "box": [
+    145,
+    2730,
+    602,
+    2906
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MON OMBRE...",
+   "style": "dialogue",
+   "point": [
+    353,
+    9516
+   ]
+  },
+  {
+   "id": 4,
+   "text": "A ÉTÉ REPOUSSÉE ?",
+   "style": "dialogue",
+   "point": [
+    498,
+    10658
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PAR CETTE LUMIÈRE...",
+   "style": "dialogue",
+   "point": [
+    374,
+    11353
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SÉRIEUX~ ?",
+   "style": "dialogue",
+   "point": [
+    416,
+    12237
+   ],
+   "box": [
+    262,
+    12196,
+    534,
+    12276
+   ],
+   "target": [
+    300,
+    12212,
+    505,
+    12262
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 50,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE FUTUR A CHANGÉ ?",
+   "style": "dialogue",
+   "point": [
+    409,
+    13020
+   ]
+  }
+ ]
+}

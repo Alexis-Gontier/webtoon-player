@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/007.webp",
+ "output": "chapters_fr/chapter-256/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TRÈS BIEN,\nSEOL-JIN HEO.",
+   "style": "dialogue",
+   "point": [
+    379,
+    2572
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OFFRONS-NOUS ENSEMBLE UNE FIN PARFAITE.",
+   "style": "dialogue",
+   "point": [
+    389,
+    3691
+   ]
+  }
+ ]
+}

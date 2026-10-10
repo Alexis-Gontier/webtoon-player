@@ -1,0 +1,61 @@
+{
+  "source": "chapters_en/chapter-225/006.webp",
+  "output": "chapters_fr/chapter-225/006.webp",
+  "bubbles": [
+    {
+      "point": [
+        408,
+        983
+      ],
+      "text": "BREF, VOUS POUVEZ TOUT AVOIR..."
+    },
+    {
+      "point": [
+        393,
+        3008
+      ],
+      "text": "À CONDITION D’ATTEINDRE LE \"DOMAINE DIVIN\"."
+    },
+    {
+      "point": [
+        405,
+        4833
+      ],
+      "text": "BIEN~ FIN DES EXPLICATIONS !"
+    },
+    {
+      "point": [
+        425,
+        7900
+      ],
+      "text": "J’ESPÈRE QUE VOUS SAUREZ TOUS ME DIVERTIR !",
+      "max_size": 56
+    },
+    {
+      "point": [
+        447,
+        11192
+      ],
+      "text": "ALLEZ~ ALLEZ~ !!! UN DÉLICIEUX EN-CAS EST ARRIVÉ~ ! PLEIN DES CHOSES PRÉFÉRÉES D’ARTHUR~ !",
+      "style": "italique"
+    },
+    {
+      "point": [
+        427,
+        13517
+      ],
+      "text": "LE PRIX, C’EST VOTRE VIE ! GRANDE PROMO DE 3 À 24 HEURES ! L’OCCASION DE DONNER UN SENS À CE QUI VOUS RESTE À VIVRE.",
+      "style": "italique",
+      "cut": [
+        [
+          796,
+          13100
+        ],
+        [
+          796,
+          13950
+        ]
+      ]
+    }
+  ]
+}

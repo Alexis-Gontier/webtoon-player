@@ -1,0 +1,137 @@
+{
+ "source": "chapters_en/chapter-252/010.webp",
+ "output": "chapters_fr/chapter-252/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA RÉPÉTITION LONGUE\nET INTENSE DE CE CHOC...",
+   "style": "systeme",
+   "point": [
+    397,
+    1325
+   ],
+   "box": [
+    85,
+    1225,
+    650,
+    1425
+   ],
+   "target": [
+    140,
+    1240,
+    650,
+    1410
+   ],
+   "light": true,
+   "light_min": 210,
+   "max_letter": 60,
+   "grow": 9,
+   "blur_fill": 8,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 3,
+   "text": "...ONT ABOUTI À...",
+   "style": "systeme",
+   "point": [
+    501,
+    4539
+   ],
+   "box": [
+    160,
+    4500,
+    580,
+    4580
+   ],
+   "light": true,
+   "light_min": 210,
+   "max_letter": 60,
+   "grow": 6,
+   "blur_fill": 8,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    80,
+    2830,
+    640,
+    3070
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 101,
+   "text": "...ET L’AVENTURE\nQUI A SUIVI AUSSITÔT...",
+   "style": "systeme",
+   "box": [
+    80,
+    2830,
+    640,
+    3070
+   ],
+   "target": [
+    95,
+    2845,
+    625,
+    3055
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  }
+ ]
+}

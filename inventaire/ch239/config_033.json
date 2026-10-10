@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-239/033.webp",
+ "output": "chapters_fr/chapter-239/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ESPÈCE DE SALAUD ! COMBIEN DE FOIS TU M’AS HUMILIÉ, HEIN ?!",
+   "style": "italique",
+   "point": [
+    427,
+    368
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU AS DÉJÀ CHOISI TON SUCCESSEUR, POURQUOI TU FAIS ÇA ?!",
+   "style": "italique",
+   "point": [
+    409,
+    1965
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AUCUNE IDÉE~ MDR",
+   "style": "dialogue",
+   "point": [
+    300,
+    2868
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU N’AS PAS ENTENDU ? SI TU PEUX LE TORDRE, TU LE GAGNES.",
+   "style": "dialogue",
+   "point": [
+    417,
+    3812
+   ]
+  },
+  {
+   "id": 7,
+   "text": "E-ENCORE CES MOTS !!!",
+   "style": "dialogue",
+   "point": [
+    332,
+    4717
+   ]
+  }
+ ]
+}

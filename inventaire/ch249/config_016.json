@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-249/016.webp",
+ "output": "chapters_fr/chapter-249/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUI, MAÎTRE ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    341,
+    205
+   ]
+  }
+ ]
+}

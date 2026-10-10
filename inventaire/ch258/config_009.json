@@ -1,0 +1,131 @@
+{
+ "source": "chapters_en/chapter-258/009.webp",
+ "output": "chapters_fr/chapter-258/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOILÀ QUI EST SURPRENANT.",
+   "style": "dialogue",
+   "point": [
+    296,
+    510
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST DONC AINSI QU’ELLE UTILISE LE POUVOIR DE \"RECONSTRUCTION\" VOLÉ À ARTHUR...",
+   "style": "dialogue",
+   "point": [
+    464,
+    836
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUI AURAIT CRU QU’UN ESPRIT, QUI N’EST MÊME PAS HUMAIN, AURAIT UN DÉSIR AUSSI PROFOND.",
+   "style": "dialogue",
+   "point": [
+    390,
+    2087
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CE MONSTRE...",
+   "style": "dialogue",
+   "point": [
+    341,
+    2961
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QU’EST-CE QU’ELLE CHERCHE À FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    485,
+    3257
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ELLE\nCHERCHE...",
+   "style": "dialogue",
+   "point": [
+    307,
+    4607
+   ],
+   "box": [
+    160,
+    4525,
+    460,
+    4690
+   ],
+   "ink_max": 100,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "target": [
+    185,
+    4545,
+    430,
+    4670
+   ]
+  },
+  {
+   "id": 100,
+   "text": "À RASSEMBLER\nLE KARMA\nDES PLAYERS DANS",
+   "style": "dialogue",
+   "box": [
+    240,
+    4895,
+    670,
+    5000
+   ],
+   "target": [
+    265,
+    4905,
+    650,
+    4995
+   ],
+   "ink_max": 100,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 31,
+   "seam": "bottom"
+  }
+ ]
+}

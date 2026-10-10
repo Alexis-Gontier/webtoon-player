@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/034.webp",
+ "output": "chapters_fr/chapter-254/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE VRAI SENS...",
+   "style": "cartouche",
+   "point": [
+    309,
+    172
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DU COMBAT DE SEOL-JIN HEO.",
+   "style": "cartouche",
+   "point": [
+    416,
+    854
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA... C’EST DIFFÉRENT DE TOUS LES AUTRES.",
+   "style": "pensee",
+   "point": [
+    379,
+    3061
+   ]
+  },
+  {
+   "id": 6,
+   "text": "EN FAIT, SI JE DEVAIS LE COMPARER À QUELQUE CHOSE...",
+   "style": "pensee",
+   "point": [
+    336,
+    4839
+   ]
+  }
+ ]
+}

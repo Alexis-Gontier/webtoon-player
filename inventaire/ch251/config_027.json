@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/027.webp",
+ "output": "chapters_fr/chapter-251/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE SUIS FICHU.",
+   "style": "pensee",
+   "point": [
+    406,
+    628
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QU’EST-CE QUI ARRIVE",
+   "style": "pensee",
+   "point": [
+    382,
+    1782
+   ]
+  },
+  {
+   "id": 3,
+   "text": "À MON AVENIR,\nLÀ, MAINTENANT ?",
+   "style": "pensee",
+   "point": [
+    407,
+    3526
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LILLET. COMMENT TU ES ENTRÉE DANS CET ESPACE...",
+   "style": "dialogue",
+   "point": [
+    371,
+    4883
+   ]
+  }
+ ]
+}

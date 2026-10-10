@@ -1,0 +1,101 @@
+{
+  "source": "chapters_en/chapter-225/008.webp",
+  "output": "chapters_fr/chapter-225/008.webp",
+  "bubbles": [
+    {
+      "point": [
+        408,
+        1558
+      ],
+      "text": "CETTE FLAMME, C’EST NOTRE CLAN !",
+      "style": "italique"
+    },
+    {
+      "point": [
+        410,
+        3125
+      ],
+      "text": "\"MÈRE DES FLAMMES... ?\"",
+      "max_size": 62
+    },
+    {
+      "point": [
+        402,
+        5722
+      ],
+      "text": "PERSPICACE. DIGNE DE MA FILLE."
+    },
+    {
+      "point": [
+        427,
+        6767
+      ],
+      "text": "ET SURTOUT, CES YEUX QUI ONT CHOISI LE \"CANDIDAT DIVIN\" COMME PROIE..."
+    },
+    {
+      "point": [
+        425,
+        8142
+      ],
+      "text": "MOI QUI ATTENDS AVEC IMPATIENCE LA PROSPÉRITÉ DE NOTRE CLAN, ME VOILÀ RASSURÉE~"
+    },
+    {
+      "point": [
+        283,
+        11650
+      ],
+      "text": "MÈRE DES FLAMMES ? ALORS CE RENARD EST LA MÈRE DE LILLET ?!"
+    },
+    {
+      "point": [
+        392,
+        12108
+      ],
+      "text": "HU HU, OUI ET NON. JE SUIS LA MÈRE DE TOUT LE CLAN DU FEU."
+    },
+    {
+      "point": [
+        310,
+        12625
+      ],
+      "text": "ATTENDS !!! M-MÈRE ! CETTE HISTOIRE, C’ÉTAIT TOI, PAPA ? TU N’AS PAS DIT ÇA, HEIN ?!",
+      "style": "italique"
+    },
+    {
+      "point": [
+        413,
+        13812
+      ],
+      "text": "ÇA A L’AIR DRÔLE, SALE GAMINE !",
+      "style": "italique",
+      "cut": [
+        [
+          296,
+          13984
+        ],
+        [
+          551,
+          13972
+        ]
+      ]
+    },
+    {
+      "point": [
+        432,
+        14155
+      ],
+      "text": "BON, ON A DE LA CHANCE QUE LILLET AIT RETROUVÉ SON ESPRIT COMBATIF.",
+      "style": "italique",
+      "cut": [
+        [
+          296,
+          13984
+        ],
+        [
+          551,
+          13972
+        ]
+      ]
+    }
+  ]
+}

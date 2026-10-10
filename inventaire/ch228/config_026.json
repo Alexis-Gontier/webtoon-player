@@ -1,0 +1,50 @@
+{
+ "source": "chapters_en/chapter-228/026.webp",
+ "output": "chapters_fr/chapter-228/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VEUX REVIVRE COMME ÇA ?",
+   "style": "dialogue",
+   "point": [
+    357,
+    258
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS, ON SE REVERRA.",
+   "style": "dialogue",
+   "point": [
+    324,
+    5028
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EXISTENCE SANS NOM.",
+   "style": "dialogue",
+   "point": [
+    423,
+    5356
+   ]
+  },
+  {
+   "id": 100,
+   "text": "C’EST PEUT-ÊTRE UNE BONNE\nOCCASION DE FAIRE TON\nEXAMEN DE CONSCIENCE.",
+   "style": "dialogue",
+   "box": [
+    180,
+    2555,
+    665,
+    2790
+   ],
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "ink_max": 245
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-264/040.webp",
+ "output": "chapters_fr/chapter-264/040.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET SUR CE,",
+   "style": "cartouche",
+   "point": [
+    263,
+    3389
+   ]
+  },
+  {
+   "id": 2,
+   "text": "EN ATTENDANT UNE NOUVELLE HISTOIRE QUI, UN JOUR, VIENDRA...",
+   "style": "cartouche",
+   "point": [
+    437,
+    3629
+   ]
+  }
+ ]
+}

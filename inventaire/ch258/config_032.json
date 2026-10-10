@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/032.webp",
+ "output": "chapters_fr/chapter-258/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS TU AS DÉJÀ L’AUTRE MOITIÉ, NON ?",
+   "style": "dialogue",
+   "point": [
+    345,
+    2206
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QU’EST-CE QUE TU VAS FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    330,
+    3165
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SEOL-JIN\nHEO.",
+   "style": "dialogue",
+   "point": [
+    429,
+    3509
+   ]
+  }
+ ]
+}

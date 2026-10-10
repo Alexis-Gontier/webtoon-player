@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-239/036.webp",
+ "output": "chapters_fr/chapter-239/036.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EH BIEN...",
+   "style": "dialogue",
+   "point": [
+    422,
+    153
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST PEUT-ÊTRE TROP POUR TOI.",
+   "style": "dialogue",
+   "point": [
+    435,
+    1034
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PAUVRE PETIT.",
+   "style": "dialogue",
+   "point": [
+    408,
+    3172
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TOI.",
+   "style": "dialogue",
+   "point": [
+    387,
+    4096
+   ]
+  }
+ ]
+}

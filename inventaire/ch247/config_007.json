@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-247/007.webp",
+ "output": "chapters_fr/chapter-247/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA VA,\nLIBUR.",
+   "style": "dialogue",
+   "point": [
+    356,
+    2159
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU AS TOUJOURS ÉTÉ À MES CÔTÉS. CETTE FOIS, C’EST MOI QUI ME METTRAI DEVANT POUR TE PROTÉGER.",
+   "style": "dialogue",
+   "point": [
+    359,
+    3465
+   ]
+  }
+ ]
+}

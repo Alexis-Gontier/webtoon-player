@@ -1,0 +1,165 @@
+{
+ "source": "chapters_en/chapter-262/005.webp",
+ "output": "chapters_fr/chapter-262/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SUR LE CHEMIN\nDEVANT MOI...",
+   "style": "systeme",
+   "box": [
+    130,
+    15,
+    590,
+    180
+   ],
+   "light": true,
+   "max_letter": 70,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU N’ES\nPLUS LÀ.",
+   "style": "systeme",
+   "box": [
+    130,
+    455,
+    590,
+    615
+   ],
+   "light": true,
+   "max_letter": 70,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ARMES D’EGO\nLAY ET LIBUR\nMÉTAMORPHOSE...",
+   "style": "systeme",
+   "point": [
+    358,
+    1465
+   ],
+   "box": [
+    30,
+    1345,
+    690,
+    1590
+   ],
+   "light": true,
+   "max_letter": 70,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    160,
+    2700,
+    580,
+    2965
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    125,
+    2965,
+    600,
+    3185
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 102,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    175,
+    3225,
+    555,
+    3445
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 105,
+   "text": "FORME :\nFRAPPE\nDÉCISIVE",
+   "style": "cri",
+   "box": [
+    40,
+    2620,
+    700,
+    3510
+   ],
+   "ink_max": 0,
+   "target": [
+    80,
+    2660,
+    660,
+    3470
+   ],
+   "stretch": 3,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 5
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "source": "chapters_en/chapter-261/022.webp",
+ "output": "chapters_fr/chapter-261/022.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "PARFOIS, ON NOUS GUIDE...",
+   "style": "systeme",
+   "point": [
+    421,
+    1871
+   ],
+   "box": [
+    105,
+    1770,
+    735,
+    1975
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PARFOIS,\nNOUS GUIDONS...",
+   "style": "systeme",
+   "point": [
+    399,
+    2935
+   ],
+   "box": [
+    125,
+    2845,
+    675,
+    3025
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CAR C’EST...",
+   "style": "systeme",
+   "point": [
+    399,
+    4281
+   ],
+   "box": [
+    105,
+    4235,
+    690,
+    4330
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

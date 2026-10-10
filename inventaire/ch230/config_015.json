@@ -1,0 +1,226 @@
+{
+ "source": "chapters_en/chapter-230/015.webp",
+ "output": "chapters_fr/chapter-230/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST LA PLUS GRANDE MARQUE DE RESPECT...",
+   "style": "dialogue",
+   "point": [
+    400,
+    304
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE JE PUISSE TE MONTRER EN TANT QUE PLAYER.",
+   "style": "dialogue",
+   "point": [
+    386,
+    1424
+   ]
+  },
+  {
+   "id": 3,
+   "text": "\"RIDEAU.\"",
+   "style": "dialogue",
+   "point": [
+    397,
+    2334
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DÉPLOIEMENT.",
+   "style": "cri",
+   "point": [
+    318,
+    3807
+   ]
+  },
+  {
+   "id": 103,
+   "text": "",
+   "style": "titre",
+   "box": [
+    120,
+    5455,
+    552,
+    5800
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 10
+  },
+  {
+   "id": 104,
+   "text": "",
+   "style": "titre",
+   "box": [
+    120,
+    5800,
+    695,
+    6338
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 10
+  },
+  {
+   "id": 107,
+   "text": "ARME",
+   "style": "titre",
+   "box": [
+    265,
+    5465,
+    545,
+    5735
+   ],
+   "target": [
+    275,
+    5475,
+    535,
+    5725
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4,
+   "stretch": 3
+  },
+  {
+   "id": 110,
+   "text": "D’EGO",
+   "style": "titre",
+   "box": [
+    150,
+    5800,
+    680,
+    6060
+   ],
+   "target": [
+    160,
+    5810,
+    670,
+    6050
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4,
+   "stretch": 3
+  },
+  {
+   "id": 111,
+   "text": "LUCIA",
+   "style": "titre",
+   "box": [
+    300,
+    6055,
+    620,
+    6330
+   ],
+   "target": [
+    305,
+    6065,
+    610,
+    6320
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4,
+   "stretch": 3
+  },
+  {
+   "id": 112,
+   "text": "LIBÉRATION\nCOMPLÈTE\nDE L’ÂME",
+   "style": "titre",
+   "box": [
+    70,
+    7790,
+    740,
+    8870
+   ],
+   "target": [
+    90,
+    7810,
+    720,
+    8850
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 10,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4,
+   "stretch": 3
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-250/037.webp",
+ "output": "chapters_fr/chapter-250/037.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH...\nLIBUR...?!",
+   "style": "dialogue",
+   "point": [
+    356,
+    695
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMMENT TU ES ENTRÉE ICI...?",
+   "style": "dialogue",
+   "point": [
+    354,
+    1971
+   ]
+  }
+ ]
+}

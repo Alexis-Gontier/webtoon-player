@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-249/020.webp",
+ "output": "chapters_fr/chapter-249/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HM ?",
+   "style": "dialogue",
+   "point": [
+    398,
+    1266
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU COPIES LE DOMAINE ABSOLU, MAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    335,
+    3993
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SÉRIEUX ?\nTU AS DÉJÀ",
+   "style": "dialogue",
+   "box": [
+    205,
+    4905,
+    545,
+    5000
+   ],
+   "ink_max": 120,
+   "max_letter": 55,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 30,
+   "target": [
+    205,
+    4905,
+    545,
+    5000
+   ],
+   "seam": "bottom"
+  }
+ ]
+}

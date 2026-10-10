@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/040.webp",
+ "output": "chapters_fr/chapter-257/040.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN SÛR, C’ÉTAIT TOUT NATUREL.",
+   "style": "cartouche",
+   "point": [
+    430,
+    1049
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CAR UNE TELLE CHOSE NE POUVAIT EXISTER DANS UN FAUX MONDE.",
+   "style": "cartouche",
+   "point": [
+    421,
+    2151
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AVEC LE TEMPS, LE DOUTE DEVINT CERTITUDE.",
+   "style": "cartouche",
+   "point": [
+    427,
+    4401
+   ]
+  }
+ ]
+}

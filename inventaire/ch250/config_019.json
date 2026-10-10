@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-250/019.webp",
+ "output": "chapters_fr/chapter-250/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH !",
+   "style": "italique",
+   "point": [
+    280,
+    892
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST QUOI, ÇA ?!",
+   "style": "italique",
+   "point": [
+    370,
+    1681
+   ]
+  }
+ ]
+}

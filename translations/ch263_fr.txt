@@ -1,0 +1,264 @@
+# Chapitre 263 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+# Monologue de Lay en lettres blanches cernées (p. 8-10) : box. Flash info (p. 32-33) : bulles blanches.
+
+## 001.webp
+001.1 | dialogue | -
+001.2 | dialogue | -
+# EN: LEAVE THE CONCLUSION TO ME.
+001.3 | italique | LAISSEZ-MOI\nLE DÉNOUEMENT.
+001.4 | dialogue | -
+001.5 | dialogue | -
+# EN: BECAUSE THIS IS THE OPTION WITH THE HIGHEST CHANCE OF SUCCESS.
+001.6 | italique | CAR C’EST L’OPTION QUI A LE PLUS DE CHANCES DE RÉUSSIR.
+# EN: VISUALIZE THE IMAGE...
+001.7 | italique | VISUALISE\nL’IMAGE...
+001.8 | dialogue | -
+
+## 002.webp
+# EN: ALL RIGHT, I CAN DO THIS.
+002.1 | italique | BIEN, JE PEUX\nY ARRIVER.
+# EN: I'LL MAKE IT.
+002.2 | italique | J’Y ARRIVERAI.
+# EN: JUST LIKE THEY...
+002.3 | italique | -
+002.100 | italique {"box": [240, 2835, 515, 2980], "ink_max": 130, "max_letter": 80, "grow": 3, "fill": [255,255,255]} | (effacer)
+002.101 | italique {"box": [240, 2835, 515, 2980], "target": [250, 2842, 505, 2972], "ink_max": 0, "colors": [[0,0,0],[0,0,0]]} | COMME ILS...
+002.4 | dialogue | -
+
+## 003.webp
+# EN: DID FOR ME.
+003.1 | italique {"box": [180, 0, 540, 185], "ink_max": 100, "max_letter": 60, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "italique"} | L’ONT FAIT\nPOUR MOI.
+# EN: LAY, THIS ISN'T RIGHT!
+003.2 | italique | LAY, CE N’EST\nPAS JUSTE !
+# EN: I'LL HELP TOO! SO...!
+003.3 | italique | JE VAIS AIDER\nAUSSI ! ALORS...!
+
+## 004.webp
+
+## 005.webp
+# EN: NO.
+005.100 | italique {"point": [362, 200]} | NON.
+005.1 | dialogue | -
+# EN: YOU HAVE SOMETHING YOU NEED TO DO.
+005.2 | italique | TU AS QUELQUE\nCHOSE À FAIRE.
+005.3 | dialogue | -
+005.4 | dialogue | -
+# EN: BY THE MASTER'S SIDE, LEAD THE OTHERS...
+005.5 | dialogue | AUX CÔTÉS DU MAÎTRE, MÈNE LES AUTRES...
+# EN: AND GUIDE THIS NEW WORLD.
+005.6 | dialogue | ET GUIDE CE NOUVEAU MONDE.
+# EN: SERIOUSLY...
+005.7 | dialogue | FRANCHEMENT...
+
+## 006.webp
+# EN: ARE YOU REALLY OKAY WITH AN ENDING LIKE THIS?
+006.1 | dialogue | TU ACCEPTES VRAIMENT UNE FIN PAREILLE ?
+# EN: WITHOUT FOLLOWING ANYONE'S ORDERS...
+006.2 | italique | SANS OBÉIR AUX ORDRES DE PERSONNE...
+# EN: THIS WAS THE FIRST DECISION I MADE ON MY OWN SINCE I WAS BORN.
+006.3 | italique | C’EST LA PREMIÈRE DÉCISION QUE JE PRENDS SEULE DEPUIS MA NAISSANCE.
+# EN: SO...
+006.4 | italique | ALORS...
+006.5 | dialogue | -
+# EN: ROOT FOR ME, BIG SIS.
+006.6 | italique | ENCOURAGE-\nMOI, GRANDE\nSŒUR.
+
+## 007.webp
+
+## 008.webp
+# EN: LAY...
+008.1 | italique | LAY...
+# EN: LORD ARTHUR.
+008.2 | systeme {"box": [130, 2675, 590, 2765], "grow": 3, "fill": [255,255,255], "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | SEIGNEUR ARTHUR.
+008.3 | dialogue | -
+# EN: I STILL DON'T KNOW WHAT IT MEANS TO HAVE A STORY OF MY OWN.
+008.4 | systeme {"box": [55, 3425, 665, 3625], "grow": 3, "fill": [255,255,255], "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | JE NE SAIS TOUJOURS PAS\nCE QUE C’EST QUE D’AVOIR\nMA PROPRE HISTOIRE.
+# EN: BUT...
+008.100 | systeme {"box": [250, 4150, 470, 4250], "grow": 3, "fill": [255,255,255], "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | MAIS...
+# EN: AT LEAST NOW...
+008.5 | systeme {"box": [90, 4850, 630, 4940], "grow": 3, "fill": [255,255,255], "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | AU MOINS POUR L’INSTANT...
+
+## 009.webp
+# EN: I WANT THE LIGHT THEY SHOWED ME...
+009.1 | systeme {"box": [80, 480, 640, 650], "grow": 3, "fill": [255,255,255], "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | JE VEUX QUE LA LUMIÈRE\nQU’ILS M’ONT MONTRÉE...
+# EN: TO KEEP SHINING A LITTLE LONGER.
+009.2 | systeme {"box": [110, 2480, 610, 2640], "grow": 3, "fill": [255,255,255], "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | BRILLE ENCORE\nUN PEU.
+# EN: THAT'S WHY...
+009.100 | systeme {"box": [90, 3270, 630, 3410], "grow": 3, "fill": [255,255,255], "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | C’EST POURQUOI...
+009.3 | dialogue | -
+
+## 010.webp
+# EN: PLEASE, FORGIVE MY DECISION.
+010.1 | systeme {"box": [65, 75, 655, 265], "light": true, "light_min": 200, "max_letter": 90, "grow": 6, "blur_fill": 12, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3} | JE VOUS EN PRIE,\nPARDONNEZ MA DÉCISION.
+
+## 011.webp
+# EN: ANYWAY...
+011.1 | dialogue | BREF...
+# EN: UNTIL THE VERY END, YOU ALL REMAINED A BUNCH OF TROUBLEMAKERS.
+011.2 | dialogue | JUSQU’AU BOUT, VOUS AUREZ ÉTÉ UNE BANDE DE FAUTEURS DE TROUBLES.
+
+## 012.webp
+012.1 | dialogue | -
+# EN: THIS PLACE IS...!
+012.2 | dialogue | CET ENDROIT,\nC’EST...!
+# EN: I NEVER IMAGINED I'D RETURN HERE.
+012.3 | dialogue | JE N’AURAIS JAMAIS CRU REVENIR ICI.
+
+## 013.webp
+# EN: LORD ARTHUR...!
+013.1 | dialogue | SEIGNEUR\nARTHUR...!
+
+## 014.webp
+# EN: CONGRATULATIONS, PLAYERS.
+014.1 | dialogue | FÉLICITATIONS, PLAYERS.
+014.2 | dialogue | -
+# EN: VICTORY IS YOURS!
+014.3 | dialogue | LA VICTOIRE\nEST À VOUS !
+# EN: SO...
+014.4 | dialogue | ALORS...
+# EN: I'LL MAKE SURE YOU GET AT LEAST A DECENT HAPPY ENDING!
+014.5 | dialogue | JE VAIS VEILLER À CE QUE VOUS AYEZ AU MOINS UNE FIN HEUREUSE CORRECTE !
+014.6 | dialogue | -
+014.7 | dialogue | -
+
+## 015.webp
+
+## 016.webp
+016.1 | dialogue | -
+
+## 017.webp
+017.1 | dialogue | -
+
+## 018.webp
+018.1 | dialogue | -
+
+## 019.webp
+019.1 | dialogue | -
+# EN: THANK YOU, SISTER.
+019.2 | italique | MERCI,\nGRANDE SŒUR.
+
+## 020.webp
+# EN: MY LADY...
+020.1 | dialogue | MA DAME...
+020.2 | dialogue | -
+# EN: AND NOW, WHAT ARE WE GOING TO DO FROM HERE ON OUT?
+020.3 | dialogue | ET MAINTENANT, QU’EST-CE QU’ON VA FAIRE ?
+
+## 021.webp
+# EN: WE'RE GOING TO MOVE FORWARD.
+021.1 | dialogue | ON VA\nALLER DE L’AVANT.
+021.2 | dialogue | -
+# EN: JUST LIKE WE'VE ALWAYS DONE!
+021.3 | dialogue | COMME ON L’A TOUJOURS FAIT !
+# EN: MOVE FORWARD...?! EVEN AFTER THE TOWER HAS DISAPPEARED?
+021.4 | dialogue | ALLER DE L’AVANT...?! MÊME APRÈS LA DISPARITION DE LA TOUR ?
+021.5 | dialogue | -
+# EN: SO WHAT? DID THE WORLD END OR SOMETHING?
+021.6 | dialogue | ET ALORS ? C’EST LA FIN DU MONDE, PEUT-ÊTRE ?
+# EN: AT A TIME LIKE THIS, PEOPLE NEED TO QUICKLY FIND A NEW AREA TO EXPLORE.
+021.7 | dialogue | DANS CES MOMENTS-LÀ, IL FAUT VITE TROUVER UN NOUVEAU TERRAIN À EXPLORER.
+
+## 022.webp
+# EN: THE NIGHT PARADE OF A HUNDRED DEMONS WILL FIND A NEW ADVENTURE.
+022.1 | dialogue | LA PARADE NOCTURNE DES CENT DÉMONS VA TROUVER UNE NOUVELLE AVENTURE.
+# EN: OF COURSE!
+022.2 | cri | BIEN SÛR !
+# EN: AND YOU GUYS ARE COMING ALONG TOO, NORTHWALK!
+022.3 | italique | ET VOUS VENEZ AUSSI, NORTHWALK !
+# EN: YEEES!
+022.4 | cri | OUIII !
+
+## 023.webp
+# EN: AND SO...
+023.1 | cartouche | ET AINSI...
+# EN: THE CELESTIAL ARENA'S TERRARIUM DISAPPEARED WITHOUT A TRACE.
+023.2 | cartouche | LE TERRARIUM DE L’ARÈNE CÉLESTE DISPARUT SANS LAISSER DE TRACE.
+# EN: HEY. (bulle coupée entre les pages 23 et 24)
+023.3 | dialogue | -
+023.100 | systeme {"box": [260, 4965, 400, 5000], "ink_max": 100, "grow": 2, "fill": [255,255,255]} | (effacer)
+
+## 024.webp
+024.1 | dialogue {"box": [255, 0, 410, 60], "target": [265, 0, 400, 50], "ink_max": 100, "max_letter": 70, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "dialogue", "max_size": 60} | SALUT.
+024.2 | dialogue | -
+# EN: SORRY TO KEEP YOU WAITING.
+024.3 | dialogue | DÉSOLÉ DE T’AVOIR FAIT ATTENDRE.
+# EN: RAN.
+024.4 | dialogue | RAN.
+
+## 025.webp
+# EN: WOOF!
+025.1 | italique | OUAF !
+
+## 026.webp
+# EN: THE WEATHER IS GREAT TODAY, DON'T YOU THINK?
+026.1 | dialogue | IL FAIT SUPER BEAU AUJOURD’HUI, TU NE TROUVES PAS ?
+# EN: IT REALLY IS. NOW THAT THE TERRARIUM AND AVALON BUILDINGS ARE GONE, THE VIEW IS MUCH BETTER.
+026.2 | dialogue | C’EST VRAI. MAINTENANT QUE LE TERRARIUM ET LES BÂTIMENTS D’AVALON ONT DISPARU, LA VUE EST BIEN MEILLEURE.
+# EN: IT'S ALREADY BEEN A WEEK SINCE THAT DAY.
+026.3 | dialogue | ÇA FAIT DÉJÀ UNE SEMAINE DEPUIS CE JOUR-LÀ.
+# EN: TIME REALLY FLIES.
+026.4 | dialogue | LE TEMPS\nFILE VRAIMENT.
+
+## 027.webp
+# EN: AND HOW'S YOUR BODY? HOW ARE YOU FEELING?
+027.1 | dialogue | ET TON CORPS ? COMMENT TU TE SENS ?
+# EN: ALMOST FULLY RECOVERED. RECOVERING MY KARMA WILL STILL TAKE A BIT MORE TIME, BUT...
+027.2 | dialogue | PRESQUE REMIS. RÉCUPÉRER MON KARMA PRENDRA ENCORE UN PEU DE TEMPS, MAIS...
+# EN: SINCE LIBUR STAYED WITH ME THE WHOLE DAY, I DIDN'T EVEN HAVE TIME TO GET BORED.
+027.3 | dialogue | COMME LIBUR EST RESTÉE AVEC MOI TOUTE LA JOURNÉE, JE N’AI MÊME PAS EU LE TEMPS DE M’ENNUYER.
+
+## 028.webp
+# EN: I THINK I'LL BE ABLE TO BE DISCHARGED IN A DAY OR TWO.
+028.1 | dialogue | JE CROIS QUE JE POURRAI SORTIR DANS UN JOUR OU DEUX.
+# EN: SEOL-JIN...
+028.2 | dialogue | -
+028.100 | dialogue {"point": [340, 2412]} | SEOL-JIN...
+# EN: WHAT DO YOU PLAN TO DO NOW?
+028.3 | dialogue | QU’EST-CE QUE TU COMPTES FAIRE, MAINTENANT ?
+
+## 029.webp
+029.1 | dialogue | -
+029.2 | dialogue | -
+# EN: I DON'T KNOW.
+029.3 | dialogue | JE NE SAIS\nPAS.
+# EN: LET'S THINK ABOUT IT TOGETHER.
+029.4 | dialogue | RÉFLÉCHISSONS-Y ENSEMBLE.
+
+## 030.webp
+# EN: WITH THIS...
+030.1 | systeme {"box": [160, 3895, 560, 3995], "light": true, "light_min": 200, "max_letter": 70, "grow": 6, "blur_fill": 12, "colors": [[255,255,255],[255,255,255]], "outline": [150,20,40], "outline_width": 3} | AINSI...
+# EN: THE ERA OF PLAYERS COMES TO AN END.
+030.2 | systeme {"box": [65, 4690, 655, 4860], "light": true, "light_min": 200, "max_letter": 70, "grow": 6, "blur_fill": 12, "colors": [[255,255,255],[255,255,255]], "outline": [150,20,40], "outline_width": 3} | S’ACHÈVE L’ÈRE\nDES PLAYERS.
+
+## 031.webp
+031.1 | dialogue | -
+
+## 032.webp
+# EN: BREAKING NEWS.
+032.1 | italique | FLASH\nSPÉCIAL.
+# EN: REPORTS OF MASSIVE UNIDENTIFIED FLOATING OBJECTS HAVE EMERGED IN VARIOUS REGIONS OF THE COUNTRY.
+032.2 | italique | DES OBJETS VOLANTS NON IDENTIFIÉS GÉANTS SONT SIGNALÉS DANS PLUSIEURS RÉGIONS DU PAYS.
+# EN: STARTING WITH THE SEODAEMUN DISTRICT IN SEOUL.
+032.3 | italique | À COMMENCER PAR L’ARRONDISSEMENT DE SEODAEMUN, À SÉOUL.
+# EN: AT THIS MOMENT, THESE OBJECTS ARE NOT BELIEVED TO BE SIMPLE METEORITES OR AIRCRAFT STRUCTURES.
+032.4 | italique | POUR L’INSTANT, IL NE S’AGIRAIT PAS DE SIMPLES MÉTÉORITES NI D’AÉRONEFS.
+# EN: A GIGANTIC CONSTRUCTION IS VISIBLE IN THE CENTER OF THE SCREEN. THIS OBJECT, WHICH APPEARS TO BE PART OF AN ANCIENT STRUCTURE...
+032.5 | italique | UNE CONSTRUCTION GIGANTESQUE EST VISIBLE AU CENTRE DE L’ÉCRAN. CET OBJET, QUI SEMBLE FAIRE PARTIE D’UNE STRUCTURE ANCIENNE...
+# EN: HAS BEEN CONFIRMED TO BE FLOATING THOUSANDS OF METERS IN THE AIR.
+032.6 | italique | FLOTTERAIT, SELON LES CONFIRMATIONS, À DES MILLIERS DE MÈTRES D’ALTITUDE.
+032.7 | dialogue | -
+# EN: EXPERTS POINT OUT THAT THE STAIRCASES AND COLUMNS VISIBLE ON ITS SURFACE...
+032.8 | italique | LES EXPERTS SOULIGNENT QUE LES ESCALIERS ET LES COLONNES VISIBLES À SA SURFACE...
+# EN: SUGGEST THE POSSIBILITY OF IT BEING AN ARTIFICIAL / STRUCTURE. (bulle coupée entre les pages 32 et 33)
+032.9 | italique {"box": [300, 4820, 620, 5000], "target": [325, 4835, 600, 4995], "ink_max": 100, "max_letter": 45, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "italique"} | LAISSENT\nPENSER À UNE\nSTRUCTURE
+
+## 033.webp
+033.1 | italique {"box": [265, 0, 620, 95], "target": [280, 8, 585, 75], "ink_max": 100, "max_letter": 38, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "italique"} | ARTIFICIELLE.
+# EN: MOST SHOCKINGLY, THIS PHENOMENON IS NOT LIMITED TO KOREA.
+033.2 | italique | PLUS STUPÉFIANT ENCORE, LE PHÉNOMÈNE NE SE LIMITE PAS À LA CORÉE.
+# EN: SIMILAR GIANT FLOATING STRUCTURES ARE ALSO BEING SPOTTED IN VARIOUS COUNTRIES...
+033.3 | italique | DES STRUCTURES FLOTTANTES GÉANTES SEMBLABLES SONT AUSSI OBSERVÉES DANS PLUSIEURS PAYS...
+
+## 034.webp
+034.1 | dialogue | -
+034.2 | systeme | -

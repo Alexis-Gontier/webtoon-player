@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-247/010.webp",
+ "output": "chapters_fr/chapter-247/010.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "BON...",
+   "style": "dialogue",
+   "point": [
+    357,
+    3132
+   ]
+  }
+ ]
+}

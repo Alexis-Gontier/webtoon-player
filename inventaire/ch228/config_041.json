@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-228/041.webp",
+ "output": "chapters_fr/chapter-228/041.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE NE PEUX PAS ALLER PAR LÀ.",
+   "style": "dialogue",
+   "point": [
+    390,
+    798
+   ]
+  },
+  {
+   "id": 3,
+   "text": "\"RÉCUPÉRATION.\"",
+   "style": "dialogue",
+   "point": [
+    397,
+    5009
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-243/012.webp",
+ "output": "chapters_fr/chapter-243/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’EST-CE QUE ÇA VEUT DIRE ?! ON EST...",
+   "style": "dialogue",
+   "point": [
+    340,
+    183
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UN !",
+   "style": "dialogue",
+   "point": [
+    486,
+    1416
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HAHA ! JE SUIS JALOUX.",
+   "style": "dialogue",
+   "point": [
+    475,
+    2693
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BIEN ! ENFIN UN COUP QUI PORTE !",
+   "style": "dialogue",
+   "point": [
+    444,
+    6082
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ON CONTINUE SUR CET ÉLAN. OCCUPE-TOI DU SOUTIEN, LIBUR !",
+   "style": "dialogue",
+   "point": [
+    418,
+    8718
+   ]
+  },
+  {
+   "id": 7,
+   "text": "OUAIS.",
+   "style": "italique",
+   "point": [
+    310,
+    9493
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LE VRAI COMBAT COMMENCE MAINTENANT... !",
+   "style": "italique",
+   "point": [
+    493,
+    10278
+   ]
+  }
+ ]
+}

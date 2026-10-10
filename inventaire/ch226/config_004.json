@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-226/004.webp",
+ "output": "chapters_fr/chapter-226/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’ÉTAIT DONC ÇA.",
+   "style": "dialogue",
+   "point": [
+    412,
+    1546
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CELUI QUI M’A FAIT RESSENTIR ÇA...",
+   "style": "dialogue",
+   "point": [
+    405,
+    3018
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’ÉTAIT LUI, DEPUIS LE DÉBUT !",
+   "style": "dialogue",
+   "point": [
+    404,
+    4289
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QU’EST-CE QUE... ? IL Y A DEUX MIRAGE... ?",
+   "style": "dialogue",
+   "point": [
+    271,
+    9829
+   ]
+  },
+  {
+   "id": 6,
+   "text": "NON, L’AFFICHE A CHANGÉ. ÇA DIT \"UNNAME\"... T’EN AS DÉJÀ ENTENDU PARLER ?",
+   "style": "dialogue",
+   "point": [
+    507,
+    10862
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ON EST CENSÉS ENCOURAGER QUI, MAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    297,
+    11316
+   ]
+  }
+ ]
+}

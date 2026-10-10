@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-245/012.webp",
+ "output": "chapters_fr/chapter-245/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OH LÀ LÀ.",
+   "style": "dialogue",
+   "point": [
+    377,
+    164
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET SI TU FLAGEOLES DÉJÀ AVANT MÊME LE DÉBUT DU COMBAT ?",
+   "style": "dialogue",
+   "point": [
+    420,
+    1331
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HÉ, LES SPECTATEURS ! VOUS ÊTES VRAIMENT D’ACCORD AVEC ÇA ?",
+   "style": "dialogue",
+   "point": [
+    310,
+    3169
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI CE MORVEUX PERD CONTRE MOI, LE MONDE ENTIER EST FICHU~ !",
+   "style": "dialogue",
+   "point": [
+    478,
+    4393
+   ]
+  }
+ ]
+}

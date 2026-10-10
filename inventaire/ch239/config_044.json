@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-239/044.webp",
+ "output": "chapters_fr/chapter-239/044.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET POUR QUELLE RAISON ?",
+   "style": "dialogue",
+   "point": [
+    402,
+    345
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PARCE QUE \"NOUS\" FERONS EN SORTE QUE ÇA ARRIVE.",
+   "style": "dialogue",
+   "point": [
+    406,
+    1507
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MAINTENANT, IL EST TEMPS D’ACCEPTER TON KARMA.",
+   "style": "dialogue",
+   "point": [
+    408,
+    3585
+   ]
+  }
+ ]
+}

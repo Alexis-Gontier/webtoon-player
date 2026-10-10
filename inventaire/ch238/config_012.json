@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-238/012.webp",
+ "output": "chapters_fr/chapter-238/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU ES...",
+   "style": "dialogue",
+   "point": [
+    372,
+    205
+   ]
+  },
+  {
+   "id": 2,
+   "text": "\"LAY\", C’EST ÇA ?",
+   "style": "dialogue",
+   "point": [
+    439,
+    1805
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMMENT OSES-TU, ESPÈCE D’ENFOIRÉ !",
+   "style": "dialogue",
+   "point": [
+    433,
+    3359
+   ]
+  },
+  {
+   "id": 5,
+   "text": "COMMENT OSES-TU PRONONCER LE NOM DONNÉ PAR LE SEIGNEUR ARTHUR ?",
+   "style": "dialogue",
+   "point": [
+    390,
+    5207
+   ]
+  },
+  {
+   "id": 6,
+   "text": "A-ATTENDS, JE NE VOULAIS RIEN DIRE DE MAL... !",
+   "style": "italique",
+   "point": [
+    402,
+    6867
+   ]
+  },
+  {
+   "id": 7,
+   "text": "HÉ.",
+   "style": "dialogue",
+   "point": [
+    415,
+    8739
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ON NE PEUT PAS EN DISCUTER ?",
+   "style": "dialogue",
+   "point": [
+    406,
+    10384
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ARRÊTE, LIBUR. PAS BESOIN DE DÉGAINER TON ÉPÉE.",
+   "style": "dialogue",
+   "point": [
+    434,
+    11344
+   ]
+  },
+  {
+   "id": 10,
+   "text": "HMPH ! DÉBARQUER COMME ÇA, TOUT D’UN COUP.",
+   "style": "dialogue",
+   "point": [
+    358,
+    12569
+   ]
+  },
+  {
+   "id": 11,
+   "text": "ET ALORS ? C’EST MON MAÎTRE.",
+   "style": "dialogue",
+   "point": [
+    439,
+    12858
+   ]
+  }
+ ]
+}

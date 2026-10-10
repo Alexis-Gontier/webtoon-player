@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-236/009.webp",
+ "output": "chapters_fr/chapter-236/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VOIS...",
+   "style": "dialogue",
+   "point": [
+    473,
+    174
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ALORS TU AS JUSTE...",
+   "style": "dialogue",
+   "point": [
+    390,
+    1169
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PAS... TIS... !",
+   "style": "dialogue",
+   "point": [
+    316,
+    2917
+   ]
+  },
+  {
+   "id": 4,
+   "text": "S’IL TE PLAÎT...",
+   "style": "dialogue",
+   "point": [
+    363,
+    4061
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BIEN JOUÉ, LILLET.",
+   "style": "dialogue",
+   "point": [
+    247,
+    5480
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’ÉTAIT UNE EXCELLENTE FEINTE !",
+   "style": "dialogue",
+   "point": [
+    304,
+    7307
+   ]
+  }
+ ]
+}

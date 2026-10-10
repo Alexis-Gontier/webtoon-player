@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-251/020.webp",
+ "output": "chapters_fr/chapter-251/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’EN SUIS\nSÛRE.",
+   "style": "pensee",
+   "point": [
+    297,
+    136
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI JE PERDS ENCORE DU TEMPS,",
+   "style": "pensee",
+   "point": [
+    431,
+    1096
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL NE FERA QUE DEVENIR PLUS DANGEREUX.",
+   "style": "pensee",
+   "point": [
+    533,
+    1369
+   ]
+  },
+  {
+   "id": 4,
+   "text": "IL EST FIGÉ. C’EST MA CHANCE.",
+   "style": "pensee",
+   "point": [
+    348,
+    2151
+   ]
+  },
+  {
+   "id": 5,
+   "text": "L’OUVERTURE PARFAITE.",
+   "style": "pensee",
+   "point": [
+    496,
+    3043
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE DOIS FINIR CE COMBAT MAINTENANT.",
+   "style": "pensee",
+   "point": [
+    374,
+    3989
+   ]
+  }
+ ]
+}

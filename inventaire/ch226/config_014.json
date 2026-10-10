@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-226/014.webp",
+ "output": "chapters_fr/chapter-226/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’EST-CE QUE... COMMENT... ?!",
+   "style": "dialogue",
+   "point": [
+    434,
+    4329
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE POUVOIR DE MIRAGE... ?",
+   "style": "dialogue",
+   "point": [
+    391,
+    5575
+   ]
+  },
+  {
+   "id": 3,
+   "text": "UN...\nNAME... !",
+   "style": "dialogue",
+   "point": [
+    380,
+    8913
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ESPÈCE... D’ENFOIRÉ... !",
+   "style": "dialogue",
+   "point": [
+    396,
+    10624
+   ]
+  },
+  {
+   "id": 6,
+   "text": "POURQUOI T’ES SI SURPRIS ?",
+   "style": "dialogue",
+   "point": [
+    410,
+    11848
+   ]
+  },
+  {
+   "id": 7,
+   "text": "UTILISER TON POUVOIR AVEC TON PROPRE CORPS...",
+   "style": "dialogue",
+   "point": [
+    395,
+    13020
+   ]
+  }
+ ]
+}

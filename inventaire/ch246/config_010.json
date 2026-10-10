@@ -1,0 +1,50 @@
+{
+ "source": "chapters_en/chapter-246/010.webp",
+ "output": "chapters_fr/chapter-246/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU TE SOUVIENS DU PLAN, RAY ?",
+   "style": "dialogue",
+   "point": [
+    405,
+    423
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI, MAÎTRE ARTHUR. JE GARDERAI UNE PUISSANCE ASSEZ FAIBLE POUR NE PAS DÉTRUIRE L’ARÈNE.",
+   "style": "dialogue",
+   "point": [
+    411,
+    1431
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PARADE",
+   "style": "systeme",
+   "box": [
+    120,
+    5940,
+    730,
+    6225
+   ],
+   "ink_red_max": 120,
+   "grow": 5,
+   "angle": -12,
+   "colors": [
+    [
+     60,
+     200,
+     235
+    ],
+    [
+     40,
+     170,
+     225
+    ]
+   ]
+  }
+ ]
+}

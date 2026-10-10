@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-236/021.webp",
+ "output": "chapters_fr/chapter-236/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH, SEIGNEUR ARTHUR !",
+   "style": "dialogue",
+   "point": [
+    503,
+    1663
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE NE PENSAIS PAS QUE VOUS VIENDRIEZ SI VITE.",
+   "style": "dialogue",
+   "point": [
+    392,
+    5679
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ATTENDS, ARTHUR... EST VENU EN PERSONNE ?",
+   "style": "italique",
+   "point": [
+    330,
+    8228
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CE GENRE DE SITUATION DÉPASSE DE LOIN CE QUE J’AVAIS PRÉVU... !",
+   "style": "italique",
+   "point": [
+    473,
+    9206
+   ]
+  }
+ ]
+}

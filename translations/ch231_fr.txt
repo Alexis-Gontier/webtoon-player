@@ -1,0 +1,113 @@
+# Chapitre 231. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | -
+001.2 | dialogue | -
+001.3 | dialogue | MO-
+001.4 | dialogue | MO-KI-KO~
+001.5 | dialogue | JE VOUS PRIE DE M’EXCUSER, SEIGNEUR ARTHUR. JE VAIS L’ENLEVER AU PLUS VITE.
+001.6 | dialogue | LAISSE-LES, CE NE SONT PAS DE MAUVAIS PETITS~
+001.7 | dialogue | LAY, TOI...
+001.8 | dialogue | TU DÉTESTES VRAIMENT CES PETITS, HEIN ?
+001.9 | dialogue | POUR QUELLE RAISON ?
+001.100 | dialogue {"point": [405, 11630], "cut": [[330, 11748], [530, 11715]]} | ...?
+001.10 | dialogue {"cut": [[330, 11748], [530, 11715]]} | BIEN SÛR ! COMMENT OSENT-ILS FAIRE ÇA DEVANT VOUS, SEIGNEUR ARTHUR...
+001.11 | italique | MAINTENANT QUE J’Y PENSE,
+001.12 | italique | -
+# Effacement limité aux lettres anglaises (un box plus large rognait le contour), puis texte posé sans effacer.
+001.100 | italique {"box": [306, 13848, 660, 14006], "fill": [255,255,255], "ink_max": 150} | (effacer)
+001.101 | italique {"box": [300, 13755, 666, 14025], "target": [335, 13760, 631, 14020], "ink_max": 0, "colors": [[0,0,0],[0,0,0]]} | QU’EST-CE\nQUE C’EST... ?\nCE SENTIMENT\nÉCRASANT DE\nHAINE SANS\nRAISON ?
+002.1 | dialogue | TU VEUX DIRE "EUX".
+002.2 | dialogue | C’EST PARCE QUE CE NE SONT PAS DES CRÉATURES QUE J’AI CRÉÉES.
+002.3 | dialogue | -
+002.4 | dialogue | -
+002.5 | dialogue | DANS CETTE TOUR, CES "ÉTRANGERS" EXISTENT À PART.
+002.6 | dialogue | ..."ÉTRANGERS" ?
+002.7 | dialogue | ALORS NE LES QUITTE PAS DES YEUX, REGARDE BIEN.
+002.8 | dialogue | CELUI-LÀ AUSSI EST L’UN DES "ÉTRANGERS"...
+002.9 | dialogue | C’EST LEUR "ORIGINE".
+002.10 | systeme {"box": [130, 10460, 670, 11260], "target": [175, 10500, 625, 11225], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3, "stretch": 3} | ARME\nD’EGO\nLUCIA
+002.11 | dialogue | -
+002.12 | systeme {"box": [30, 13760, 770, 14460], "target": [60, 13800, 740, 14425], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3, "stretch": 3} | LIBÉRATION\nCOMPLÈTE\nDE L’ÂME
+003.1 | dialogue | C’EST ÇA, LE "RIDEAU"... ?
+003.2 | dialogue | C’ÉTAIT DONC L’OMBRE DE CE MONSTRE... !
+003.3 | dialogue | RIDEAU,
+003.4 | dialogue | -
+004.1 | dialogue | DÉPLOIEMENT.
+004.2 | dialogue {"box": [240, 1615, 515, 1785], "target": [262, 1635, 495, 1765], "ink_max": 90, "max_letter": 90, "grow": 7, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | MERCI,\nDEAN.
+004.3 | dialogue {"box": [232, 3435, 580, 3670], "target": [262, 3462, 552, 3645], "ink_max": 90, "max_letter": 60, "grow": 4, "line_spacing": 1.15, "colors": [[0,0,0],[0,0,0]]} | GRÂCE À\nTOI, J’AI PU\nME PLONGER\nDANS LES\nSOUVENIRS.
+004.4 | dialogue {"box": [248, 4235, 583, 4510], "target": [272, 4255, 562, 4490], "ink_max": 90, "max_letter": 60, "grow": 5, "line_spacing": 1.3, "colors": [[0,0,0],[0,0,0]]} | ÇA FAISAIT\nSI LONGTEMPS\nQUE PERSONNE\nN’AVAIT\nENFLAMMÉ\nLA PASSION\nDE ZICHMUND.
+004.5 | dialogue | MAIS... ON VA METTRE FIN À TON DÉFI...
+004.6 | dialogue | POUR NOTRE RÊVE.
+004.7 | italique | L’ÉNERGIE DU NOYAU... !
+004.8 | italique | EST-CE QUE J’AI VRAIMENT PEUR ?
+004.9 | italique | MOI ?
+004.10 | dialogue | ...HAHA !
+005.1 | cri | C’EST\nLA JOIE !!!
+005.2 | dialogue | -
+005.3 | italique | QU’EST-CE QUE J’ESPÉRAIS ?
+005.4 | italique | RÉVÉLER UN SECRET CACHÉ JUSQU’ICI, POUSSÉ PAR DE SIMPLES ÉMOTIONS...
+005.5 | italique | AU BOUT DU COMPTE, IL EST ENFIN VENU ME CHERCHER.
+005.6 | italique | AU BOUT DU COMPTE, IL EST ENFIN VENU ME CHERCHER.
+005.7 | italique | LA "POÉSIE DU FUTUR" DE LUCIA EST ABSOLUE.
+005.8 | italique | LA LUMIÈRE DE CE TYPE...
+005.9 | italique | SERA BRISÉE DE MES MAINS.
+006.1 | italique | IL ESSAIE DE RÉSISTER...
+006.2 | italique | AUX TÉNÈBRES DE LUCIA AVEC UNE SIMPLE "LUMIÈRE" ?
+006.3 | dialogue | JE SUIS DÉSOLÉ.
+006.4 | dialogue | EXCALIBUR N’AURAIT PAS DÛ ÊTRE CONFIÉE À UN GAMIN IGNORANT COMME TOI,
+006.5 | dialogue | -
+006.6 | dialogue | ELLE AURAIT DÛ REVENIR À UN VRAI HÉROS COMME MOI.
+006.7 | dialogue | GARDONS LES BAVARDAGES INUTILES POUR PLUS TARD.
+006.8 | dialogue | PARCE QUE JE TE RESSUSCITERAI SANS FAUTE DANS MON "PROCHAIN MONDE".
+007.1 | italique | OUI, ENCORE UN PEU.
+007.2 | italique | TIENS ENCORE UN PEU.
+007.3 | italique | TIENS ENCORE UN PEU.
+007.4 | italique | CE MONDE ABSURDE VA BIENTÔT PRENDRE FIN...
+007.5 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE\nDEUXIÈME ROUND
+007.6 | dialogue | -
+007.7 | dialogue | -
+007.8 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | VAINQUEUR,
+007.9 | italique | QUI A DIT QUE TU POUVAIS FINIR COMME TU VOULAIS ?
+007.10 | italique | VAN\nZICHMUND !
+008.1 | dialogue | -
+008.2 | cri | ÇA, C’ÉTAIT\nJUSTE POUR\nS’ÉCHAUFFER.
+008.3 | cri | C’ÉTAIT PAREIL\nPOUR TOI,\nHEIN ?
+008.4 | dialogue | -
+008.5 | cri | BIEN\nALORS...
+009.1 | cri | À PARTIR\nDE MAINTENANT...
+009.2 | cri | FAISONS-LE\nPOUR DE VRAI.
+009.3 | dialogue | MON OMBRE...
+009.4 | dialogue | A ÉTÉ REPOUSSÉE ?
+009.5 | dialogue | PAR CETTE LUMIÈRE...
+009.6 | dialogue {"box": [262, 12196, 534, 12276], "target": [300, 12212, 505, 12262], "fill": [255,255,255], "ink_max": 150, "max_letter": 50, "colors": [[0,0,0],[0,0,0]]} | SÉRIEUX~ ?
+009.7 | dialogue | LE FUTUR A CHANGÉ ?
+010.1 | dialogue | DANS LA FOULÉE DE LA V16,
+010.2 | dialogue | LE CORPS FRAGILE DE DEAN, INCAPABLE DE SUPPORTER CE POUVOIR, COMMENÇA À SE DÉCHIRER.
+010.3 | dialogue | -
+010.4 | dialogue | OUAIS.
+010.5 | systeme {"box": [270, 6495, 545, 6640], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | COMME UN\nPAPILLON
+010.6 | dialogue | -
+010.7 | dialogue | -
+010.8 | dialogue | QUI PEINE À DÉPLOYER SES AILES.
+010.9 | dialogue | -
+011.1 | dialogue | LE VOILÀ...
+011.2 | dialogue | LE SIGNAL !
+011.3 | systeme {"box": [195, 6440, 615, 6712], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | PROJET : ESPOIR\nACTIVÉ.
+011.4 | systeme {"box": [100, 7100, 620, 7300], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | VÉRIFICATION DU NOYAU\nET SYNCHRONISATION.
+011.5 | dialogue | -
+011.6 | dialogue | C’EST LÀ !
+012.1 | dialogue | VOILÀ CE QU’A FAIT MON CAMARADE...
+012.2 | dialogue | VOILÀ L’ABOUTISSEMENT DE MES CAPACITÉS.
+012.3 | dialogue | PAS POSSIBLE !!!
+012.4 | dialogue | PAS POSSIBLE~
+012.5 | dialogue | -
+012.6 | dialogue | -
+013.1 | dialogue | DEAN !
+013.2 | dialogue | ALORS, TU ÉTAIS SÉRIEUX !!!
+013.3 | dialogue | MAINTENANT, PLAYER "VAN ZICHMUND".
+013.4 | cri | AYONS UNE\nCONVERSATION D’ÂME !
+# EN: HOPE (nom gravé sur l'arme, vertical) → ESPOIR, comme « PROJET : ESPOIR »
+013.100 | systeme {"box": [278, 6895, 428, 7215], "target": [312, 6912, 412, 7198], "ink_max": 140, "max_letter": 110, "grow": 6, "angle": -102, "colors": [[0,0,0],[0,0,0]]} | ESPOIR
+013.5 | dialogue | -
+013.6 | dialogue {"box": [155, 11100, 600, 11285], "fill": [253,253,253], "ink_max": 245, "grow": 7, "target": [170, 11115, 585, 11272], "colors": [[0,0,0],[0,0,0]]} | CHEF-D’ŒUVRE\nDE MARY GENNOS
+013.7 | dialogue | -
+013.8 | dialogue | -

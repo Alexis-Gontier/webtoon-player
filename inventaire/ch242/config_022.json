@@ -1,0 +1,124 @@
+{
+ "source": "chapters_en/chapter-242/022.webp",
+ "output": "chapters_fr/chapter-242/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL L’A ANÉANTI.",
+   "style": "dialogue",
+   "point": [
+    464,
+    3891
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÇA AUSSI... EN UN INSTANT... !",
+   "style": "dialogue",
+   "point": [
+    424,
+    4910
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-CE QUI VIENT DE SE PASSER... ?",
+   "style": "dialogue",
+   "point": [
+    386,
+    5694
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    98,
+    6233,
+    701,
+    6356
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 5,
+   "text": "UNNAME",
+   "style": "systeme",
+   "box": [
+    201,
+    6478,
+    603,
+    6603
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 6,
+   "text": "VAINQUEUR,\nSEOL-JIN HEO.",
+   "style": "systeme",
+   "point": [
+    399,
+    7002
+   ],
+   "box": [
+    90,
+    6880,
+    710,
+    7125
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 160
+  },
+  {
+   "id": 100,
+   "text": "SEOL-JIN HEO,\nESPÈCE DE GAMIN\nARROGANT !!!!",
+   "style": "cri",
+   "point": [
+    390,
+    243
+   ]
+  }
+ ]
+}

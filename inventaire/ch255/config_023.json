@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-255/023.webp",
+ "output": "chapters_fr/chapter-255/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA...",
+   "style": "dialogue",
+   "point": [
+    307,
+    268
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE N’EST PAS\nTRÈS DRÔLE,\nHEIN ?",
+   "style": "dialogue",
+   "point": [
+    424,
+    577
+   ]
+  }
+ ]
+}

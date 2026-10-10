@@ -1,0 +1,114 @@
+{
+ "source": "chapters_en/chapter-238/010.webp",
+ "output": "chapters_fr/chapter-238/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SEOL-JIN... LIBUR VA BIEN PRENDRE SOIN DE LUI, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    352,
+    222
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE TYPE, CE N’EST PAS CELUI QUI DÉBARQUE ET QUI S’ÉCROULE ?",
+   "style": "dialogue",
+   "point": [
+    611,
+    587
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AH, C’EST VRAI. IL L’A FAIT UNE FOIS.",
+   "style": "dialogue",
+   "point": [
+    370,
+    1986
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUELLE CRITIQUE BRUTALE...",
+   "style": "dialogue",
+   "point": [
+    409,
+    2848
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TOI AUSSI, FAIS ATTENTION, PUISQUE TU ES UNE ARME D’EGO.",
+   "style": "dialogue",
+   "point": [
+    339,
+    3765
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AVOIR AFFAIRE À CE TYPE, C’EST UNE VRAIE PLAIE.",
+   "style": "dialogue",
+   "point": [
+    421,
+    5014
+   ]
+  },
+  {
+   "id": 9,
+   "text": "QUOI... ?",
+   "style": "dialogue",
+   "point": [
+    450,
+    6483
+   ]
+  },
+  {
+   "id": 10,
+   "text": "SEOL-JIN HEO... MAIS QUEL GENRE DE PERSONNE EST-IL ?",
+   "style": "italique",
+   "point": [
+    419,
+    7569
+   ]
+  },
+  {
+   "id": 13,
+   "text": "JE VAIS FAIRE UNE PETITE PAUSE, SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    468,
+    10821
+   ]
+  },
+  {
+   "id": 14,
+   "text": "QUOI ? LAY.",
+   "style": "dialogue",
+   "point": [
+    400,
+    11861
+   ]
+  },
+  {
+   "id": 15,
+   "text": "TU NE REGARDES PAS LE TROISIÈME ROUND ? IL VA COMMENCER.",
+   "style": "dialogue",
+   "point": [
+    486,
+    12190
+   ]
+  },
+  {
+   "id": 16,
+   "text": "NON.",
+   "style": "dialogue",
+   "point": [
+    410,
+    12906
+   ]
+  }
+ ]
+}

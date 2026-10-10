@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/014.webp",
+ "output": "chapters_fr/chapter-251/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DE L’EAU.",
+   "style": "dialogue",
+   "point": [
+    420,
+    266
+   ]
+  },
+  {
+   "id": 4,
+   "text": "À-À VOS\nORDRES !",
+   "style": "dialogue",
+   "point": [
+    422,
+    2590
+   ]
+  },
+  {
+   "id": 5,
+   "text": "COMBIEN DE TEMPS S’EST ÉCOULÉ DEPUIS LE DÉBUT DE LA FINALE ?",
+   "style": "dialogue",
+   "point": [
+    470,
+    3468
+   ]
+  },
+  {
+   "id": 7,
+   "text": "OUI, SEIGNEUR ARTHUR ! QUARANTE MINUTES SE SONT ÉCOULÉES !",
+   "style": "dialogue",
+   "point": [
+    340,
+    4730
+   ]
+  }
+ ]
+}

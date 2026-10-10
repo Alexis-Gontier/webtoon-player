@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-234/009.webp",
+ "output": "chapters_fr/chapter-234/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AU POINT QUE VOUS OUBLIEREZ TOUS POURQUOI VOUS ÊTES VENUS ICI !",
+   "style": "italique",
+   "point": [
+    401,
+    276
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MA DERNIÈRE ENFANT QUI ASPIRE AU POUVOIR.",
+   "style": "dialogue",
+   "point": [
+    462,
+    4559
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POURQUOI NE DEMANDES-TU PAS LE POUVOIR DE TA MÈRE ?",
+   "style": "dialogue",
+   "point": [
+    385,
+    6196
+   ]
+  },
+  {
+   "id": 6,
+   "text": "HUM, JE TROUVE ÇA BIZARRE QUAND MÊME...",
+   "style": "dialogue",
+   "point": [
+    319,
+    7111
+   ]
+  },
+  {
+   "id": 7,
+   "text": "QUEL PRIX DOIS-JE PAYER POUR TON POUVOIR, MÈRE ?",
+   "style": "dialogue",
+   "point": [
+    462,
+    8040
+   ]
+  },
+  {
+   "id": 8,
+   "text": "DE QUOI TU PARLES ?",
+   "style": "dialogue",
+   "point": [
+    365,
+    8979
+   ]
+  }
+ ]
+}

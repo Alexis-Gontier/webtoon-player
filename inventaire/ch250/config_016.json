@@ -1,0 +1,90 @@
+{
+ "source": "chapters_en/chapter-250/016.webp",
+ "output": "chapters_fr/chapter-250/016.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "LA FIN EST DÉJÀ ÉCRITE.",
+   "style": "italique",
+   "point": [
+    368,
+    720
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA A DURÉ BIEN TROP LONGTEMPS.",
+   "style": "italique",
+   "point": [
+    405,
+    1871
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AU PROCHAIN COUP, CET ENNUI VA...!",
+   "style": "italique",
+   "point": [
+    371,
+    2705
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LIBUR...",
+   "style": "dialogue",
+   "point": [
+    386,
+    3525
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE T’AI\nTROUVÉ !",
+   "style": "cri",
+   "point": [
+    397,
+    3949
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LIGNE !",
+   "style": "italique",
+   "box": [
+    340,
+    0,
+    570,
+    48
+   ],
+   "target": [
+    350,
+    2,
+    560,
+    44
+   ],
+   "ink_max": 120,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 29,
+   "seam": "top"
+  }
+ ]
+}

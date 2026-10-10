@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-253/003.webp",
+ "output": "chapters_fr/chapter-253/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NATURELLEMENT...",
+   "style": "cartouche",
+   "point": [
+    362,
+    339
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CETTE\nRÉPONSE...",
+   "style": "cartouche",
+   "point": [
+    220,
+    2024
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...ÉTAIT LA SEULE QUE LA MÈRE DES FLAMMES JUGERAIT MAUVAISE.",
+   "style": "cartouche",
+   "point": [
+    436,
+    2294
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PARDON...?",
+   "style": "dialogue",
+   "point": [
+    343,
+    3579
+   ]
+  }
+ ]
+}

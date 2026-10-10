@@ -1,0 +1,83 @@
+{
+ "source": "chapters_en/chapter-245/008.webp",
+ "output": "chapters_fr/chapter-245/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HÉ !",
+   "style": "dialogue",
+   "point": [
+    438,
+    1034
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VENEZ.",
+   "style": "dialogue",
+   "point": [
+    424,
+    2236
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OUI.",
+   "style": "dialogue",
+   "point": [
+    397,
+    3980
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUOI...?!",
+   "style": "pensee",
+   "point": [
+    386,
+    7769
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BON.",
+   "style": "dialogue",
+   "point": [
+    395,
+    8266
+   ]
+  },
+  {
+   "id": 100,
+   "text": "INSÉREZ\nUNE PIÈCE",
+   "style": "systeme",
+   "box": [
+    140,
+    8535,
+    665,
+    8880
+   ],
+   "light": true,
+   "light_min": 110,
+   "grow": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    110,
+    110,
+    255
+   ],
+   "outline_width": 3
+  }
+ ]
+}

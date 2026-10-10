@@ -1,0 +1,104 @@
+{
+ "source": "chapters_en/chapter-256/024.webp",
+ "output": "chapters_fr/chapter-256/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE N’EST PAS\nSEOL-JIN HEO\nQUI ME LE MONTRE.",
+   "style": "systeme",
+   "point": [
+    400,
+    595
+   ],
+   "box": [
+    160,
+    475,
+    640,
+    715
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE QUI VEUT DIRE...",
+   "style": "systeme",
+   "point": [
+    399,
+    1250
+   ],
+   "box": [
+    170,
+    1205,
+    630,
+    1295
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON SANG, À\nCE RYTHME...",
+   "style": "dialogue",
+   "point": [
+    387,
+    3923
+   ]
+  },
+  {
+   "id": 100,
+   "text": "C’EST MON PROPRE...",
+   "style": "systeme",
+   "box": [
+    120,
+    2830,
+    690,
+    2950
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

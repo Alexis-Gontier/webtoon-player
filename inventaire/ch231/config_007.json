@@ -1,0 +1,103 @@
+{
+ "source": "chapters_en/chapter-231/007.webp",
+ "output": "chapters_fr/chapter-231/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUI, ENCORE UN PEU.",
+   "style": "italique",
+   "point": [
+    292,
+    1730
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TIENS ENCORE UN PEU.",
+   "style": "italique",
+   "point": [
+    574,
+    2517
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CE MONDE ABSURDE VA BIENTÔT PRENDRE FIN...",
+   "style": "italique",
+   "point": [
+    411,
+    3219
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BATAILLE FINALE\nDEUXIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    44,
+    3735,
+    755,
+    3988
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 8,
+   "text": "VAINQUEUR,",
+   "style": "systeme",
+   "box": [
+    218,
+    7783,
+    581,
+    7924
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 9,
+   "text": "QUI A DIT QUE TU POUVAIS FINIR COMME TU VOULAIS ?",
+   "style": "italique",
+   "point": [
+    389,
+    8414
+   ]
+  },
+  {
+   "id": 10,
+   "text": "VAN\nZICHMUND !",
+   "style": "italique",
+   "point": [
+    392,
+    11806
+   ]
+  }
+ ]
+}

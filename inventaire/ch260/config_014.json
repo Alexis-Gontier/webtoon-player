@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-260/014.webp",
+ "output": "chapters_fr/chapter-260/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH...\nAAAH...♥",
+   "style": "dialogue",
+   "point": [
+    294,
+    1668
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UHH...♥",
+   "style": "dialogue",
+   "point": [
+    487,
+    2959
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMMENT PEUX-TU BRILLER AUTANT...?!",
+   "style": "dialogue",
+   "point": [
+    403,
+    3706
+   ]
+  }
+ ]
+}

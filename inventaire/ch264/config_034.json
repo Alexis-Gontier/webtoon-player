@@ -1,0 +1,131 @@
+{
+ "source": "chapters_en/chapter-264/034.webp",
+ "output": "chapters_fr/chapter-264/034.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "QUELQU’UN QUI SAIT MANIPULER SON PROPRE KARMA DE CETTE FAÇON...",
+   "style": "italique",
+   "point": [
+    301,
+    2705
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CETTE\nPERSONNE...",
+   "style": "italique",
+   "point": [
+    419,
+    3020
+   ]
+  },
+  {
+   "id": 100,
+   "text": "...!",
+   "style": "dialogue",
+   "point": [
+    388,
+    1150
+   ]
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "italique",
+   "box": [
+    180,
+    1915,
+    490,
+    2055
+   ],
+   "ink_max": 130,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 102,
+   "text": "DANS LE MONDE\nAU-DELÀ\nDES MONDES,",
+   "style": "italique",
+   "box": [
+    180,
+    1915,
+    490,
+    2055
+   ],
+   "target": [
+    190,
+    1922,
+    480,
+    2048
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "text": "",
+   "style": "italique",
+   "box": [
+    280,
+    2165,
+    600,
+    2335
+   ],
+   "ink_max": 130,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 104,
+   "text": "LÀ OÙ SE TROUVE\nLE FRAGMENT DU BRAS\nPROTHÉTIQUE DE DEAN...",
+   "style": "italique",
+   "box": [
+    280,
+    2165,
+    600,
+    2335
+   ],
+   "target": [
+    288,
+    2172,
+    592,
+    2328
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

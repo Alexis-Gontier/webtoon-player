@@ -1,0 +1,66 @@
+{
+ "source": "chapters_en/chapter-249/009.webp",
+ "output": "chapters_fr/chapter-249/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE M’EN OCCUPE.",
+   "style": "systeme",
+   "point": [
+    512,
+    2189
+   ],
+   "box": [
+    140,
+    2150,
+    630,
+    2245
+   ],
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ÇA VA...",
+   "style": "systeme",
+   "box": [
+    150,
+    1395,
+    580,
+    1500
+   ],
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

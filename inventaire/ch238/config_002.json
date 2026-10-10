@@ -1,0 +1,172 @@
+{
+ "source": "chapters_en/chapter-238/002.webp",
+ "output": "chapters_fr/chapter-238/002.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "BATAILLE FINALE\nTROISIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    60,
+    1020,
+    740,
+    1260
+   ],
+   "target": [
+    100,
+    1041,
+    721,
+    1241
+   ],
+   "light": true,
+   "light_min": 150,
+   "grow": 9,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 3,
+   "text": "SEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    107,
+    1368,
+    689,
+    1487
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 5,
+   "text": "UNNAME",
+   "style": "systeme",
+   "box": [
+    207,
+    1834,
+    595,
+    1956
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 9,
+   "text": "QUE S’IL L’\"ACHEVAIT\", JE LE LUI RENDRAIS SANS FAUTE !",
+   "style": "italique",
+   "point": [
+    456,
+    9162
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ALORS S’IL TE PLAÎT, DIS-LE-LUI DE MA PART.",
+   "style": "italique",
+   "point": [
+    325,
+    10155
+   ]
+  },
+  {
+   "id": 12,
+   "text": "JE COMPTE SUR TOI, \"SEIGNEUR\" ARTHUR !",
+   "style": "italique",
+   "point": [
+    495,
+    10565
+   ]
+  },
+  {
+   "id": 13,
+   "text": "SEIGNEUR ARTHUR, QU’EST-CE QUE C’EST ?",
+   "style": "dialogue",
+   "point": [
+    405,
+    11772
+   ]
+  },
+  {
+   "id": 14,
+   "text": "ON DIRAIT JUSTE UNE SORTE DE CAMELOTE...",
+   "style": "dialogue",
+   "point": [
+    483,
+    12031
+   ]
+  },
+  {
+   "id": 16,
+   "text": "OUAIS,",
+   "style": "dialogue",
+   "point": [
+    341,
+    14199
+   ]
+  },
+  {
+   "id": 17,
+   "text": "LES PLAYERS SONT DE VRAIS GAMINS~ !",
+   "style": "dialogue",
+   "point": [
+    459,
+    14485
+   ]
+  },
+  {
+   "id": 101,
+   "text": "HÉ ! PRENDS ÇA !",
+   "style": "cri",
+   "point": [
+    400,
+    2450
+   ]
+  },
+  {
+   "id": 100,
+   "text": "J’AI FAIT UNE\nPROMESSE\nÀ CE TYPE !",
+   "style": "italique",
+   "point": [
+    378,
+    7817
+   ]
+  }
+ ]
+}

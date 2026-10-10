@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-258/007.webp",
+ "output": "chapters_fr/chapter-258/007.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ALORS...",
+   "style": "italique",
+   "point": [
+    382,
+    936
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL EST TEMPS DE METTRE LE MONDE SENS DESSUS DESSOUS...♥",
+   "style": "italique",
+   "point": [
+    371,
+    2374
+   ]
+  }
+ ]
+}

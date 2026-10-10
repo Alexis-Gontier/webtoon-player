@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-242/009.webp",
+ "output": "chapters_fr/chapter-242/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH !",
+   "style": "dialogue",
+   "point": [
+    367,
+    728
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NON...",
+   "style": "dialogue",
+   "point": [
+    369,
+    2363
+   ]
+  },
+  {
+   "id": 4,
+   "text": "NON !!!",
+   "style": "dialogue",
+   "point": [
+    378,
+    3586
+   ]
+  },
+  {
+   "id": 5,
+   "text": "RÉPONDS-MOI, SEOL-JIN.",
+   "style": "dialogue",
+   "point": [
+    252,
+    5473
+   ]
+  }
+ ]
+}

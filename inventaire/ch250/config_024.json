@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-250/024.webp",
+ "output": "chapters_fr/chapter-250/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...SUIS ENCORE REVENU ICI, ALLEZ SAVOIR COMMENT.",
+   "style": "dialogue",
+   "point": [
+    450,
+    873
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE CROIS QUE JE COMPRENDS ENFIN...",
+   "style": "italique",
+   "point": [
+    251,
+    1656
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...CE QU’EST VRAIMENT CET ENDROIT.",
+   "style": "italique",
+   "point": [
+    419,
+    2508
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUAIS...",
+   "style": "dialogue",
+   "point": [
+    254,
+    3260
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IMPOSSIBLE DE FAIRE MARCHE ARRIÈRE.",
+   "style": "dialogue",
+   "point": [
+    408,
+    3996
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CETTE FOIS, J’AI CHOISI D’Y ENTRER DE MOI-MÊME.",
+   "style": "italique",
+   "point": [
+    355,
+    4938
+   ]
+  }
+ ]
+}

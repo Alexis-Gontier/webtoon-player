@@ -1,0 +1,49 @@
+{
+ "source": "chapters_en/chapter-250/012.webp",
+ "output": "chapters_fr/chapter-250/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AVANCE.\nPOUR L’AVENIR\nQUE NOUS SOUHAITONS.",
+   "style": "systeme",
+   "box": [
+    110,
+    0,
+    610,
+    190
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE TYPE...",
+   "style": "dialogue",
+   "point": [
+    390,
+    1298
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL S’INTERPOSE JUSQU’AU BOUT !",
+   "style": "dialogue",
+   "point": [
+    369,
+    1970
+   ]
+  }
+ ]
+}

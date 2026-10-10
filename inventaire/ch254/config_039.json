@@ -1,0 +1,64 @@
+{
+ "source": "chapters_en/chapter-254/039.webp",
+ "output": "chapters_fr/chapter-254/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNE ÂME NE SE CONTRÔLE PAS SIMPLEMENT. ELLE MARCHE À TES CÔTÉS.",
+   "style": "italique",
+   "point": [
+    339,
+    1543
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "cri",
+   "box": [
+    140,
+    4290,
+    580,
+    4660
+   ],
+   "ink_max": 100,
+   "max_letter": 150,
+   "grow": 4,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "SENS LE POIDS\nDE NOTRE\nKARMA !",
+   "style": "cri",
+   "box": [
+    140,
+    4290,
+    580,
+    4660
+   ],
+   "target": [
+    165,
+    4305,
+    560,
+    4645
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

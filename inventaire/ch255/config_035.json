@@ -1,0 +1,37 @@
+{
+ "source": "chapters_en/chapter-255/035.webp",
+ "output": "chapters_fr/chapter-255/035.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "UN TERME.",
+   "style": "dialogue",
+   "box": [
+    195,
+    0,
+    525,
+    60
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

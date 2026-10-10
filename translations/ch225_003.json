@@ -1,0 +1,34 @@
+{
+  "source": "chapters_en/chapter-225/003.webp",
+  "output": "chapters_fr/chapter-225/003.webp",
+  "bubbles": [
+    {
+      "point": [
+        403,
+        500
+      ],
+      "text": "ET ALORS ?"
+    },
+    {
+      "point": [
+        410,
+        6017
+      ],
+      "text": "MON POUVOIR, C’EST LA \"RECONSTRUCTION\"."
+    },
+    {
+      "point": [
+        388,
+        7075
+      ],
+      "text": "LA CAPACITÉ DE TOUT REMETTRE À NEUF."
+    },
+    {
+      "point": [
+        425,
+        9458
+      ],
+      "text": "COMME ÇA."
+    }
+  ]
+}

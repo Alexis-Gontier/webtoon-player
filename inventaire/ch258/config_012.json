@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/012.webp",
+ "output": "chapters_fr/chapter-258/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST DONC ÇA QU’ELLE ENTENDAIT PAR \"VRAI MONDE\".",
+   "style": "italique",
+   "point": [
+    503,
+    1478
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ENIVRÉ PAR LE FRISSON DU COMBAT, J’AI BAISSÉ MA GARDE.",
+   "style": "dialogue",
+   "point": [
+    348,
+    4420
+   ]
+  },
+  {
+   "id": 100,
+   "text": "BON SANG...!",
+   "style": "italique",
+   "point": [
+    355,
+    3400
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-228/006.webp",
+ "output": "chapters_fr/chapter-228/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS À UN MOMENT, AVANT L’ÂGE DE PIERRE,",
+   "style": "dialogue",
+   "point": [
+    388,
+    217
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IL S’EST SOUDAIN EFFONDRÉ.",
+   "style": "dialogue",
+   "point": [
+    525,
+    943
+   ]
+  },
+  {
+   "id": 3,
+   "text": "D’APRÈS LES RUMEURS, IL NE RESTE RIEN SUR CETTE TERRE.",
+   "style": "dialogue",
+   "point": [
+    298,
+    1646
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON DIT QUE SEUL LE CADAVRE DÉCAPITÉ DU ROI EST RESTÉ.",
+   "style": "dialogue",
+   "point": [
+    504,
+    3208
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST PEUT-ÊTRE POUR ÇA QUE LES GENS CROIENT QUE LA CAUSE DE CETTE DESTRUCTION...",
+   "style": "dialogue",
+   "point": [
+    271,
+    3840
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ÉTAIT UN \"DÉMON\".",
+   "style": "dialogue",
+   "point": [
+    501,
+    4634
+   ]
+  }
+ ]
+}

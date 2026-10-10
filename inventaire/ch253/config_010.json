@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-253/010.webp",
+ "output": "chapters_fr/chapter-253/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HAHAHA !\nÇA VA.",
+   "style": "italique",
+   "point": [
+    465,
+    1016
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI LES INTÉRESSÉES NE S’Y OPPOSENT PAS, RIEN N’OBLIGE À NE CUEILLIR QU’UNE SEULE FLEUR.",
+   "style": "dialogue",
+   "point": [
+    373,
+    1347
+   ]
+  }
+ ]
+}

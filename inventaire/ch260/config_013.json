@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-260/013.webp",
+ "output": "chapters_fr/chapter-260/013.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "SEOL-JIN !",
+   "style": "italique",
+   "point": [
+    300,
+    1500
+   ]
+  },
+  {
+   "id": 101,
+   "text": "LIBUR !!",
+   "style": "italique",
+   "point": [
+    405,
+    3400
+   ]
+  }
+ ]
+}

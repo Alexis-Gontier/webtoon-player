@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-243/001.webp",
+ "output": "chapters_fr/chapter-243/001.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "...COMME PRÉVU.",
+   "style": "dialogue",
+   "point": [
+    365,
+    2642
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LA RÉACTION DU NOYAU NE REVIENT PAS.",
+   "style": "italique",
+   "point": [
+    424,
+    3626
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÉVIDEMMENT.",
+   "style": "italique",
+   "point": [
+    409,
+    5423
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MON HISTOIRE S’EST ARRÊTÉE À CE MOMENT-LÀ.",
+   "style": "italique",
+   "point": [
+    392,
+    6769
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MÊME AINSI, LA CHANCE QU’ON M’A DONNÉE...",
+   "style": "italique",
+   "point": [
+    329,
+    7651
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE VOULAIS JUSTE ÊTRE UN PEU UTILE...",
+   "style": "italique",
+   "point": [
+    490,
+    8596
+   ]
+  }
+ ]
+}

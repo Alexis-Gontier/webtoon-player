@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-235/004.webp",
+ "output": "chapters_fr/chapter-235/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PARCE QUE J’AI BESOIN DE CES BISCUITS",
+   "style": "italique",
+   "point": [
+    415,
+    1933
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POUR MON AVENIR !",
+   "style": "italique",
+   "point": [
+    409,
+    3080
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE T’EN PRIE, GRAND ROI MOKIKO !",
+   "style": "italique",
+   "point": [
+    423,
+    4481
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CONDUIS-MOI JUSQU’À ARTHUR, LE DIEU ABSOLU !",
+   "style": "italique",
+   "point": [
+    276,
+    6233
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PEU M’IMPORTE QU’IL N’Y AIT \"PAS DE RETOUR EN ARRIÈRE\" !",
+   "style": "italique",
+   "point": [
+    312,
+    6923
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE T’OFFRE TOUS LES BISCUITS QUE J’AI !",
+   "style": "italique",
+   "point": [
+    493,
+    7785
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ALLEZ, MAINTENANT !",
+   "style": "italique",
+   "point": [
+    304,
+    8790
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CONDUIS-MOI À ARTHUR... !",
+   "style": "italique",
+   "point": [
+    443,
+    9715
+   ]
+  }
+ ]
+}

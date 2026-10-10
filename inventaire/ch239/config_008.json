@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-239/008.webp",
+ "output": "chapters_fr/chapter-239/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LIBUR, COURAGE !!!",
+   "style": "italique",
+   "point": [
+    410,
+    548
+   ]
+  },
+  {
+   "id": 2,
+   "text": "NE SOIS PAS NERVEUSE, FAIS DE TON MIEUX !!!",
+   "style": "italique",
+   "point": [
+    334,
+    1772
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AH ! SUMAMA ET SHONAN ! JE LES AI TROUVÉS~ !",
+   "style": "dialogue",
+   "point": [
+    392,
+    2784
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HÉ, PAR ICI !",
+   "style": "dialogue",
+   "point": [
+    337,
+    3221
+   ]
+  },
+  {
+   "id": 5,
+   "text": "NOTRE LIBUR, TU ES MA FILLE, TU ES UNE IDOLE, UNE IDOLE ! TU ES SI JOLIE !!!",
+   "style": "italique",
+   "point": [
+    414,
+    4043
+   ]
+  },
+  {
+   "id": 6,
+   "text": "AH, PFF~ C’EST TELLEMENT GÊNANT.",
+   "style": "italique",
+   "point": [
+    225,
+    4967
+   ]
+  }
+ ]
+}

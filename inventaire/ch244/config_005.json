@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-244/005.jpg",
+ "output": "chapters_fr/chapter-244/005.jpg",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "FRAPPE ENCORE ET ENCORE.",
+   "style": "italique",
+   "point": [
+    424,
+    5908
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VAIS TOUT DONNER !",
+   "style": "italique",
+   "point": [
+    410,
+    6978
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MONTRE-MOI AUSSI !",
+   "style": "italique",
+   "point": [
+    493,
+    8228
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TOUT CE QUE TU AS !",
+   "style": "italique",
+   "point": [
+    403,
+    9461
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET\nL’\"ESPOIR\"",
+   "style": "italique",
+   "point": [
+    410,
+    10444
+   ]
+  },
+  {
+   "id": 8,
+   "text": "QUE TU PORTES !",
+   "style": "dialogue",
+   "point": [
+    378,
+    12476
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ENCORE\nUNE FOIS !",
+   "style": "cri",
+   "point": [
+    400,
+    2250
+   ]
+  },
+  {
+   "id": 101,
+   "text": "À FOND.",
+   "style": "cri",
+   "point": [
+    420,
+    4690
+   ]
+  },
+  {
+   "id": 102,
+   "text": "ALORS...",
+   "style": "italique",
+   "point": [
+    345,
+    7880
+   ]
+  }
+ ]
+}

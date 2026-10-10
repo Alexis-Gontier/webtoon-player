@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/015.webp",
+ "output": "chapters_fr/chapter-227/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "L’ÉQUIVALENT DE 1000 PERSONNES.\"",
+   "style": "dialogue",
+   "point": [
+    454,
+    215
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE \"TEMPS\" QUE J’AI PASSÉ MA VIE À VOLER AUX PLAYERS.",
+   "style": "dialogue",
+   "point": [
+    394,
+    2699
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SAVOURE-LE TANT QUE TU VEUX, UNNAME.",
+   "style": "dialogue",
+   "point": [
+    410,
+    3587
+   ]
+  },
+  {
+   "id": 5,
+   "text": "UNE \"AGONIE\" PROCHE DE L’ÉTERNITÉ.",
+   "style": "dialogue",
+   "point": [
+    410,
+    5146
+   ]
+  }
+ ]
+}

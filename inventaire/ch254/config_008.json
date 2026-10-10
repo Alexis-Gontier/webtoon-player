@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-254/008.webp",
+ "output": "chapters_fr/chapter-254/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EXCALIBUR M’A REPOUSSÉ...",
+   "style": "dialogue",
+   "point": [
+    332,
+    1182
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MAIS MES\nBLESSURES !",
+   "style": "italique",
+   "point": [
+    302,
+    2086
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ELLE M’A\nSOIGNÉ ?",
+   "style": "italique",
+   "point": [
+    386,
+    3452
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS POURQUOI,\nBON SANG ?!",
+   "style": "italique",
+   "point": [
+    352,
+    4372
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    0,
+    1590,
+    445,
+    1655
+   ],
+   "ink_max": 150,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

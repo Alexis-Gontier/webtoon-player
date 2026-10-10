@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-263/022.webp",
+ "output": "chapters_fr/chapter-263/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA PARADE NOCTURNE DES CENT DÉMONS VA TROUVER UNE NOUVELLE AVENTURE.",
+   "style": "dialogue",
+   "point": [
+    365,
+    439
+   ]
+  },
+  {
+   "id": 2,
+   "text": "BIEN SÛR !",
+   "style": "cri",
+   "point": [
+    274,
+    1578
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET VOUS VENEZ AUSSI, NORTHWALK !",
+   "style": "italique",
+   "point": [
+    418,
+    3029
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUIII !",
+   "style": "cri",
+   "point": [
+    414,
+    4733
+   ]
+  }
+ ]
+}

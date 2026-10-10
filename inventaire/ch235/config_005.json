@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-235/005.webp",
+ "output": "chapters_fr/chapter-235/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU... REFUSES ?",
+   "style": "dialogue",
+   "point": [
+    311,
+    2773
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POURQUOI... ? POURQUOI... ?",
+   "style": "dialogue",
+   "point": [
+    467,
+    3775
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AH, CE N’EST PAS ÇA, HEIN... ?",
+   "style": "dialogue",
+   "point": [
+    391,
+    4769
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POURQUOI TU REFUSES ?! JE T’AI DIT QUE JE TE DONNERAIS DES BISCUITS, NON ?",
+   "style": "italique",
+   "point": [
+    389,
+    8150
+   ]
+  },
+  {
+   "id": 6,
+   "text": "DIS-MOI ! POURQUOI TU REFUSES ?",
+   "style": "italique",
+   "point": [
+    389,
+    9237
+   ]
+  }
+ ]
+}

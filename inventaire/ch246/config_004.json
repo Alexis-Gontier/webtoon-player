@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-246/004.webp",
+ "output": "chapters_fr/chapter-246/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AFFRONTER LE DIEU ABSOLU, ARTHUR...",
+   "style": "dialogue",
+   "point": [
+    398,
+    179
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DANS LE TERRARIUM DU CHÂTEAU CÉLESTE,",
+   "style": "dialogue",
+   "point": [
+    396,
+    1823
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST FAIRE DE TOUT CE QUI S’Y TROUVE SON ENNEMI.",
+   "style": "dialogue",
+   "point": [
+    410,
+    3121
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET POURTANT,",
+   "style": "dialogue",
+   "point": [
+    333,
+    5604
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LA FLAMME DE L’ESPOIR REFUSE DE S’ÉTEINDRE.",
+   "style": "dialogue",
+   "point": [
+    435,
+    7006
+   ]
+  }
+ ]
+}

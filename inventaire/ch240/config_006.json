@@ -1,0 +1,105 @@
+{
+ "source": "chapters_en/chapter-240/006.webp",
+ "output": "chapters_fr/chapter-240/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HMMM...",
+   "style": "dialogue",
+   "point": [
+    294,
+    1896
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VOIS, C’EST JUSTE CE QUE JE PENSE.",
+   "style": "dialogue",
+   "point": [
+    373,
+    3205
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU PEUX CONTINUER À POSER DES QUESTIONS.",
+   "style": "dialogue",
+   "point": [
+    387,
+    4907
+   ]
+  },
+  {
+   "id": 5,
+   "text": "\"CE RÉCEPTACLE\", NON...",
+   "style": "dialogue",
+   "point": [
+    427,
+    5780
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU TE SOUVIENS DU NOM DE \"CETTE FEMME\" ?",
+   "style": "dialogue",
+   "point": [
+    410,
+    7655
+   ]
+  },
+  {
+   "id": 7,
+   "text": "EH BIEN...",
+   "style": "dialogue",
+   "point": [
+    444,
+    8700
+   ]
+  },
+  {
+   "id": 8,
+   "text": "EST-ELLE TOUJOURS EN VIE ?",
+   "style": "dialogue",
+   "point": [
+    262,
+    9925
+   ]
+  },
+  {
+   "id": 9,
+   "text": "BIEN SÛR !",
+   "style": "dialogue",
+   "point": [
+    525,
+    10340
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ET LES CONTRACTANTS ?",
+   "style": "dialogue",
+   "point": [
+    216,
+    11068
+   ]
+  },
+  {
+   "id": 11,
+   "text": "HUHU ! TU CROIS QUE CE SERA DIFFÉRENT ?",
+   "style": "dialogue",
+   "point": [
+    483,
+    11461
+   ]
+  },
+  {
+   "id": 14,
+   "text": "MAIS PEUVENT-ILS UTILISER LEUR CAPACITÉ ?",
+   "style": "dialogue",
+   "point": [
+    384,
+    12996
+   ]
+  }
+ ]
+}

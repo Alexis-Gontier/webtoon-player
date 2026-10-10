@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-254/029.webp",
+ "output": "chapters_fr/chapter-254/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AVEC TOUT LE MONDE, COMME ÇA !",
+   "style": "dialogue",
+   "point": [
+    365,
+    712
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST LE MONDE QUE TU AS CRÉÉ...",
+   "style": "dialogue",
+   "point": [
+    382,
+    2469
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUI ME L’A APPRIS.",
+   "style": "dialogue",
+   "point": [
+    398,
+    4279
+   ]
+  }
+ ]
+}

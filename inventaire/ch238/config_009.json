@@ -1,0 +1,183 @@
+{
+ "source": "chapters_en/chapter-238/009.webp",
+ "output": "chapters_fr/chapter-238/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CET IDIOT, IL DEVRAIT PLUTÔT S’INQUIÉTER DE SON PROPRE CORPS... !",
+   "style": "dialogue",
+   "point": [
+    518,
+    213
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MDR.",
+   "style": "dialogue",
+   "point": [
+    634,
+    831
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BIEN, LA MI-TEMPS EST PRESQUE FINIE.",
+   "style": "dialogue",
+   "point": [
+    416,
+    1731
+   ]
+  },
+  {
+   "id": 4,
+   "text": "L’ORDRE A ÉTÉ EXÉCUTÉ...",
+   "style": "dialogue",
+   "point": [
+    407,
+    2670
+   ]
+  },
+  {
+   "id": 5,
+   "text": "RENTRONS.",
+   "style": "dialogue",
+   "point": [
+    387,
+    3678
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ASSISTONS À LA FIN DE CE MONDE JUSQU’AU DERNIER INSTANT !",
+   "style": "dialogue",
+   "point": [
+    406,
+    5478
+   ]
+  },
+  {
+   "id": 9,
+   "text": "BATAILLE FINALE\nTROISIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    110,
+    8159,
+    688,
+    8380
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 10,
+   "text": "SEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    120,
+    8486,
+    677,
+    8600
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 11,
+   "text": "UNNAME",
+   "style": "systeme",
+   "box": [
+    215,
+    8929,
+    587,
+    9046
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 12,
+   "text": "HEUREUSEMENT QU’ON EST ARRIVÉS À TEMPS.",
+   "style": "dialogue",
+   "point": [
+    384,
+    10222
+   ]
+  },
+  {
+   "id": 13,
+   "text": "ALORS LE PROCHAIN GRAND COMBAT VA ENFIN COMMENCER...",
+   "style": "dialogue",
+   "point": [
+    341,
+    11481
+   ]
+  },
+  {
+   "id": 14,
+   "text": "\"SEOL-JIN HEO...\"",
+   "style": "dialogue",
+   "point": [
+    293,
+    12269
+   ]
+  },
+  {
+   "id": 15,
+   "text": "LE PLAYER CHOISI PAR LE SEIGNEUR ARTHUR...",
+   "style": "dialogue",
+   "point": [
+    400,
+    13233
+   ]
+  },
+  {
+   "id": 16,
+   "text": "L’ACTUEL PROPRIÉTAIRE D’\"EXCALIBUR\"...",
+   "style": "dialogue",
+   "point": [
+    513,
+    13536
+   ]
+  }
+ ]
+}

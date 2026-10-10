@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/013.webp",
+ "output": "chapters_fr/chapter-258/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI SEULEMENT JE M’EN ÉTAIS RENDU COMPTE PLUS TÔT...!",
+   "style": "italique",
+   "point": [
+    408,
+    582
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUEL ARGUMENT RIDICULE.",
+   "style": "cartouche",
+   "point": [
+    405,
+    1921
+   ]
+  },
+  {
+   "id": 3,
+   "text": "FACE À VAN ZICHMUND ET À LUCIA...",
+   "style": "cartouche",
+   "point": [
+    391,
+    3373
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-260/019.webp",
+ "output": "chapters_fr/chapter-260/019.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "VAS-Y !",
+   "style": "cri",
+   "point": [
+    375,
+    325
+   ]
+  },
+  {
+   "id": 101,
+   "text": "HÉROS !",
+   "style": "cri",
+   "point": [
+    390,
+    2520
+   ]
+  }
+ ]
+}

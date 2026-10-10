@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/037.webp",
+ "output": "chapters_fr/chapter-251/037.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ÉCOUTE, LILLET. TU AS L’AIR DE NE RIEN SAVOIR, ALORS JE VAIS T’EXPLIQUER.",
+   "style": "dialogue",
+   "point": [
+    303,
+    3125
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÊTRE PARTENAIRES D’ÂME, C’EST ÊTRE ENSEMBLE POUR TOU-JOURS.",
+   "style": "dialogue",
+   "point": [
+    369,
+    3470
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ÇA VEUT DIRE QUE NOS DESTINS SONT LIÉS JUSQU’À LA MORT.",
+   "style": "dialogue",
+   "point": [
+    360,
+    4470
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU COMPRENDS CE QUE ÇA IMPLIQUE, N’EST-CE PAS ?",
+   "style": "dialogue",
+   "point": [
+    528,
+    4831
+   ]
+  }
+ ]
+}

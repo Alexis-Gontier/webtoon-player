@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-252/026.webp",
+ "output": "chapters_fr/chapter-252/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUOI...?",
+   "style": "dialogue",
+   "point": [
+    342,
+    2192
+   ]
+  },
+  {
+   "id": 2,
+   "text": "EXACTEMENT...",
+   "style": "cartouche",
+   "point": [
+    376,
+    2914
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMME DIT PLUS HAUT, C’EST UN ESPRIT ANCESTRAL...",
+   "style": "cartouche",
+   "point": [
+    380,
+    3563
+   ]
+  },
+  {
+   "id": 6,
+   "text": "QUI...",
+   "style": "cartouche",
+   "point": [
+    337,
+    4496
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ALLEZ,",
+   "style": "dialogue",
+   "point": [
+    325,
+    4864
+   ]
+  }
+ ]
+}

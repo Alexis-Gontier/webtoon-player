@@ -1,0 +1,113 @@
+{
+ "source": "chapters_en/chapter-230/006.webp",
+ "output": "chapters_fr/chapter-230/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE SAVAIS QUE ÇA SERAIT AMUSANT.",
+   "style": "dialogue",
+   "point": [
+    366,
+    218
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE LE\nCOMBAT\nCOMMENCE !",
+   "style": "systeme",
+   "box": [
+    40,
+    2180,
+    775,
+    3020
+   ],
+   "ink_max": 256,
+   "grow": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "stretch": 1.8
+  },
+  {
+   "id": 3,
+   "text": "DEAN CONTRE ZICHMUND.",
+   "style": "italique",
+   "point": [
+    315,
+    5354
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUI AURAIT CRU QUE J’ASSISTERAIS VRAIMENT À UN DUEL QU’ON ÉVOQUAIT POUR RIRE... !",
+   "style": "italique",
+   "point": [
+    520,
+    6575
+   ]
+  },
+  {
+   "id": 7,
+   "text": "J’AI HONTE DE L’AVOUER, MAIS EN FAIT, J’ATTENDAIS ÇA AVEC IMPATIENCE.",
+   "style": "italique",
+   "point": [
+    453,
+    7670
+   ]
+  },
+  {
+   "id": 9,
+   "text": "LOUISE, TU RESSENS LA MÊME CHOSE, HEIN ?",
+   "style": "italique",
+   "point": [
+    387,
+    9416
+   ]
+  },
+  {
+   "id": 10,
+   "text": "S’IL Y A UN COMBAT...",
+   "style": "dialogue",
+   "point": [
+    421,
+    10697
+   ]
+  },
+  {
+   "id": 11,
+   "text": "CELUI QUI ATTAQUE EN PREMIER, CE SERA FORCÉMENT DEAN.",
+   "style": "dialogue",
+   "point": [
+    401,
+    11736
+   ]
+  },
+  {
+   "id": 12,
+   "text": "LA STRATÉGIE EST SIMPLE : UN COMBAT DIRECT FONDÉ SUR LA MOBILITÉ ET LA PUISSANCE.",
+   "style": "dialogue",
+   "point": [
+    416,
+    12454
+   ]
+  },
+  {
+   "id": 13,
+   "text": "C’EST TOUT.",
+   "style": "dialogue",
+   "point": [
+    404,
+    14037
+   ]
+  }
+ ]
+}

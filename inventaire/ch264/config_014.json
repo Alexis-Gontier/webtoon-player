@@ -1,0 +1,117 @@
+{
+ "source": "chapters_en/chapter-264/014.webp",
+ "output": "chapters_fr/chapter-264/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VEUX TROUVER UN MOYEN DE RETOURNER DANS MON MONDE D’ORIGINE.",
+   "style": "italique",
+   "point": [
+    362,
+    780
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOUT\nÀ COUP...",
+   "style": "italique",
+   "point": [
+    135,
+    2159
+   ],
+   "box": [
+    80,
+    2115,
+    195,
+    2205
+   ],
+   "target": [
+    88,
+    2124,
+    186,
+    2196
+   ],
+   "ink_max": 120,
+   "max_letter": 40,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POURQUOI\nMAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    318,
+    3173
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ATTENDS, SHONAN !\nTU NE DEVRAIS PAS\nDIRE ÇA COMME ÇA !",
+   "style": "dialogue",
+   "point": [
+    400,
+    4200
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CE N’EST\nRIEN. PRENDS\nTON TEMPS\nET DIS-NOUS",
+   "style": "dialogue",
+   "point": [
+    316,
+    4935
+   ],
+   "box": [
+    140,
+    4880,
+    500,
+    5000
+   ],
+   "target": [
+    160,
+    4892,
+    480,
+    4995
+   ],
+   "ink_max": 100,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 23,
+   "seam": "bottom"
+  }
+ ]
+}

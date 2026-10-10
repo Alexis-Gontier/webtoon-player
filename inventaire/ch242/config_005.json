@@ -1,0 +1,65 @@
+{
+ "source": "chapters_en/chapter-242/005.webp",
+ "output": "chapters_fr/chapter-242/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMPRENDRE OU NON,\nC’EST À MOI\nD’EN DÉCIDER.",
+   "style": "systeme",
+   "box": [
+    66,
+    139,
+    741,
+    411
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  },
+  {
+   "id": 3,
+   "text": "MERCI, SEOL-JIN.",
+   "style": "dialogue",
+   "point": [
+    416,
+    2451
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DE M’AVOIR FAIT FACE SINCÈREMENT JUSQU’AU BOUT.",
+   "style": "dialogue",
+   "point": [
+    406,
+    4387
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE CROIS QUE JE COMPRENDS MAINTENANT, SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    400,
+    7383
+   ]
+  }
+ ]
+}

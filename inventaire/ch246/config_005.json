@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-246/005.webp",
+ "output": "chapters_fr/chapter-246/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU N’AS PAS PEUR, SEOL-JIN HEO ?",
+   "style": "dialogue",
+   "point": [
+    393,
+    3377
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BIEN SÛR\nQUE SI !",
+   "style": "dialogue",
+   "point": [
+    306,
+    5278
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS...",
+   "style": "dialogue",
+   "point": [
+    453,
+    7080
+   ]
+  }
+ ]
+}

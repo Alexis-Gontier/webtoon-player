@@ -1,0 +1,161 @@
+{
+ "source": "chapters_en/chapter-237/012.webp",
+ "output": "chapters_fr/chapter-237/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE CHOIX DE DEAN...",
+   "style": "dialogue",
+   "point": [
+    270,
+    141
+   ]
+  },
+  {
+   "id": 2,
+   "text": "NE SE LIMITAIT PAS À RISQUER SA VIE.",
+   "style": "dialogue",
+   "point": [
+    500,
+    750
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE QU’IL AVAIT VERSÉ\nDANS LE \"NOYAU\",\nC’ÉTAIT...",
+   "style": "systeme",
+   "box": [
+    190,
+    1270,
+    610,
+    1475
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 4,
+   "text": "UN \"MONDE\nPARFAIT\".",
+   "style": "systeme",
+   "point": [
+    391,
+    2580
+   ],
+   "box": [
+    210,
+    2510,
+    575,
+    2650
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 5,
+   "text": "LE SOUVENIR.",
+   "style": "dialogue",
+   "point": [
+    290,
+    3808
+   ]
+  },
+  {
+   "id": 6,
+   "text": "L’ÉMOTION.",
+   "style": "dialogue",
+   "point": [
+    539,
+    4291
+   ]
+  },
+  {
+   "id": 7,
+   "text": "L’EXPÉRIENCE.",
+   "style": "dialogue",
+   "point": [
+    276,
+    4699
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LE PASSÉ.",
+   "style": "dialogue",
+   "point": [
+    560,
+    5238
+   ]
+  },
+  {
+   "id": 9,
+   "text": "L’AVENIR.",
+   "style": "dialogue",
+   "point": [
+    316,
+    5779
+   ]
+  },
+  {
+   "id": 10,
+   "text": "DEAN A TOUT DONNÉ, SON PASSÉ ET SON AVENIR,",
+   "style": "dialogue",
+   "point": [
+    306,
+    7341
+   ]
+  },
+  {
+   "id": 11,
+   "text": "ET A PLEINEMENT INCARNÉ SON POTENTIEL DE CROISSANCE.",
+   "style": "dialogue",
+   "point": [
+    521,
+    7703
+   ]
+  },
+  {
+   "id": 12,
+   "text": "EN CHOISISSANT UNE FORME DÉFINITIVE,",
+   "style": "dialogue",
+   "point": [
+    259,
+    9710
+   ]
+  },
+  {
+   "id": 13,
+   "text": "DEAN, À CET INSTANT PRÉCIS, ÉTAIT DEVENU COMPLET.",
+   "style": "dialogue",
+   "point": [
+    503,
+    10042
+   ]
+  }
+ ]
+}

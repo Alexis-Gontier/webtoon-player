@@ -1,0 +1,102 @@
+{
+ "source": "chapters_en/chapter-230/009.webp",
+ "output": "chapters_fr/chapter-230/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOILÀ L’ESPRIT !",
+   "style": "dialogue",
+   "point": [
+    397,
+    5466
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU LE SENS,\nDEAN ?",
+   "style": "systeme",
+   "box": [
+    115,
+    10112,
+    653,
+    10302
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 3,
+   "text": "MON KARMA\nQUI TE TOURMENTE...",
+   "style": "systeme",
+   "box": [
+    95,
+    10618,
+    694,
+    10809
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 4,
+   "text": "L’ÉCART ÉCRASANT\nENTRE TOI\nET MOI !",
+   "style": "systeme",
+   "box": [
+    44,
+    12131,
+    764,
+    12409
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 100,
+   "text": "OUAIS !",
+   "style": "cri",
+   "point": [
+    411,
+    2529
+   ]
+  }
+ ]
+}

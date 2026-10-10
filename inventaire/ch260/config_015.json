@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-260/015.webp",
+ "output": "chapters_fr/chapter-260/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST\nVRAIMENT...",
+   "style": "dialogue",
+   "point": [
+    390,
+    1428
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LA LUMIÈRE D’UN \"VRAI HÉROS\"...♥",
+   "style": "dialogue",
+   "point": [
+    410,
+    2664
+   ]
+  }
+ ]
+}

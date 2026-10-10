@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-249/030.webp",
+ "output": "chapters_fr/chapter-249/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE N’EST PAS COMME S’IL N’Y AVAIT AUCUN MOYEN.",
+   "style": "dialogue",
+   "point": [
+    351,
+    504
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI ON LE FAIT MAINTENANT, PEUT-ÊTRE...",
+   "style": "dialogue",
+   "point": [
+    400,
+    1980
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NON, IL EST PEUT-ÊTRE DÉJÀ TROP TARD.",
+   "style": "dialogue",
+   "point": [
+    361,
+    3057
+   ]
+  }
+ ]
+}

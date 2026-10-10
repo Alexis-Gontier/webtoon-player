@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-231/008.webp",
+ "output": "chapters_fr/chapter-231/008.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ÇA, C’ÉTAIT\nJUSTE POUR\nS’ÉCHAUFFER.",
+   "style": "cri",
+   "point": [
+    419,
+    8266
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’ÉTAIT PAREIL\nPOUR TOI,\nHEIN ?",
+   "style": "cri",
+   "point": [
+    420,
+    10782
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BIEN\nALORS...",
+   "style": "cri",
+   "point": [
+    406,
+    13951
+   ]
+  }
+ ]
+}

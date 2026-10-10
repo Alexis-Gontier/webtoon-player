@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/029.webp",
+ "output": "chapters_fr/chapter-258/029.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "TU N’AS MÊME PAS PU PORTER LE COUP DE GRÂCE, ET TU T’ES FAIT VOLER SOUS TES YEUX. TU VEUX QUOI DE PLUS ?",
+   "style": "dialogue",
+   "point": [
+    335,
+    498
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET PUIS, QUI AIDE VRAIMENT JUSTE PARCE QU’ON LE LUI DEMANDE ? TU ES BEAUCOUP TROP GENTIL.",
+   "style": "dialogue",
+   "point": [
+    529,
+    819
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ÇA ME RAPPELLE LE BON VIEUX TEMPS.",
+   "style": "italique",
+   "point": [
+    359,
+    4677
+   ]
+  }
+ ]
+}

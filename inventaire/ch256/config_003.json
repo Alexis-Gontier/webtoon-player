@@ -1,0 +1,49 @@
+{
+ "source": "chapters_en/chapter-256/003.webp",
+ "output": "chapters_fr/chapter-256/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET ALORS ?! TU NE COMPRENDS RIEN AU ROMANTISME ?",
+   "style": "dialogue",
+   "point": [
+    426,
+    1171
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST... UN SOUVENIR D’ARTHUR ?",
+   "style": "pensee",
+   "point": [
+    427,
+    2962
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ARTHUR, JE LE SAIS BIEN.",
+   "style": "systeme",
+   "box": [
+    128,
+    4611,
+    673,
+    4771
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

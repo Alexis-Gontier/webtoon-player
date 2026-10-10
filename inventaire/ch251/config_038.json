@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/038.webp",
+ "output": "chapters_fr/chapter-251/038.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OH LÀ LÀ. QUELLE BELLE AMITIÉ.",
+   "style": "dialogue",
+   "point": [
+    312,
+    722
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’ESPÈRE QUE VOUS RESTEREZ \"MEILLEURS AMIS\" POUR TOU-JOURS.",
+   "style": "dialogue",
+   "point": [
+    436,
+    1809
+   ]
+  }
+ ]
+}

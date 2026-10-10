@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-244/002.webp",
+ "output": "chapters_fr/chapter-244/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PLUTÔT QUE DES MOTS,",
+   "style": "dialogue",
+   "point": [
+    436,
+    3773
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AVEC CETTE ÉPÉE.",
+   "style": "dialogue",
+   "point": [
+    409,
+    4811
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PLUTÔT QU’AVEC LE CORPS,",
+   "style": "dialogue",
+   "point": [
+    399,
+    5810
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AVEC LE CŒUR.",
+   "style": "dialogue",
+   "point": [
+    402,
+    6663
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CECI...",
+   "style": "dialogue",
+   "point": [
+    391,
+    7511
+   ]
+  },
+  {
+   "id": 6,
+   "text": "EST LE COUP QUI RENFERME TOUT CE QUE J’AI EN CE MOMENT.",
+   "style": "dialogue",
+   "point": [
+    426,
+    8733
+   ]
+  },
+  {
+   "id": 7,
+   "text": "PRENDS-LE,\nPETIT !",
+   "style": "cri",
+   "point": [
+    446,
+    9939
+   ]
+  }
+ ]
+}

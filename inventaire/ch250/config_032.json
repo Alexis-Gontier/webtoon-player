@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-250/032.webp",
+ "output": "chapters_fr/chapter-250/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST QUOI\nCE BORDEL ?!",
+   "style": "italique",
+   "point": [
+    361,
+    330
+   ]
+  },
+  {
+   "id": 3,
+   "text": "T’AS FAIT TOUT ÇA JUSTE PARCE QU’ARTHUR M’A FRAPPÉE ?! T’ES DINGUE ?!",
+   "style": "italique",
+   "point": [
+    398,
+    1546
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QU’EST-CE QUI TE PREND ? JE NE SUIS PAS EN PAPIER !",
+   "style": "italique",
+   "point": [
+    300,
+    2273
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ENCAISSER QUELQUES COUPS, CE N’EST RIEN !",
+   "style": "italique",
+   "point": [
+    478,
+    2614
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PARDON...",
+   "style": "dialogue",
+   "point": [
+    482,
+    3526
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST JUSTE...",
+   "style": "dialogue",
+   "point": [
+    280,
+    4130
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    340,
+    4970,
+    505,
+    5000
+   ],
+   "ink_max": 120,
+   "grow": 2,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

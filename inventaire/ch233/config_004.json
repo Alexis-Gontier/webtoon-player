@@ -1,0 +1,100 @@
+{
+ "source": "chapters_en/chapter-233/004.webp",
+ "output": "chapters_fr/chapter-233/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON DIRAIT QU’ESPÉRER QUOI QUE CE SOIT NE MÈNERA QU’À LA PERTE.",
+   "style": "dialogue",
+   "point": [
+    410,
+    2448
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ATELIER\nDES GENNOS\nZONE ULTRA-\nSECRÈTE",
+   "style": "dialogue",
+   "point": [
+    439,
+    6583
+   ],
+   "box": [
+    250,
+    6505,
+    615,
+    6662
+   ],
+   "target": [
+    305,
+    6450,
+    620,
+    6710
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 60,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SOUS-SOL DE L’ATELIER",
+   "style": "dialogue",
+   "point": [
+    421,
+    8940
+   ]
+  },
+  {
+   "id": 4,
+   "text": "L’ÂME DE MARY GENNOS, EN CE MOMENT,",
+   "style": "dialogue",
+   "point": [
+    291,
+    9916
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SOUS L’ARÈNE CÉLESTE, DANS LE TERRARIUM DE LA TOUR CÉLESTE.",
+   "style": "dialogue",
+   "point": [
+    505,
+    10213
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BRÛLE AU PLUS HAUT NIVEAU !",
+   "style": "dialogue",
+   "point": [
+    410,
+    12465
+   ]
+  },
+  {
+   "id": 7,
+   "text": "HOHO... QUELLE CHANCE INATTENDUE !",
+   "style": "italique",
+   "point": [
+    404,
+    13513
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-260/011.webp",
+ "output": "chapters_fr/chapter-260/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VAS-Y, ET REVIENS SAIN ET SAUF !",
+   "style": "dialogue",
+   "point": [
+    398,
+    445
+   ]
+  }
+ ]
+}

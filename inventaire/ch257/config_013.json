@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/013.webp",
+ "output": "chapters_fr/chapter-257/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST AINSI QUE CELA AURAIT DÛ ÊTRE.",
+   "style": "cartouche",
+   "point": [
+    447,
+    1285
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COMBIEN DE TEMPS S’ÉTAIT ÉCOULÉ ?",
+   "style": "cartouche",
+   "point": [
+    335,
+    2997
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PEU APRÈS, LA LUMIÈRE QU’ELLE CONTEMPLAIT SANS CESSE...",
+   "style": "cartouche",
+   "point": [
+    486,
+    3289
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DONNA À SES YEUX LE POUVOIR DE PRESCIENCE.",
+   "style": "cartouche",
+   "point": [
+    416,
+    4846
+   ]
+  }
+ ]
+}

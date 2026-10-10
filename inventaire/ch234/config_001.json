@@ -1,0 +1,105 @@
+{
+ "source": "chapters_en/chapter-234/001.webp",
+ "output": "chapters_fr/chapter-234/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL Y A ENVIRON UNE HEURE.",
+   "style": "dialogue",
+   "point": [
+    396,
+    611
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PAR LE PASSAGE SECRET DE MOKIKO.",
+   "style": "dialogue",
+   "point": [
+    412,
+    1622
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON,",
+   "style": "dialogue",
+   "point": [
+    347,
+    3775
+   ]
+  },
+  {
+   "id": 4,
+   "text": "D’ABORD, RÉSUMONS LA SITUATION.",
+   "style": "dialogue",
+   "point": [
+    470,
+    4060
+   ]
+  },
+  {
+   "id": 5,
+   "text": "À PARTIR DE MAINTENANT, ON PROTÈGE MARY GENNOS ET LE PETIT",
+   "style": "dialogue",
+   "point": [
+    374,
+    5206
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CONTRE L’ARME D’EGO D’ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    459,
+    5618
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ON POURRAIT DIRE... QU’ON AVAIT L’AIR D’ALLER LÀ-BAS POUR SE SUICIDER.",
+   "style": "dialogue",
+   "point": [
+    337,
+    6752
+   ]
+  },
+  {
+   "id": 8,
+   "text": "BIEN SÛR, LE BUT ÉTAIT...",
+   "style": "dialogue",
+   "point": [
+    449,
+    7673
+   ]
+  },
+  {
+   "id": 9,
+   "text": "QUE TOUT LE MONDE S’EN SORTE VIVANT !",
+   "style": "dialogue",
+   "point": [
+    421,
+    8947
+   ]
+  },
+  {
+   "id": 10,
+   "text": "...ÇA N’A MÊME PAS DE SENS.",
+   "style": "italique",
+   "point": [
+    479,
+    9710
+   ]
+  },
+  {
+   "id": 11,
+   "text": "CE GAMIN... IL ESSAIE ENCORE DE TOUT PORTER SEUL.",
+   "style": "italique",
+   "point": [
+    447,
+    10748
+   ]
+  }
+ ]
+}

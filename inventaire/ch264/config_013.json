@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-264/013.webp",
+ "output": "chapters_fr/chapter-264/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BAH, IL Y A BIEN D’AUTRES MYSTÈRES ET DE RÉGIONS INEXPLORÉES DANS CE MONDE, À PART LA TOUR CÉLESTE.",
+   "style": "dialogue",
+   "point": [
+    348,
+    229
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET PUIS, MAINTENANT, ON VA NOUS APPELER LES \"VÉTÉRANS\".",
+   "style": "dialogue",
+   "point": [
+    384,
+    1658
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LES\nAMIS...",
+   "style": "dialogue",
+   "point": [
+    422,
+    3182
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE...",
+   "style": "dialogue",
+   "point": [
+    355,
+    3835
+   ]
+  }
+ ]
+}

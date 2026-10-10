@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/023.webp",
+ "output": "chapters_fr/chapter-257/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "N’A JAMAIS ÉTÉ FAIT POUR CONTENIR LE DIEU D’UN MONDE !",
+   "style": "dialogue",
+   "point": [
+    433,
+    1250
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DIS-MOI...",
+   "style": "dialogue",
+   "point": [
+    351,
+    2588
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUEL EST TON NOM ?",
+   "style": "dialogue",
+   "point": [
+    481,
+    2946
+   ]
+  }
+ ]
+}

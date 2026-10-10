@@ -1,0 +1,116 @@
+{
+ "source": "chapters_en/chapter-235/003.webp",
+ "output": "chapters_fr/chapter-235/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON...",
+   "style": "dialogue",
+   "point": [
+    294,
+    209
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST TOUJOURS MIEUX QUE D’ESSAYER DE SURVIVRE À UN COMBAT CONTRE L’ARME D’EGO DU \"DIEU ABSOLU\" !",
+   "style": "dialogue",
+   "point": [
+    443,
+    1853
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON, TOUT LE MONDE ! LAISSEZ-MOI FAIRE !",
+   "style": "dialogue",
+   "point": [
+    387,
+    2828
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MANGEZ, LES MÔMES ! J’AI DES BISCUITS À REVENDRE !",
+   "style": "italique",
+   "point": [
+    365,
+    3817
+   ],
+   "cut": [
+    [
+     390,
+     4024
+    ],
+    [
+     485,
+     4024
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MO !",
+   "style": "dialogue",
+   "point": [
+    454,
+    5270
+   ]
+  },
+  {
+   "id": 6,
+   "text": "DEAN, TAE-WON KIM ! BANDE DE VOYOUS~ ! VOUS REGARDEZ ?!",
+   "style": "italique",
+   "point": [
+    511,
+    6679
+   ]
+  },
+  {
+   "id": 8,
+   "text": "VOUS AVEZ INTÉRÊT À ÊTRE SACRÉMENT RECONNAISSANTS, HEIN ?!",
+   "style": "italique",
+   "point": [
+    358,
+    7712
+   ]
+  },
+  {
+   "id": 9,
+   "text": "AH, C’EST ÇA ! JE CROIS QUE JE COMPRENDS MAINTENANT.",
+   "style": "italique",
+   "point": [
+    304,
+    8773
+   ]
+  },
+  {
+   "id": 10,
+   "text": "POURQUOI \"COOKIE\" A CESSÉ DE MONTRER L’AVENIR DES AUTRES !",
+   "style": "italique",
+   "point": [
+    475,
+    9501
+   ]
+  },
+  {
+   "id": 100,
+   "text": "MAIS T’AS INTÉRÊT\nÀ BIEN ME GUIDER,\nCOMPRIS ?!",
+   "style": "italique",
+   "point": [
+    460,
+    4240
+   ],
+   "cut": [
+    [
+     390,
+     4024
+    ],
+    [
+     485,
+     4024
+    ]
+   ]
+  }
+ ]
+}

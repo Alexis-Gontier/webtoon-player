@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-260/029.webp",
+ "output": "chapters_fr/chapter-260/029.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ALORS, QU’EST-CE QUE TU VAS FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    392,
+    3199
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AVEC TON KARMA ACTUEL, TU NE POURRAS PAS ME TRANCHER...",
+   "style": "dialogue",
+   "point": [
+    393,
+    4369
+   ]
+  },
+  {
+   "id": 100,
+   "text": "HEIN ?",
+   "style": "dialogue",
+   "box": [
+    340,
+    0,
+    610,
+    60
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "target": [
+    340,
+    0,
+    610,
+    60
+   ],
+   "max_size": 32,
+   "seam": "top"
+  }
+ ]
+}

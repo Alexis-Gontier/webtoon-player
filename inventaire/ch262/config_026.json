@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-262/026.webp",
+ "output": "chapters_fr/chapter-262/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HÉ, ÇA VEUT DIRE QU’ON EST COMPLÈTEMENT PIÉGÉS ICI, NON ?!",
+   "style": "italique",
+   "point": [
+    348,
+    480
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON SANG,\nLUCIA...",
+   "style": "dialogue",
+   "point": [
+    323,
+    1324
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU NOUS AS PRÉPARÉ UN SACRÉ CADEAU D’ADIEU POUR LA FIN.",
+   "style": "dialogue",
+   "point": [
+    379,
+    2283
+   ]
+  },
+  {
+   "id": 5,
+   "text": "VOILÀ QUI\nPOSE PROBLÈME...",
+   "style": "pensee",
+   "point": [
+    348,
+    3062
+   ]
+  },
+  {
+   "id": 6,
+   "text": "DANS UNE SITUATION PAREILLE...",
+   "style": "pensee",
+   "point": [
+    394,
+    4063
+   ]
+  }
+ ]
+}

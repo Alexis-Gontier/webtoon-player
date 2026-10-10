@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/027.webp",
+ "output": "chapters_fr/chapter-227/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE PRIX, C’EST LE CONTRAT D’ASARYUN.",
+   "style": "dialogue",
+   "point": [
+    423,
+    1200
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUOI... ?",
+   "style": "dialogue",
+   "point": [
+    476,
+    2904
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE QUE J’ESPÈRE...",
+   "style": "dialogue",
+   "point": [
+    405,
+    4032
+   ]
+  },
+  {
+   "id": 4,
+   "text": "\"L’ÉPÉE DE L’ÂME.\"",
+   "style": "dialogue",
+   "point": [
+    393,
+    5144
+   ]
+  }
+ ]
+}

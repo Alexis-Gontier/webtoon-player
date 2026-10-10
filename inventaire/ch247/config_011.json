@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-247/011.webp",
+ "output": "chapters_fr/chapter-247/011.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "ALORS, TU PASSES AUX CHOSES SÉRIEUSES ?",
+   "style": "dialogue",
+   "point": [
+    339,
+    3806
+   ]
+  }
+ ]
+}

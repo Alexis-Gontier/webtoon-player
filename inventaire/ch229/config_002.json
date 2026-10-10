@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-229/002.webp",
+ "output": "chapters_fr/chapter-229/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SEOL-JIN, TU L’AS SENTI AUSSI, NON ?",
+   "style": "dialogue",
+   "point": [
+    410,
+    1262
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TON AMI VIENT DE PARTIR.",
+   "style": "dialogue",
+   "point": [
+    399,
+    2292
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU SAIS AUSSI QUE CE N’EST QUE LE DÉBUT.",
+   "style": "dialogue",
+   "point": [
+    338,
+    7528
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA BATAILLE FINALE A COMMENCÉ.",
+   "style": "dialogue",
+   "point": [
+    437,
+    9387
+   ]
+  },
+  {
+   "id": 6,
+   "text": "OUI.",
+   "style": "dialogue",
+   "point": [
+    348,
+    10962
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ÇA NE TE DÉRANGE PAS ?",
+   "style": "dialogue",
+   "point": [
+    314,
+    11733
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CE QUI VA ARRIVER À TES AMIS ?",
+   "style": "dialogue",
+   "point": [
+    444,
+    12733
+   ]
+  },
+  {
+   "id": 9,
+   "text": "...BIEN SÛR QUE SI, MAIS...",
+   "style": "dialogue",
+   "point": [
+    312,
+    13565
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ÇA VA.",
+   "style": "dialogue",
+   "point": [
+    433,
+    14920
+   ]
+  }
+ ]
+}

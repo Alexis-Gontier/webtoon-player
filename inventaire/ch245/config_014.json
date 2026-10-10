@@ -1,0 +1,62 @@
+{
+ "source": "chapters_en/chapter-245/014.webp",
+ "output": "chapters_fr/chapter-245/014.webp",
+ "bubbles": [
+  {
+   "id": 5,
+   "text": "C’EST COMME ÇA\nQU’IL FAUT\nM’ATTAQUER.",
+   "style": "dialogue",
+   "point": [
+    409,
+    5231
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE PERSONNAGE\nPRINCIPAL !",
+   "style": "dialogue",
+   "point": [
+    418,
+    6635
+   ]
+  },
+  {
+   "id": 100,
+   "text": "VAS-Y !!!",
+   "style": "cri",
+   "box": [
+    110,
+    0,
+    700,
+    262
+   ],
+   "target": [
+    150,
+    5,
+    650,
+    240
+   ],
+   "ink_max": 150,
+   "thick": 4,
+   "grow": 7,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     20,
+     25,
+     70
+    ],
+    [
+     20,
+     25,
+     70
+    ]
+   ],
+   "stretch": 1.3
+  }
+ ]
+}

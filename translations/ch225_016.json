@@ -1,0 +1,112 @@
+{
+  "source": "chapters_en/chapter-225/016.webp",
+  "output": "chapters_fr/chapter-225/016.webp",
+  "bubbles": [
+    {
+      "point": [
+        342,
+        278
+      ],
+      "text": "JE TE PRÉVIENS."
+    },
+    {
+      "point": [
+        425,
+        1800
+      ],
+      "text": "TU NE ME BATTRAS JAMAIS.",
+      "max_size": 56
+    },
+    {
+      "point": [
+        368,
+        2697
+      ],
+      "text": "HAHAHA ! QUI A DIT QUE J’ÉTAIS VENU POUR GAGNER ?"
+    },
+    {
+      "point": [
+        450,
+        3883
+      ],
+      "text": "MON BUT N’EST PAS DE GAGNER..."
+    },
+    {
+      "point": [
+        408,
+        4717
+      ],
+      "text": "MAIS DE ME DÉBARRASSER DE TOI !",
+      "max_size": 70
+    },
+    {
+      "point": [
+        402,
+        7480
+      ],
+      "text": "ESPÈCE D’ENFOIRÉ~ !",
+      "max_size": 80,
+      "cut": [
+        [
+          185,
+          7167
+        ],
+        [
+          200,
+          7158
+        ],
+        [
+          215,
+          7151
+        ],
+        [
+          230,
+          7144
+        ],
+        [
+          245,
+          7137
+        ],
+        [
+          260,
+          7131
+        ],
+        [
+          275,
+          7126
+        ]
+      ]
+    },
+    {
+      "box": [
+        30,
+        9360,
+        770,
+        9560
+      ],
+      "text": "BATAILLE FINALE\nPREMIER ROUND",
+      "style": "systeme",
+      "ink_max": 120,
+      "grow": 4,
+      "solid": 7,
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "outline": [
+        0,
+        0,
+        0
+      ],
+      "outline_width": 3
+    }
+  ]
+}

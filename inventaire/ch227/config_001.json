@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-227/001.webp",
+ "output": "chapters_fr/chapter-227/001.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VEUX CHANGER LE PASSÉ ?",
+   "style": "dialogue",
+   "point": [
+    408,
+    1333
+   ]
+  },
+  {
+   "id": 2,
+   "text": "\"MAÎTRE ÉPÉISTE\" ASARYUN.",
+   "style": "dialogue",
+   "point": [
+    411,
+    3548
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-241/004.webp",
+ "output": "chapters_fr/chapter-241/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’UN GUERRIER AUSSI PUISSANT S’EFFONDRE À CE POINT...",
+   "style": "italique",
+   "point": [
+    420,
+    244
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE S’EST-IL PASSÉ ?",
+   "style": "italique",
+   "point": [
+    364,
+    2580
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE NE CONNAIS PAS LA STRUCTURE EXACTE, MAIS...",
+   "style": "italique",
+   "point": [
+    423,
+    3492
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UNE ÂME CONSERVÉE DANS L’\"ANNEAU DE RÉINCARNATION\"",
+   "style": "italique",
+   "point": [
+    333,
+    5490
+   ]
+  },
+  {
+   "id": 5,
+   "text": "RÉCUPÈRE TOUT LE KARMA CONSOMMÉ.",
+   "style": "italique",
+   "point": [
+    446,
+    5892
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ALORS CE QUI EST BRISÉ N’EST PAS QUELQUE CHOSE DE PHYSIQUE...",
+   "style": "italique",
+   "point": [
+    345,
+    6865
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE MOI INTÉRIEUR ?",
+   "style": "dialogue",
+   "point": [
+    439,
+    8159
+   ]
+  },
+  {
+   "id": 8,
+   "text": "MAIS QU’EST-CE QUE C’EST QUE CE TRUC APPELÉ KARMA... ?",
+   "style": "italique",
+   "point": [
+    425,
+    8948
+   ]
+  },
+  {
+   "id": 9,
+   "text": "C’EST QUOI CE... ?!",
+   "style": "dialogue",
+   "point": [
+    272,
+    12719
+   ]
+  },
+  {
+   "id": 10,
+   "text": "LE NIVEAU D’ACHÈVEMENT DE L’ŒIL A GRIMPÉ EN FLÈCHE, NON ?",
+   "style": "dialogue",
+   "point": [
+    453,
+    13794
+   ]
+  }
+ ]
+}

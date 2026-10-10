@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-251/031.webp",
+ "output": "chapters_fr/chapter-251/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST QUE...",
+   "style": "dialogue",
+   "point": [
+    443,
+    470
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LI-LIBUR ! DIS QUELQUE CHOSE !",
+   "style": "dialogue",
+   "point": [
+    402,
+    1339
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HEIN ? JE NE SAIS PAS...",
+   "style": "dialogue",
+   "point": [
+    423,
+    2502
+   ]
+  }
+ ]
+}

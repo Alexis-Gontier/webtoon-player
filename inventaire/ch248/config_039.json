@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/039.webp",
+ "output": "chapters_fr/chapter-248/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VOIS ? QU’EST-CE QUE JE T’AVAIS DIT ?",
+   "style": "dialogue",
+   "point": [
+    397,
+    1527
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COMME JE LE PENSAIS. TU ES DU GENRE À Y ARRIVER QUAND TU ESSAIES.",
+   "style": "dialogue",
+   "point": [
+    364,
+    2278
+   ]
+  }
+ ]
+}

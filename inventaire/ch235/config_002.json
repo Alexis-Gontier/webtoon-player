@@ -1,0 +1,98 @@
+{
+ "source": "chapters_en/chapter-235/002.webp",
+ "output": "chapters_fr/chapter-235/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...ATTENDS, ÇA N’A AUCUN SENS ! TU DIS QU’ON DEVRAIT LUI DEMANDER DE L’AIDE ?",
+   "style": "dialogue",
+   "point": [
+    318,
+    231
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU SAIS CE QU’IL A FAIT À LIBUR !",
+   "style": "dialogue",
+   "point": [
+    503,
+    1285
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE SUIS CONTRE. SE SERVIR DE RYUJIN POUR UN PLAN PAREIL... !",
+   "style": "dialogue",
+   "point": [
+    280,
+    2150
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ARTHUR NOUS VOIT COMME DES INSECTES.",
+   "style": "dialogue",
+   "point": [
+    346,
+    3266
+   ],
+   "cut": [
+    [
+     298,
+     3487
+    ],
+    [
+     578,
+     3383
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI ON L’APPROCHE, IL VA FAIRE SEMBLANT DE DISCUTER, PUIS NOUS TUER TOUS...",
+   "style": "dialogue",
+   "point": [
+    504,
+    3647
+   ],
+   "cut": [
+    [
+     298,
+     3487
+    ],
+    [
+     578,
+     3383
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "text": "À TON AVIS, QUEL EST LE TAUX DE RÉUSSITE ?",
+   "style": "dialogue",
+   "point": [
+    392,
+    5521
+   ]
+  },
+  {
+   "id": 9,
+   "text": "...DANS LE MEILLEUR DES CAS,",
+   "style": "dialogue",
+   "point": [
+    357,
+    8055
+   ]
+  },
+  {
+   "id": 10,
+   "text": "MOINS DE 5 %.",
+   "style": "dialogue",
+   "point": [
+    402,
+    9339
+   ]
+  }
+ ]
+}

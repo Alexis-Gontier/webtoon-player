@@ -1,0 +1,43 @@
+{
+ "source": "chapters_en/chapter-239/039.webp",
+ "output": "chapters_fr/chapter-239/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAINTENANT ! MON ÂME VACILLE !",
+   "style": "dialogue",
+   "point": [
+    416,
+    367
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 2,
+   "text": "ÇA RÉSONNE AVEC MON \"NOYAU\".",
+   "style": "italique",
+   "point": [
+    301,
+    3236
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE KARMA QUE J’AI RÉCUPÉRÉ JUSQU’ICI... !",
+   "style": "italique",
+   "point": [
+    269,
+    3579
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS COMMENT ?! SON \"ÂME\" AURAIT DÛ ÊTRE COMPLÈTEMENT DÉTRUITE !",
+   "style": "italique",
+   "point": [
+    508,
+    4520
+   ]
+  }
+ ]
+}

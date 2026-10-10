@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-250/013.webp",
+ "output": "chapters_fr/chapter-250/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON, ÇA MANQUE UN PEU DE VARIÉTÉ, MAIS...",
+   "style": "dialogue",
+   "point": [
+    368,
+    4532
+   ]
+  }
+ ]
+}

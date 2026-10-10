@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-235/009.webp",
+ "output": "chapters_fr/chapter-235/009.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ON Y VA, LES GARS !",
+   "style": "italique",
+   "point": [
+    412,
+    4797
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON VA JUSTE LANCER UNE MALÉDICTION OU UN COUP DE POING À ARTHUR !",
+   "style": "italique",
+   "point": [
+    380,
+    8538
+   ]
+  }
+ ]
+}

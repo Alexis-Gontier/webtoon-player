@@ -1,0 +1,73 @@
+{
+ "source": "chapters_en/chapter-263/002.webp",
+ "output": "chapters_fr/chapter-263/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN, JE PEUX\nY ARRIVER.",
+   "style": "italique",
+   "point": [
+    380,
+    635
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’Y ARRIVERAI.",
+   "style": "italique",
+   "point": [
+    353,
+    1386
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "italique",
+   "box": [
+    240,
+    2835,
+    515,
+    2980
+   ],
+   "ink_max": 130,
+   "max_letter": 80,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "COMME ILS...",
+   "style": "italique",
+   "box": [
+    240,
+    2835,
+    515,
+    2980
+   ],
+   "target": [
+    250,
+    2842,
+    505,
+    2972
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

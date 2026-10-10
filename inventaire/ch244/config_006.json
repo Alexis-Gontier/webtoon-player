@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-244/006.webp",
+ "output": "chapters_fr/chapter-244/006.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "BIEN JOUÉ, PETIT !",
+   "style": "dialogue",
+   "point": [
+    417,
+    3100
+   ]
+  }
+ ]
+}

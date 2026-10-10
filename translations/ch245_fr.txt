@@ -1,0 +1,208 @@
+# Chapitre 245 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+
+## 001.webp
+001.1 | dialogue | -
+# EN: FINAL BATTLE SEMIFINALS (DEAN gardé)
+001.2 | systeme {"box": [150, 565, 660, 775], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | BATAILLE FINALE\nDEMI-FINALE
+# EN: HEO SEOL-JIN (VS gardé)
+001.3 | systeme {"box": [150, 1240, 650, 1345], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | SEOL-JIN HEO
+# EN: WINNER, / HEO SEOL-JIN.
+001.4 | dialogue | -
+001.100 | systeme {"box": [180, 2745, 600, 2868], "grow": 6, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "max_letter": 145} | VAINQUEUR :
+001.101 | systeme {"box": [75, 2870, 732, 3002], "target": [86, 2879, 721, 2993], "ink_max": 256, "grow": 0, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4, "max_letter": 230} | SEOL-JIN HEO.
+001.5 | dialogue | -
+
+## 002.webp
+# EN: SORRY, LIBUR...
+002.1 | dialogue | DÉSOLÉ,\nLIBUR...
+# EN: IDIOT.
+002.2 | dialogue | IDIOT.
+# EN: THERE'S STILL SOMETHING LEFT TO DO, RIGHT?
+002.3 | dialogue | IL RESTE ENCORE QUELQUE CHOSE À FAIRE, PAS VRAI ?
+
+## 003.webp
+# EN: YEAH...
+003.1 | dialogue | OUAIS...
+# EN: ...SERIOUSLY, YOU GUYS!
+003.2 | dialogue | ...FRANCHEMENT, VOUS ALORS !
+003.3 | dialogue | -
+
+## 004.webp
+004.1 | dialogue | -
+004.2 | dialogue | -
+004.3 | dialogue | -
+004.4 | dialogue | -
+004.5 | dialogue | -
+004.6 | dialogue | -
+004.7 | dialogue | -
+004.8 | dialogue | -
+# EN: HELL- / YEAH!!! (cris de la foule)
+004.100 | cri {"box": [40, 60, 790, 560], "target": [170, 150, 640, 450], "ink_max": 70, "thick": 5, "grow": 8, "colors": [[0,0,0],[0,0,0]], "stretch": 1.2} | TROP
+004.101 | cri {"box": [30, 2420, 795, 2975], "target": [90, 2520, 700, 2880], "ink_max": 70, "thick": 5, "grow": 8, "colors": [[0,0,0],[0,0,0]], "stretch": 1.2} | BIEN !!!
+
+## 005.webp
+005.1 | dialogue | -
+# EN: WE MADE IT.
+005.100 | systeme {"box": [130, 3400, 690, 3530], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | ON Y EST ARRIVÉS.
+# EN: FINALLY,
+005.2 | systeme {"box": [190, 7540, 610, 7670], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | ENFIN,
+
+## 006.webp
+006.1 | dialogue | -
+006.2 | dialogue | -
+# EN: WE'RE IN FRONT OF HIM!
+006.3 | dialogue | -
+006.100 | systeme {"box": [195, 3820, 640, 4175], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | ON EST\nDEVANT\nLUI !
+# EN: ALRIGHT!
+006.4 | dialogue {"point": [409, 5352]} | TRÈS BIEN !
+# EN: CONGRATS, HEO SEOL-JIN!
+006.5 | dialogue {"point": [409, 7742]} | FÉLICITATIONS,\nSEOL-JIN HEO !
+
+## 007.webp
+# EN: SO YOU FINALLY REACHED THIS GREAT ARTHUR!
+007.1 | cri | TE VOILÀ ENFIN\nFACE AU GRAND\nARTHUR !
+007.2 | dialogue | -
+007.3 | dialogue | -
+
+## 008.webp
+# EN: HEY!
+008.1 | dialogue | HÉ !
+# EN: COME.
+008.2 | dialogue | VENEZ.
+# EN: YES.
+008.3 | dialogue | OUI.
+# EN: WHAT...?!
+008.4 | pensee | QUOI...?!
+# EN: WELL THEN.
+008.5 | dialogue | BON.
+# EN: INSERT COIN (écran lumineux)
+008.6 | dialogue | -
+008.100 | systeme {"box": [140, 8535, 665, 8880], "light": true, "light_min": 110, "grow": 12, "colors": [[255,255,255],[255,255,255]], "outline": [110,110,255], "outline_width": 3} | INSÉREZ\nUNE PIÈCE
+
+## 009.webp
+009.1 | dialogue | -
+# EN: FINAL BOSS, / APPEARS!
+009.100 | cri {"point": [400, 3787]} | LE BOSS\nFINAL
+009.101 | cri {"point": [390, 5950]} | ENTRE EN\nSCÈNE !
+
+## 010.webp
+# EN: LIBUR!
+010.1 | cri | LIBUR !
+010.2 | dialogue | -
+# EN: GO BEHIND ME!
+010.3 | cri | PASSE\nDERRIÈRE MOI !
+# EN: IT'S OKAY!
+010.4 | dialogue | ÇA IRA !
+010.5 | dialogue | -
+# EN: BECAUSE YOU'RE BY MY SIDE!
+010.6 | dialogue | PARCE QUE TU ES\nÀ MES CÔTÉS !
+# EN: I CAN DO IT.
+010.7 | italique {"point": [315, 7002]} | JE PEUX\nY ARRIVER.
+# EN: I CAN DO IT!
+010.8 | italique {"point": [460, 7680]} | JE PEUX\nY ARRIVER !
+
+## 011.webp
+# EN: YEAH, WE...!
+011.1 | italique {"point": [352, 292]} | OUI,\nON VA...!
+# EN: I...!
+011.100 | italique {"point": [412, 1325]} | JE\nVAIS...!
+# EN: ABSOLUTELY...!
+011.2 | italique | -
+011.101 | systeme {"box": [218, 2205, 264, 2295], "ink_max": 150, "grow": 3, "fill": [255,255,255]} | (effacer)
+011.102 | systeme {"box": [585, 2215, 625, 2290], "ink_max": 150, "max_letter": 60, "grow": 3, "fill": [255,255,255]} | (effacer)
+011.103 | italique {"point": [350, 2257]} | Y ARRIVER,\nC’EST SÛR...!
+
+## 012.webp
+# EN: GOODNESS.
+012.1 | dialogue | OH LÀ LÀ.
+# EN: WHAT IF YOU'RE ALREADY ALL WOBBLY BEFORE THE FIGHT EVEN STARTS?
+012.2 | dialogue | ET SI TU FLAGEOLES DÉJÀ AVANT MÊME LE DÉBUT DU COMBAT ?
+012.3 | dialogue | -
+# EN: HEY, SPECTATORS! ARE YOU GUYS REALLY OKAY WITH THIS?
+012.4 | dialogue | HÉ, LES SPECTATEURS ! VOUS ÊTES VRAIMENT D’ACCORD AVEC ÇA ?
+# EN: IF THIS PUNK LOSES TO ME, THE WHOLE WORLD IS DOOMED~!
+012.5 | dialogue | SI CE MORVEUX PERD CONTRE MOI, LE MONDE ENTIER EST FICHU~ !
+# EN: BOOOOOO
+012.100 | cri {"box": [40, 6680, 800, 7290], "ink_max": 70, "thick": 5, "grow": 8, "colors": [[0,0,0],[0,0,0]], "stretch": 1.3} | -
+
+## 013.webp
+# EN: BOOOOOO!!!
+013.100 | cri {"box": [40, 455, 800, 1050], "ink_max": 70, "thick": 5, "grow": 8, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "stretch": 1.3} | -
+# EN: YOU CAN'T LOSE!
+013.101 | italique {"point": [387, 1675]} | TU NE PEUX\nPAS PERDRE !
+# EN: SEOL-JIN!!!
+013.102 | italique {"point": [405, 3857]} | SEOL-JIN !!!
+# EN: HANG IN THERE, IT'S ALMOST OVER!
+013.1 | italique | -
+013.105 | italique {"box": [130, 4320, 510, 4450], "ink_max": 130, "grow": 4, "fill": [255,255,255]} | (effacer)
+013.106 | italique {"box": [140, 4250, 500, 4500], "target": [160, 4270, 480, 4480], "ink_max": 0, "colors": [[20,25,70],[20,25,70]]} | TIENS BON, C’EST\nPRESQUE FINI !
+# EN: GO FOR IT!!! YOU EVEN BEAT DEAN, SO WHY CAN'T YOU DO IT NOW?!
+013.2 | italique | -
+013.107 | italique {"box": [395, 5020, 705, 5215], "ink_max": 130, "grow": 4, "fill": [255,255,255]} | (effacer)
+013.108 | italique {"box": [385, 5005, 715, 5215], "target": [395, 5015, 705, 5205], "ink_max": 0, "colors": [[20,25,70],[20,25,70]]} | VAS-Y !!! TU AS MÊME\nBATTU DEAN, ALORS\nPOURQUOI PAS\nMAINTENANT ?!
+# EN: IF IT'S YOU, YOU CAN DO IT!
+013.3 | italique | -
+013.103 | systeme {"box": [45, 5425, 375, 5560], "ink_max": 130, "grow": 6, "fill": [255,255,255], "max_letter": 60} | (effacer)
+013.104 | italique {"box": [40, 5415, 300, 5570], "target": [45, 5420, 295, 5565], "ink_max": 0, "colors": [[20,25,70],[20,25,70]]} | TOI, TU PEUX\nY ARRIVER !
+# EN: DON'T LOSE TO THAT RECKLESS JERK!
+013.4 | italique {"erase_color": true} | NE PERDS PAS CONTRE CE TARÉ !
+# EN: WE BELIEVE IN YOU. PUNCH HIM FOR ALL OF US!
+013.5 | italique {"erase_color": true} | ON CROIT EN TOI. FRAPPE-LE POUR NOUS TOUS !
+
+## 014.webp
+# EN: GO!!!
+014.100 | cri {"box": [110, 0, 700, 262], "target": [150, 5, 650, 240], "ink_max": 150, "thick": 4, "grow": 7, "fill": [255,255,255], "colors": [[20,25,70],[20,25,70]], "stretch": 1.3} | VAS-Y !!!
+014.1 | dialogue | -
+014.2 | dialogue | -
+# EN: PLAYER! (gardé)
+014.3 | dialogue | -
+014.4 | dialogue | -
+# EN: THAT'S HOW YOU SHOULD COME AT ME.
+014.5 | dialogue | C’EST COMME ÇA\nQU’IL FAUT\nM’ATTAQUER.
+014.6 | dialogue | -
+# EN: MAIN CHARACTER!
+014.7 | dialogue | LE PERSONNAGE\nPRINCIPAL !
+
+## 015.webp
+# EN: YEAH,
+015.100 | italique {"point": [400, 300]} | OUAIS,
+# EN: I SHOULDN'T GIVE UP.
+015.1 | italique | JE NE DOIS PAS\nABANDONNER.
+# EN: FOR THE FUTURE WE WISH FOR!
+015.2 | italique | -
+015.101 | italique {"box": [205, 2195, 595, 2460], "ink_max": 130, "grow": 4, "max_letter": 90, "fill": [255,255,255]} | (effacer)
+015.102 | italique {"box": [200, 2200, 590, 2455], "target": [205, 2205, 585, 2450], "ink_max": 0, "colors": [[0,0,0],[0,0,0]]} | POUR L’AVENIR\nQUE NOUS\nSOUHAITONS !
+
+## 016.webp
+# EN: LET'S GO, LIBUR.
+016.1 | dialogue | ALLONS-Y,\nLIBUR.
+# EN: LET'S WIN THIS!
+016.2 | dialogue | ON VA\nGAGNER !
+# EN: YEAH!
+016.3 | dialogue | OUAIS !
+# EN: COME, LAY!
+016.4 | dialogue | VIENS,\nLAY !
+016.5 | dialogue | -
+
+## 017.webp
+# EN: IF I WIN, I'LL TAKE IT.
+017.1 | dialogue | SI JE GAGNE,\nJE LE PRENDS.
+# EN: THE WORLD WE DREAMED OF!
+017.2 | dialogue | LE MONDE DONT\nNOUS AVONS RÊVÉ !
+# EN: NO, IT'LL BE "MY" WORLD.
+017.3 | dialogue | NON,\nCE SERA "MON"\nMONDE.
+# EN: IDI~OT!
+017.4 | dialogue | CRÉ~TIN !
+# EN: LET'S ENJOY IT TO THE VERY END, "PLAYER" HEO SEOL-JIN!!!
+017.5 | cri | PROFITONS-EN\nJUSQU’AU BOUT,\n"PLAYER"\nSEOL-JIN HEO !!!
+# EN: FINAL BATTLE
+017.6 | dialogue | -
+017.100 | systeme {"box": [150, 7480, 670, 7845], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 200} | BATAILLE\nFINALE
+
+## 018.webp
+# EN: ARTHUR (gardé)
+018.1 | systeme | -
+# EN: HEO SEOL-JIN
+018.2 | systeme {"box": [80, 2155, 720, 2272], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | SEOL-JIN HEO
+018.3 | systeme | -
+018.4 | systeme | -

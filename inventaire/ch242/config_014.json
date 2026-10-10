@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-242/014.webp",
+ "output": "chapters_fr/chapter-242/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE N’EST PAS AUTANT QUE TU LE PENSAIS, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    421,
+    1253
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TAE-WON...",
+   "style": "dialogue",
+   "point": [
+    367,
+    2150
+   ]
+  },
+  {
+   "id": 3,
+   "text": "KIM... ?",
+   "style": "dialogue",
+   "point": [
+    441,
+    3059
+   ]
+  },
+  {
+   "id": 4,
+   "text": "NE ME DEMANDE PAS, D’ACCORD ?",
+   "style": "dialogue",
+   "point": [
+    403,
+    4107
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PARCE QUE JE NE TE LE DIRAI PAS, MÊME SI JE MEURS.",
+   "style": "dialogue",
+   "point": [
+    411,
+    5827
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ENFIN, SELON CE QUE TU FERAS, JE POURRAIS TE LE DIRE.",
+   "style": "dialogue",
+   "point": [
+    387,
+    6730
+   ]
+  }
+ ]
+}

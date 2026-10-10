@@ -1,0 +1,447 @@
+{
+ "source": "chapters_en/chapter-226/010.webp",
+ "output": "chapters_fr/chapter-226/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’AI HORREUR DE L’ADMETTRE, MAIS J’AI VÉCU EN RÊVANT DE CE JOUR.",
+   "style": "italique",
+   "point": [
+    332,
+    3367
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CARTOUCHE OUVERTE !",
+   "style": "dialogue",
+   "point": [
+    421,
+    4475
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AUTREMENT DIT,",
+   "style": "italique",
+   "point": [
+    284,
+    5358
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ARTICLE 2 : CONTRAT AVEC DES\nMENACES DOUÉES DE RAISON\n(CI-APRÈS, MONSTRES)",
+   "style": "titre",
+   "box": [
+    100,
+    5565,
+    700,
+    5770
+   ],
+   "target": [
+    147,
+    5576,
+    645,
+    5768
+   ],
+   "vfill": true,
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3,
+   "stretch": 1.4
+  },
+  {
+   "id": 5,
+   "text": "EN TANT QUE CELUI QUI COMPREND L’EXISTENCE DE CE SALAUD MIEUX QUE PERSONNE...",
+   "style": "dialogue",
+   "point": [
+    475,
+    6060
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE SUIS L’HUMAIN QUI A LE PLUS DE CHANCES DE LE VAINCRE !",
+   "style": "italique",
+   "point": [
+    403,
+    7034
+   ]
+  },
+  {
+   "id": 7,
+   "text": "DÉPLOIEMENT\nMASSIF",
+   "style": "systeme",
+   "point": [
+    402,
+    12749
+   ],
+   "box": [
+    50,
+    12660,
+    750,
+    13000
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 5,
+   "blur_fill": 25
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    0,
+    7230,
+    130,
+    9140
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 250,
+   "grow": 3
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    130,
+    7322,
+    775,
+    9140
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 250,
+   "grow": 3
+  },
+  {
+   "id": 102,
+   "text": "NIVEAU DE MENACE B+ - CLAN DES GÉANTS",
+   "style": "systeme",
+   "box": [
+    684,
+    7833,
+    766,
+    9125
+   ],
+   "target": [
+    689,
+    7838,
+    761,
+    9120
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     70,
+     1,
+     162
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "text": "NIVEAU DE MENACE S - ROI DES FOURMIS",
+   "style": "systeme",
+   "box": [
+    645,
+    7327,
+    707,
+    8155
+   ],
+   "target": [
+    650,
+    7332,
+    702,
+    8150
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     157,
+     157,
+     157
+    ],
+    [
+     157,
+     157,
+     157
+    ]
+   ]
+  },
+  {
+   "id": 104,
+   "text": "NIVEAU DE MENACE A - COLONIE DE HARPIES",
+   "style": "systeme",
+   "box": [
+    560,
+    7492,
+    626,
+    8555
+   ],
+   "target": [
+    565,
+    7497,
+    621,
+    8550
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     70,
+     1,
+     162
+    ]
+   ]
+  },
+  {
+   "id": 105,
+   "text": "NIVEAU DE MENACE C - HOMONCULE",
+   "style": "systeme",
+   "box": [
+    424,
+    7664,
+    496,
+    8705
+   ],
+   "target": [
+    429,
+    7669,
+    491,
+    8700
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     70,
+     1,
+     162
+    ]
+   ]
+  },
+  {
+   "id": 106,
+   "text": "NIVEAU DE MENACE A - CYCLOPE",
+   "style": "systeme",
+   "box": [
+    294,
+    7356,
+    379,
+    8455
+   ],
+   "target": [
+    299,
+    7361,
+    374,
+    8450
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     157,
+     157,
+     157
+    ],
+    [
+     203,
+     172,
+     239
+    ]
+   ]
+  },
+  {
+   "id": 107,
+   "text": "NIVEAU DE MENACE B+ - CHEF DE LA TRIBU DES LOUPS CROC-DE-GIVRE",
+   "style": "systeme",
+   "box": [
+    238,
+    7792,
+    285,
+    9125
+   ],
+   "target": [
+    243,
+    7797,
+    280,
+    9120
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     70,
+     1,
+     162
+    ]
+   ]
+  },
+  {
+   "id": 108,
+   "text": "NIVEAU DE MENACE A - BÊTE À DÉFENSES DE GIGIN",
+   "style": "systeme",
+   "box": [
+    141,
+    7479,
+    203,
+    8655
+   ],
+   "target": [
+    146,
+    7484,
+    198,
+    8650
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 109,
+   "text": "NIVEAU DE MENACE S - SORCIÈRE DÉMONIAQUE",
+   "style": "systeme",
+   "box": [
+    34,
+    7232,
+    103,
+    8095
+   ],
+   "target": [
+    39,
+    7237,
+    98,
+    8090
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     186,
+     186,
+     186
+    ],
+    [
+     186,
+     186,
+     186
+    ]
+   ]
+  },
+  {
+   "id": 110,
+   "text": "NIVEAU DE MENACE A - DÉMON DE L’ORACLE",
+   "style": "systeme",
+   "box": [
+    0,
+    8090,
+    41,
+    9130
+   ],
+   "target": [
+    3,
+    8095,
+    36,
+    9125
+   ],
+   "angle": -90,
+   "ink_max": 250,
+   "colors": [
+    [
+     186,
+     186,
+     186
+    ],
+    [
+     70,
+     1,
+     162
+    ]
+   ]
+  }
+ ]
+}

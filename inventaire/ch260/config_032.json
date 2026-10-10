@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-260/032.webp",
+ "output": "chapters_fr/chapter-260/032.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ÉPÉE DE\nL’ÉVEIL...!",
+   "style": "cri",
+   "point": [
+    437,
+    977
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AH !♥",
+   "style": "dialogue",
+   "point": [
+    109,
+    2619
+   ]
+  }
+ ]
+}

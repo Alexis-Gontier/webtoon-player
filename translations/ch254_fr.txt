@@ -1,0 +1,283 @@
+# Chapitre 254 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+# Narration en cartouches rectangulaires (p. 31-34) : style cartouche.
+
+## 001.webp
+001.1 | dialogue | -
+
+## 002.webp
+# EN: LOOKS LIKE YOU'RE BACK!
+002.1 | cri | ON DIRAIT\nQUE TU ES\nDE RETOUR !
+# EN: LET'S GO, LIBUR.
+002.2 | dialogue | ALLONS-Y,\nLIBUR.
+
+## 003.webp
+003.1 | dialogue | -
+# EN: RIGHT, SEOL-JIN!
+003.2 | dialogue | OUI,\nSEOL-JIN !
+# EN: SINCE WE'RE AT THE END...
+003.3 | dialogue | PUISQU’ON EST\nAU BOUT...
+# EN: LET'S FIGHT WITH NO REGRETS!
+003.4 | dialogue | BATTONS-NOUS\nSANS REGRETS !
+
+## 004.webp
+004.1 | dialogue | -
+004.2 | dialogue | -
+
+## 005.webp
+# EN: WAIT...
+005.1 | italique | ATTENDS...
+# EN: YOU'RE NOT HEO SEOL-JIN, ARE YOU?
+005.2 | italique | TU N’ES PAS SEOL-JIN HEO, HEIN ?
+# EN: YOUR NAME WAS "RAY," WASN'T IT?
+005.3 | italique | TU T’APPELLES "RAY", C’EST ÇA ?
+
+## 006.webp
+# EN: FROM NOW ON,
+006.100 | italique {"point": [388, 462]} | À PARTIR DE\nMAINTENANT,
+# EN: I'LL SHOW YOU THE DIFFERENCE IN OUR LEVELS.
+006.1 | italique | JE VAIS TE MONTRER LA DIFFÉRENCE DE NIVEAU.
+# EN: GET READY, "ROOKIE"!
+006.2 | italique | PRÉPARE-TOI,\nLA "NOVICE" !
+
+## 007.webp
+# EN: WHAT WAS THAT JUST NOW?
+007.1 | dialogue | C’ÉTAIT QUOI, ÇA ?
+
+## 008.webp
+# EN: ELCALIBUR PUSHED ME...
+008.1 | dialogue | EXCALIBUR M’A REPOUSSÉ...
+# EN: NOTE: ELCALIBUR, LIBUR'S COMPLETE FORM, A VARIATION OF EXCALIBUR.
+008.2 | systeme | -
+008.100 | systeme {"box": [0, 1590, 445, 1655], "ink_max": 150, "grow": 3, "fill": [255,255,255]} | (effacer)
+# EN: BUT MY WOUNDS!
+008.3 | italique | MAIS MES\nBLESSURES !
+# EN: DID SHE HEAL ME?
+008.4 | italique | ELLE M’A\nSOIGNÉ ?
+# EN: BUT WHY THE HELL?!
+008.5 | italique | MAIS POURQUOI,\nBON SANG ?!
+
+## 009.webp
+# EN: THERE'S NO MISTAKE, IT'S THAT LIGHT!
+009.1 | italique | AUCUN DOUTE, C’EST CETTE LUMIÈRE !
+# EN: THE AUTHORITY OF HEALING!
+009.2 | italique | L’AUTORITÉ DE\nGUÉRISON !
+009.3 | dialogue | -
+# EN: SO YOU'VE FINALLY CHOSEN A MASTER, "DRAGON CLOAK"?!
+009.4 | dialogue | TU T’ES ENFIN CHOISI UN MAÎTRE, "CAPE DU DRAGON" ?!
+# EN: I SEE. I WAS WONDERING WHAT YOU'D DONE...
+009.5 | dialogue | JE VOIS. JE ME DEMANDAIS CE QUE TU AVAIS FAIT...
+# EN: AND I SEE YOU'VE MANAGED TO COMPLETE HER.
+009.6 | dialogue | ET JE VOIS QUE TU AS RÉUSSI À L’ACHEVER.
+
+## 010.webp
+010.1 | dialogue | -
+# EN: ELCALIBUR... NO,
+010.2 | dialogue | EXCALIBUR...\nNON,
+010.3 | dialogue | -
+# EN: SHOULD I CALL YOU "LIBUR"?
+010.4 | dialogue | DOIS-JE T’APPELER "LIBUR" ?
+# EN: YES, THAT'S IT!
+010.5 | cri | OUI,\nC’EST ÇA !
+
+## 011.webp
+# EN: THAT'S JUST LIKE YOU ALL!
+011.1 | cri | C’EST BIEN\nVOUS, ÇA !
+011.2 | dialogue | -
+# EN: LET'S SEE...
+011.3 | dialogue | VOYONS...
+
+## 012.webp
+# EN: THE PLAN WAS TO WIN AND TAKE MY WORLD, WASN'T IT?
+012.1 | dialogue | LE PLAN, C’ÉTAIT DE GAGNER ET DE PRENDRE MON MONDE, NON ?
+# EN: TAKE "OUR WORLD," YOU MEAN!
+012.2 | dialogue | PRENDRE "NOTRE\nMONDE", TU VEUX\nDIRE !
+
+## 013.webp
+013.1 | dialogue | -
+013.2 | dialogue | -
+
+## 014.webp
+
+## 015.webp
+015.1 | dialogue | -
+015.2 | dialogue | -
+
+## 016.webp
+
+## 017.webp
+017.1 | dialogue | -
+
+## 018.webp
+
+## 019.webp
+019.1 | dialogue | -
+
+## 020.webp
+# EN: LIBUR!!!
+020.1 | cri | LIBUR !!!
+# EN: ?!
+020.2 | dialogue | -
+
+## 021.webp
+021.1 | dialogue | -
+# EN: I WAS THINKING ABOUT THIS EARLIER...
+021.2 | dialogue | J’Y PENSAIS TOUT À L’HEURE...
+# EN: LORD ARTHUR.
+021.3 | dialogue | SEIGNEUR\nARTHUR.
+
+## 022.webp
+# EN: YOU KNOW HOW TO CREATE EGO WEAPONS,
+022.1 | italique | TU SAIS CRÉER DES ARMES D’EGO,
+# EN: BUT WHEN IT COMES TO WIELDING THEM, YOU'RE A DISASTER!
+022.2 | italique | MAIS POUR LES MANIER, TU ES UNE CATASTROPHE !
+# EN: THAT'S WHY YOU ENDED UP LOSING ME...
+022.100 | italique {"point": [360, 3325]} | C’EST POUR ÇA QUE TU M’AS PERDUE...
+
+## 023.webp
+# EN: TO SEOL-JIN.
+023.1 | cri | AU PROFIT DE\nSEOL-JIN.
+# EN: AND IF THINGS KEEP GOING LIKE THIS,
+023.2 | italique | ET SI ÇA CONTINUE COMME ÇA,
+# EN: YOU'RE GOING TO LOSE EVERYTHING ELSE TOO, YOU KNOW?
+023.3 | italique | TU VAS PERDRE TOUT LE RESTE AUSSI, TU SAIS ?
+# EN: IS THAT SO?
+023.4 | dialogue | VRAIMENT ?
+
+## 024.webp
+# EN: THAT IS SOMETHING I WOULD LOVE TO SEE—
+024.100 | dialogue {"box": [265, 1150, 545, 1385], "ink_max": 100, "max_letter": 45, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "target": [270, 1160, 535, 1345], "max_size": 60} | J’AIMERAIS\nBIEN\nVOIR ÇA...
+024.101 | systeme {"box": [494, 1270, 524, 1302], "ink_max": 100, "grow": 1, "fill": [255,255,255]} | (effacer)
+024.102 | systeme {"box": [425, 1318, 454, 1352], "ink_max": 100, "grow": 1, "fill": [255,255,255]} | (effacer)
+024.1 | dialogue | -
+
+## 025.webp
+
+## 026.webp
+# EN: CALLING ME BACK TO YOUR WORLD LIKE THIS...
+026.1 | dialogue | ME RAPPELER DANS TON MONDE COMME ÇA...
+026.2 | dialogue | -
+# EN: DOES IT MEAN YOU INTEND TO TAKE ME WITH YOU AS WELL?
+026.3 | dialogue | ÇA VEUT DIRE QUE TU COMPTES M’EMMENER AUSSI ?
+# EN: OF COURSE.
+026.4 | dialogue | BIEN SÛR.
+026.5 | dialogue | -
+# EN: AFTER ALL, THIS IS THE KIND OF WORLD WE HAVE.
+026.6 | dialogue | APRÈS TOUT, C’EST LE GENRE DE MONDE QU’ON A.
+
+## 027.webp
+# EN: AND CAN YOU HANDLE CARRYING ALL THAT WEIGHT?
+027.1 | dialogue | ET TU PEUX SUPPORTER TOUT CE POIDS ?
+# EN: I CAN.
+027.2 | dialogue | OUI.
+# EN: BECAUSE I'M NOT ALONE.
+027.3 | dialogue | PARCE QUE JE NE SUIS PAS SEUL.
+# EN: HEY, DON'T YOU HAVE ANY SHAME?
+027.4 | dialogue | HÉ, TU N’AS PAS HONTE ?
+
+## 028.webp
+028.1 | dialogue | -
+028.2 | dialogue | -
+# EN: PRAISE GOD (t-shirt, gardé)
+028.3 | dialogue | -
+# EN: RELYING ON OTHERS LIKE THAT!
+028.4 | dialogue | DE COMPTER SUR LES AUTRES COMME ÇA !
+# EN: NO.
+028.5 | dialogue | NON.
+028.6 | dialogue | -
+# EN: ACTUALLY, I FEEL VERY PROUD.
+028.7 | dialogue | AU CONTRAIRE, J’EN SUIS TRÈS FIER.
+# EN: PROUD THAT I CAN FIGHT HERE...
+028.8 | dialogue | FIER DE POUVOIR ME BATTRE ICI...
+
+## 029.webp
+# EN: TOGETHER WITH EVERYONE LIKE THIS!
+029.1 | dialogue | AVEC TOUT LE MONDE, COMME ÇA !
+# EN: IT WAS THE WORLD YOU CREATED...
+029.2 | dialogue | C’EST LE MONDE QUE TU AS CRÉÉ...
+# EN: THAT TAUGHT ME EXACTLY THAT.
+029.3 | dialogue | QUI ME L’A APPRIS.
+
+## 030.webp
+# EN: ARTHUR, YOU INVITED ME TO THIS WORLD,
+030.1 | dialogue | ARTHUR, TU M’AS INVITÉ DANS CE MONDE,
+# EN: AND I'M TRULY GRATEFUL FOR THAT!
+030.2 | dialogue | ET JE T’EN SUIS VRAIMENT RECONNAISSANT !
+
+## 031.webp
+# EN: HA!
+031.1 | dialogue | HA !
+# EN: THERE IS AN ABSOLUTE "LIMIT" TO SKILLS.
+031.2 | cartouche | LES COMPÉTENCES ONT UNE "LIMITE" ABSOLUE.
+# EN: MIRAGE'S FINAL CONTRACT,
+031.3 | cartouche | LE CONTRAT FINAL DE MIRAGE,
+031.4 | dialogue | -
+# EN: KIM TAE-WON'S AVALON,
+031.5 | cartouche | L’AVALON DE TAE-WON KIM,
+
+## 032.webp
+# EN: VAN ZICHMUND'S DOMINION,
+032.1 | cartouche | LA DOMINATION DE VAN ZICHMUND,
+# EN: AND DEAN'S SWORD WERE EXACTLY LIKE THAT.
+032.2 | cartouche | ET L’ÉPÉE DE DEAN EN ÉTAIENT L’EXEMPLE MÊME.
+# EN: AT THE END OF ALL THAT CONVICTION AND OBSESSION, THE LIGHT OF THE KARMA THEY CARRIED...
+032.3 | cartouche | AU BOUT DE TOUTE CETTE CONVICTION ET DE CETTE OBSESSION, LA LUMIÈRE DU KARMA QU’ILS PORTAIENT...
+# EN: SEEMED TO HOUSE AN ENTIRE WORLD WITHIN ITSELF.
+032.4 | cartouche | SEMBLAIT ABRITER UN MONDE ENTIER EN ELLE.
+
+## 033.webp
+# EN: THE TRUTH WAS...
+033.1 | cartouche | EN VÉRITÉ...
+# EN: ANY PLAYER WATCHING THIS FIGHT CLOSELY...
+033.2 | cartouche | TOUT PLAYER QUI OBSERVAIT CE COMBAT DE PRÈS...
+# EN: COULDN'T HELP BUT NOTICE.
+033.3 | cartouche | NE POUVAIT QUE LE REMARQUER.
+
+## 034.webp
+# EN: THE TRUE MEANING...
+034.1 | cartouche | LE VRAI SENS...
+# EN: BEHIND HEO SEOL-JIN'S FIGHT.
+034.2 | cartouche | DU COMBAT DE SEOL-JIN HEO.
+034.3 | dialogue | -
+# EN: THIS... IS DIFFERENT FROM ALL THE OTHERS.
+034.4 | pensee | ÇA... C’EST DIFFÉRENT DE TOUS LES AUTRES.
+034.5 | dialogue | -
+# EN: IN FACT, IF I HAD TO COMPARE IT TO SOMETHING...
+034.6 | pensee | EN FAIT, SI JE DEVAIS LE COMPARER À QUELQUE CHOSE...
+
+## 035.webp
+# EN: YOU FINALLY DID IT,
+035.1 | cri | VOUS Y ÊTES\nENFIN ARRIVÉS,
+# EN: SEOL-JIN AND LIBUR!
+035.2 | cri | SEOL-JIN\nET LIBUR !
+
+## 036.webp
+# EN: WE'RE COUNTING ON YOU, LORD ARTHUR.
+036.1 | dialogue | ON COMPTE SUR VOUS, SEIGNEUR ARTHUR.
+# EN: SINCE EVERYONE HERE SEEMS TO HAVE A FEW WORDS FOR YOU.
+036.2 | dialogue | PUISQUE TOUT LE MONDE ICI A L’AIR D’AVOIR DEUX MOTS À VOUS DIRE.
+
+## 037.webp
+
+## 038.webp
+# EN: THESE BASTARDS...
+038.1 | italique | CES\nSALAUDS...
+# EN: EVERY SINGLE ONE OF THEM IS AN EGO WEAPON MASTER!
+038.2 | italique | CHACUN D’EUX MAÎTRISE UNE ARME D’EGO !
+# EN: THAT'S RIGHT. WE ARE THOSE "INSIGNIFICANT SOULS" YOU IGNORED IN THE PAST.
+038.3 | italique | C’EST ÇA. NOUS SOMMES CES "ÂMES INSIGNIFIANTES" QUE TU AS IGNORÉES AUTREFOIS.
+# EN: WE'RE GOING TO TEACH YOU A LESSON, ARTHUR.
+038.4 | italique | ON VA TE DONNER UNE LEÇON, ARTHUR.
+
+## 039.webp
+# EN: A SOUL ISN'T SOMETHING YOU SIMPLY CONTROL. IT'S SOMETHING THAT WALKS BESIDE YOU.
+039.1 | italique | UNE ÂME NE SE CONTRÔLE PAS SIMPLEMENT. ELLE MARCHE À TES CÔTÉS.
+# EN: FEEL THE WEIGHT OF OUR KARMA!
+039.2 | cri | -
+039.100 | cri {"box": [140, 4290, 580, 4660], "ink_max": 100, "max_letter": 150, "grow": 4, "fill": [255,255,255]} | (effacer)
+039.101 | cri {"box": [140, 4290, 580, 4660], "target": [165, 4305, 560, 4645], "ink_max": 0, "colors": [[0,0,0],[0,0,0]]} | SENS LE POIDS\nDE NOTRE\nKARMA !
+
+## 040.webp
+# EN: TL\N: HERE WE GO THE POWER OF FRIENDSHIP (note du traducteur anglais, audit du 9 octobre)
+040.1 | cartouche | -
+040.100 | cartouche {"box": [0, 25, 445, 66], "ink_max": 150, "grow": 3, "fill": [255,255,255]} | (effacer)
+040.2 | systeme | -

@@ -1,0 +1,22 @@
+{
+  "source": "chapters_en/chapter-259/009.jpg",
+  "output": "chapters_fr/chapter-259/009.jpg",
+  "bubbles": [
+    {
+      "point": [
+        420,
+        7040
+      ],
+      "text": "LA VOIE EST OUVERTE !",
+      "style": "cri"
+    },
+    {
+      "point": [
+        380,
+        8940
+      ],
+      "text": "ALLEZ-Y, LES MÔMES !",
+      "style": "cri"
+    }
+  ]
+}

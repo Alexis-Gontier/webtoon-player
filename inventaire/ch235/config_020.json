@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-235/020.webp",
+ "output": "chapters_fr/chapter-235/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’EST-CE QUE C’EST... ?",
+   "style": "dialogue",
+   "point": [
+    339,
+    161
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POURQUOI TOUT LE MONDE... ?",
+   "style": "dialogue",
+   "point": [
+    462,
+    1780
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AH, SEIGNEUR ARTHUR !",
+   "style": "dialogue",
+   "point": [
+    503,
+    3508
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE NE PENSAIS PAS QUE VOUS VIENDRIEZ SI VITE.",
+   "style": "dialogue",
+   "point": [
+    392,
+    7471
+   ]
+  }
+ ]
+}

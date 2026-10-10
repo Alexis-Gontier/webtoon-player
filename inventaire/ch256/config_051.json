@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/051.webp",
+ "output": "chapters_fr/chapter-256/051.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MAIS ON DIRAIT QUE TU RESTERAS COMME ÇA JUSQU’AU BOUT...",
+   "style": "dialogue",
+   "point": [
+    419,
+    913
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BAH, JE SUPPOSE QUE C’EST AUSSI UN CHOIX.",
+   "style": "italique",
+   "point": [
+    403,
+    2128
+   ]
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+# Chapitre 247 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+# EN: "THEY SAY YOU CAN READ A HEART BY CLASHING BLADES..."
+001.3 | systeme {"light": true, "grow": 6, "blur_fill": 10, "colors": [[255,255,255],[255,255,255]]} | "ON DIT QU’ON PEUT\nLIRE DANS UN CŒUR\nEN CROISANT LE FER..."
+# EN: AND YOU...
+001.4 | dialogue | ET TOI...
+001.5 | dialogue | -
+001.6 | dialogue | -
+# EN: YOU'RE HESITATING.
+001.7 | dialogue | TU HÉSITES.
+
+## 002.webp
+# EN: WHY DON'T YOU JUST ACCEPT IT?
+002.1 | dialogue | POURQUOI NE PAS SIMPLEMENT L’ACCEPTER ?
+# EN: THAT YOUR LONG WAIT WAS COMPLETELY MEANINGLESS.
+002.2 | dialogue | QUE TA LONGUE ATTENTE N’AVAIT AUCUN SENS.
+002.3 | dialogue | -
+002.4 | dialogue | -
+
+## 003.webp
+# EN: HOLDING ON FOR THIS LONG... HOW SHOULD I PUT IT...
+003.1 | dialogue | T’ACCROCHER AUSSI LONGTEMPS... COMMENT DIRE...
+# EN: IT'S A BIT...
+003.2 | dialogue | C’EST UN PEU...
+# EN: PATHETIC.
+003.3 | dialogue | PITOYABLE.
+
+## 004.webp
+# EN: FOCUS! DON'T LET A STUPID TAUNT GET TO YOU!
+004.1 | italique | CONCENTRE-TOI ! NE TE LAISSE PAS ATTEINDRE PAR UNE PROVOCATION !
+# EN: JUST IGNORE HIM AND KEEP GOING, RIGHT?
+004.2 | italique | IGNORE-LE ET CONTINUE, D’ACCORD ?
+# EN: SO MANY PEOPLE HAVE BEEN KIND TO ME!
+004.3 | italique | TANT DE GENS ONT ÉTÉ GENTILS AVEC MOI !
+# EN: YEAH, I'VE DEFINITELY...!
+004.4 | italique | OUI, J’AI\nVRAIMENT...!
+# EN: I'VE ALREADY FORGOTTEN ABOUT THE PAST...!
+004.5 | italique | J’AI DÉJÀ OUBLIÉ LE PASSÉ...!
+# EN: THAT'S A LIE.
+004.6 | systeme {"box": [160, 4885, 565, 4990], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | C’EST UN MENSONGE.
+
+## 005.webp
+# EN: THE TRUTH IS, I HAVEN'T FORGOTTEN ANYTHING.
+005.1 | systeme {"box": [100, 540, 620, 735], "light": true, "grow": 9, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | EN VÉRITÉ, JE N’AI\nRIEN OUBLIÉ.
+# EN: I STILL REMEMBER IT ALL SO VIVIDLY.
+005.2 | systeme {"box": [70, 1495, 640, 1650], "light": true, "grow": 9, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | JE ME SOUVIENS DE TOUT\nSI CLAIREMENT.
+# EN: I COULDN'T FORGET, NOT EVEN FOR A SECOND.
+005.100 | systeme {"box": [80, 3130, 640, 3335], "light": true, "grow": 9, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | JE N’AI PAS PU OUBLIER,\nPAS MÊME\nUNE SECONDE.
+# EN: THE HOPE I CLUNG TO WHILE IGNORING THE DESPAIR.
+005.3 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | L’ESPOIR AUQUEL\nJE M’ACCROCHAIS EN\nIGNORANT LE DÉSESPOIR.
+
+## 006.webp
+# EN: THE EMPTINESS I COULDN'T FACE IF I LET GO...
+006.1 | systeme {"box": [100, 310, 620, 540], "vfill": true, "light": true, "grow": 9, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | LE VIDE QUE JE NE\nPOURRAIS AFFRONTER\nSI JE LÂCHAIS PRISE...
+# EN: NO MATTER HOW MANY NEW MEMORIES I MAKE...
+006.2 | dialogue | PEU IMPORTE COMBIEN DE NOUVEAUX SOUVENIRS JE ME FAIS...
+# EN: I'LL PROBABLY LIVE IN LORD ARTHUR'S SHADOW FOREVER.
+006.3 | dialogue | JE VIVRAI SANS DOUTE À JAMAIS DANS L’OMBRE DU SEIGNEUR ARTHUR.
+# EN: SOMEONE LIKE ME... FIGHTING HIM?
+006.4 | dialogue | QUELQU’UN COMME MOI... LE COMBATTRE ?
+
+## 007.webp
+# EN: IT'S OKAY, LIBUR.
+007.1 | dialogue | ÇA VA,\nLIBUR.
+# EN: YOU'VE ALWAYS STOOD BY ME. THIS TIME, I'LL STAND IN FRONT AND PROTECT YOU.
+007.2 | dialogue | TU AS TOUJOURS ÉTÉ À MES CÔTÉS. CETTE FOIS, C’EST MOI QUI ME METTRAI DEVANT POUR TE PROTÉGER.
+
+## 008.webp
+# EN: UNTIL YOUR STRUGGLE...
+008.1 | dialogue | JUSQU’À CE QUE TON COMBAT...
+# EN: IS OVER.
+008.2 | dialogue | SOIT TERMINÉ.
+008.3 | dialogue | -
+
+## 009.webp
+009.1 | systeme | -
+
+## 010.webp
+010.1 | dialogue | -
+# EN: FINE...
+010.2 | dialogue | BON...
+
+## 011.webp
+011.1 | dialogue | -
+011.2 | dialogue | -
+011.3 | dialogue | -
+# EN: SO YOU'RE GETTING SERIOUS NOW?
+011.4 | dialogue | ALORS, TU PASSES AUX CHOSES SÉRIEUSES ?
+
+## 012.webp
+# EN: MY... / STRUGGLE? (bonhomme de neige)
+012.100 | dialogue {"point": [310, 2185]} | MON...
+012.1 | dialogue | COMBAT ?
+
+## 013.webp
+# EN: HMM, WHAT SHOULD I DO?
+013.1 | dialogue | HMM, QU’EST-CE QUE JE FAIS ?
+013.2 | dialogue | -
+# EN: SLAUGHTERING WEAKLINGS ISN'T REALLY MY STYLE, YOU KNOW?
+013.3 | dialogue | MASSACRER LES FAIBLES, CE N’EST PAS VRAIMENT MON STYLE, TU SAIS ?
+013.4 | dialogue | -
+# EN: BUT WELL...
+013.5 | dialogue | MAIS BON...
+
+## 014.webp
+# EN: I GUESS IT'S A GOOD WAY TO KILL SOME TIME.
+014.1 | dialogue | J’IMAGINE QUE C’EST UN BON MOYEN DE TUER LE TEMPS.
+014.2 | dialogue | -
+# EN: DEUS EX MACHINA (latin, gardé)
+014.3 | dialogue | -
+014.4 | dialogue | -
+014.5 | dialogue | -
+
+## 015.webp
+# EN: LET'S START...
+015.1 | dialogue | COMMENÇONS...
+# EN: WITH A GRAB!
+015.2 | dialogue | PAR UNE\nPRISE !
+# EN: RANDOM ATTACK FOR NOOBS (lettres blanches lumineuses)
+015.3 | dialogue | -
+015.100 | systeme {"box": [50, 4370, 690, 4740], "target": [110, 4420, 640, 4700], "ink_max": 256, "grow": 0, "vfill": true, "angle": 4, "colors": [[255,255,255],[255,255,255]], "outline": [70,120,255], "outline_width": 4} | ATTAQUE AU HASARD\nPOUR NOOBS
+
+## 016.webp
+# EN: CRACK (audit du 9 octobre : oubli, lettres noires cernées de blanc)
+# 016.100 | cri {"box": [270, 130, 630, 325], "light": true, "light_min": 200, "max_letter": 175, "grow": 4, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | CRAC   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+
+## 017.webp
+# EN: AH... / AAAH...
+017.100 | dialogue {"point": [238, 462]} | AH...
+017.101 | dialogue {"point": [400, 638]} | AAAH...
+# EN: LIKE EGO WEAPON, LIKE MASTER...
+017.1 | pensee | TELLE ARME D’EGO, TEL MAÎTRE...
+
+## 018.webp
+# EN: THERE'S NO POINT IN WAITING...
+018.1 | pensee | ÇA NE SERT À RIEN D’ATTENDRE...
+# EN: BECAUSE IN THE END, CHALLENGING LORD ARTHUR IS IMPOSSIBLE.
+018.2 | pensee | CAR AU FINAL, DÉFIER LE SEIGNEUR ARTHUR EST IMPOSSIBLE.
+
+## 019.webp
+# EN: CRACK (audit du 9 octobre : oubli, lettres noires cernées de blanc)
+# 019.100 | cri {"box": [240, 2455, 575, 2635], "light": true, "light_min": 200, "grow": 4, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | CRAC   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+
+## 020.webp
+# EN: WHAT DO YOU THINK YOU'RE DOING, HEO SEOL-JIN?
+020.1 | dialogue | QU’EST-CE QUE TU FABRIQUES, SEOL-JIN HEO ?
+
+## 021.webp
+# EN: HOW LONG ARE YOU GONNA JUST STAND THERE AND TAKE A BEATING?
+021.1 | dialogue | COMBIEN DE TEMPS TU VAS RESTER LÀ À ENCAISSER ?
+# EN: WEREN'T YOU SUPPOSED TO BEAT ME AND INHERIT THIS WORLD?
+021.2 | dialogue | TU NE DEVAIS PAS ME BATTRE ET HÉRITER DE CE MONDE ?
+# EN: HA... / HAA... / HA...
+# 021.100 | cri {"point": [235, 3155]} | HA...   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+# 021.101 | cri {"point": [585, 4168]} | HAA...   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+# 021.102 | cri {"point": [310, 4392]} | HA...   <- gardé d'origine (choix de l'utilisateur, 10 octobre)
+
+## 022.webp
+# EN: SEOL-JIN...!
+022.1 | cri | SEOL-JIN...!
+# EN: I KNEW IT... IT'S IMPOSSIBLE TO FACE LORD ARTHUR ALONE!
+022.2 | italique | JE LE SAVAIS... IMPOSSIBLE D’AFFRONTER LE SEIGNEUR ARTHUR SEUL !
+# EN: I HAVE TO GET OVER THERE!
+022.3 | italique | JE DOIS ALLER LÀ-BAS !
+022.4 | dialogue | -
+# EN: GO... (bulle coupée entre les pages 22 et 23)
+022.5 | dialogue | -
+022.100 | dialogue {"box": [150, 4930, 380, 5000], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255]} | (effacer)
+022.101 | dialogue {"box": [150, 4870, 380, 4998], "target": [165, 4885, 365, 4990], "ink_max": 0, "colors": [[0,0,0],[0,0,0]]} | Y ALLER...
+
+## 023.webp
+023.1 | dialogue | -
+023.100 | systeme {"box": [170, 0, 360, 20], "ink_max": 100, "max_letter": 25, "grow": 3, "fill": [255,255,255]} | (effacer)
+# EN: AND DO WHAT?
+023.2 | dialogue | ET FAIRE\nQUOI ?
+# EN: MY SOUL IS RACKED WITH HESITATION...
+023.3 | italique | MON ÂME EST RONGÉE PAR L’HÉSITATION...
+# EN: I'M USELESS LIKE THIS.
+023.4 | italique | JE SUIS INUTILE\nCOMME ÇA.
+# EN: AN EGO WEAPON THAT CAN'T FIGHT...
+023.5 | dialogue | UNE ARME D’EGO QUI NE PEUT PAS SE BATTRE...
+# EN: LIKE THIS...
+023.6 | dialogue | COMME ÇA...
+
+## 024.webp
+# EN: I'M JUST A WORTHLESS TOOL!
+024.1 | italique | JE NE SUIS QU’UN\nOUTIL SANS\nVALEUR !
+024.2 | dialogue | -
+# EN: HM?
+024.3 | dialogue | HM ?
+
+## 025.webp
+# EN: YOU FINALLY DECIDED TO FIGHT?
+025.1 | dialogue | TU T’ES ENFIN DÉCIDÉE À TE BATTRE ?
+
+## 026.webp
+# EN: LIBUR...
+026.1 | dialogue | LIBUR...
+# EN: I'M SORRY.
+026.2 | dialogue | PARDON.
+# EN: THE TRUTH IS...
+026.3 | dialogue | EN VÉRITÉ...
+# EN: I CAN'T BRING MYSELF TO CUT LORD ARTHUR.
+026.4 | dialogue | JE NE PEUX PAS ME RÉSOUDRE À FRAPPER LE SEIGNEUR ARTHUR.
+# EN: THEN GET OUT OF THE WAY.
+026.5 | dialogue | ALORS, DÉGAGE.
+# EN: IT'S NOT LIKE I EXPECTED ANYTHING FROM YOU ANYWAY.
+026.6 | dialogue | DE TOUTE FAÇON, JE N’ATTENDAIS RIEN DE TOI.
+
+## 027.webp
+# EN: I REFUSE.
+027.1 | dialogue | JE REFUSE.
+
+## 028.webp
+028.1 | dialogue | -
+
+## 029.webp
+# EN: DO YOU KNOW WHY I DISCARDED YOU?
+029.1 | dialogue | TU SAIS POURQUOI JE T’AI MISE AU REBUT ?
+# EN: BECAUSE I HATE DULL, ANNOYING TYPES...
+029.2 | dialogue | PARCE QUE JE DÉTESTE LES GENS TERNES ET AGAÇANTS...
+# EN: EXACTLY LIKE YOU.
+029.3 | dialogue | EXACTEMENT\nCOMME TOI.
+
+## 030.webp
+# EN: SHUT UP...!
+030.1 | cri | TAIS-\nTOI...!
+
+## 031.webp
+031.1 | systeme | -
+031.2 | systeme | -

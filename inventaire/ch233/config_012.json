@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-233/012.webp",
+ "output": "chapters_fr/chapter-233/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ESSAYER DE NOUS BARRER LA ROUTE...",
+   "style": "dialogue",
+   "point": [
+    421,
+    256
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU ES FOU ?",
+   "style": "dialogue",
+   "point": [
+    375,
+    1065
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-CE QU’UN SIMPLE SERVITEUR COMME MOI POURRAIT BIEN UTILISER POUR ARRÊTER L’ARME D’EGO D’UN DIEU ?",
+   "style": "dialogue",
+   "point": [
+    397,
+    2190
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST PATHÉTIQUE, MAIS AFFRONTER LE \"DIEU ABSOLU\" ME L’A FAIT COMPRENDRE À NOUVEAU, TU SAIS ?",
+   "style": "dialogue",
+   "point": [
+    398,
+    5538
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CETTE IMPUISSANCE ÉCRASANTE QU’ON RESSENT FACE À UNE CHOSE QUI DÉFIE TOUT BON SENS, C’EST DINGUE.",
+   "style": "dialogue",
+   "point": [
+    434,
+    6965
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ALORS...",
+   "style": "dialogue",
+   "point": [
+    394,
+    7784
+   ]
+  },
+  {
+   "id": 7,
+   "text": "VOUS DEVRIEZ ESSAYER, VOUS AUSSI.",
+   "style": "dialogue",
+   "point": [
+    422,
+    9740
+   ]
+  },
+  {
+   "id": 8,
+   "text": "BON, MAINTENANT, UN PEU DE RESPECT,",
+   "style": "dialogue",
+   "point": [
+    433,
+    14013
+   ]
+  }
+ ]
+}

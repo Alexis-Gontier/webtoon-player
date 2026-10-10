@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-263/012.webp",
+ "output": "chapters_fr/chapter-263/012.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "CET ENDROIT,\nC’EST...!",
+   "style": "dialogue",
+   "point": [
+    374,
+    1250
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE N’AURAIS JAMAIS CRU REVENIR ICI.",
+   "style": "dialogue",
+   "point": [
+    415,
+    2163
+   ]
+  }
+ ]
+}

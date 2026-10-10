@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-250/036.webp",
+ "output": "chapters_fr/chapter-250/036.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...QU’ON A BESOIN L’UN DE L’AUTRE.",
+   "style": "dialogue",
+   "point": [
+    361,
+    510
+   ]
+  }
+ ]
+}

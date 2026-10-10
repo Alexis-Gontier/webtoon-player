@@ -1,0 +1,32 @@
+{
+ "source": "chapters_en/chapter-239/035.webp",
+ "output": "chapters_fr/chapter-239/035.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "COMME LES AUTRES PARTICIPANTS.",
+   "style": "dialogue",
+   "point": [
+    408,
+    894
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    260,
+    0,
+    460,
+    45
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "source": "chapters_en/chapter-239/034.webp",
+ "output": "chapters_fr/chapter-239/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU AGIS TOUJOURS COMME ÇA !",
+   "style": "dialogue",
+   "point": [
+    450,
+    517
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU CROIS QUE C’EST UNE BLAGUE ?",
+   "style": "dialogue",
+   "point": [
+    419,
+    878
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU NE COMPRENDS TOUJOURS PAS ?",
+   "style": "dialogue",
+   "point": [
+    313,
+    3263
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU ES LE SEUL À PLEURNICHER PARMI LES PARTICIPANTS.",
+   "style": "dialogue",
+   "point": [
+    467,
+    4121
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    185,
+    4840,
+    598,
+    5000
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 60
+  },
+  {
+   "id": 101,
+   "text": "SI TU VEUX\nQUELQUE CHOSE,\nPRENDS-LE DE TES\nPROPRES MAINS.",
+   "style": "dialogue",
+   "box": [
+    215,
+    4790,
+    570,
+    4985
+   ],
+   "target": [
+    215,
+    4790,
+    570,
+    4985
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 0,
+   "max_size": 42
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-234/006.webp",
+ "output": "chapters_fr/chapter-234/006.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "BON, MAINTENANT, UN PEU DE RESPECT.",
+   "style": "dialogue",
+   "point": [
+    393,
+    2412
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PAUVRES ENFANTS.",
+   "style": "dialogue",
+   "point": [
+    422,
+    3249
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PAR CHANCE, ELLE LE MONTRE CLAIREMENT, CELLE QUE LILLET APPELAIT \"MÈRE DES FLAMMES\".",
+   "style": "italique",
+   "point": [
+    369,
+    5430
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PARFOIS, TROP D’INFORMATIONS FINISSENT PAR ÊTRE UN POISON.",
+   "style": "italique",
+   "point": [
+    394,
+    6235
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ILS SONT FORTS.",
+   "style": "italique",
+   "point": [
+    385,
+    7158
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MAIS ILS N’ONT PAS D’EXPÉRIENCE DU COMBAT,",
+   "style": "italique",
+   "point": [
+    413,
+    7936
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ET SANS UTILISATEUR, C’EST UNE ARME D’EGO QUI NE PEUT PAS LIBÉRER TOUT SON POUVOIR.",
+   "style": "italique",
+   "point": [
+    410,
+    9264
+   ]
+  }
+ ]
+}

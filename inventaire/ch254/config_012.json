@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-254/012.webp",
+ "output": "chapters_fr/chapter-254/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE PLAN, C’ÉTAIT DE GAGNER ET DE PRENDRE MON MONDE, NON ?",
+   "style": "dialogue",
+   "point": [
+    348,
+    1334
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PRENDRE \"NOTRE\nMONDE\", TU VEUX\nDIRE !",
+   "style": "dialogue",
+   "point": [
+    349,
+    2234
+   ]
+  }
+ ]
+}

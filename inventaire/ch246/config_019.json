@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-246/019.webp",
+ "output": "chapters_fr/chapter-246/019.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ENCHAÎNEMENT.",
+   "style": "dialogue",
+   "point": [
+    276,
+    1635
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CONTRÉ !",
+   "style": "dialogue",
+   "point": [
+    443,
+    2546
+   ]
+  }
+ ]
+}

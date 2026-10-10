@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-258/003.webp",
+ "output": "chapters_fr/chapter-258/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIENVENUE...",
+   "style": "italique",
+   "point": [
+    381,
+    110
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...AU NOUVEAU MONDE...!",
+   "style": "italique",
+   "point": [
+    411,
+    969
+   ]
+  }
+ ]
+}

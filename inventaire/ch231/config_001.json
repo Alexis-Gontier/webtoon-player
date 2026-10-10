@@ -1,0 +1,135 @@
+{
+ "source": "chapters_en/chapter-231/001.webp",
+ "output": "chapters_fr/chapter-231/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "MO-",
+   "style": "dialogue",
+   "point": [
+    581,
+    5570
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE VOUS PRIE DE M’EXCUSER, SEIGNEUR ARTHUR. JE VAIS L’ENLEVER AU PLUS VITE.",
+   "style": "dialogue",
+   "point": [
+    297,
+    6595
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LAISSE-LES, CE NE SONT PAS DE MAUVAIS PETITS~",
+   "style": "dialogue",
+   "point": [
+    444,
+    7661
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LAY, TOI...",
+   "style": "dialogue",
+   "point": [
+    368,
+    8537
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU DÉTESTES VRAIMENT CES PETITS, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    418,
+    9560
+   ]
+  },
+  {
+   "id": 9,
+   "text": "POUR QUELLE RAISON ?",
+   "style": "dialogue",
+   "point": [
+    378,
+    10287
+   ]
+  },
+  {
+   "id": 10,
+   "text": "BIEN SÛR ! COMMENT OSENT-ILS FAIRE ÇA DEVANT VOUS, SEIGNEUR ARTHUR...",
+   "style": "dialogue",
+   "point": [
+    470,
+    11957
+   ],
+   "cut": [
+    [
+     330,
+     11748
+    ],
+    [
+     530,
+     11715
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "text": "MAINTENANT QUE J’Y PENSE,",
+   "style": "italique",
+   "point": [
+    336,
+    12783
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "italique",
+   "box": [
+    306,
+    13848,
+    660,
+    14006
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 101,
+   "text": "QU’EST-CE\nQUE C’EST... ?\nCE SENTIMENT\nÉCRASANT DE\nHAINE SANS\nRAISON ?",
+   "style": "italique",
+   "box": [
+    300,
+    13755,
+    666,
+    14025
+   ],
+   "target": [
+    335,
+    13760,
+    631,
+    14020
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-249/023.webp",
+ "output": "chapters_fr/chapter-249/023.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "JE COMPRENDS CE QUE TU RESSENS...",
+   "style": "dialogue",
+   "point": [
+    380,
+    3041
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MAIS RESTE EN ARRIÈRE, LILLET.",
+   "style": "dialogue",
+   "point": [
+    365,
+    4103
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "source": "chapters_en/chapter-239/031.webp",
+ "output": "chapters_fr/chapter-239/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VOIS !",
+   "style": "italique",
+   "point": [
+    250,
+    1019
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’AURAIS DÛ LE SAVOIR DÈS LE MOMENT DE LA VICTOIRE !",
+   "style": "italique",
+   "point": [
+    306,
+    1325
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ARTHUR... ESPÈCE DE SALAUD... TU M’AS VOLONTAIREMENT OPPOSÉ À LUI... !",
+   "style": "italique",
+   "point": [
+    441,
+    2255
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ARTHUR !!!",
+   "style": "italique",
+   "point": [
+    409,
+    3090
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU M’AS\nENCORE BERNÉ !!!",
+   "style": "italique",
+   "point": [
+    495,
+    4865
+   ],
+   "box": [
+    150,
+    4785,
+    670,
+    5000
+   ],
+   "target": [
+    175,
+    4840,
+    640,
+    5000
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 256,
+   "grow": 0
+  }
+ ]
+}

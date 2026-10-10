@@ -1,0 +1,159 @@
+{
+ "source": "chapters_en/chapter-238/006.webp",
+ "output": "chapters_fr/chapter-238/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA NE DEVRAIT PAS ÊTRE UN PEU PLUS COMPLIQUÉ... ?",
+   "style": "dialogue",
+   "point": [
+    362,
+    194
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST NOUS LES RESPONSABLES DE LA MORT DE VOS CAMARADES... !",
+   "style": "dialogue",
+   "point": [
+    464,
+    1132
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI ÇA FINIT COMME ÇA, ALORS NOTRE COMBAT... !",
+   "style": "italique",
+   "point": [
+    516,
+    2925
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST COMME S’IL N’AVAIT EU AUCUN SENS... !",
+   "style": "italique",
+   "point": [
+    381,
+    3612
+   ]
+  },
+  {
+   "id": 7,
+   "text": "À CEUX... QUI ONT ROUVERT LES YEUX,",
+   "style": "italique",
+   "point": [
+    398,
+    6345
+   ]
+  },
+  {
+   "id": 8,
+   "text": "QUEL RÉCONFORT SUIS-JE CENSÉ LEUR APPORTER... ?",
+   "style": "italique",
+   "point": [
+    393,
+    7896
+   ]
+  },
+  {
+   "id": 9,
+   "text": "BWAHAHAHA !!!",
+   "style": "italique",
+   "point": [
+    408,
+    8767
+   ]
+  },
+  {
+   "id": 10,
+   "text": "DEAN A GAGNÉ, HEIN ?!",
+   "style": "italique",
+   "point": [
+    431,
+    11112
+   ]
+  },
+  {
+   "id": 11,
+   "text": "AU FINAL, TOUT S’EST PASSÉ COMME ON L’AVAIT PRÉVU !",
+   "style": "italique",
+   "point": [
+    448,
+    11915
+   ],
+   "cut": [
+    [
+     405,
+     12160
+    ],
+    [
+     465,
+     12160
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "text": "MÊME CES CRÉTINS ÉGOÏSTES ONT REÇU UNE LEÇON, C’EST TELLEMENT JOUISSIF~ !",
+   "style": "italique",
+   "point": [
+    458,
+    12378
+   ],
+   "cut": [
+    [
+     405,
+     12160
+    ],
+    [
+     465,
+     12160
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "text": "OH, AU FAIT, VOUS N’ÊTES PAS PROCHES D’EUX OU QUOI, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    468,
+    14111
+   ]
+  },
+  {
+   "id": 101,
+   "text": "NON...",
+   "style": "italique",
+   "point": [
+    270,
+    2150
+   ]
+  },
+  {
+   "id": 100,
+   "text": "QUOI ?",
+   "style": "italique",
+   "box": [
+    45,
+    14325,
+    245,
+    14445
+   ],
+   "ink_max": 120,
+   "grow": 4,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

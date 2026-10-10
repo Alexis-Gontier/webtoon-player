@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-251/035.webp",
+ "output": "chapters_fr/chapter-251/035.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ÇA VEUT DIRE QUOI, ÇA ?",
+   "style": "dialogue",
+   "point": [
+    413,
+    676
+   ]
+  }
+ ]
+}

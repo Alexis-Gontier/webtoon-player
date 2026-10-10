@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-255/003.webp",
+ "output": "chapters_fr/chapter-255/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NOUS PRÉPARONS LE TRANSFERT...",
+   "style": "dialogue",
+   "point": [
+    378,
+    232
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SAMJANG...",
+   "style": "dialogue",
+   "point": [
+    355,
+    1130
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU NE T’INQUIÈTES PAS POUR \"LUI\" ?",
+   "style": "dialogue",
+   "point": [
+    358,
+    2213
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DE SON PLEIN GRÉ...",
+   "style": "dialogue",
+   "point": [
+    297,
+    3770
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IL A CHOISI DE QUITTER LE MONT HUAGUO POUR ASSISTER AU DÉNOUEMENT DE CE MONDE.",
+   "style": "dialogue",
+   "point": [
+    326,
+    4729
+   ]
+  }
+ ]
+}

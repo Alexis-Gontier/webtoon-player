@@ -1,0 +1,2910 @@
+{
+ "001.webp": [
+  {
+   "text": "FINAL BATTLE - ZND ROUND",
+   "box": [
+    88,
+    573,
+    689,
+    771
+   ],
+   "point": [
+    388,
+    672
+   ],
+   "id": 1,
+   "kind": "dessin",
+   "line_h": 97
+  },
+  {
+   "text": "DEAN",
+   "box": [
+    296,
+    899,
+    499,
+    984
+   ],
+   "point": [
+    397,
+    941
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 85
+  },
+  {
+   "text": "vs WAN ZitHMUND",
+   "box": [
+    112,
+    1116,
+    705,
+    1420
+   ],
+   "point": [
+    408,
+    1268
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 88
+  },
+  {
+   "text": "WINNER WINNER DEAN",
+   "box": [
+    223,
+    1876,
+    587,
+    2266
+   ],
+   "point": [
+    405,
+    2071
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 105
+  },
+  {
+   "text": "GOD/",
+   "box": [
+    440,
+    3000,
+    547,
+    3045
+   ],
+   "point": [
+    493,
+    3022
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "Z/CHMUND,",
+   "box": [
+    256,
+    4538,
+    523,
+    4589
+   ],
+   "point": [
+    389,
+    4563
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 51
+  },
+  {
+   "text": "TH/s SHOULD BE ENOUGH.",
+   "box": [
+    230,
+    7283,
+    459,
+    7430
+   ],
+   "point": [
+    344,
+    7356
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "CORE'S PULSE uS STOPPED.",
+   "box": [
+    350,
+    8219,
+    577,
+    8373
+   ],
+   "point": [
+    463,
+    8296
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "NOW, THERE'S NOTHING r DO ANYMORE..,",
+   "box": [
+    237,
+    8903,
+    565,
+    9030
+   ],
+   "point": [
+    401,
+    8966
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 36
+  }
+ ],
+ "002.webp": [
+  {
+   "text": "HAHA,",
+   "box": [
+    319,
+    236,
+    491,
+    298
+   ],
+   "point": [
+    405,
+    267
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 62
+  },
+  {
+   "text": "BATTLE - 3RD ROUND",
+   "box": [
+    164,
+    1041,
+    721,
+    1241
+   ],
+   "point": [
+    442,
+    1141
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 85
+  },
+  {
+   "text": "HEO SEOL-JIN",
+   "box": [
+    132,
+    1383,
+    664,
+    1472
+   ],
+   "point": [
+    398,
+    1427
+   ],
+   "id": 3,
+   "kind": "dessin",
+   "line_h": 89
+  },
+  {
+   "text": "vs",
+   "box": [
+    351,
+    1618,
+    450,
+    1703
+   ],
+   "point": [
+    400,
+    1660
+   ],
+   "id": 4,
+   "kind": "dessin",
+   "line_h": 85
+  },
+  {
+   "text": "UNNAML",
+   "box": [
+    232,
+    1849,
+    570,
+    1941
+   ],
+   "point": [
+    401,
+    1895
+   ],
+   "id": 5,
+   "kind": "dessin",
+   "line_h": 92
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    52,
+    3967,
+    317,
+    4133
+   ],
+   "id": 6,
+   "point": [
+    184,
+    4050
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    640,
+    4158,
+    755,
+    4529
+   ],
+   "id": 7,
+   "point": [
+    697,
+    4343
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    75,
+    4224,
+    287,
+    4526
+   ],
+   "id": 8,
+   "point": [
+    181,
+    4375
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "THATlFHt r'P PtFWlTW",
+   "box": [
+    265,
+    9051,
+    648,
+    9274
+   ],
+   "point": [
+    456,
+    9162
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 73
+  },
+  {
+   "text": "60 Fo?Mt.",
+   "box": [
+    206,
+    10047,
+    445,
+    10263
+   ],
+   "point": [
+    325,
+    10155
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 66
+  },
+  {
+   "text": "HIM 77/16",
+   "box": [
+    300,
+    10119,
+    525,
+    10188
+   ],
+   "point": [
+    412,
+    10153
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 69
+  },
+  {
+   "text": "ri cowrw6 on/ Yo?P\" A?7Hv?!",
+   "box": [
+    319,
+    10471,
+    671,
+    10660
+   ],
+   "point": [
+    495,
+    10565
+   ],
+   "id": 12,
+   "kind": "bulle",
+   "line_h": 59
+  },
+  {
+   "text": "LORD ARTHUR, WHAT IS THAT?",
+   "box": [
+    292,
+    11736,
+    518,
+    11809
+   ],
+   "point": [
+    405,
+    11772
+   ],
+   "id": 13,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "IT JUST LOOKS SOME KIND OF JUNK...",
+   "box": [
+    372,
+    11978,
+    595,
+    12085
+   ],
+   "point": [
+    483,
+    12031
+   ],
+   "id": 14,
+   "kind": "bulle",
+   "line_h": 28
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    285,
+    13157,
+    320,
+    13363
+   ],
+   "id": 15,
+   "point": [
+    302,
+    13260
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "YEAH/",
+   "box": [
+    266,
+    14168,
+    416,
+    14231
+   ],
+   "point": [
+    341,
+    14199
+   ],
+   "id": 16,
+   "kind": "bulle",
+   "line_h": 63
+  },
+  {
+   "text": "PLAYERS ARE SUCH BRATs—!",
+   "box": [
+    315,
+    14436,
+    604,
+    14534
+   ],
+   "point": [
+    459,
+    14485
+   ],
+   "id": 17,
+   "kind": "bulle",
+   "line_h": 41
+  }
+ ],
+ "003.webp": [
+  {
+   "text": "...DAMN/T/",
+   "box": [
+    201,
+    3831,
+    517,
+    3888
+   ],
+   "point": [
+    359,
+    3859
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 57
+  },
+  {
+   "text": "r HAD roo USED ro THE CONCEPT OF \"REV/VAL.\"",
+   "box": [
+    268,
+    5015,
+    634,
+    5129
+   ],
+   "point": [
+    451,
+    5072
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 31
+  },
+  {
+   "text": "MTH THE LAB'S EQUIPMENT AND THE KNOWLEDGEI HAVE...",
+   "box": [
+    149,
+    5815,
+    408,
+    5999
+   ],
+   "point": [
+    278,
+    5907
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 29
+  },
+  {
+   "text": "TH/S/STHE BEST coup MANA GE.. e/",
+   "box": [
+    291,
+    6201,
+    536,
+    6329
+   ],
+   "point": [
+    413,
+    6265
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "ATTH/S",
+   "box": [
+    225,
+    7366,
+    440,
+    7422
+   ],
+   "point": [
+    332,
+    7394
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 56
+  },
+  {
+   "text": "EVEN /F KIDS SURVIVE...",
+   "box": [
+    366,
+    7708,
+    589,
+    7863
+   ],
+   "point": [
+    477,
+    7785
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "THEY'LL NEVER BE 'PLAYERS\"",
+   "box": [
+    269,
+    8574,
+    565,
+    8673
+   ],
+   "point": [
+    417,
+    8623
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "POMT6To? 6WM06!",
+   "box": [
+    250,
+    9406,
+    607,
+    9653
+   ],
+   "point": [
+    428,
+    9529
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 77
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    93,
+    12717,
+    714,
+    13266
+   ],
+   "id": 9,
+   "point": [
+    403,
+    12991
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "YEAH/ ocoowg\"",
+   "box": [
+    215,
+    13932,
+    472,
+    14056
+   ],
+   "point": [
+    343,
+    13994
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 65
+  }
+ ],
+ "004.webp": [
+  {
+   "text": "/F THAT's THE ONE WHO SAVO DEAN WREN HE WAS ABour ro GO BANKRUPT.,./",
+   "box": [
+    223,
+    150,
+    519,
+    281
+   ],
+   "point": [
+    371,
+    215
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 26
+  },
+  {
+   "text": "THIS IS...",
+   "box": [
+    368,
+    759,
+    577,
+    806
+   ],
+   "point": [
+    472,
+    782
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 47
+  },
+  {
+   "text": "JUST A MASSIVE CHUNK OF KARMA...",
+   "box": [
+    313,
+    1522,
+    605,
+    1662
+   ],
+   "point": [
+    459,
+    1592
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "TH/NK HE MADE THESE ONE AFTER ANOTHER...",
+   "box": [
+    263,
+    2250,
+    568,
+    2372
+   ],
+   "point": [
+    415,
+    2311
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    356,
+    2702,
+    480,
+    2821
+   ],
+   "id": 5,
+   "point": [
+    418,
+    2761
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "ALP16HT,",
+   "box": [
+    272,
+    3725,
+    519,
+    3802
+   ],
+   "point": [
+    395,
+    3763
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 77
+  },
+  {
+   "text": "MOO...",
+   "box": [
+    264,
+    5267,
+    440,
+    5313
+   ],
+   "point": [
+    352,
+    5290
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "SORRY/ NOTHING 1 CAN DO! I'M THE ONE WHO DECIDED TO SHARE THE COOKIES WITH YOU, RIGHT?",
+   "box": [
+    226,
+    5896,
+    604,
+    6095
+   ],
+   "point": [
+    415,
+    5995
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "EVERYTUJNG WAS A DECISION 1 MADE.",
+   "box": [
+    250,
+    7198,
+    570,
+    7346
+   ],
+   "point": [
+    410,
+    7272
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "THAT'S WHY... FOR THESE GUYS...",
+   "box": [
+    209,
+    8333,
+    449,
+    8468
+   ],
+   "point": [
+    329,
+    8400
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "EVEN IF IT COSTS ME MY LIFE...!",
+   "box": [
+    331,
+    8632,
+    575,
+    8765
+   ],
+   "point": [
+    453,
+    8698
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "fOOt1SH HOMANS!",
+   "box": [
+    229,
+    9206,
+    590,
+    9376
+   ],
+   "point": [
+    409,
+    9291
+   ],
+   "id": 12,
+   "kind": "bulle",
+   "line_h": 71
+  },
+  {
+   "text": "1 HAVE COME TO HELP YOO AU IN THE NAME Of LORD ARTHURI",
+   "box": [
+    165,
+    11065,
+    687,
+    11298
+   ],
+   "point": [
+    426,
+    11181
+   ],
+   "id": 13,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "OH MY, THE ftOOR.",
+   "box": [
+    287,
+    12143,
+    495,
+    12224
+   ],
+   "point": [
+    391,
+    12183
+   ],
+   "id": 14,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "THAT'S WHY 1 TOLD YOU NOT TO MESS WITH IT.",
+   "box": [
+    191,
+    13159,
+    514,
+    13287
+   ],
+   "point": [
+    352,
+    13223
+   ],
+   "id": 15,
+   "kind": "bulle",
+   "line_h": 34
+  }
+ ],
+ "005.webp": [
+  {
+   "text": "LETS SEL.. WOUPNTITBE BETTER TO OSE THE tlfESPAN GRANTEP BY HOMANS?",
+   "box": [
+    159,
+    113,
+    506,
+    322
+   ],
+   "point": [
+    332,
+    217
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "USE IT SPARINGLY, SINCE IT'S PRECIOUS.",
+   "box": [
+    430,
+    502,
+    657,
+    599
+   ],
+   "point": [
+    543,
+    550
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 27
+  },
+  {
+   "text": "H-HoLP oM! 6vv... WHATA?f",
+   "box": [
+    208,
+    1814,
+    619,
+    1949
+   ],
+   "point": [
+    413,
+    1881
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 66
+  },
+  {
+   "text": "DIDN'T YOU HEAR? 1 SAID l'O SPARE You,",
+   "box": [
+    231,
+    2786,
+    534,
+    2927
+   ],
+   "point": [
+    382,
+    2856
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    400,
+    3955,
+    720,
+    4202
+   ],
+   "id": 5,
+   "point": [
+    560,
+    4078
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "YOU GUYS JUST SHUT UP AND TAKE",
+   "box": [
+    219,
+    4444,
+    594,
+    4541
+   ],
+   "point": [
+    406,
+    4492
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    321,
+    5476,
+    457,
+    5699
+   ],
+   "id": 7,
+   "point": [
+    389,
+    5587
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "fOONP IT!",
+   "box": [
+    229,
+    6341,
+    584,
+    6412
+   ],
+   "point": [
+    406,
+    6376
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 71
+  },
+  {
+   "text": "ACRIGHTTHEN, l'U f1X IT OP NICE AND NEATA",
+   "box": [
+    241,
+    7939,
+    605,
+    8073
+   ],
+   "point": [
+    423,
+    8006
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "SER/OUSLY7",
+   "box": [
+    195,
+    13298,
+    449,
+    13340
+   ],
+   "point": [
+    322,
+    13319
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "/T's GO/NG TOBERESOLVED THAT EAS/L%. X",
+   "box": [
+    347,
+    14297,
+    634,
+    14424
+   ],
+   "point": [
+    490,
+    14360
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 34
+  }
+ ],
+ "006.webp": [
+  {
+   "text": "SHOULDN'T THERE BEA Bjr MORE ro THIS...'",
+   "box": [
+    227,
+    103,
+    498,
+    286
+   ],
+   "point": [
+    362,
+    194
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "WE'RETHE ONES RESPONS/BLE FOR K/LL/NG YOUR COMR4DES,.",
+   "box": [
+    300,
+    1049,
+    629,
+    1216
+   ],
+   "point": [
+    464,
+    1132
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "/F r ENDS UKE",
+   "box": [
+    377,
+    2907,
+    656,
+    2944
+   ],
+   "point": [
+    516,
+    2925
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "F/GHT, , ../",
+   "box": [
+    434,
+    3006,
+    600,
+    3043
+   ],
+   "point": [
+    517,
+    3024
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "ms UKE r",
+   "box": [
+    283,
+    3593,
+    480,
+    3631
+   ],
+   "point": [
+    381,
+    3612
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    459,
+    4705,
+    648,
+    4877
+   ],
+   "id": 6,
+   "point": [
+    553,
+    4791
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "TOTHEONES... WHO'VE OPENED",
+   "box": [
+    234,
+    6300,
+    563,
+    6391
+   ],
+   "point": [
+    398,
+    6345
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "WHATK/ND OF CONFORT AM r SUPPOSED ro G/VE THEM„X",
+   "box": [
+    216,
+    7806,
+    571,
+    7987
+   ],
+   "point": [
+    393,
+    7896
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "FWAHAHAHA./!./",
+   "box": [
+    190,
+    8723,
+    627,
+    8812
+   ],
+   "point": [
+    408,
+    8767
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 89
+  },
+  {
+   "text": "PIM WoM,",
+   "box": [
+    262,
+    11067,
+    600,
+    11157
+   ],
+   "point": [
+    431,
+    11112
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 90
+  },
+  {
+   "text": "IMTHfWP, WfMTüv6T",
+   "box": [
+    311,
+    11871,
+    586,
+    11960
+   ],
+   "point": [
+    448,
+    11915
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "t60T151CAL ORK6 60TTAv6HTA LtgoM, 60 6AT16B/lM6, 60",
+   "box": [
+    286,
+    12309,
+    630,
+    12447
+   ],
+   "point": [
+    458,
+    12378
+   ],
+   "id": 12,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "OH/ BY THE WAY/ YOU GUYS AREN'T CLOSE WITH THEM OR ANYTUING, RIGHT?",
+   "box": [
+    289,
+    14028,
+    648,
+    14194
+   ],
+   "point": [
+    468,
+    14111
+   ],
+   "id": 13,
+   "kind": "bulle",
+   "line_h": 35
+  }
+ ],
+ "007.webp": [
+  {
+   "text": "Il",
+   "box": [
+    241,
+    230,
+    254,
+    296
+   ],
+   "point": [
+    247,
+    263
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 66
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    229,
+    315,
+    274,
+    462
+   ],
+   "id": 2,
+   "point": [
+    251,
+    388
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "UM, 1 CLOSE WITH THEM... HMM... WAS 1,",
+   "box": [
+    211,
+    643,
+    544,
+    757
+   ],
+   "point": [
+    377,
+    700
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "DON'T MIND IT. WE DON'T REACT TO UUMAN NONSENSE.",
+   "box": [
+    339,
+    1078,
+    675,
+    1201
+   ],
+   "point": [
+    507,
+    1139
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "ARE YOU PASTIS?",
+   "box": [
+    349,
+    2678,
+    572,
+    2772
+   ],
+   "point": [
+    460,
+    2725
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "LILLET... SHOWS NO SIGN OF WAKING UP.",
+   "box": [
+    252,
+    3694,
+    570,
+    3831
+   ],
+   "point": [
+    411,
+    3762
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "IT'S NOT THAT STRANGE. SHE WENT THROUGU A LOT ALL BY UERSELF.",
+   "box": [
+    141,
+    5970,
+    466,
+    6185
+   ],
+   "point": [
+    303,
+    6077
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "AREN'T YOU THE LAST PERSON WHO SHOULD BE SAYING THAT?",
+   "box": [
+    376,
+    6569,
+    658,
+    6731
+   ],
+   "point": [
+    517,
+    6650
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 32
+  },
+  {
+   "text": "UGU...",
+   "box": [
+    332,
+    7083,
+    477,
+    7128
+   ],
+   "point": [
+    404,
+    7105
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "UMM... MAYBE IT'S DUE TO MENTAL EXHAUSTION?",
+   "box": [
+    116,
+    7755,
+    433,
+    7877
+   ],
+   "point": [
+    274,
+    7816
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "IT MIGHT BE HARD TO WAKE UER UP WITHOUT SOME SERIOUS SHOCK THEUPY...",
+   "box": [
+    169,
+    8085,
+    512,
+    8236
+   ],
+   "point": [
+    340,
+    8160
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 29
+  },
+  {
+   "text": "SHOCK THERAPY...?",
+   "box": [
+    291,
+    9072,
+    523,
+    9165
+   ],
+   "point": [
+    407,
+    9118
+   ],
+   "id": 12,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    336,
+    10354,
+    456,
+    10543
+   ],
+   "id": 13,
+   "point": [
+    396,
+    10448
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "ODADDY'S LITTLE PUPPET.\"",
+   "box": [
+    157,
+    11268,
+    427,
+    11348
+   ],
+   "point": [
+    292,
+    11308
+   ],
+   "id": 14,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "SLIMEBALL.\"",
+   "box": [
+    302,
+    11585,
+    523,
+    11625
+   ],
+   "point": [
+    412,
+    11605
+   ],
+   "id": 15,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    633,
+    12219,
+    719,
+    12255
+   ],
+   "id": 16,
+   "point": [
+    676,
+    12237
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    529,
+    12823,
+    652,
+    12866
+   ],
+   "id": 17,
+   "point": [
+    590,
+    12844
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "OOAVALON'S DOG.\"",
+   "box": [
+    163,
+    12932,
+    401,
+    13048
+   ],
+   "point": [
+    282,
+    12990
+   ],
+   "id": 18,
+   "kind": "bulle",
+   "line_h": 51
+  },
+  {
+   "text": "XURSED COOKING FREAK,\"",
+   "box": [
+    311,
+    13228,
+    528,
+    13393
+   ],
+   "point": [
+    419,
+    13310
+   ],
+   "id": 19,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "ALRIGHT/ THAT SHOULD DO IT.",
+   "box": [
+    260,
+    13929,
+    537,
+    14077
+   ],
+   "point": [
+    398,
+    14003
+   ],
+   "id": 20,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    124,
+    14388,
+    264,
+    14522
+   ],
+   "id": 21,
+   "point": [
+    194,
+    14455
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "WHAT...?",
+   "box": [
+    242,
+    14838,
+    438,
+    14884
+   ],
+   "point": [
+    340,
+    14861
+   ],
+   "id": 22,
+   "kind": "bulle",
+   "line_h": 46
+  }
+ ],
+ "008.webp": [
+  {
+   "text": "1 REMEMBER,",
+   "box": [
+    268,
+    621,
+    566,
+    668
+   ],
+   "point": [
+    417,
+    644
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 47
+  },
+  {
+   "text": "THAT DAY,",
+   "box": [
+    283,
+    1572,
+    518,
+    1621
+   ],
+   "point": [
+    400,
+    1596
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 49
+  },
+  {
+   "text": "AT THE BEACH,",
+   "box": [
+    288,
+    2107,
+    491,
+    2245
+   ],
+   "point": [
+    389,
+    2176
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 59
+  },
+  {
+   "text": "WITH SEOL-JIN.",
+   "box": [
+    267,
+    3139,
+    544,
+    3272
+   ],
+   "point": [
+    405,
+    3205
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 56
+  },
+  {
+   "text": "BOTH OF YURKGH-",
+   "box": [
+    309,
+    4426,
+    588,
+    4565
+   ],
+   "point": [
+    448,
+    4495
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 59
+  },
+  {
+   "text": "r A6Ltf??! 6/11/0'",
+   "box": [
+    237,
+    6996,
+    570,
+    7108
+   ],
+   "point": [
+    403,
+    7052
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 54
+  },
+  {
+   "text": "WHATAFovT WtA?oM6?",
+   "box": [
+    334,
+    7911,
+    600,
+    8006
+   ],
+   "point": [
+    467,
+    7958
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "YOU'RE SO INNOCENT/ SERIOUSLY.",
+   "box": [
+    171,
+    8604,
+    416,
+    8737
+   ],
+   "point": [
+    293,
+    8670
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "1 USED TO BE THAT TOO,..",
+   "box": [
+    229,
+    8927,
+    502,
+    9084
+   ],
+   "point": [
+    365,
+    9005
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    479,
+    9331,
+    677,
+    9418
+   ],
+   "id": 10,
+   "point": [
+    578,
+    9374
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "AH, RIGHT. THIS IS AN ERUND.",
+   "box": [
+    175,
+    10148,
+    337,
+    10267
+   ],
+   "point": [
+    256,
+    10207
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "TAKE THIS.",
+   "box": [
+    206,
+    10889,
+    433,
+    10933
+   ],
+   "point": [
+    319,
+    10911
+   ],
+   "id": 12,
+   "kind": "bulle",
+   "line_h": 44
+  },
+  {
+   "text": "DEAN ASKED",
+   "box": [
+    329,
+    11112,
+    569,
+    11152
+   ],
+   "point": [
+    449,
+    11132
+   ],
+   "id": 13,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "TO You.",
+   "box": [
+    368,
+    11220,
+    529,
+    11260
+   ],
+   "point": [
+    448,
+    11240
+   ],
+   "id": 14,
+   "kind": "bulle",
+   "line_h": 40
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    250,
+    12128,
+    524,
+    12338
+   ],
+   "id": 15,
+   "point": [
+    387,
+    12233
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    214,
+    12876,
+    394,
+    12914
+   ],
+   "id": 16,
+   "point": [
+    304,
+    12895
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  }
+ ],
+ "009.webp": [
+  {
+   "text": "THAT IDIOT/ UE SHOULD BE WORRYING ABOUT OWN BODY...!",
+   "box": [
+    346,
+    137,
+    690,
+    290
+   ],
+   "point": [
+    518,
+    213
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 31
+  },
+  {
+   "text": "LOL.",
+   "box": [
+    595,
+    815,
+    673,
+    848
+   ],
+   "point": [
+    634,
+    831
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "AIRIGHTTHEN, HATTIME BREAK IS AOMOST OVER.",
+   "box": [
+    259,
+    1669,
+    574,
+    1793
+   ],
+   "point": [
+    416,
+    1731
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "THE ORPER HAS BEEN fOff1UEP...",
+   "box": [
+    203,
+    2623,
+    612,
+    2718
+   ],
+   "point": [
+    407,
+    2670
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "LETS RETURN.",
+   "box": [
+    257,
+    3609,
+    518,
+    3747
+   ],
+   "point": [
+    387,
+    3678
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 59
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    556,
+    4388,
+    685,
+    4555
+   ],
+   "id": 6,
+   "point": [
+    620,
+    4471
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "LETS WITNESS THE ENP of THIS WORLD TO THE VERY LAST MOMENT",
+   "box": [
+    214,
+    5391,
+    598,
+    5565
+   ],
+   "point": [
+    406,
+    5478
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    620,
+    6521,
+    722,
+    6640
+   ],
+   "id": 8,
+   "point": [
+    671,
+    6580
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "FINAL BATTLE 3RD ROUND",
+   "box": [
+    135,
+    8174,
+    663,
+    8365
+   ],
+   "point": [
+    399,
+    8269
+   ],
+   "id": 9,
+   "kind": "dessin",
+   "line_h": 86
+  },
+  {
+   "text": "HEO SEOL-JIN",
+   "box": [
+    145,
+    8501,
+    652,
+    8585
+   ],
+   "point": [
+    398,
+    8543
+   ],
+   "id": 10,
+   "kind": "dessin",
+   "line_h": 84
+  },
+  {
+   "text": "UNNAME",
+   "box": [
+    240,
+    8944,
+    562,
+    9031
+   ],
+   "point": [
+    401,
+    8987
+   ],
+   "id": 11,
+   "kind": "dessin",
+   "line_h": 87
+  },
+  {
+   "text": "coop THING WE MADE IT ON TIME.",
+   "box": [
+    225,
+    10159,
+    543,
+    10286
+   ],
+   "point": [
+    384,
+    10222
+   ],
+   "id": 12,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "SO THE NEXT BIG BATTLE IS FINALLY UP...",
+   "box": [
+    207,
+    11409,
+    475,
+    11554
+   ],
+   "point": [
+    341,
+    11481
+   ],
+   "id": 13,
+   "kind": "bulle",
+   "line_h": 39
+  },
+  {
+   "text": "SEOL-JN...\"",
+   "box": [
+    163,
+    12246,
+    424,
+    12292
+   ],
+   "point": [
+    293,
+    12269
+   ],
+   "id": 14,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "THE PLAYER CHOSEN BY LORD ARTHUR...",
+   "box": [
+    252,
+    13172,
+    549,
+    13294
+   ],
+   "point": [
+    400,
+    13233
+   ],
+   "id": 15,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "CURRENT OWNER OF \"EXCALIBUR...\"",
+   "box": [
+    391,
+    13472,
+    636,
+    13601
+   ],
+   "point": [
+    513,
+    13536
+   ],
+   "id": 16,
+   "kind": "bulle",
+   "line_h": 36
+  }
+ ],
+ "010.webp": [
+  {
+   "text": "SEOL-JIN... LIBUR WILL TAKE eooD CARE OF RIGHT?",
+   "box": [
+    213,
+    136,
+    492,
+    309
+   ],
+   "point": [
+    352,
+    222
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "THAT GUY, ISN'T HE THE ONE WHO SHOWS UP AND THEN COLLAPSES?",
+   "box": [
+    461,
+    522,
+    761,
+    652
+   ],
+   "point": [
+    611,
+    587
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 27
+  },
+  {
+   "text": "AH, RIGHT. UE DID DO THAT ONCE.",
+   "box": [
+    224,
+    1918,
+    517,
+    2054
+   ],
+   "point": [
+    370,
+    1986
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "SUCH A BRUTAL REV/EW..,",
+   "box": [
+    287,
+    2808,
+    532,
+    2889
+   ],
+   "point": [
+    409,
+    2848
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "YOU BE CAREFUL TOO, SINCE YOU'RE AN EGO WEAPON.",
+   "box": [
+    173,
+    3684,
+    506,
+    3847
+   ],
+   "point": [
+    339,
+    3765
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    224,
+    3995,
+    618,
+    4492
+   ],
+   "id": 6,
+   "point": [
+    421,
+    4243
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "GETTING INVOLVED WITH THAT GUY IS A REAL PAIN.",
+   "box": [
+    276,
+    4918,
+    566,
+    5110
+   ],
+   "point": [
+    421,
+    5014
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    275,
+    5461,
+    685,
+    5858
+   ],
+   "id": 8,
+   "point": [
+    480,
+    5659
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "WHAT,..?",
+   "box": [
+    338,
+    6457,
+    563,
+    6510
+   ],
+   "point": [
+    450,
+    6483
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 53
+  },
+  {
+   "text": "SEOL-JN... Œusr WHAT K/ND OF PERSON /S",
+   "box": [
+    244,
+    7506,
+    594,
+    7633
+   ],
+   "point": [
+    419,
+    7569
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 34
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    238,
+    8949,
+    659,
+    9099
+   ],
+   "id": 11,
+   "point": [
+    448,
+    9024
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    92,
+    9483,
+    736,
+    9806
+   ],
+   "id": 12,
+   "point": [
+    414,
+    9644
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "TAKE A SHORT BREAK/ LORD ARTHUR,",
+   "box": [
+    339,
+    10755,
+    597,
+    10887
+   ],
+   "point": [
+    468,
+    10821
+   ],
+   "id": 13,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "WHAT? LAY.",
+   "box": [
+    288,
+    11841,
+    513,
+    11882
+   ],
+   "point": [
+    400,
+    11861
+   ],
+   "id": 14,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "AREN'T YOU GONNA WATCH THE THIRD ROUND? IT'S ABOUT TO START.",
+   "box": [
+    304,
+    12118,
+    669,
+    12262
+   ],
+   "point": [
+    486,
+    12190
+   ],
+   "id": 15,
+   "kind": "bulle",
+   "line_h": 28
+  },
+  {
+   "text": "NO.",
+   "box": [
+    345,
+    12870,
+    476,
+    12942
+   ],
+   "point": [
+    410,
+    12906
+   ],
+   "id": 16,
+   "kind": "bulle",
+   "line_h": 72
+  }
+ ],
+ "011.webp": [
+  {
+   "text": "FIGHTS BETWEEN THE WEAK DON'T INTEREST ME.",
+   "box": [
+    246,
+    166,
+    571,
+    305
+   ],
+   "point": [
+    408,
+    235
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "AFTER WATCH/NG THE BETWEEN TRUE POWERHOUSES, 1 BECAME EVEN MORE CERTAIN.",
+   "box": [
+    212,
+    2409,
+    595,
+    2550
+   ],
+   "point": [
+    403,
+    2479
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 28
+  },
+  {
+   "text": "ONES ON LEVEL ro PART W rws",
+   "box": [
+    254,
+    3984,
+    597,
+    4100
+   ],
+   "point": [
+    425,
+    4042
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 31
+  },
+  {
+   "text": "ESPECULLY \"/UASTER\" GUY MTH THE DEADPAN FACE,",
+   "box": [
+    227,
+    5452,
+    544,
+    5572
+   ],
+   "point": [
+    385,
+    5512
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "usr LOOK/NG ATH/MMAKESMY CHATTER.",
+   "box": [
+    263,
+    6871,
+    574,
+    7002
+   ],
+   "point": [
+    418,
+    6936
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 35
+  },
+  {
+   "text": "1 DON'T ro UW GOOD MOOD MTH SOMETHING UNPLEASANZ",
+   "box": [
+    132,
+    8519,
+    486,
+    8664
+   ],
+   "point": [
+    309,
+    8591
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 29
+  },
+  {
+   "text": "LET'SGO SOME W LORD ARTHUR'S QUARTER'",
+   "box": [
+    370,
+    9076,
+    659,
+    9246
+   ],
+   "point": [
+    514,
+    9161
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 33
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    130,
+    10227,
+    395,
+    10427
+   ],
+   "id": 8,
+   "point": [
+    262,
+    10327
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "oo",
+   "box": [
+    692,
+    11497,
+    731,
+    11529
+   ],
+   "point": [
+    711,
+    11513
+   ],
+   "id": 9,
+   "kind": "dessin",
+   "line_h": 32
+  },
+  {
+   "text": "WHAT WHERE",
+   "box": [
+    318,
+    12916,
+    487,
+    13016
+   ],
+   "point": [
+    402,
+    12966
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "rm CLEARW W LORD ARTHUR'S QUARTERS,",
+   "box": [
+    350,
+    14285,
+    608,
+    14408
+   ],
+   "point": [
+    479,
+    14346
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 33
+  }
+ ],
+ "012.webp": [
+  {
+   "text": "YOU ARE...",
+   "box": [
+    231,
+    179,
+    513,
+    232
+   ],
+   "point": [
+    372,
+    205
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 53
+  },
+  {
+   "text": "OLAY/\"",
+   "box": [
+    325,
+    1760,
+    554,
+    1850
+   ],
+   "point": [
+    439,
+    1805
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 90
+  },
+  {
+   "text": "gow DARE YOU/ you FUCKER!",
+   "box": [
+    268,
+    3277,
+    598,
+    3442
+   ],
+   "point": [
+    433,
+    3359
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 46
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    547,
+    4245,
+    693,
+    4329
+   ],
+   "id": 4,
+   "point": [
+    620,
+    4287
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "gow DARE YOU UTTER THE NAME GUNTED BY LORD ARTHUR?",
+   "box": [
+    179,
+    5094,
+    601,
+    5321
+   ],
+   "point": [
+    390,
+    5207
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "w-WAlT, r FAP...!",
+   "box": [
+    322,
+    6796,
+    483,
+    6938
+   ],
+   "point": [
+    402,
+    6867
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "(non lu par l'OCR)",
+   "box": [
+    330,
+    8695,
+    500,
+    8784
+   ],
+   "id": 7,
+   "point": [
+    415,
+    8739
+   ],
+   "kind": "bulle",
+   "line_h": 0
+  },
+  {
+   "text": "CAN'T WE TALK THIS OUT?",
+   "box": [
+    213,
+    10320,
+    599,
+    10448
+   ],
+   "point": [
+    406,
+    10384
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 54
+  },
+  {
+   "text": "STOP IT/ LIBUR. THERE'S NO NEED TO YOUR SWORD,",
+   "box": [
+    282,
+    11256,
+    587,
+    11433
+   ],
+   "point": [
+    434,
+    11344
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "SHOWING UP ALL OF A SUDDEN.",
+   "box": [
+    236,
+    12536,
+    480,
+    12602
+   ],
+   "point": [
+    358,
+    12569
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 28
+  },
+  {
+   "text": "SO WHAT? MY MASTER.",
+   "box": [
+    309,
+    12813,
+    569,
+    12904
+   ],
+   "point": [
+    439,
+    12858
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 39
+  }
+ ],
+ "013.webp": [
+  {
+   "text": "WELL THEN,",
+   "box": [
+    369,
+    127,
+    600,
+    168
+   ],
+   "point": [
+    484,
+    147
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "LET 'S MEET AGAIN CATER/ LAY.",
+   "box": [
+    221,
+    1517,
+    566,
+    1616
+   ],
+   "point": [
+    393,
+    1566
+   ],
+   "id": 2,
+   "kind": "bulle",
+   "line_h": 42
+  },
+  {
+   "text": "HOW DARE...",
+   "box": [
+    187,
+    2820,
+    408,
+    2856
+   ],
+   "point": [
+    297,
+    2838
+   ],
+   "id": 3,
+   "kind": "bulle",
+   "line_h": 36
+  },
+  {
+   "text": "gow gow DARE!!!",
+   "box": [
+    346,
+    3382,
+    580,
+    3471
+   ],
+   "point": [
+    463,
+    3426
+   ],
+   "id": 4,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "UHM/ AREN'T YOU TOO CLOSE?",
+   "box": [
+    180,
+    8208,
+    491,
+    8343
+   ],
+   "point": [
+    335,
+    8275
+   ],
+   "id": 5,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "WHUUT-?!",
+   "box": [
+    287,
+    9777,
+    502,
+    9820
+   ],
+   "point": [
+    394,
+    9798
+   ],
+   "id": 6,
+   "kind": "bulle",
+   "line_h": 43
+  },
+  {
+   "text": "YOU WERE STUCK TO THAT GIRL EARLIER THOUGH!",
+   "box": [
+    345,
+    10020,
+    638,
+    10210
+   ],
+   "point": [
+    491,
+    10115
+   ],
+   "id": 7,
+   "kind": "bulle",
+   "line_h": 37
+  },
+  {
+   "text": "T-THAT WAS AN",
+   "box": [
+    229,
+    10591,
+    498,
+    10632
+   ],
+   "point": [
+    363,
+    10611
+   ],
+   "id": 8,
+   "kind": "bulle",
+   "line_h": 41
+  },
+  {
+   "text": "OH REALLY, AN ACCIDENT, NOPE! THAT WON'T DO.",
+   "box": [
+    199,
+    11379,
+    445,
+    11547
+   ],
+   "point": [
+    322,
+    11463
+   ],
+   "id": 9,
+   "kind": "bulle",
+   "line_h": 38
+  },
+  {
+   "text": "I'M TELLING LILLET TOO.",
+   "box": [
+    325,
+    11730,
+    570,
+    11831
+   ],
+   "point": [
+    447,
+    11780
+   ],
+   "id": 10,
+   "kind": "bulle",
+   "line_h": 45
+  },
+  {
+   "text": "HEW HOWPlP7Hf",
+   "box": [
+    175,
+    12592,
+    476,
+    12639
+   ],
+   "point": [
+    325,
+    12615
+   ],
+   "id": 11,
+   "kind": "bulle",
+   "line_h": 47
+  }
+ ],
+ "014.webp": [
+  {
+   "text": "THOSE THOSE BASTARDs",
+   "box": [
+    224,
+    1876,
+    573,
+    2030
+   ],
+   "point": [
+    398,
+    1953
+   ],
+   "id": 1,
+   "kind": "bulle",
+   "line_h": 71
+  },
+  {
+   "text": "Ifi1ÏlllSSf11fSf11SÏiÏ:",
+   "box": [
+    34,
+    2870,
+    746,
+    2957
+   ],
+   "point": [
+    390,
+    2913
+   ],
+   "id": 2,
+   "kind": "dessin",
+   "line_h": 87
+  }
+ ]
+}

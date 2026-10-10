@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-255/011.webp",
+ "output": "chapters_fr/chapter-255/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON DIRAIT QUE TU AS ENFIN TROUVÉ UN SUCCESSEUR !",
+   "style": "italique",
+   "point": [
+    328,
+    312
+   ]
+  }
+ ]
+}

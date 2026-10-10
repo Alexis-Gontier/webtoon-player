@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-250/035.webp",
+ "output": "chapters_fr/chapter-250/035.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI TU ACCEPTES QUELQU’UN COMME MOI...",
+   "style": "dialogue",
+   "point": [
+    324,
+    558
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MARCHERAS-TU AVEC MOI ?",
+   "style": "dialogue",
+   "point": [
+    371,
+    2310
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OUI.",
+   "style": "dialogue",
+   "point": [
+    248,
+    3151
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AUCUN DE NOUS DEUX N’EST PARFAIT.",
+   "style": "dialogue",
+   "point": [
+    431,
+    3690
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST POUR ÇA...",
+   "style": "dialogue",
+   "point": [
+    348,
+    4329
+   ]
+  }
+ ]
+}

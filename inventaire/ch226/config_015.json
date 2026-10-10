@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-226/015.webp",
+ "output": "chapters_fr/chapter-226/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST NORMAL, NON ?",
+   "style": "dialogue",
+   "point": [
+    402,
+    593
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU T’ES BIEN BATTU, MIRAGE.",
+   "style": "dialogue",
+   "point": [
+    461,
+    1616
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MÊME SI... TU AS UN PEU EXAGÉRÉ, DANS L’ENSEMBLE, PAS MAL.",
+   "style": "dialogue",
+   "point": [
+    366,
+    3392
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS IL Y A UNE CHOSE.",
+   "style": "dialogue",
+   "point": [
+    438,
+    5028
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CE \"SERPENT D’ÉDEN\"...",
+   "style": "dialogue",
+   "point": [
+    367,
+    5870
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU T’ES DONNÉ TANT DE MAL POUR LE CRÉER, ET TU NE T’EN ES JAMAIS SERVI.",
+   "style": "dialogue",
+   "point": [
+    429,
+    7551
+   ]
+  },
+  {
+   "id": 9,
+   "text": "COMME SI",
+   "style": "dialogue",
+   "point": [
+    364,
+    9094
+   ]
+  },
+  {
+   "id": 10,
+   "text": "C’ÉTAIT TON VRAI ATOUT.",
+   "style": "dialogue",
+   "point": [
+    435,
+    10269
+   ]
+  },
+  {
+   "id": 12,
+   "text": "BON, VOYONS... C’ÉTAIT COMME ÇA ?",
+   "style": "dialogue",
+   "point": [
+    387,
+    14049
+   ]
+  }
+ ]
+}

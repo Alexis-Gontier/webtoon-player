@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/005.webp",
+ "output": "chapters_fr/chapter-251/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET C’EST\nPAREIL...",
+   "style": "dialogue",
+   "point": [
+    396,
+    539
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...POUR TOI AUSSI, NON ?",
+   "style": "dialogue",
+   "point": [
+    394,
+    1424
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...OUAIS. JE NE LE SAIS QUE TROP.",
+   "style": "dialogue",
+   "point": [
+    287,
+    3854
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU M’AS DONNÉ ASSEZ D’INDICES.",
+   "style": "dialogue",
+   "point": [
+    497,
+    4432
+   ]
+  }
+ ]
+}

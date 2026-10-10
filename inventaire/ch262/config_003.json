@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-262/003.webp",
+ "output": "chapters_fr/chapter-262/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST SIMPLE,\nLUCIA.",
+   "style": "italique",
+   "point": [
+    392,
+    503
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AVANCE, EN NE REGARDANT QUE L’AVENIR.",
+   "style": "italique",
+   "point": [
+    386,
+    4146
+   ]
+  },
+  {
+   "id": 100,
+   "text": "NE REGARDE\nJAMAIS EN\nARRIÈRE.",
+   "style": "italique",
+   "point": [
+    350,
+    1725
+   ]
+  }
+ ]
+}

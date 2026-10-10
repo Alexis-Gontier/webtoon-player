@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-262/027.webp",
+ "output": "chapters_fr/chapter-262/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CETTE PERSONNE VA FORCÉMENT...",
+   "style": "pensee",
+   "point": [
+    378,
+    51
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LIBUR, LAY. J’AI UNE FAVEUR À VOUS DEMANDER.",
+   "style": "italique",
+   "point": [
+    368,
+    4614
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-251/004.webp",
+ "output": "chapters_fr/chapter-251/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI C’EST TOI...",
+   "style": "dialogue",
+   "point": [
+    352,
+    406
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU SAIS DÉJÀ POURQUOI JE NE PEUX PAS INTERVENIR, NON ?",
+   "style": "dialogue",
+   "point": [
+    381,
+    1969
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LES CONDITIONS ABSOLUES POUR AFFRONTER LE DIEU ABSOLU.",
+   "style": "dialogue",
+   "point": [
+    345,
+    2735
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST PARCE QUE TU NE LES REMPLIS PAS.",
+   "style": "dialogue",
+   "point": [
+    412,
+    3700
+   ]
+  },
+  {
+   "id": 5,
+   "text": "EXACTEMENT.",
+   "style": "dialogue",
+   "point": [
+    400,
+    4516
+   ]
+  }
+ ]
+}

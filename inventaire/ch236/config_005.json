@@ -1,0 +1,105 @@
+{
+ "source": "chapters_en/chapter-236/005.webp",
+ "output": "chapters_fr/chapter-236/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUAND J’AI DÉCIDÉ D’UTILISER \"ÇA\" UNE SEULE FOIS, CE GROS COUP,",
+   "style": "italique",
+   "point": [
+    433,
+    224
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE ME SUIS DIT QUE JE POURRAIS M’EN SERVIR CINQ FOIS, PEUT-ÊTRE...",
+   "style": "italique",
+   "point": [
+    307,
+    605
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE NOM DE LA CAPACITÉ EST \"INCONNU\". L’IDENTITÉ DE L’UTILISATEUR AUSSI.",
+   "style": "italique",
+   "point": [
+    426,
+    1792
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TOUT CE QUE JE SAIS, C’EST L’APPARENCE DE L’UTILISATEUR ET QUE C’EST UNE CAPACITÉ DE \"TÉLÉPORTATION DIMENSIONNELLE\".",
+   "style": "italique",
+   "point": [
+    524,
+    2177
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST VICIEUX.",
+   "style": "italique",
+   "point": [
+    396,
+    2980
+   ]
+  },
+  {
+   "id": 6,
+   "text": "IL Y A TROP PEU D’INFOS SUR LA FAÇON DE L’ACTIVER.",
+   "style": "italique",
+   "point": [
+    423,
+    3700
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ALORS, IMPOSSIBLE DE VOYAGER ENTRE LES ÉTAGES.",
+   "style": "italique",
+   "point": [
+    270,
+    5827
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LA DISTANCE MAXIMALE EST LIMITÉE À 300 MÈTRES...",
+   "style": "italique",
+   "point": [
+    446,
+    6564
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ET EN PLUS, SEULEMENT VERS DES LIEUX BIEN GRAVÉS DANS MA MÉMOIRE... !",
+   "style": "italique",
+   "point": [
+    545,
+    6930
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ALORS C’EST TOUT CE QUE J’AI TIRÉ DE \"L’INVOCATION SUPÉRIEURE\"... ?!",
+   "style": "dialogue",
+   "point": [
+    339,
+    7774
+   ]
+  },
+  {
+   "id": 11,
+   "text": "CE GAMIN, MAIS QUELLE CHANCE IL A EUE JUSQU’ICI ?!",
+   "style": "dialogue",
+   "point": [
+    431,
+    9208
+   ]
+  }
+ ]
+}

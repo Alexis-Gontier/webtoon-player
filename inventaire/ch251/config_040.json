@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-251/040.webp",
+ "output": "chapters_fr/chapter-251/040.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ATTENDS. NON... UNE SECONDE.",
+   "style": "pensee",
+   "point": [
+    336,
+    466
+   ]
+  },
+  {
+   "id": 2,
+   "text": "HEIN ?\nSERAIT-CE...",
+   "style": "pensee",
+   "point": [
+    345,
+    1381
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ELLES SE DISPUTENT À CAUSE DE MOI ?",
+   "style": "italique",
+   "point": [
+    415,
+    2276
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SEOL-JIN A MÊME AFFRONTÉ LE SEIGNEUR ARTHUR POUR MOI.",
+   "style": "dialogue",
+   "point": [
+    222,
+    2613
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IL L’A FAIT POUR SAUVER LE MONDE, ÉVIDEMMENT.",
+   "style": "dialogue",
+   "point": [
+    624,
+    2691
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET PUIS, C’EST GÉNIAL, NON ? TU AS ENCORE TON CHER SEIGNEUR ARTHUR POUR T’OBSÉDER.",
+   "style": "dialogue",
+   "point": [
+    285,
+    3640
+   ]
+  },
+  {
+   "id": 7,
+   "text": "QUOI ?! J’EN SUIS REVENUE ! DE TOUTE FAÇON, C’EST PLUTÔT UNE FIGURE PATERNELLE ! TU VAS VRAIMENT MÊLER LA FAMILLE À ÇA ?",
+   "style": "dialogue",
+   "point": [
+    483,
+    4134
+   ]
+  }
+ ]
+}

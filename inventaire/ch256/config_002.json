@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-256/002.webp",
+ "output": "chapters_fr/chapter-256/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’AI BEAU Y RÉFLÉCHIR, JE N’AI QU’UN SEUL CHOIX.",
+   "style": "dialogue",
+   "point": [
+    362,
+    947
+   ]
+  },
+  {
+   "id": 2,
+   "text": "\"PLAYER !\"",
+   "style": "dialogue",
+   "point": [
+    420,
+    2093
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CELUI QUI METTRA FIN À MON HISTOIRE...",
+   "style": "dialogue",
+   "point": [
+    278,
+    3078
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...DOIT AVOIR L’AIR ENCORE PLUS HEUREUX QUE MOI.",
+   "style": "dialogue",
+   "point": [
+    389,
+    3446
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PLUS HEUREUX QUE TOI ? C’EST BEAUCOUP DEMANDER.",
+   "style": "dialogue",
+   "point": [
+    388,
+    4427
+   ]
+  },
+  {
+   "id": 7,
+   "text": "PERSONNE DE SENSÉ NE FERAIT ÇA.",
+   "style": "dialogue",
+   "point": [
+    494,
+    4822
+   ]
+  }
+ ]
+}

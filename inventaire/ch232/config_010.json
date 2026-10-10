@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-232/010.webp",
+ "output": "chapters_fr/chapter-232/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH~",
+   "style": "dialogue",
+   "point": [
+    207,
+    334
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AAH~",
+   "style": "dialogue",
+   "point": [
+    578,
+    657
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ENFIN~~~",
+   "style": "dialogue",
+   "point": [
+    362,
+    1455
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DINGUE...",
+   "style": "dialogue",
+   "point": [
+    301,
+    6015
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST QUOI CE BORDEL ?",
+   "style": "dialogue",
+   "point": [
+    429,
+    7104
+   ]
+  },
+  {
+   "id": 6,
+   "text": "DEAN, FAIS-NOUS CONFIANCE~",
+   "style": "dialogue",
+   "point": [
+    386,
+    7939
+   ]
+  },
+  {
+   "id": 7,
+   "text": "NOUS SERONS TON PLUS GRAND MÉCHANT~",
+   "style": "dialogue",
+   "point": [
+    409,
+    9503
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU DOIS VRAIMENT NOUS TUER ?",
+   "style": "dialogue",
+   "point": [
+    489,
+    10485
+   ]
+  }
+ ]
+}

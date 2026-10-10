@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-260/007.webp",
+ "output": "chapters_fr/chapter-260/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON DIRAIT QUE LE MOMENT EST ENFIN VENU.",
+   "style": "dialogue",
+   "point": [
+    421,
+    1047
+   ]
+  },
+  {
+   "id": 2,
+   "text": "HÉ, MON GRAND. ON TE CHERCHE.",
+   "style": "dialogue",
+   "point": [
+    379,
+    1962
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALLEZ, FILE ! DÉPÊCHE-TOI !",
+   "style": "dialogue",
+   "point": [
+    413,
+    3344
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-247/024.webp",
+ "output": "chapters_fr/chapter-247/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE NE SUIS QU’UN\nOUTIL SANS\nVALEUR !",
+   "style": "italique",
+   "point": [
+    386,
+    296
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HM ?",
+   "style": "dialogue",
+   "point": [
+    374,
+    4083
+   ]
+  }
+ ]
+}

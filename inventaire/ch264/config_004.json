@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-264/004.webp",
+ "output": "chapters_fr/chapter-264/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI TU NE TE TAIS PAS, LA RAISON POUR LAQUELLE JE SUIS VENUE AINSI N’AURA PLUS DE SENS.",
+   "style": "dialogue",
+   "point": [
+    374,
+    222
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CELA DIT...",
+   "style": "dialogue",
+   "point": [
+    321,
+    2619
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU PEUX M’ACCORDER UN PEU DE TON TEMPS ?",
+   "style": "dialogue",
+   "point": [
+    402,
+    3338
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CE JOUR-LÀ, SEOL-JIN ET LAY...",
+   "style": "cartouche",
+   "point": [
+    378,
+    4396
+   ]
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+# Chapitre 241. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | LE MOYEN LE PLUS SIMPLE\nD’ÉCHAPPER À UNE LOURDE\nRESPONSABILITÉ ET AU KARMA...
+001.100 | systeme {"box": [300, 5115, 485, 5235], "target": [310, 5130, 475, 5220], "light": true, "grow": 5, "colors": [[255,255,255],[255,255,255]]} | C’EST...
+001.2 | systeme {"box": [95, 5620, 705, 5750], "target": [110, 5630, 690, 5740], "light": true, "solid": 7, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3} | DÉTOURNER LE REGARD.
+001.3 | dialogue | TAIS-TOI !
+001.4 | dialogue | TAIS-TOI, TAIS-TOI...
+001.5 | dialogue | -
+001.6 | dialogue | -
+001.7 | cri {"box": [175, 8705, 495, 8890], "target": [190, 8722, 480, 8872], "ink_max": 90, "max_letter": 90, "grow": 7, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | FERME\nTA GUEULE !
+001.8 | systeme {"box": [250, 9090, 550, 9225], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | OUAIS
+001.9 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | QU’EST-CE QUE\nTU EN SAIS ?
+001.10 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | TU NE SAIS RIEN, ET\nPOURTANT TU ME\nCRITIQUES ?
+001.11 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | PERSONNE N’A\nLE DROIT DE\nME RENIER !
+001.12 | systeme {"box": [60, 12030, 740, 12250], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4, "max_letter": 200} | PERSONNE !
+002.1 | dialogue | UNNAME LIBÉRA L’ÂME DE LANCELOT, QUI AVAIT ÉTÉ LIÉE PAR UN "CONTRAT".
+002.2 | dialogue | ET INSUFFLA À LANCELOT TOUT LE KARMA QU’IL AVAIT RÉCOLTÉ JUSQU’ICI.
+002.3 | dialogue | C’ÉTAIT À L’ORIGINE UN ATOUT CACHÉ, DESTINÉ À LA BATAILLE FINALE CONTRE ARTHUR.
+002.4 | dialogue | ON POURRAIT DIRE QUE C’ÉTAIT SON ARME SECRÈTE.
+002.5 | dialogue | OUAIS...
+002.6 | dialogue | CET ŒIL !
+002.7 | italique | SANS CES YEUX... !
+002.8 | titre {"box": [40, 8990, 770, 9260], "light": true, "fill": [0,0,0], "grow": 5, "colors": [[255,255,255],[255,255,255]], "max_letter": 300} | ARME D’EGO
+002.9 | dialogue | -
+002.100 | titre {"box": [140, 10270, 670, 10770], "target": [150, 10280, 660, 10760], "outlined": 4, "outlined_fill": true, "ink_max": 90, "light_min": 200, "grow": 3, "stretch": 2, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 4} | FORME DE LA\nGLOUTONNERIE
+003.1 | dialogue | "UNNAME..."
+003.2 | dialogue | POURQUOI ALLER AUSSI LOIN...
+003.3 | dialogue | PANIQUE PAS, ABRUTI. AUSSI DINGUE QUE ÇA AIT L’AIR, ÇA NE PEUT PAS PERCER LA BARRIÈRE QU’A DRESSÉE LE SEIGNEUR ARTHUR.
+003.4 | dialogue | EUH, TORCHE-NIM...
+003.5 | dialogue | CE MONSTRE EST VRAIMENT LE MÊME GENRE D’"ARME D’EGO" QUE NOUS... ?
+003.6 | dialogue | BON, ÇA A L’AIR DANGEREUX POUR N’IMPORTE QUI.
+003.7 | dialogue | C’EST UNE "ARME" FAITE D’UNE ÂME MATÉRIALISÉE. CETTE FORME AUSSI, ENFIN...
+003.8 | dialogue | QUAND MÊME, C’EST INATTENDU.
+004.1 | italique | QU’UN GUERRIER AUSSI PUISSANT S’EFFONDRE À CE POINT...
+004.2 | italique | QUE S’EST-IL PASSÉ ?
+004.3 | italique | JE NE CONNAIS PAS LA STRUCTURE EXACTE, MAIS...
+004.4 | italique | UNE ÂME CONSERVÉE DANS L’"ANNEAU DE RÉINCARNATION"
+004.5 | italique | RÉCUPÈRE TOUT LE KARMA CONSOMMÉ.
+004.6 | italique | ALORS CE QUI EST BRISÉ N’EST PAS QUELQUE CHOSE DE PHYSIQUE...
+004.7 | dialogue | LE MOI INTÉRIEUR ?
+004.8 | italique | MAIS QU’EST-CE QUE C’EST QUE CE TRUC APPELÉ KARMA... ?
+004.9 | dialogue | C’EST QUOI CE... ?!
+004.10 | dialogue | LE NIVEAU D’ACHÈVEMENT DE L’ŒIL A GRIMPÉ EN FLÈCHE, NON ?
+004.11 | dialogue | -
+005.1 | italique | MÊME SI CE N’EST QU’UN INSTANT FUGACE QUE JE LUI AI DONNÉ...
+005.2 | dialogue | -
+005.3 | italique | ÇA DÉPASSE MES ATTENTES.
+005.4 | dialogue | SEOL-JIN HEO, CE SALAUD NÉGLIGÉ.
+005.5 | dialogue | QUEL TOUR IL A JOUÉ ?
+005.6 | dialogue | AU MOMENT MÊME OÙ LA BATAILLE FINALE COMMENÇAIT,
+005.7 | dialogue | LES PARTICIPANTS FURENT ABSORBÉS DANS LA RELIQUE DIVINE D’ARTHUR, L’"ANNEAU DE RÉINCARNATION".
+005.8 | dialogue | LES ÂMES QUI Y ÉTAIENT CONSERVÉES ÉTAIENT TOUTES ÉGALEMENT
+005.9 | dialogue | CAPABLES DE FAIRE FACE À LEUR PROPRE KARMA
+005.10 | dialogue | ET RECEVAIENT DU TEMPS POUR RENCONTRER LEUR "VRAI MOI".
+005.11 | systeme {"box": [140, 9370, 660, 9560], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | VAN ZICHMUND\n4 JOURS
+005.12 | systeme {"box": [180, 10170, 620, 10325], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | TAE-WON KIM\n12 HEURES
+005.13 | systeme {"box": [220, 11015, 580, 11170], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | UNNAME\n10 ANS
+005.14 | systeme {"box": [220, 11935, 580, 12090], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | DEAN\n5 MINUTES
+005.15 | systeme {"box": [180, 13020, 620, 13175], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 90} | SEOL-JIN HEO\n30 JOURS
+006.1 | dialogue | CET ENDROIT ET CETTE TENUE, C’EST UN DÉCOR DU MONDE OÙ TU VIVAIS ?
+006.2 | cartouche {"box": [235, 1720, 610, 1880], "fill": [255,255,255], "ink_max": 150, "max_letter": 90, "colors": [[0,0,0],[0,0,0]]} | MAÎTRE\nD’ARME D’EGO
+006.3 | dialogue | AH, OUI !
+006.4 | dialogue | TU DEVAIS VRAIMENT AIMER CET ENDROIT, HEIN ?
+006.5 | dialogue | POUR L’AVOIR RECRÉÉ AUSSI NETTEMENT DANS TON MONDE MENTAL.
+006.6 | dialogue | AH. NON, C’EST JUSTE...
+006.7 | dialogue | C’EST LE SEUL ENDROIT DONT JE ME SOUVIENNE...
+006.8 | dialogue | TA PARTENAIRE ?
+006.9 | systeme {"box": [378, 10945, 492, 10987], "light": true, "light_min": 180, "grow": 3, "max_letter": 40, "colors": [[228,238,232],[228,238,232]], "style": "cartouche"} | DE GARDE
+006.10 | dialogue | LIBUR MONTRE CET ENDROIT À TOUT LE MONDE.
+006.11 | dialogue | ELLE VEUT CRÉER DE BEAUX SOUVENIRS POUR TOUT LE MONDE.
+006.12 | dialogue | BON, MAINTENANT.
+007.1 | dialogue | -
+007.2 | dialogue | -
+007.3 | dialogue | J’AI HÂTE DE TRAVAILLER AVEC TOI.
+007.4 | dialogue | VOYONS...
+007.5 | dialogue | PAR OÙ JE COMMENCE ?
+007.6 | dialogue | JE SUPPOSE QUE ÇA DEVRAIT ÊTRE NOTRE PREMIÈRE RENCONTRE.
+007.7 | dialogue | -
+007.8 | dialogue | -
+007.9 | dialogue | -
+007.10 | dialogue | -
+008.1 | dialogue | 30E JOUR DU "VRAI MOI".
+008.2 | dialogue | LE DERNIER JOUR.
+008.3 | dialogue | ...C’EST TOUT CE QU’IL Y A.
+008.4 | dialogue | -
+008.5 | dialogue | C’ÉTAIT NOTRE VIE.
+008.6 | italique | OH LÀ, HÉ ! POURQUOI TU PLEURES ?
+008.7 | italique | TU CONNAISSAIS DÉJÀ NOTRE HISTOIRE, NON ?
+008.8 | dialogue | EUH, AH. DÉSOLÉ. C’EST JUSTE QUE, QUAND MÊME...
+008.9 | dialogue | -
+008.10 | dialogue | HEIN ? AH. ATTENDS...
+008.100 | italique {"point": [326, 11660]} | ASARYUN ! TU N’AS RIEN POUR LA COUVRIR ?
+009.1 | dialogue | FRANCHEMENT, TU TE DONNES VRAIMENT DU MAL POUR SOUFFRIR.
+009.2 | dialogue | -
+009.3 | dialogue | -
+009.4 | dialogue | -
+009.5 | dialogue | -
+009.6 | dialogue | MÊME SI TU HÉRITES DE NOTRE KARMA,
+009.7 | dialogue | DISCUTER EN DIRECT AVEC CHAQUE MAÎTRE D’ARME D’EGO ?
+009.8 | dialogue | LES "INFORMATIONS DE KARMA" NÉCESSAIRES POUR ACCEPTER LE POUVOIR...
+009.9 | dialogue | NOUS OBSERVER AVEC CES "YEUX", ÇA NE SUFFIT PAS ?
+009.10 | dialogue | ...JE NE SAIS PAS COMMENT LE DIRE.
+009.11 | dialogue | J’AI EU L’IMPRESSION QUE "VOIR" ET "ENTENDRE" ÉTAIENT DEUX CHOSES DIFFÉRENTES.
+009.12 | dialogue | ET C’ÉTAIT VRAIMENT, PLUS QUE TOUT...
+009.13 | dialogue | J’ÉTAIS JUSTE CURIEUX DE QUELQUES TRUCS.
+009.14 | dialogue | DE VOUS TOUS.
+009.15 | dialogue | MERCI.
+009.16 | dialogue | -
+009.17 | dialogue | D’AVOIR PARTAGÉ UNE HISTOIRE AUSSI PRÉCIEUSE.
+010.1 | dialogue | C’EST NOUS QUI ÉTIONS HEUREUX, PARCE QUE QUELQU’UN NOUS A ÉCOUTÉS.
+010.2 | dialogue | ALORS, AVEC ÇA...
+010.3 | dialogue | NOUS TE CONFIONS TOUT NOTRE KARMA.
+010.4 | dialogue | ÇA VA ÊTRE UN COMBAT DIFFICILE...
+010.5 | dialogue | MAIS TU LE SAIS SÛREMENT MIEUX QUE PERSONNE.
+010.6 | dialogue | TU POURRAS ALLER JUSQU’AU BOUT, SI C’EST TOI.
+010.7 | dialogue | ...DIS, TU CROIS QUE SEOL-JIN VA CONTINUER À ACCEPTER TOUT LE MONDE À PARTIR DE MAINTENANT AUSSI ?
+010.8 | dialogue | SÛREMENT. AU MOINS JUSQU’AU MOMENT OÙ IL ABANDONNERA LUI-MÊME...
+010.9 | dialogue | POUR CET ENFANT, LES "YEUX QUI VOIENT LES ÂMES" SONT PLUS UNE MALÉDICTION QU’UN DON.
+010.10 | dialogue | ...ASARYUN.
+010.11 | dialogue | APRÈS NOUS, CE SERA SÛREMENT...
+010.12 | dialogue | OUAIS.
+011.1 | dialogue | C’EST "CETTE FEMME".
+011.2 | dialogue | ...C’EST VRAIMENT LOURD.
+011.3 | dialogue | LE KARMA. CETTE CHOSE S’APPELLE "RÉTRIBUTION".
+011.4 | dialogue | SEOL-JIN.
+011.5 | dialogue | PEUX-TU ME PARDONNER ?
+011.6 | dialogue | -
+012.1 | dialogue | -

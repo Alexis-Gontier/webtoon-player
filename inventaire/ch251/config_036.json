@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/036.webp",
+ "output": "chapters_fr/chapter-251/036.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VEUX DIRE, SI SEOL-JIN RESTE À TES CÔTÉS...",
+   "style": "dialogue",
+   "point": [
+    255,
+    602
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST JUSTE PARCE QU’IL EST LE PROPRIÉTAIRE D’UNE ARME D’EGO, NON ?",
+   "style": "dialogue",
+   "point": [
+    361,
+    957
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL EST COINCÉ AVEC SA \"PARTENAIRE D’ÂME\". IL N’A PAS LE CHOIX.",
+   "style": "dialogue",
+   "point": [
+    412,
+    2346
+   ]
+  },
+  {
+   "id": 100,
+   "text": "HEIN ?",
+   "style": "dialogue",
+   "point": [
+    355,
+    3200
+   ]
+  }
+ ]
+}

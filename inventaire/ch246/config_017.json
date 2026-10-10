@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-246/017.webp",
+ "output": "chapters_fr/chapter-246/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE T’AI DIT QUE C’EST DANGEREUX ! RECULE POUR L’INSTANT !",
+   "style": "italique",
+   "point": [
+    479,
+    5206
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ON DIT QU’ON PEUT LIRE DANS UN CŒUR EN CROISANT LE FER...",
+   "style": "dialogue",
+   "point": [
+    346,
+    6139
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VOIS.",
+   "style": "dialogue",
+   "point": [
+    452,
+    7141
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TOI.",
+   "style": "dialogue",
+   "point": [
+    410,
+    7970
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ARGH...",
+   "style": "cri",
+   "point": [
+    205,
+    238
+   ]
+  }
+ ]
+}

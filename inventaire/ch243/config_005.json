@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-243/005.webp",
+ "output": "chapters_fr/chapter-243/005.webp",
+ "bubbles": [
+  {
+   "id": 5,
+   "text": "JE ME FICHE DU RESTE, MAIS CE QUI S’EST PASSÉ...",
+   "style": "italique",
+   "point": [
+    393,
+    7676
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MAINTENANT,",
+   "style": "italique",
+   "point": [
+    387,
+    8844
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ICI !",
+   "style": "italique",
+   "point": [
+    395,
+    9730
+   ]
+  }
+ ]
+}

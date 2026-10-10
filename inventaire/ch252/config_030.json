@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-252/030.webp",
+ "output": "chapters_fr/chapter-252/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ENTRE CES\nDEUX-LÀ...",
+   "style": "dialogue",
+   "point": [
+    315,
+    386
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LAQUELLE TU PRÉFÈRES ?",
+   "style": "dialogue",
+   "point": [
+    354,
+    1404
+   ]
+  }
+ ]
+}

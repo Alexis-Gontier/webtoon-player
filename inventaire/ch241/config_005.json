@@ -1,0 +1,259 @@
+{
+ "source": "chapters_en/chapter-241/005.webp",
+ "output": "chapters_fr/chapter-241/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MÊME SI CE N’EST QU’UN INSTANT FUGACE QUE JE LUI AI DONNÉ...",
+   "style": "italique",
+   "point": [
+    315,
+    185
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA DÉPASSE MES ATTENTES.",
+   "style": "italique",
+   "point": [
+    487,
+    1714
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SEOL-JIN HEO, CE SALAUD NÉGLIGÉ.",
+   "style": "dialogue",
+   "point": [
+    363,
+    2618
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUEL TOUR IL A JOUÉ ?",
+   "style": "dialogue",
+   "point": [
+    477,
+    2946
+   ]
+  },
+  {
+   "id": 6,
+   "text": "AU MOMENT MÊME OÙ LA BATAILLE FINALE COMMENÇAIT,",
+   "style": "dialogue",
+   "point": [
+    399,
+    4534
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LES PARTICIPANTS FURENT ABSORBÉS DANS LA RELIQUE DIVINE D’ARTHUR, L’\"ANNEAU DE RÉINCARNATION\".",
+   "style": "dialogue",
+   "point": [
+    405,
+    5993
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LES ÂMES QUI Y ÉTAIENT CONSERVÉES ÉTAIENT TOUTES ÉGALEMENT",
+   "style": "dialogue",
+   "point": [
+    404,
+    7142
+   ]
+  },
+  {
+   "id": 9,
+   "text": "CAPABLES DE FAIRE FACE À LEUR PROPRE KARMA",
+   "style": "dialogue",
+   "point": [
+    319,
+    8171
+   ]
+  },
+  {
+   "id": 10,
+   "text": "ET RECEVAIENT DU TEMPS POUR RENCONTRER LEUR \"VRAI MOI\".",
+   "style": "dialogue",
+   "point": [
+    493,
+    8442
+   ]
+  },
+  {
+   "id": 11,
+   "text": "VAN ZICHMUND\n4 JOURS",
+   "style": "systeme",
+   "box": [
+    140,
+    9370,
+    660,
+    9560
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 12,
+   "text": "TAE-WON KIM\n12 HEURES",
+   "style": "systeme",
+   "point": [
+    401,
+    10246
+   ],
+   "box": [
+    180,
+    10170,
+    620,
+    10325
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 13,
+   "text": "UNNAME\n10 ANS",
+   "style": "systeme",
+   "point": [
+    401,
+    11091
+   ],
+   "box": [
+    220,
+    11015,
+    580,
+    11170
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 14,
+   "text": "DEAN\n5 MINUTES",
+   "style": "systeme",
+   "box": [
+    220,
+    11935,
+    580,
+    12090
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 15,
+   "text": "SEOL-JIN HEO\n30 JOURS",
+   "style": "systeme",
+   "point": [
+    398,
+    13098
+   ],
+   "box": [
+    180,
+    13020,
+    620,
+    13175
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "source": "chapters_en/chapter-244/008.webp",
+ "output": "chapters_fr/chapter-244/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUE MON CŒUR NE\nS’EST PAS ENFLAMMÉ\nÀ CE POINT...",
+   "style": "systeme",
+   "box": [
+    90,
+    2125,
+    710,
+    2440
+   ],
+   "vfill": true,
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  },
+  {
+   "id": 2,
+   "text": "QU’IL N’A PAS\nÉTÉ AUSSI\nEXALTÉ...",
+   "style": "systeme",
+   "box": [
+    90,
+    3225,
+    715,
+    3540
+   ],
+   "vfill": true,
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  },
+  {
+   "id": 3,
+   "text": "À AFFRONTER\nUNE ÉPÉE AVEC\nUNE TELLE JOIE !",
+   "style": "systeme",
+   "box": [
+    110,
+    4425,
+    690,
+    4750
+   ],
+   "vfill": true,
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  },
+  {
+   "id": 5,
+   "text": "J’ARRIVE,\n\"PLAYER\" !",
+   "style": "dialogue",
+   "point": [
+    503,
+    6597
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ÇA FAIT COMBIEN\nDE TEMPS ?",
+   "style": "systeme",
+   "vfill": true,
+   "box": [
+    130,
+    890,
+    670,
+    1130
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  }
+ ]
+}

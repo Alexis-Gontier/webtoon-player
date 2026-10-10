@@ -1,0 +1,91 @@
+{
+ "source": "chapters_en/chapter-248/025.webp",
+ "output": "chapters_fr/chapter-248/025.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "NE RATE PAS LE BON MOMENT.",
+   "style": "italique",
+   "point": [
+    363,
+    968
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NE LE PERDS PAS DE VUE",
+   "style": "italique",
+   "point": [
+    263,
+    1684
+   ]
+  },
+  {
+   "id": 4,
+   "text": "NE LE PERDS PAS DE VUE.",
+   "style": "italique",
+   "point": [
+    448,
+    2306
+   ]
+  },
+  {
+   "id": 5,
+   "text": "NE LE PERDS—",
+   "style": "italique",
+   "point": [
+    350,
+    2830
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "cri",
+   "box": [
+    150,
+    4805,
+    575,
+    5000
+   ],
+   "ink_max": 100,
+   "max_letter": 120,
+   "grow": 4,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "TRÈS BIEN,\nALORS...",
+   "style": "cri",
+   "box": [
+    150,
+    4740,
+    570,
+    5000
+   ],
+   "target": [
+    180,
+    4790,
+    540,
+    4990
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

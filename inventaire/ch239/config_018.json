@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-239/018.webp",
+ "output": "chapters_fr/chapter-239/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...",
+   "style": "dialogue",
+   "point": [
+    423,
+    884
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU RACONTES VRAIMENT BEAUCOUP DE CONNERIES.",
+   "style": "dialogue",
+   "point": [
+    428,
+    1166
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI T’AS UN PROBLÈME, GAGNE.",
+   "style": "dialogue",
+   "point": [
+    407,
+    3097
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LIBUR ! ON A UNE CONVERSATION IMPORTANTE !",
+   "style": "italique",
+   "point": [
+    479,
+    4108
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET VOILÀ, TU RESSORS TON ANCIENNE PERSONNALITÉ.",
+   "style": "dialogue",
+   "point": [
+    257,
+    4385
+   ]
+  }
+ ]
+}

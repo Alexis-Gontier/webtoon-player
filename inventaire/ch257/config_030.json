@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-257/030.webp",
+ "output": "chapters_fr/chapter-257/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL REVINT DANS LE FAUX MONDE.",
+   "style": "cartouche",
+   "point": [
+    406,
+    906
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PAS SEUL.",
+   "style": "cartouche",
+   "point": [
+    318,
+    2692
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MAIS AVEC ELLE...",
+   "style": "cartouche",
+   "point": [
+    489,
+    2986
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA TOUTE PREMIÈRE CHOSE QU’IL FIT...",
+   "style": "cartouche",
+   "point": [
+    310,
+    4078
+   ]
+  },
+  {
+   "id": 5,
+   "text": "FUT D’EFFACER DU MONDE TOUTES LES FAUSSES TRACES DE LUI-MÊME.",
+   "style": "cartouche",
+   "point": [
+    459,
+    4456
+   ]
+  }
+ ]
+}

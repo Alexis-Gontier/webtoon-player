@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-255/005.webp",
+ "output": "chapters_fr/chapter-255/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNE FOIS QU’IL AURA OBTENU CE QU’IL VEUT,",
+   "style": "dialogue",
+   "point": [
+    267,
+    1389
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IL REVIENDRA AVEC SON SOURIRE BÊTE, COMME SI DE RIEN N’ÉTAIT.",
+   "style": "dialogue",
+   "point": [
+    319,
+    1770
+   ]
+  },
+  {
+   "id": 3,
+   "text": "APRÈS TOUT, C’EST LE GENRE D’HOMME QUE J’AI CHOISI.",
+   "style": "dialogue",
+   "point": [
+    383,
+    3654
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HÉ HÉ HÉ...!\nVRAIMENT ?",
+   "style": "dialogue",
+   "point": [
+    345,
+    4589
+   ]
+  }
+ ]
+}

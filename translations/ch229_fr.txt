@@ -1,0 +1,123 @@
+# Chapitre 229. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | ...MIRAGE, CE TYPE. IL A FINI PAR S’EN SERVIR.
+001.2 | dialogue | IL SUIT UN CHEMIN DIFFICILE, JUSQU’AU BOUT...
+001.3 | italique | IL N’A AUCUN ESPOIR.
+001.4 | italique | PARCE QU’À LA FIN, J’AI ÉTÉ SAUVÉ.
+001.5 | italique | SI JE DEVAIS CHOISIR UN CAMP...
+001.6 | italique | TOI AUSSI...
+001.7 | italique | ...TOUT LE MONDE, ATTENDEZ ENCORE UN PEU.
+001.8 | italique | UNE FOIS MON DEVOIR ACCOMPLI,
+001.9 | italique | JE REJOINDRAI CE TYPE, MOI AUSSI.
+002.1 | dialogue | SEOL-JIN, TU L’AS SENTI AUSSI, NON ?
+002.2 | dialogue | TON AMI VIENT DE PARTIR.
+002.3 | dialogue | TU SAIS AUSSI QUE CE N’EST QUE LE DÉBUT.
+002.4 | dialogue | LA BATAILLE FINALE A COMMENCÉ.
+002.5 | dialogue | -
+002.6 | dialogue | OUI.
+002.7 | dialogue | ÇA NE TE DÉRANGE PAS ?
+002.8 | dialogue | CE QUI VA ARRIVER À TES AMIS ?
+002.9 | dialogue | ...BIEN SÛR QUE SI, MAIS...
+002.10 | dialogue | ÇA VA.
+003.1 | dialogue | TOUS CEUX QUI SONT SUR CETTE SCÈNE...
+003.2 | dialogue | -
+003.3 | dialogue | SONT DES GENS QUI ONT ATTEINT LE NIVEAU 100 PAR LEUR PROPRE VOLONTÉ.
+003.4 | dialogue | TAE-WON,
+003.5 | dialogue | MIRAGE...
+003.6 | dialogue | M. DEAN AUSSI...
+003.7 | dialogue | ET LIBUR ET MOI AUSSI.
+003.8 | dialogue | C’EST ÇA ! DONC PEU IMPORTE LE RÉSULTAT.
+003.9 | dialogue | PARCE QUE C’ÉTAIT NOTRE CHOIX !
+003.10 | dialogue | NOUS AUSSI, ON VEUT QUE TU AIES CONFIANCE...
+003.11 | dialogue | EN CE QU’ON CHOISIT, NOUS AUSSI !
+003.12 | dialogue | PAS VRAI ?
+003.13 | dialogue | -
+003.14 | dialogue | EUH... HUM... OUI ?
+004.1 | dialogue | QU’EST-CE QU’IL Y A, SEOL-JIN HEO ? POURQUOI TU ME REGARDES COMME ÇA ?
+004.2 | dialogue | H-HEIN... ? JE T’AI JUSTE REGARDÉE ET TU AS DIT UN TRUC, NON... ?
+004.3 | dialogue | AU FAIT, LIBUR, TU N’ES PAS UN PEU TROP PRÈS... ?
+004.4 | dialogue {"box": [85, 3110, 485, 3370], "target": [95, 3120, 475, 3360], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150, "max_letter": 45} | ET ALORS ?\nON SE TIENT\nTOUJOURS LA MAIN\nQUAND ON SE BAT,\nNON ?
+004.5 | italique {"box": [360, 3540, 660, 3700], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | C’EST PAS\nPAREIL !
+004.6 | dialogue | ...HAHA, LES AMIS !
+004.7 | dialogue | ASARYUN ! ET NOUS AUSSI~
+004.8 | dialogue | EN TANT QU’AÎNÉS, ON DEVRAIT SAUVER LA FACE, NON ?
+004.9 | dialogue | ...OUAIS !
+004.10 | dialogue | SEOL-JIN, LIBUR. VOUS NOUS AVEZ SAUVÉS.
+004.11 | dialogue | ALORS MAINTENANT, C’EST À NOUS DE VOUS AIDER.
+004.12 | dialogue | VOUS POUVEZ UTILISER NOS ÂMES...
+004.13 | dialogue | DANS VOTRE COMBAT.
+004.14 | dialogue | AU NOM...
+005.1 | dialogue | DU CHOIX QUE TU AS FAIT !
+005.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE,\nPREMIER ROUND,\nTERMINÉ.
+005.3 | dialogue | -
+005.4 | systeme {"box": [50, 4480, 750, 4780], "light": true, "grow": 11, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 130} | VAINQUEUR,\nUNNAME
+005.5 | dialogue | -
+006.1 | dialogue | AVEC ÇA...
+006.2 | dialogue | LE PREMIER ROUND EST TERMINÉ.
+006.3 | dialogue {"point": [447, 3285], "cut": [[168, 3091], [477, 3091]]} | JE VAIS TIRER LE DEUXIÈME DUEL.
+006.4 | italique | QU’EST-CE QUI...
+006.5 | italique | VIENT DE SE PASSER ?
+006.6 | italique | IL EST MORT ?
+006.7 | italique | ET TAE-WON KIM, ALORS ?
+006.8 | italique | ET TAE-WON KIM, ALORS ?
+006.9 | italique {"point": [428, 11123], "cut": [[211, 10895], [464, 10895]]} | VOILÀ DONC POURQUOI ON APPELLE CE COMBAT LA "BATAILLE FINALE".
+006.10 | italique | MAINTENANT, JE COMPRENDS BIEN.
+006.11 | italique | LEUR DÉTERMINATION EST DIFFÉRENTE...
+006.12 | italique | LEUR DÉTERMINATION EST DIFFÉRENTE...
+006.101 | dialogue {"point": [322, 2965], "cut": [[168, 3091], [477, 3091]]} | ALORS...
+006.102 | dialogue {"point": [328, 10757], "cut": [[211, 10895], [464, 10895]]} | JE VOIS.
+007.1 | italique | DE MON DÉSESPOIR.
+007.2 | dialogue | C’EST VRAI, CE N’EST PAS LE MOMENT D’ÊTRE COMME ÇA !
+007.3 | dialogue | JE DOIS LES AIDER !
+007.4 | dialogue | JE DOIS FAIRE TOUT CE QUE JE PEUX !
+007.5 | cri | POUR MES\nCOLLÈGUES !
+007.6 | italique | HOHO !
+007.7 | italique | BON, MAINTENANT, JE NE DEVRAIS PLUS DU TOUT M’INQUIÉTER POUR ELLE.
+008.1 | italique | OÙ EST-CE QU’ELLE A TROUVÉ TOUT CET ENTRAIN, D’UN COUP ?!
+008.2 | italique | TU AS BIEN TRAVAILLÉ, TAE-WON KIM, MIRAGE...
+008.3 | italique | C’ÉTAIT UN COMBAT DIGNE DE VOUS TOUS, AU POINT QUE JE VOUS ENVIE.
+008.4 | italique | DÉSORMAIS, LA DESTRUCTION DE "CET ENDROIT" EST ACHEVÉE.
+008.5 | italique | MAINTENANT, DOUCEMENT...
+008.6 | dialogue | PASTIS.
+008.7 | dialogue | -
+008.8 | dialogue | -
+008.9 | dialogue | J’AI BESOIN DE TON AIDE.
+008.10 | dialogue | J’ATTENDAIS ÇA !
+009.1 | italique | MESDAMES ET MESSIEURS, JE SAIS QUE VOUS AVEZ HÂTE !!!
+009.2 | dialogue | -
+009.3 | italique {"point": [405, 3576], "close": 3} | ALORS, AVANT QUE\nLA FIÈVRE DU PREMIER\nROUND RETOMBE !\nROUND 2~~~ !
+009.4 | dialogue | AAAAAH !!!
+009.5 | systeme {"box": [40, 6440, 760, 6830], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE\nDEUXIÈME ROUND
+009.6 | dialogue | -
+009.7 | dialogue | -
+009.8 | dialogue | -
+009.9 | dialogue | -
+009.10 | dialogue | ARRÊTE DE DEMANDER, DEAN.
+009.11 | dialogue | CE COMBAT DÉCIDE QUI DEVIENDRA LE DIEU.
+010.1 | dialogue | MAIS, POUR TOI, CE SERA TA PREMIÈRE "ÉLIMINATION"...
+010.2 | dialogue | TU ESSAIES DE DIRE QUE JE N’AI PAS LE DROIT PARCE QUE JE N’AI PAS DE...
+010.3 | dialogue | -
+010.4 | dialogue | "ARME D’ÂME" ?
+010.5 | dialogue | C’EST ÇA.
+010.6 | dialogue | ALORS, POURQUOI TU FAIS ENCORE...
+010.7 | dialogue | CETTE TÊTE-LÀ ?
+010.8 | dialogue | JE SUIS LÀ, DEBOUT...
+010.9 | dialogue | COMME TOUJOURS !
+010.10 | dialogue | SUR LA SCÈNE DONT RÊVENT TOUS LES PLAYERS !
+010.11 | dialogue | L’ARÈNE CÉLESTE !
+011.1 | dialogue | ÇA SUFFIT DÉJÀ...
+011.2 | dialogue | POUR ME FAIRE RIRE !
+011.3 | dialogue | "ARME D’ÂME" ?
+011.4 | dialogue | J’EN AI VRAIMENT BESOIN ?
+011.5 | dialogue | SI C’EST CE QUE TU PENSES, J’EN FERAI UNE.
+011.6 | dialogue {"point": [420, 9228]} | MÊME\nS’IL FAUT...
+011.7 | cri | BRÛLER\nMON ÂME !
+011.8 | dialogue | C’EST TOUT
+012.1 | dialogue | -
+012.2 | dialogue {"point": [337, 4854], "cut": [[259, 5108], [647, 5108]]} | MAIS TU NE DOIS PAS MOURIR,
+012.3 | dialogue {"point": [457, 5297], "cut": [[259, 5108], [647, 5108]]} | POUR LE MONDE D’APRÈS !
+012.4 | dialogue | -
+012.5 | dialogue | -
+012.6 | dialogue | -
+012.7 | dialogue | -
+012.100 | dialogue {"box": [300, 0, 500, 68], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | TOI !
+011.100 | dialogue {"box": [290, 14960, 510, 15000], "fill": [255,255,255], "ink_max": 150} | (effacer)

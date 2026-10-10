@@ -1,0 +1,90 @@
+{
+ "source": "chapters_en/chapter-255/020.webp",
+ "output": "chapters_fr/chapter-255/020.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "SON MONDE INTÉRIEUR S’ACHÈVE ET SE MANIFESTE COMME UN UNIVERS À PART.",
+   "style": "italique",
+   "point": [
+    334,
+    840
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI MA NATURE SE DÉFINIT PAR LA \"RECRÉATION\",",
+   "style": "dialogue",
+   "point": [
+    286,
+    2025
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA SIENNE S’APPELLERAIT SANS DOUTE \"HARMONIE\".",
+   "style": "dialogue",
+   "point": [
+    405,
+    2370
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUAIS...",
+   "style": "dialogue",
+   "point": [
+    281,
+    3225
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’EST DOMMAGE, MAIS JE CROIS QU’IL EST TEMPS DE PASSER LE FLAMBEAU...",
+   "style": "dialogue",
+   "point": [
+    407,
+    3544
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ACCUEILLI.",
+   "style": "italique",
+   "box": [
+    110,
+    0,
+    560,
+    75
+   ],
+   "target": [
+    290,
+    0,
+    470,
+    60
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 27,
+   "seam": "top"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-241/007.webp",
+ "output": "chapters_fr/chapter-241/007.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "J’AI HÂTE DE TRAVAILLER AVEC TOI.",
+   "style": "dialogue",
+   "point": [
+    394,
+    1326
+   ]
+  },
+  {
+   "id": 4,
+   "text": "VOYONS...",
+   "style": "dialogue",
+   "point": [
+    375,
+    3340
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PAR OÙ JE COMMENCE ?",
+   "style": "dialogue",
+   "point": [
+    338,
+    5021
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE SUPPOSE QUE ÇA DEVRAIT ÊTRE NOTRE PREMIÈRE RENCONTRE.",
+   "style": "dialogue",
+   "point": [
+    411,
+    6465
+   ]
+  }
+ ]
+}

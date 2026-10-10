@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-260/010.webp",
+ "output": "chapters_fr/chapter-260/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMPTE\nSUR MOI !",
+   "style": "dialogue",
+   "point": [
+    386,
+    1478
+   ]
+  },
+  {
+   "id": 2,
+   "text": "BON,\nALORS...",
+   "style": "dialogue",
+   "point": [
+    407,
+    3264
+   ]
+  },
+  {
+   "id": 3,
+   "text": "UGH...",
+   "style": "dialogue",
+   "point": [
+    154,
+    4720
+   ]
+  }
+ ]
+}

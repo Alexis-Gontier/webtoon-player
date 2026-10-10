@@ -1,0 +1,71 @@
+{
+ "source": "chapters_en/chapter-264/018.webp",
+ "output": "chapters_fr/chapter-264/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SEOL-JIN,",
+   "style": "dialogue",
+   "point": [
+    279,
+    282
+   ],
+   "cut": [
+    [
+     140,
+     385
+    ],
+    [
+     420,
+     385
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU TE SOUVIENS DE LA CONVERSATION QU’ON A EUE CE JOUR-LÀ ?",
+   "style": "dialogue",
+   "point": [
+    320,
+    565
+   ],
+   "cut": [
+    [
+     140,
+     385
+    ],
+    [
+     420,
+     385
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SUR LE FAIT QUE, AVEC TOUT LE MONDE...",
+   "style": "dialogue",
+   "point": [
+    272,
+    2503
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE VOULAIS PARTAGER LA VIE QUOTIDIENNE QUE TU MENAIS...",
+   "style": "dialogue",
+   "point": [
+    433,
+    3408
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ON DIRAIT QUE JE VAIS ENFIN POUVOIR RÉALISER CE RÊVE.",
+   "style": "dialogue",
+   "point": [
+    341,
+    4187
+   ]
+  }
+ ]
+}

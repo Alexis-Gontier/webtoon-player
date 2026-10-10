@@ -1,0 +1,5 @@
+fonttools>=4.66
+numpy>=2.5
+opencv-python-headless>=5.0
+pillow>=12.2
+winocr>=0.0.15  # OCR intégré à Windows

@@ -1,0 +1,139 @@
+{
+ "source": "chapters_en/chapter-240/002.webp",
+ "output": "chapters_fr/chapter-240/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "\"DÉMON\", NON, JE VEUX DIRE...",
+   "style": "dialogue",
+   "point": [
+    429,
+    449
+   ]
+  },
+  {
+   "id": 2,
+   "text": "\"SANS-NOM.\"",
+   "style": "dialogue",
+   "point": [
+    409,
+    1315
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST LA PREMIÈRE FOIS",
+   "style": "systeme",
+   "box": [
+    60,
+    3500,
+    740,
+    3665
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 5,
+   "text": "TOI.",
+   "style": "dialogue",
+   "point": [
+    389,
+    8786
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TU TE SOUVIENS DE CET ENDROIT ?",
+   "style": "dialogue",
+   "point": [
+    377,
+    9739
+   ]
+  },
+  {
+   "id": 7,
+   "text": "BIEN SÛR.",
+   "style": "dialogue",
+   "point": [
+    391,
+    11305
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CE N’EST PAS LA CABANE OÙ TOI ET MOI NOUS SOMMES RENCONTRÉS ?",
+   "style": "dialogue",
+   "point": [
+    458,
+    11543
+   ]
+  },
+  {
+   "id": 9,
+   "text": "HMM... COMME PRÉVU.",
+   "style": "dialogue",
+   "point": [
+    359,
+    12423
+   ]
+  },
+  {
+   "id": 10,
+   "text": "C’EST DONC CE QUE TU PENSES.",
+   "style": "dialogue",
+   "point": [
+    413,
+    12686
+   ]
+  },
+  {
+   "id": 12,
+   "text": "MAIS C’EST DIFFÉRENT.",
+   "style": "dialogue",
+   "point": [
+    410,
+    14020
+   ]
+  },
+  {
+   "id": 100,
+   "text": "QUE JE CROISAIS\nUN TEL REGARD.",
+   "style": "systeme",
+   "box": [
+    90,
+    4160,
+    710,
+    4390
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  }
+ ]
+}

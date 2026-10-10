@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-228/018.webp",
+ "output": "chapters_fr/chapter-228/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CELUI QUI BRISE L’ORDRE DU MONDE, C’EST CETTE PERSONNE.",
+   "style": "dialogue",
+   "point": [
+    308,
+    178
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ILS SONT ATTIRÉS PAR CETTE TENTATION.",
+   "style": "dialogue",
+   "point": [
+    506,
+    466
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AINSI, LA DAME DEVINT UNE EXPLORATRICE RENOMMÉE",
+   "style": "dialogue",
+   "point": [
+    299,
+    4592
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET MENA UNE LONGUE ET PÉNIBLE VIE.",
+   "style": "dialogue",
+   "point": [
+    476,
+    4901
+   ]
+  }
+ ]
+}

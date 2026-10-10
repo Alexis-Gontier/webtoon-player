@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-257/038.webp",
+ "output": "chapters_fr/chapter-257/038.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "ILS BÂTIRENT UN FAUX PARADIS ET SE PRÉPARÈRENT AVEC SOIN.",
+   "style": "cartouche",
+   "point": [
+    402,
+    983
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POUR L’INSTANT INÉVITABLE OÙ LE RÉCEPTACLE DU DIEU ABSOLU SERAIT ENDOMMAGÉ.",
+   "style": "cartouche",
+   "point": [
+    354,
+    2732
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR LE VRAI MONDE QUI VIENDRAIT UN JOUR...",
+   "style": "cartouche",
+   "point": [
+    516,
+    3041
+   ]
+  },
+  {
+   "id": 6,
+   "text": "EN ESPÉRANT UN VRAI HÉROS QUI APPARAÎTRAIT PEUT-ÊTRE UN JOUR.",
+   "style": "cartouche",
+   "point": [
+    344,
+    4399
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ILS NE MANQUÈRENT JAMAIS DE LAISSER DES TRACES DE LEURS PLANS.",
+   "style": "cartouche",
+   "point": [
+    475,
+    4773
+   ]
+  }
+ ]
+}

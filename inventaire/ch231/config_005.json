@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-231/005.webp",
+ "output": "chapters_fr/chapter-231/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST\nLA JOIE !!!",
+   "style": "cri",
+   "point": [
+    433,
+    1808
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-CE QUE J’ESPÉRAIS ?",
+   "style": "italique",
+   "point": [
+    325,
+    8044
+   ]
+  },
+  {
+   "id": 4,
+   "text": "RÉVÉLER UN SECRET CACHÉ JUSQU’ICI, POUSSÉ PAR DE SIMPLES ÉMOTIONS...",
+   "style": "italique",
+   "point": [
+    452,
+    9257
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AU BOUT DU COMPTE, IL EST ENFIN VENU ME CHERCHER.",
+   "style": "italique",
+   "point": [
+    437,
+    10050
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LA \"POÉSIE DU FUTUR\" DE LUCIA EST ABSOLUE.",
+   "style": "italique",
+   "point": [
+    320,
+    11147
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LA LUMIÈRE DE CE TYPE...",
+   "style": "italique",
+   "point": [
+    428,
+    12328
+   ]
+  },
+  {
+   "id": 9,
+   "text": "SERA BRISÉE DE MES MAINS.",
+   "style": "italique",
+   "point": [
+    379,
+    13491
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+  "source": "chapters_en/chapter-225/005.webp",
+  "output": "chapters_fr/chapter-225/005.webp",
+  "bubbles": [
+    {
+      "point": [
+        392,
+        725
+      ],
+      "text": "TROP MIGNON~"
+    },
+    {
+      "point": [
+        317,
+        1350
+      ],
+      "text": "ARME D’EGO...",
+      "style": "italique"
+    },
+    {
+      "point": [
+        480,
+        2667
+      ],
+      "text": "ET TOUTES...",
+      "style": "italique"
+    },
+    {
+      "point": [
+        413,
+        3558
+      ],
+      "text": "AU NIVEAU DE LIBUR... !",
+      "style": "italique"
+    },
+    {
+      "point": [
+        285,
+        6375
+      ],
+      "text": "AVEC CE POUVOIR..."
+    },
+    {
+      "point": [
+        483,
+        7983
+      ],
+      "text": "JE LE REMETTRAI TOUT ENTIER AU VAINQUEUR DE LA BATAILLE FINALE."
+    },
+    {
+      "point": [
+        395,
+        9005
+      ],
+      "text": "ALORS, PENDANT LE COMBAT, RÉFLÉCHISSEZ BIEN."
+    },
+    {
+      "point": [
+        413,
+        10050
+      ],
+      "text": "SEREZ-VOUS LE SAUVEUR DE CE MONDE ?"
+    },
+    {
+      "point": [
+        392,
+        11228
+      ],
+      "text": "OU LE DESTRUCTEUR",
+      "max_size": 62
+    },
+    {
+      "point": [
+        392,
+        12330
+      ],
+      "text": "OU...",
+      "max_size": 62
+    },
+    {
+      "point": [
+        427,
+        13700
+      ],
+      "text": "DEVIENDREZ-VOUS LE DIEU DU NOUVEAU MONDE ?"
+    }
+  ]
+}

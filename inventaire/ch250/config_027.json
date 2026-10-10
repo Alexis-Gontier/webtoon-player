@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-250/027.webp",
+ "output": "chapters_fr/chapter-250/027.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "QU-QU’EST-CE QUE TU FAIS ?!",
+   "style": "italique",
+   "point": [
+    425,
+    4138
+   ]
+  },
+  {
+   "id": 5,
+   "text": "NON, COMMENT TU T’ES RÉVEILLÉE ?!",
+   "style": "italique",
+   "point": [
+    356,
+    4515
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LIBUR ?",
+   "style": "dialogue",
+   "point": [
+    350,
+    738
+   ]
+  }
+ ]
+}

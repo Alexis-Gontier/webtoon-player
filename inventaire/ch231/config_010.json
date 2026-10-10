@@ -1,0 +1,71 @@
+{
+ "source": "chapters_en/chapter-231/010.webp",
+ "output": "chapters_fr/chapter-231/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DANS LA FOULÉE DE LA V16,",
+   "style": "dialogue",
+   "point": [
+    398,
+    1712
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE CORPS FRAGILE DE DEAN, INCAPABLE DE SUPPORTER CE POUVOIR, COMMENÇA À SE DÉCHIRER.",
+   "style": "dialogue",
+   "point": [
+    421,
+    2686
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    482,
+    5793
+   ]
+  },
+  {
+   "id": 5,
+   "text": "COMME UN\nPAPILLON",
+   "style": "systeme",
+   "box": [
+    270,
+    6495,
+    545,
+    6640
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 8,
+   "text": "QUI PEINE À DÉPLOYER SES AILES.",
+   "style": "dialogue",
+   "point": [
+    424,
+    8899
+   ]
+  }
+ ]
+}

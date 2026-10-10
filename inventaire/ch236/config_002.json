@@ -1,0 +1,80 @@
+{
+ "source": "chapters_en/chapter-236/002.webp",
+ "output": "chapters_fr/chapter-236/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ESSAYER DE FAIRE COMME SI TOUT ALLAIT BIEN,",
+   "style": "italique",
+   "point": [
+    451,
+    597
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AVEC UNE CAPACITÉ AUSSI PITOYABLE...",
+   "style": "dialogue",
+   "point": [
+    390,
+    1441
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE L’AI ENTENDU DE MIRAGE.",
+   "style": "dialogue",
+   "point": [
+    398,
+    3436
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TA CAPACITÉ EST \"LE JOUET DU FOU\".",
+   "style": "dialogue",
+   "point": [
+    352,
+    4361
+   ],
+   "cut": [
+    [
+     355,
+     4561
+    ],
+    [
+     595,
+     4561
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST QUOI CE DÉLIRE, TOUT D’UN COUP ?",
+   "style": "dialogue",
+   "point": [
+    372,
+    5876
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PAS VRAI ?",
+   "style": "dialogue",
+   "point": [
+    478,
+    4665
+   ],
+   "cut": [
+    [
+     355,
+     4561
+    ],
+    [
+     595,
+     4561
+    ]
+   ]
+  }
+ ]
+}

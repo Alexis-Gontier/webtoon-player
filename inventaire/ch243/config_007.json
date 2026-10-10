@@ -1,0 +1,88 @@
+{
+ "source": "chapters_en/chapter-243/007.webp",
+ "output": "chapters_fr/chapter-243/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PAS ENCORE, PAS ENCORE !",
+   "style": "italique",
+   "point": [
+    329,
+    953
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE LE SAVAIS !",
+   "style": "italique",
+   "point": [
+    500,
+    1233
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA NE DEVAIT PAS ÊTRE QUE ÇA !",
+   "style": "italique",
+   "point": [
+    421,
+    2210
+   ]
+  },
+  {
+   "id": 5,
+   "text": "L’ACHÈVEMENT DU MONDE ? LA RÉACTION DU NOYAU ?",
+   "style": "italique",
+   "point": [
+    429,
+    3010
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ÇA NE DEVAIT PAS ÊTRE COMME ÇA !",
+   "style": "italique",
+   "point": [
+    390,
+    4126
+   ]
+  },
+  {
+   "id": 7,
+   "text": "PETIT MERDEUX !",
+   "style": "dialogue",
+   "point": [
+    447,
+    7272
+   ]
+  },
+  {
+   "id": 100,
+   "text": "TA FORCE,\nC’EST...",
+   "style": "italique",
+   "point": [
+    397,
+    5718
+   ]
+  },
+  {
+   "id": 101,
+   "text": "TOI AUSSI,\nTU ES SI\nIMPATIENT !",
+   "style": "cri",
+   "box": [
+    195,
+    8010,
+    700,
+    8360
+   ],
+   "target": [
+    270,
+    8020,
+    695,
+    8350
+   ],
+   "ink_max": 180,
+   "grow": 5
+  }
+ ]
+}

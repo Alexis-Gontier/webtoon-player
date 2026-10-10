@@ -1,0 +1,112 @@
+{
+ "source": "chapters_en/chapter-263/032.webp",
+ "output": "chapters_fr/chapter-263/032.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "FLASH\nSPÉCIAL.",
+   "style": "italique",
+   "point": [
+    329,
+    178
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DES OBJETS VOLANTS NON IDENTIFIÉS GÉANTS SONT SIGNALÉS DANS PLUSIEURS RÉGIONS DU PAYS.",
+   "style": "italique",
+   "point": [
+    257,
+    1113
+   ]
+  },
+  {
+   "id": 3,
+   "text": "À COMMENCER PAR L’ARRONDISSEMENT DE SEODAEMUN, À SÉOUL.",
+   "style": "italique",
+   "point": [
+    431,
+    1474
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POUR L’INSTANT, IL NE S’AGIRAIT PAS DE SIMPLES MÉTÉORITES NI D’AÉRONEFS.",
+   "style": "italique",
+   "point": [
+    348,
+    2577
+   ]
+  },
+  {
+   "id": 5,
+   "text": "UNE CONSTRUCTION GIGANTESQUE EST VISIBLE AU CENTRE DE L’ÉCRAN. CET OBJET, QUI SEMBLE FAIRE PARTIE D’UNE STRUCTURE ANCIENNE...",
+   "style": "italique",
+   "point": [
+    286,
+    3482
+   ]
+  },
+  {
+   "id": 6,
+   "text": "FLOTTERAIT, SELON LES CONFIRMATIONS, À DES MILLIERS DE MÈTRES D’ALTITUDE.",
+   "style": "italique",
+   "point": [
+    442,
+    3769
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LES EXPERTS SOULIGNENT QUE LES ESCALIERS ET LES COLONNES VISIBLES À SA SURFACE...",
+   "style": "italique",
+   "point": [
+    296,
+    4591
+   ]
+  },
+  {
+   "id": 9,
+   "text": "LAISSENT\nPENSER\nÀ UNE\nSTRUCTURE",
+   "style": "italique",
+   "point": [
+    458,
+    4898
+   ],
+   "box": [
+    300,
+    4820,
+    620,
+    5000
+   ],
+   "target": [
+    325,
+    4835,
+    600,
+    4995
+   ],
+   "ink_max": 100,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 32,
+   "seam": "bottom"
+  }
+ ]
+}

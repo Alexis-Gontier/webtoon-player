@@ -1,0 +1,54 @@
+{
+ "source": "chapters_en/chapter-255/018.webp",
+ "output": "chapters_fr/chapter-255/018.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "À QUEL POINT LE TALENT DE CE GAMIN EST IMMENSE !",
+   "style": "dialogue",
+   "point": [
+    351,
+    891
+   ]
+  },
+  {
+   "id": 100,
+   "text": "NON ?",
+   "style": "dialogue",
+   "box": [
+    240,
+    0,
+    435,
+    50
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 30,
+   "target": [
+    240,
+    0,
+    435,
+    50
+   ],
+   "seam": "top"
+  }
+ ]
+}

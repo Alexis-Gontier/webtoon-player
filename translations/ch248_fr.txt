@@ -1,0 +1,258 @@
+# Chapitre 248 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+# EN: HURRY, SEOL-JIN.
+001.3 | dialogue {"point": [285, 2900]} | VITE,\nSEOL-JIN.
+
+## 002.webp
+# EN: AN UNSTABLE INNER WORLD LIKE THIS CAN NEVER HOLD THE ABSOLUTE GOD.
+002.1 | dialogue | UN MONDE INTÉRIEUR AUSSI INSTABLE NE POURRA JAMAIS CONTENIR LE DIEU ABSOLU.
+# EN: STRENGTHEN YOUR MENTAL IMAGE EVEN MORE.
+002.2 | dialogue | RENFORCE ENCORE TON IMAGE MENTALE.
+# EN: YES, SIR!
+002.3 | italique | OUI,\nMONSIEUR !
+
+## 003.webp
+# EN: URGH!
+003.1 | dialogue | ARGH !
+
+## 004.webp
+004.1 | dialogue | -
+# EN: AH... / I MUST'VE BLACKED OUT.
+004.100 | italique {"point": [235, 4425]} | AH...
+004.2 | italique | J’AI DÛ\nM’ÉVANOUIR.
+
+## 005.webp
+005.1 | dialogue | -
+005.2 | dialogue | -
+005.3 | dialogue | -
+# EN: THIS SCENERY...
+005.4 | italique | CE PAYSAGE...
+# EN: IS THIS WHAT LIBUR SAW?
+005.5 | italique | C’EST CE QUE LIBUR A VU ?
+# EN: THESE EMOTIONS FLOWING INTO ME...
+005.6 | italique | CES ÉMOTIONS QUI SE DÉVERSENT EN MOI...
+
+## 006.webp
+# EN: OH, LIBUR...
+006.1 | italique | OH, LIBUR...
+# EN: YOU STILL FEEL SOMETHING FOR ARTHUR...
+006.2 | italique | TU RESSENS ENCORE QUELQUE CHOSE POUR ARTHUR...
+
+## 007.webp
+# EN: DON'T WORRY.
+007.1 | italique | NE T’INQUIÈTE PAS.
+
+## 008.webp
+# EN: I'LL BE RIGHT THERE WITH YOU...
+008.1 | italique | JE SERAI LÀ,\nTOUT PRÈS\nDE TOI...
+008.2 | dialogue | -
+# EN: UNTIL THE MOMENT YOU CAN FACE THESE FEELINGS.
+008.3 | italique | JUSQU’AU MOMENT OÙ TU POURRAS AFFRONTER CES SENTIMENTS.
+008.4 | dialogue | -
+
+## 009.webp
+
+## 010.webp
+# EN: WHAT'S WRONG?
+010.1 | dialogue | QU’Y A-T-IL ?
+# EN: WERE YOU HOPING FOR A TEARFUL REUNION?
+010.2 | dialogue | TU ESPÉRAIS DES RETROUVAILLES EN LARMES ?
+010.3 | dialogue | -
+
+## 011.webp
+# EN: NO...
+011.1 | dialogue | NON...
+# EN: BUT AT THE VERY LEAST...
+011.2 | dialogue | MAIS AU MOINS...
+# EN: YOU SHOULDN'T HAVE DONE THAT. (bulle coupée entre les pages 11 et 12)
+011.3 | dialogue | TU N’AURAIS\nPAS DÛ FAIRE ÇA.
+011.100 | systeme {"box": [200, 4985, 530, 5000], "ink_max": 100, "grow": 2, "fill": [255,255,255]} | (effacer)
+
+## 012.webp
+012.1 | dialogue | -
+012.100 | systeme {"box": [230, 0, 495, 35], "ink_max": 100, "max_letter": 40, "grow": 3, "fill": [255,255,255]} | (effacer)
+012.2 | systeme | -
+# EN: I'M DISAPPOINTED...
+012.3 | dialogue | JE SUIS\nDÉÇU...
+# EN: ARTHUR.
+012.4 | dialogue | ARTHUR.
+
+## 013.webp
+# EN: THIS PLACE... WHERE AM I?
+013.1 | dialogue | CET ENDROIT... OÙ SUIS-JE ?
+# EN: REST, LIBUR.
+013.2 | dialogue | REPOSE-TOI, LIBUR.
+
+## 014.webp
+# EN: I'LL TAKE OVER THIS FIGHT.
+014.1 | dialogue | JE PRENDS LE RELAIS POUR CE COMBAT.
+# EN: I THINK I UNDERSTAND NOW, MR. ARTHUR.
+014.2 | systeme {"box": [120, 3490, 600, 3700], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | JE CROIS QUE JE\nCOMPRENDS, MAINTENANT,\nMONSIEUR ARTHUR.
+# EN: THE REASON WHY YOU WEAR THAT BLINDFOLD.
+014.3 | systeme {"box": [110, 4435, 665, 4648], "light": true, "light_min": 215, "max_letter": 70, "grow": 6, "blur_fill": 8, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 2} | POURQUOI VOUS\nPORTEZ CE BANDEAU\nSUR LES YEUX.
+
+## 015.webp
+# EN: MR. ARTHUR...
+015.1 | italique | MONSIEUR ARTHUR...
+
+## 016.webp
+# EN: HE CUT THROUGH IT...?!
+016.1 | italique | IL L’A\nTRANCHÉ...?!
+016.2 | dialogue | -
+016.3 | dialogue | -
+# EN: GETTING SERIOUS NOW, HUH?
+016.4 | dialogue | TU PASSES AUX CHOSES SÉRIEUSES, HEIN ?
+# EN: SO YOU FINALLY HAD TO GO THIS FAR TO USE THAT, HUH?
+016.5 | dialogue | TU AS DONC FINI PAR EN ARRIVER LÀ POUR UTILISER ÇA, HEIN ?
+
+## 017.webp
+# EN: ARTHUR...
+017.1 | cri | ARTHUR...
+# EN: TO BE HONEST...
+017.2 | cri | POUR ÊTRE\nFRANC...
+# EN: I'VE HATED YOU FROM THE VERY START.
+017.3 | cri | JE T’AI DÉTESTÉ\nDÈS LE DÉBUT.
+017.4 | dialogue | -
+
+## 018.webp
+# EN: WHAT'S THIS? CONFESSION TIME? OUT OF NOWHERE?
+018.1 | dialogue | QU’EST-CE QUE C’EST ? L’HEURE DES AVEUX ? COMME ÇA, D’UN COUP ?
+# EN: THAT'S FINE BY ME.
+018.2 | dialogue | ÇA ME VA.
+# EN: I'M ALREADY USED TO UNREQUITED LOVE.
+018.3 | dialogue | J’AI DÉJÀ L’HABITUDE DES AMOURS À SENS UNIQUE.
+# EN: IT'S OKAY...
+018.4 | dialogue | ÇA IRA...
+
+## 019.webp
+# EN: I CAN DO THIS.
+019.1 | dialogue | JE PEUX\nY ARRIVER.
+# EN: I SAW HOW TO DO IT WITH MY OWN EYES...
+019.2 | dialogue | J’AI VU COMMENT FAIRE DE MES PROPRES YEUX...
+# EN: WHAT I NEED TO CUT...
+019.3 | dialogue | CE QUE JE DOIS TRANCHER...
+# EN: IS WHATEVER'S BLOCKING WHAT LIES BEYOND.
+019.4 | dialogue | C’EST CE QUI BLOQUE CE QUI SE TROUVE AU-DELÀ.
+
+## 020.webp
+# EN: SWORD DRAW.
+020.1 | cri | DÉGAINE.
+
+## 021.webp
+
+## 022.webp
+# EN: HEH!
+022.1 | dialogue | HÉ !
+
+## 023.webp
+
+## 024.webp
+024.1 | dialogue | -
+# EN: DON'T LOSE SIGHT OF HIM. READ HIS NEXT MOVE...
+024.2 | italique | NE LE PERDS PAS DE VUE. ANTICIPE SON PROCHAIN COUP...
+# EN: IF I STRIKE NOW, I CAN WIN.
+024.3 | italique | SI JE FRAPPE MAINTENANT, JE PEUX GAGNER.
+# EN: WATCH EVERYTHING CLOSELY.
+024.4 | italique | OBSERVE TOUT ATTENTIVEMENT.
+
+## 025.webp
+025.1 | dialogue | -
+# EN: DON'T MESS UP THE TIMING.
+025.2 | italique | NE RATE PAS LE BON MOMENT.
+# EN: DON'T LOSE SIGHT OF HIM
+025.3 | italique | NE LE PERDS PAS DE VUE
+# EN: DON'T LOSE SIGHT OF HIM.
+025.4 | italique | NE LE PERDS PAS DE VUE.
+# EN: DON'T LOSE—
+025.5 | italique | NE LE PERDS—
+# EN: VERY WELL THEN... (bulle coupée entre les pages 25 et 26)
+025.6 | cri | -
+025.100 | cri {"box": [150, 4805, 575, 5000], "ink_max": 100, "max_letter": 120, "grow": 4, "fill": [255,255,255]} | (effacer)
+025.101 | cri {"box": [150, 4740, 570, 5000], "target": [180, 4790, 540, 4990], "ink_max": 0, "colors": [[0,0,0],[0,0,0]]} | TRÈS BIEN,\nALORS...
+
+## 026.webp
+026.1 | dialogue | -
+026.100 | systeme {"box": [235, 0, 510, 22], "ink_max": 100, "max_letter": 30, "grow": 3, "fill": [255,255,255]} | (effacer)
+026.2 | dialogue | -
+# EN: LOOK ALL YOU WANT!
+026.3 | cri | REGARDE\nTANT QUE TU VEUX !
+026.4 | systeme | -
+
+## 027.webp
+# EN: RIGHT NOW, WITH HOW YOU ARE...
+027.1 | dialogue | MAINTENANT, DANS TON ÉTAT...
+# EN: HOW MUCH OF ME WILL YOU ACTUALLY BE ABLE TO SEE?
+027.2 | dialogue | QUELLE PART DE MOI POURRAS-TU VRAIMENT VOIR ?
+
+## 028.webp
+028.1 | dialogue | -
+
+## 029.webp
+029.1 | dialogue | -
+029.2 | dialogue | -
+# EN: YOU GET IT NOW, DON'T YOU? (bulle coupée entre les pages 29 et 30)
+029.3 | dialogue | TU COMPRENDS,\nMAINTENANT ?
+
+## 030.webp
+030.1 | dialogue | -
+030.100 | systeme {"box": [290, 0, 400, 50], "ink_max": 100, "max_letter": 45, "grow": 3, "fill": [255,255,255]} | (effacer)
+# EN: THOSE EYES AREN'T MEANT TO BE USED LIKE THAT.
+030.2 | dialogue | CES YEUX NE SONT PAS FAITS POUR ÊTRE UTILISÉS COMME ÇA.
+030.3 | dialogue | -
+
+## 031.webp
+# EN: ANYWAY...
+031.1 | dialogue | BREF...
+# EN: NOW IT'S MY TURN!
+031.2 | dialogue | MAINTENANT,\nC’EST MON TOUR !
+
+## 032.webp
+032.1 | dialogue | -
+
+## 033.webp
+033.1 | dialogue | -
+
+## 034.webp
+
+## 035.webp
+035.1 | dialogue | -
+# EN: WOW~
+035.2 | dialogue | WAOUH~
+# EN: THIS IS SO MUCH FUN!
+035.3 | dialogue | C’EST TELLEMENT\nAMUSANT !
+# EN: I GET HOW YOU FEEL...
+035.4 | dialogue | JE COMPRENDS CE QUE TU RESSENS...
+
+## 036.webp
+# EN: BUT STAND BACK, LILLET.
+036.1 | dialogue | MAIS RESTE EN ARRIÈRE, LILLET.
+
+## 037.webp
+# EN: HA, PRETTY INCREDIBLE.
+037.1 | dialogue | HA, PLUTÔT INCROYABLE.
+# EN: TO THINK YOU'D ACTUALLY COME HERE ON YOUR OWN.
+037.2 | dialogue | DIRE QUE TU ES VRAIMENT VENU ICI DE TOI-MÊME.
+# EN: WELL, I DON'T CARE. USE AS MUCH AS YOU WANT.
+037.3 | dialogue | BAH, PEU M’IMPORTE. PRENDS-EN AUTANT QUE TU VEUX.
+
+## 038.webp
+# EN: AFTER ALL, OUR GOALS ARE THE SAME ANYWAY.
+038.1 | dialogue | APRÈS TOUT, NOS OBJECTIFS SONT LES MÊMES.
+038.2 | dialogue | -
+# EN: YOU REMEMBER HOW TO USE IT, RIGHT?
+038.3 | dialogue | TU TE SOUVIENS COMMENT T’EN SERVIR, PAS VRAI ?
+
+## 039.webp
+# EN: SEE? WHAT DID I TELL YOU?
+039.1 | dialogue | TU VOIS ? QU’EST-CE QUE JE T’AVAIS DIT ?
+# EN: JUST AS I THOUGHT. YOU'RE THE TYPE WHO GETS IT DONE IF YOU TRY.
+039.2 | dialogue | COMME JE LE PENSAIS. TU ES DU GENRE À Y ARRIVER QUAND TU ESSAIES.
+039.3 | dialogue | -
+039.4 | systeme | -
+
+## 040.webp
+040.1 | systeme | -
+040.2 | systeme | -

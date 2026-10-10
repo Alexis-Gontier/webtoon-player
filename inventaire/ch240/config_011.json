@@ -1,0 +1,453 @@
+{
+ "source": "chapters_en/chapter-240/011.webp",
+ "output": "chapters_fr/chapter-240/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS DEPUIS QUAND ?",
+   "style": "systeme",
+   "point": [
+    397,
+    224
+   ],
+   "box": [
+    310,
+    140,
+    480,
+    1170
+   ],
+   "target": [
+    330,
+    165,
+    460,
+    1140
+   ],
+   "light": true,
+   "solid": 7,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4,
+   "angle": -90
+  },
+  {
+   "id": 3,
+   "text": "DEPUIS QUAND\nÇA A COMMENCÉ ?",
+   "style": "systeme",
+   "box": [
+    120,
+    3780,
+    700,
+    3995
+   ],
+   "light": true,
+   "light_min": 200,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 80
+  },
+  {
+   "id": 4,
+   "text": "CE SENTIMENT\nDÉSAGRÉABLE...",
+   "style": "systeme",
+   "box": [
+    25,
+    4940,
+    775,
+    5185
+   ],
+   "light": true,
+   "light_min": 200,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 80
+  },
+  {
+   "id": 5,
+   "text": "MA DÉFAITE\nÉTAIT DÉCIDÉE ?!?",
+   "style": "systeme",
+   "point": [
+    402,
+    8567
+   ],
+   "box": [
+    200,
+    8455,
+    630,
+    8585
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 6,
+   "text": "ÉTAIT-CE QUAND TU TE TENAIS\nLÀ, DANS LE RÉCEPTACLE\nDE CET HOMME ?",
+   "style": "systeme",
+   "box": [
+    173,
+    8944,
+    645,
+    9125
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  },
+  {
+   "id": 7,
+   "text": "ÉTAIT-CE QUAND TU ÉTAIS\nENFERMÉ DANS L’ESPACE\nDU CONTRAT ?",
+   "style": "systeme",
+   "box": [
+    120,
+    9489,
+    681,
+    9683
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  },
+  {
+   "id": 8,
+   "text": "ÉTAIT-CE QUAND LE PLAN\nA COMMENCÉ À\nPRENDRE FORME ?",
+   "style": "systeme",
+   "point": [
+    400,
+    10295
+   ],
+   "box": [
+    160,
+    10165,
+    650,
+    10405
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 9,
+   "text": "ÉTAIT-CE QUAND J’AI\nDÉCIDÉ DE PARTICIPER À\nLA BATAILLE FINALE ?",
+   "style": "systeme",
+   "box": [
+    150,
+    10830,
+    650,
+    11025
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 11,
+   "text": "ÉTAIT-CE QUAND J’AI\nRENCONTRÉ MIRAGE\nPOUR LA PREMIÈRE FOIS ?",
+   "style": "systeme",
+   "point": [
+    402,
+    11633
+   ],
+   "box": [
+    175,
+    11540,
+    630,
+    11725
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 120
+  },
+  {
+   "id": 12,
+   "text": "ÉTAIT-CE QUAND TU AS ÉTÉ\nVAINCU PAR ARTHUR ?",
+   "style": "systeme",
+   "point": [
+    401,
+    12321
+   ],
+   "box": [
+    120,
+    12240,
+    670,
+    12380
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 13,
+   "text": "ÉTAIT-CE QUAND TU T’ES\nDIRIGÉ VERS LA TOUR ?",
+   "style": "systeme",
+   "box": [
+    63,
+    13424,
+    729,
+    13675
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 14,
+   "text": "ATTENDS, ÇA DOIT\nÊTRE CE MOMENT-LÀ !",
+   "style": "systeme",
+   "box": [
+    118,
+    14444,
+    682,
+    14659
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 100,
+   "text": "DEPUIS QUAND...",
+   "style": "systeme",
+   "box": [
+    130,
+    6445,
+    675,
+    6555
+   ],
+   "target": [
+    140,
+    6450,
+    665,
+    6550
+   ],
+   "ink_max": 256,
+   "grow": 0,
+   "vfill": true,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 5
+  }
+ ]
+}

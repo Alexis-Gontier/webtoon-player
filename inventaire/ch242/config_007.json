@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-242/007.webp",
+ "output": "chapters_fr/chapter-242/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VIVIAN, JE... JE...",
+   "style": "dialogue",
+   "point": [
+    298,
+    4523
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE LE SAVAIS.",
+   "style": "dialogue",
+   "point": [
+    461,
+    5759
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOI AUSSI, TU ÉTAIS FATIGUÉ, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    382,
+    6538
+   ]
+  }
+ ]
+}

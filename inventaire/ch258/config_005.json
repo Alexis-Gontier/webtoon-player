@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/005.webp",
+ "output": "chapters_fr/chapter-258/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "À L’INSTANT PRÉCIS OÙ LE CŒUR DE VAN ZICHMUND S’ARRÊTA,",
+   "style": "cartouche",
+   "point": [
+    406,
+    795
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...OBTINT LE CONTREPOIDS DE LA BALANCE DU MONDE.",
+   "style": "cartouche",
+   "point": [
+    402,
+    3217
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CELA VOULAIT DIRE...",
+   "style": "cartouche",
+   "point": [
+    348,
+    4129
+   ]
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "source": "chapters_en/chapter-237/004.webp",
+ "output": "chapters_fr/chapter-237/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALERTE DU SYSTÈME DE\nCOMBAT DU BOSS. TOUTES LES\nUNITÉS DE RÉSERVE\nCONSOMMÉES - 237",
+   "style": "systeme",
+   "box": [
+    140,
+    240,
+    570,
+    430
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 2,
+   "text": "TOUTES LES UNITÉS\nDE RÉSERVE ONT ÉTÉ\nENTIÈREMENT CONSOMMÉES.",
+   "style": "systeme",
+   "box": [
+    245,
+    1300,
+    650,
+    1550
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 3,
+   "text": "COLLECTE DES DONNÉES\nDE LA BOÎTE NOIRE",
+   "style": "systeme",
+   "box": [
+    190,
+    2495,
+    620,
+    2680
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 4,
+   "text": "TU M’ENTENDS, DEAN ?",
+   "style": "dialogue",
+   "point": [
+    418,
+    5825
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MARY GENNOS A ÉTÉ MISE EN SÉCURITÉ.",
+   "style": "dialogue",
+   "point": [
+    391,
+    7268
+   ]
+  }
+ ]
+}

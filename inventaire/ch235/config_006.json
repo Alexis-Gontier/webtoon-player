@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-235/006.webp",
+ "output": "chapters_fr/chapter-235/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAU.",
+   "style": "dialogue",
+   "point": [
+    432,
+    207
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...!",
+   "style": "dialogue",
+   "point": [
+    431,
+    2931
+   ]
+  },
+  {
+   "id": 4,
+   "text": "\"... IMPOSSIBLE POUR QUELQU’UN DESTINÉ À MOURIR DE L’OUVRIR.\"",
+   "style": "dialogue",
+   "point": [
+    385,
+    3908
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU DIS... ?",
+   "style": "dialogue",
+   "point": [
+    426,
+    4857
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MO...",
+   "style": "dialogue",
+   "point": [
+    335,
+    5627
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TE FOUS PAS DE MOI, FILS DE PUTE~ !",
+   "style": "italique",
+   "point": [
+    389,
+    7910
+   ]
+  }
+ ]
+}

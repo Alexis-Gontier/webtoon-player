@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/018.webp",
+ "output": "chapters_fr/chapter-256/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA ALORS...",
+   "style": "dialogue",
+   "point": [
+    407,
+    1851
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CES SALES\nGOSSES !",
+   "style": "dialogue",
+   "point": [
+    458,
+    2820
+   ]
+  }
+ ]
+}

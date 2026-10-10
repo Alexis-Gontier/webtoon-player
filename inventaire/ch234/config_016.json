@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-234/016.webp",
+ "output": "chapters_fr/chapter-234/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUI DIABLE...",
+   "style": "dialogue",
+   "point": [
+    415,
+    387
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ES-TU ?",
+   "style": "dialogue",
+   "point": [
+    432,
+    2700
+   ]
+  }
+ ]
+}

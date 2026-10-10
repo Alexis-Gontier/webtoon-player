@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-239/043.webp",
+ "output": "chapters_fr/chapter-239/043.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE TE LE DIS D’AVANCE ?",
+   "style": "dialogue",
+   "point": [
+    337,
+    564
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU NE POURRAS JAMAIS BATTRE SEOL-JIN HEO.",
+   "style": "dialogue",
+   "point": [
+    375,
+    1565
+   ]
+  }
+ ]
+}

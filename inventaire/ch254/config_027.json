@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/027.webp",
+ "output": "chapters_fr/chapter-254/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET TU PEUX SUPPORTER TOUT CE POIDS ?",
+   "style": "dialogue",
+   "point": [
+    343,
+    473
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI.",
+   "style": "dialogue",
+   "point": [
+    337,
+    1924
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PARCE QUE JE NE SUIS PAS SEUL.",
+   "style": "dialogue",
+   "point": [
+    338,
+    3396
+   ]
+  },
+  {
+   "id": 4,
+   "text": "HÉ, TU N’AS PAS HONTE ?",
+   "style": "dialogue",
+   "point": [
+    365,
+    4282
+   ]
+  }
+ ]
+}

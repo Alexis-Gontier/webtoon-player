@@ -1,0 +1,39 @@
+{
+ "source": "chapters_en/chapter-257/045.webp",
+ "output": "chapters_fr/chapter-257/045.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "LANCE DE\nLA FIN",
+   "style": "cri",
+   "box": [
+    60,
+    1080,
+    780,
+    1880
+   ],
+   "ink_max": 70,
+   "grow": 6,
+   "blur_fill": 20,
+   "target": [
+    100,
+    1150,
+    740,
+    1800
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "angle": 3
+  }
+ ]
+}

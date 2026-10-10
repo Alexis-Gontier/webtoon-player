@@ -1,0 +1,47 @@
+{
+ "source": "chapters_en/chapter-228/039.webp",
+ "output": "chapters_fr/chapter-228/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ACTIVATION DE COMPÉTENCE",
+   "style": "dialogue",
+   "point": [
+    416,
+    859
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE CHEMIN\nVERS L’UTOPIE\n(AVALON)",
+   "style": "titre",
+   "box": [
+    100,
+    2800,
+    700,
+    3230
+   ],
+   "ink_max": 110,
+   "solid": 7,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  }
+ ]
+}

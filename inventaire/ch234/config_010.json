@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-234/010.webp",
+ "output": "chapters_fr/chapter-234/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "\"LE PRIX\" A DÉJÀ...",
+   "style": "dialogue",
+   "point": [
+    459,
+    262
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÉTÉ PAYÉ PAR LA VIE QUE TU AS MENÉE JUSQU’ICI.",
+   "style": "dialogue",
+   "point": [
+    377,
+    2034
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON, VOYONS.",
+   "style": "dialogue",
+   "point": [
+    283,
+    3496
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA VOIE DU FEU EST CELLE QU’A OUVERTE TON PÈRE. RÉÉCRIVONS-LA.",
+   "style": "dialogue",
+   "point": [
+    470,
+    5238
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SOUVIENS-TOI, MA DERNIÈRE ENFANT.",
+   "style": "dialogue",
+   "point": [
+    229,
+    5990
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MON POUVOIR EST GRAND.",
+   "style": "dialogue",
+   "point": [
+    314,
+    6363
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SI TU TE LAISSES TENTER PAR LES FLAMMES ÉCLATANTES ET QUE TU EN ABUSES,",
+   "style": "dialogue",
+   "point": [
+    422,
+    7866
+   ]
+  },
+  {
+   "id": 9,
+   "text": "TON NOYAU NE TIENDRA PAS ET FONDRA.",
+   "style": "dialogue",
+   "point": [
+    513,
+    8223
+   ]
+  },
+  {
+   "id": 10,
+   "text": "EUH, AU FAIT... MÈRE.",
+   "style": "dialogue",
+   "point": [
+    375,
+    9670
+   ]
+  },
+  {
+   "id": 11,
+   "text": "EST-CE QUE CETTE... TENUE AIDE AUSSI... ?",
+   "style": "dialogue",
+   "point": [
+    409,
+    10543
+   ]
+  }
+ ]
+}

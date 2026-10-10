@@ -1,0 +1,126 @@
+{
+ "source": "chapters_en/chapter-226/003.webp",
+ "output": "chapters_fr/chapter-226/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CHERCHAIT À INFLUER SUR LE COURS DU TEMPS DANS LA TOUR.",
+   "style": "dialogue",
+   "point": [
+    391,
+    388
+   ]
+  },
+  {
+   "id": 2,
+   "text": "EN PIÉGEANT LA TOUR DANS LE TEMPS DE \"LECTURE DU CONTRAT\" QU’IL AVAIT VÉCU,",
+   "style": "dialogue",
+   "point": [
+    401,
+    1350
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL VOULAIT ACCÉLÉRER LA TOUR ET PRÉCIPITER SA FIN INÉVITABLE.",
+   "style": "dialogue",
+   "point": [
+    402,
+    2917
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EN EFFET. C’ÉTAIT\nUNE IDÉE INSENSÉE.",
+   "style": "systeme",
+   "box": [
+    150,
+    4256,
+    653,
+    4414
+   ],
+   "target": [
+    175,
+    4271,
+    628,
+    4399
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90,
+   "stretch": 1.4
+  },
+  {
+   "id": 5,
+   "text": "CES EFFORTS AURAIENT-ILS LE MOINDRE EFFET SUR LA TOUR, DITE \"IMMORTELLE\" ?",
+   "style": "dialogue",
+   "point": [
+    307,
+    5518
+   ]
+  },
+  {
+   "id": 6,
+   "text": "À VRAI DIRE, MIRAGE N’EN AVAIT AUCUNE CERTITUDE.",
+   "style": "dialogue",
+   "point": [
+    489,
+    5903
+   ]
+  },
+  {
+   "id": 7,
+   "text": "POUR ÊTRE EXACT...",
+   "style": "dialogue",
+   "point": [
+    394,
+    8075
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CES QUESTIONS N’AVAIENT AUCUNE IMPORTANCE POUR LUI.",
+   "style": "dialogue",
+   "point": [
+    385,
+    9809
+   ]
+  },
+  {
+   "id": 9,
+   "text": "CE QUI COMPTAIT VRAIMENT...",
+   "style": "dialogue",
+   "point": [
+    401,
+    11158
+   ]
+  },
+  {
+   "id": 10,
+   "text": "C’ÉTAIT DE SAVOIR SI SON MESSAGE ATTEINDRAIT \"DIEU\".",
+   "style": "dialogue",
+   "point": [
+    404,
+    12508
+   ]
+  }
+ ]
+}

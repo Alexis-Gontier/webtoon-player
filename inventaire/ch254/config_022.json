@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-254/022.webp",
+ "output": "chapters_fr/chapter-254/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU SAIS CRÉER DES ARMES D’EGO,",
+   "style": "italique",
+   "point": [
+    503,
+    418
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS POUR LES MANIER, TU ES UNE CATASTROPHE !",
+   "style": "italique",
+   "point": [
+    480,
+    1133
+   ]
+  },
+  {
+   "id": 100,
+   "text": "C’EST POUR ÇA QUE TU M’AS PERDUE...",
+   "style": "italique",
+   "point": [
+    360,
+    3325
+   ]
+  }
+ ]
+}

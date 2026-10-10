@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-246/014.webp",
+ "output": "chapters_fr/chapter-246/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOYONS...",
+   "style": "dialogue",
+   "point": [
+    431,
+    1195
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE PROCHAIN ENCHAÎNEMENT N’EST QU’UN ÉCHAUFFEMENT ?",
+   "style": "dialogue",
+   "point": [
+    394,
+    2131
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...ZUT, IL M’A\nPERCÉ À JOUR !",
+   "style": "italique",
+   "point": [
+    335,
+    4437
+   ]
+  },
+  {
+   "id": 4,
+   "text": "À CE RYTHME, AVANT MÊME QUE JE PUISSE UTILISER UNE COMPÉTENCE...!",
+   "style": "italique",
+   "point": [
+    442,
+    5274
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAÎTRE\nARTHUR.",
+   "style": "dialogue",
+   "point": [
+    401,
+    6826
+   ]
+  },
+  {
+   "id": 6,
+   "text": "OUI ?",
+   "style": "dialogue",
+   "point": [
+    392,
+    7614
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LAISSE-LE\nL’UTILISER.",
+   "style": "dialogue",
+   "point": [
+    379,
+    9639
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-252/027.webp",
+ "output": "chapters_fr/chapter-252/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "FAIS TON\nCHOIX.",
+   "style": "dialogue",
+   "point": [
+    472,
+    77
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...NE LÂCHE JAMAIS LA PROIE QU’IL A PRISE POUR CIBLE.",
+   "style": "cartouche",
+   "point": [
+    347,
+    1937
+   ]
+  },
+  {
+   "id": 3,
+   "text": "L-L’UNE DES\nDEUX ?",
+   "style": "dialogue",
+   "point": [
+    352,
+    2754
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA VEUT DIRE EXACTEMENT CE QUE ÇA VEUT DIRE.",
+   "style": "dialogue",
+   "point": [
+    380,
+    3785
+   ]
+  },
+  {
+   "id": 100,
+   "text": "Q-QU-",
+   "style": "dialogue",
+   "point": [
+    460,
+    2990
+   ]
+  }
+ ]
+}

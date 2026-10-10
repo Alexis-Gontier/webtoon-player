@@ -1,0 +1,58 @@
+{
+ "source": "chapters_en/chapter-228/029.webp",
+ "output": "chapters_fr/chapter-228/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET JE LE JURE...",
+   "style": "systeme",
+   "box": [
+    170,
+    196,
+    620,
+    283
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 2,
+   "text": "JE NE SUBIRAI PLUS JAMAIS\nCETTE HUMILIATION.",
+   "style": "systeme",
+   "box": [
+    78,
+    1216,
+    735,
+    1377
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  }
+ ]
+}

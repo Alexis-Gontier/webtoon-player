@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-260/031.webp",
+ "output": "chapters_fr/chapter-260/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS...",
+   "style": "italique",
+   "point": [
+    324,
+    211
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI.",
+   "style": "italique",
+   "point": [
+    469,
+    1321
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI C’EST TOI...\nALORS SÛREMENT...♥",
+   "style": "italique",
+   "point": [
+    297,
+    2101
+   ]
+  }
+ ]
+}

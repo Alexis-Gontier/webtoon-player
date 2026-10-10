@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-237/002.webp",
+ "output": "chapters_fr/chapter-237/002.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "COMMENT S’EST PASSÉ LE COMBAT ?",
+   "style": "dialogue",
+   "point": [
+    419,
+    2644
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CHUT.",
+   "style": "dialogue",
+   "point": [
+    423,
+    3050
+   ]
+  },
+  {
+   "id": 6,
+   "text": "OOH~ QU’EST-CE QUE C’EST QUE ÇA !",
+   "style": "dialogue",
+   "point": [
+    423,
+    8388
+   ]
+  }
+ ]
+}

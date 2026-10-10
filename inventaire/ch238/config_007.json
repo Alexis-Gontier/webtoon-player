@@ -1,0 +1,177 @@
+{
+ "source": "chapters_en/chapter-238/007.webp",
+ "output": "chapters_fr/chapter-238/007.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "EUH, J’ÉTAIS PROCHE D’EUX... HMM... VRAIMENT ?",
+   "style": "dialogue",
+   "point": [
+    377,
+    700
+   ]
+  },
+  {
+   "id": 4,
+   "text": "NE FAIS PAS ATTENTION. ON NE RÉAGIT PAS AUX BÊTISES HUMAINES.",
+   "style": "dialogue",
+   "point": [
+    507,
+    1139
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ÇA VA, PASTIS ?",
+   "style": "dialogue",
+   "point": [
+    460,
+    2725
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LILLET... NE MONTRE AUCUN SIGNE DE RÉVEIL.",
+   "style": "dialogue",
+   "point": [
+    411,
+    3762
+   ]
+  },
+  {
+   "id": 7,
+   "text": "BON, CE N’EST PAS SI ÉTRANGE. ELLE A TRAVERSÉ BEAUCOUP DE CHOSES TOUTE SEULE.",
+   "style": "dialogue",
+   "point": [
+    303,
+    6077
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TU N’ES PAS LE DERNIER À POUVOIR DIRE ÇA ?",
+   "style": "dialogue",
+   "point": [
+    517,
+    6650
+   ]
+  },
+  {
+   "id": 9,
+   "text": "AÏE...",
+   "style": "dialogue",
+   "point": [
+    404,
+    7105
+   ]
+  },
+  {
+   "id": 10,
+   "text": "HMM... C’EST PEUT-ÊTRE DÛ À L’ÉPUISEMENT MENTAL ?",
+   "style": "dialogue",
+   "point": [
+    274,
+    7816
+   ]
+  },
+  {
+   "id": 11,
+   "text": "ÇA RISQUE D’ÊTRE DUR DE LA RÉVEILLER SANS UNE BONNE THÉRAPIE DE CHOC...",
+   "style": "dialogue",
+   "point": [
+    340,
+    8160
+   ]
+  },
+  {
+   "id": 12,
+   "text": "THÉRAPIE DE CHOC... ?",
+   "style": "dialogue",
+   "point": [
+    407,
+    9118
+   ]
+  },
+  {
+   "id": 13,
+   "text": "...!",
+   "style": "dialogue",
+   "point": [
+    396,
+    10448
+   ]
+  },
+  {
+   "id": 14,
+   "text": "\"LA PETITE MARIONNETTE À SON PAPA.\"",
+   "style": "dialogue",
+   "point": [
+    292,
+    11308
+   ]
+  },
+  {
+   "id": 15,
+   "text": "\"LA RACLURE DE L’ENFER.\"",
+   "style": "dialogue",
+   "point": [
+    412,
+    11605
+   ]
+  },
+  {
+   "id": 16,
+   "text": "EUH...",
+   "style": "dialogue",
+   "point": [
+    676,
+    12237
+   ]
+  },
+  {
+   "id": 17,
+   "text": "EUH... !",
+   "style": "dialogue",
+   "point": [
+    590,
+    12844
+   ]
+  },
+  {
+   "id": 18,
+   "text": "\"LE CHIEN D’AVALON.\"",
+   "style": "dialogue",
+   "point": [
+    282,
+    12990
+   ]
+  },
+  {
+   "id": 19,
+   "text": "\"LA CUISINIÈRE MAUDITE.\"",
+   "style": "dialogue",
+   "point": [
+    419,
+    13310
+   ]
+  },
+  {
+   "id": 20,
+   "text": "BON, ÇA DEVRAIT SUFFIRE.",
+   "style": "dialogue",
+   "point": [
+    398,
+    14003
+   ]
+  },
+  {
+   "id": 22,
+   "text": "QUOI... ?",
+   "style": "dialogue",
+   "point": [
+    340,
+    14861
+   ]
+  }
+ ]
+}

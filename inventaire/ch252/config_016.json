@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-252/016.webp",
+ "output": "chapters_fr/chapter-252/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAINTENANT QUE J’Y PENSE,",
+   "style": "cartouche",
+   "point": [
+    238,
+    192
+   ]
+  },
+  {
+   "id": 2,
+   "text": "L’EXPÉRIENCE AMOUREUSE DE CES DEUX-LÀ EST NULLE AUSSI !",
+   "style": "cartouche",
+   "point": [
+    483,
+    459
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE SONT, LITTÉRALEMENT, LES MONSTRES NUMÉRO DEUX ET TROIS ENGENDRÉS PAR L’ARÈNE CÉLESTE DU TERRARIUM DE LA TOUR CÉLESTE !",
+   "style": "cartouche",
+   "point": [
+    375,
+    1892
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UNE DÉCLARATION ?!",
+   "style": "cartouche",
+   "point": [
+    270,
+    2656
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SI C’ÉTAIT POSSIBLE, ÇA AURAIT ÉTÉ FAIT DEPUIS LONGTEMPS !",
+   "style": "cartouche",
+   "point": [
+    443,
+    3485
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CE N’EST PAS UNE QUESTION DE VOULOIR OU NON...",
+   "style": "cartouche",
+   "point": [
+    272,
+    4147
+   ]
+  }
+ ]
+}

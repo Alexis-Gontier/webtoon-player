@@ -1,0 +1,56 @@
+{
+ "source": "chapters_en/chapter-228/027.webp",
+ "output": "chapters_fr/chapter-228/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’EST-CE QU’IL RACONTE, CE TRUC ?",
+   "style": "italique",
+   "point": [
+    303,
+    1630
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POURQUOI DIABLE FAIT-IL ÇA ?",
+   "style": "italique",
+   "point": [
+    434,
+    2898
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OÙ DIABLE\nTOUT A-T-IL\nDÉRAILLÉ ?",
+   "style": "systeme",
+   "point": [
+    398,
+    3766
+   ],
+   "box": [
+    90,
+    3620,
+    710,
+    3910
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

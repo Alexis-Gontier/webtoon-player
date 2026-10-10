@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/026.webp",
+ "output": "chapters_fr/chapter-254/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ME RAPPELER DANS TON MONDE COMME ÇA...",
+   "style": "dialogue",
+   "point": [
+    285,
+    2075
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA VEUT DIRE QUE TU COMPTES M’EMMENER AUSSI ?",
+   "style": "dialogue",
+   "point": [
+    366,
+    3080
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BIEN SÛR.",
+   "style": "dialogue",
+   "point": [
+    329,
+    3747
+   ]
+  },
+  {
+   "id": 6,
+   "text": "APRÈS TOUT, C’EST LE GENRE DE MONDE QU’ON A.",
+   "style": "dialogue",
+   "point": [
+    429,
+    4749
+   ]
+  }
+ ]
+}

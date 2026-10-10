@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-234/015.webp",
+ "output": "chapters_fr/chapter-234/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HUMAIN !!!",
+   "style": "dialogue",
+   "point": [
+    397,
+    434
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TSS. ELLE A REMARQUÉ !",
+   "style": "dialogue",
+   "point": [
+    424,
+    2596
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DÉSOLÉE, MAIS DÉPÊCHE-TOI, RYUJIN !",
+   "style": "italique",
+   "point": [
+    413,
+    4830
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MAINTENANT, TU ES NOTRE SEUL ESPOIR !!!",
+   "style": "italique",
+   "point": [
+    397,
+    6126
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE M’APPELLE RYUJIN.",
+   "style": "italique",
+   "point": [
+    387,
+    8692
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE SUIS VENU TE DEMANDER UNE FAVEUR.",
+   "style": "italique",
+   "point": [
+    387,
+    9693
+   ]
+  },
+  {
+   "id": 9,
+   "text": "DIEU ABSOLU, ARTHUR !",
+   "style": "italique",
+   "point": [
+    435,
+    12605
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-255/006.webp",
+ "output": "chapters_fr/chapter-255/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON DIRAIT QUE MON FILS A TROUVÉ UNE ÉPOUSE BIEN MEILLEURE QU’IL NE LE MÉRITE.",
+   "style": "dialogue",
+   "point": [
+    397,
+    1011
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST UNE\nBONNE OCCASION.",
+   "style": "italique",
+   "point": [
+    256,
+    1886
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VAIS T’APPRENDRE QUELQUE CHOSE D’INTÉRESSANT, SAMJANG.",
+   "style": "italique",
+   "point": [
+    351,
+    2751
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUAND UN ÊTRE SUPRÊME ATTEINT UN CERTAIN STADE, IL CESSE D’ÉTENDRE SON PROPRE MONDE...",
+   "style": "italique",
+   "point": [
+    292,
+    3729
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ET ASPIRE À LA STABILITÉ : LA CONSOLIDATION DE SON MONDE.",
+   "style": "italique",
+   "point": [
+    418,
+    4136
+   ]
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "source": "chapters_en/chapter-235/018.webp",
+ "output": "chapters_fr/chapter-235/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J-J’AI CONVAINCU LE DIEU ABSOLU !",
+   "style": "italique",
+   "point": [
+    349,
+    2507
+   ],
+   "cut": [
+    [
+     200,
+     2312
+    ],
+    [
+     360,
+     2312
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MAIS COMMENT... QU’EST-CE QUE JE LUI AI DIT ?",
+   "style": "italique",
+   "point": [
+    354,
+    3519
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE N’AI PAS JUSTE DIT N’IMPORTE QUOI... ?",
+   "style": "italique",
+   "point": [
+    489,
+    3838
+   ]
+  },
+  {
+   "id": 8,
+   "text": "BON, PEU IMPORTE !",
+   "style": "italique",
+   "point": [
+    345,
+    4555
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ÇA NE FAIT QUE 30 MINUTES.",
+   "style": "italique",
+   "point": [
+    501,
+    5551
+   ]
+  },
+  {
+   "id": 10,
+   "text": "À CE RYTHME, TOUT SE PASSE EXACTEMENT COMME PRÉVU... !",
+   "style": "italique",
+   "point": [
+    387,
+    6347
+   ]
+  },
+  {
+   "id": 11,
+   "text": "JE L’AI FAIT. PASTIS, LILLET, SUMAMA !",
+   "style": "italique",
+   "point": [
+    425,
+    7775
+   ]
+  },
+  {
+   "id": 100,
+   "text": "...J’AI RÉUSSI !",
+   "style": "italique",
+   "point": [
+    300,
+    2200
+   ],
+   "cut": [
+    [
+     200,
+     2312
+    ],
+    [
+     360,
+     2312
+    ]
+   ]
+  }
+ ]
+}

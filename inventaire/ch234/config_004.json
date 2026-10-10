@@ -1,0 +1,114 @@
+{
+ "source": "chapters_en/chapter-234/004.webp",
+ "output": "chapters_fr/chapter-234/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI TU T’INQUIÈTES À CE POINT, TU DEVRAIS Y ALLER. JE T’OUVRE LA PORTE ?",
+   "style": "dialogue",
+   "point": [
+    483,
+    266
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PAS QUESTION !",
+   "style": "italique",
+   "point": [
+    309,
+    588
+   ]
+  },
+  {
+   "id": 6,
+   "text": "J’AI UNE MISSION ! APPORTER DE LA JOIE AUX HUMAINS IDIOTS !",
+   "style": "italique",
+   "point": [
+    369,
+    1719
+   ]
+  },
+  {
+   "id": 7,
+   "text": "...UNE MISSION ? CE GENRE D’ACTIONS A-T-IL SEULEMENT UN SENS ?",
+   "style": "dialogue",
+   "point": [
+    336,
+    2556
+   ]
+  },
+  {
+   "id": 9,
+   "text": "AU FOND, NOUS SOMMES DES ARMES D’EGO À QUI ON N’A MÊME PAS DONNÉ DE NOM, CONTRAIREMENT AUX AUTRES.",
+   "style": "dialogue",
+   "point": [
+    432,
+    3787
+   ]
+  },
+  {
+   "id": 10,
+   "text": "BIEN SÛR !",
+   "style": "dialogue",
+   "point": [
+    378,
+    5055
+   ]
+  },
+  {
+   "id": 14,
+   "text": "JE LE FAIS PARCE QUE J’AIME ÇA, TU SAIS ?",
+   "style": "dialogue",
+   "point": [
+    408,
+    6434
+   ]
+  },
+  {
+   "id": 15,
+   "text": "TOI AUSSI, TU T’ACHARNES, LE CABOT FRIT. C’EST PITOYABLE MAIS SYMPA À VOIR.",
+   "style": "dialogue",
+   "point": [
+    252,
+    7975
+   ]
+  },
+  {
+   "id": 16,
+   "text": "HÉHÉ... C’EST VRAI ? MERCI DU COMPLIMENT, MADEMOISELLE TORCHE.",
+   "style": "italique",
+   "point": [
+    540,
+    8336
+   ]
+  },
+  {
+   "id": 17,
+   "text": "...CE N’EST PAS UN COMPLIMENT.",
+   "style": "dialogue",
+   "point": [
+    345,
+    9304
+   ]
+  },
+  {
+   "id": 19,
+   "text": "ILS SONT PARTIS ! ILS SONT VRAIMENT PARTIS, HEIN ?",
+   "style": "italique",
+   "point": [
+    344,
+    10903
+   ]
+  },
+  {
+   "id": 21,
+   "text": "OUF, ILS N’ONT PAS ENTENDU !",
+   "style": "italique",
+   "point": [
+    399,
+    12108
+   ]
+  }
+ ]
+}

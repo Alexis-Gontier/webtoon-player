@@ -1,0 +1,88 @@
+{
+ "source": "chapters_en/chapter-226/013.webp",
+ "output": "chapters_fr/chapter-226/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE T’AURAIS ÉTÉ RECONNAISSANT DE RESTER À TERRE, MAIS ÇA N’ARRIVERA PAS, HEIN ?",
+   "style": "italique",
+   "point": [
+    294,
+    819
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE GENRE DE CHOSE NE COMPTE PAS VRAIMENT POUR TOI, HEIN ?",
+   "style": "italique",
+   "point": [
+    538,
+    1571
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ALLEZ, MONTRE-TOI !",
+   "style": "italique",
+   "point": [
+    398,
+    2306
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SAVOURE !",
+   "style": "italique",
+   "point": [
+    367,
+    3483
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SOIS ARROGANT !",
+   "style": "italique",
+   "point": [
+    421,
+    4331
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET ENSUITE... CONTRE-ATTAQUE !",
+   "style": "italique",
+   "point": [
+    441,
+    5370
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE TE RÉCOMPENSERAI AVEC MON ATOUT !",
+   "style": "italique",
+   "point": [
+    431,
+    6744
+   ],
+   "cut": [
+    [
+     100,
+     6880
+    ],
+    [
+     720,
+     6880
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "text": "...HEIN ?",
+   "style": "dialogue",
+   "point": [
+    403,
+    14495
+   ]
+  }
+ ]
+}

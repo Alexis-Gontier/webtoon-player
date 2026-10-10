@@ -1,0 +1,122 @@
+{
+ "source": "chapters_en/chapter-264/030.webp",
+ "output": "chapters_fr/chapter-264/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "GRÂCE\nAUX GENS QUI\nM’ONT MIS LA\nPRESSION...",
+   "style": "dialogue",
+   "point": [
+    313,
+    73
+   ],
+   "box": [
+    175,
+    0,
+    460,
+    135
+   ],
+   "target": [
+    190,
+    5,
+    445,
+    130
+   ],
+   "ink_max": 100,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 29,
+   "seam": "top"
+  },
+  {
+   "id": 2,
+   "text": "ENFIN, QUI\nNOUS ONT AIDÉS !",
+   "style": "dialogue",
+   "point": [
+    427,
+    308
+   ],
+   "cut": [
+    [
+     268,
+     202
+    ],
+    [
+     482,
+     140
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE QUI NOUS A LE PLUS AIDÉS, C’EST LE FRAGMENT QUE LAY A TROUVÉ.",
+   "style": "dialogue",
+   "point": [
+    373,
+    1331
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PENSE À LA REMERCIER PLUS TARD, COMPRIS ?",
+   "style": "dialogue",
+   "point": [
+    293,
+    2160
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUI !",
+   "style": "dialogue",
+   "point": [
+    335,
+    2925
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BON, DANS\nCE CAS...",
+   "style": "dialogue",
+   "point": [
+    359,
+    3704
+   ]
+  },
+  {
+   "id": 7,
+   "text": "PROFESSEURE MARY, EXPLIQUEZ-NOUS.",
+   "style": "dialogue",
+   "point": [
+    427,
+    3924
+   ]
+  },
+  {
+   "id": 8,
+   "text": "HUM HUM !",
+   "style": "dialogue",
+   "point": [
+    355,
+    4872
+   ]
+  }
+ ]
+}

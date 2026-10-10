@@ -1,0 +1,80 @@
+{
+ "source": "chapters_en/chapter-255/034.webp",
+ "output": "chapters_fr/chapter-255/034.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "BIEN, SEOL-JIN HEO.",
+   "style": "dialogue",
+   "point": [
+    321,
+    4669
+   ]
+  },
+  {
+   "id": 4,
+   "text": "METTONS-Y",
+   "style": "dialogue",
+   "point": [
+    389,
+    4961
+   ]
+  },
+  {
+   "id": 100,
+   "text": "DIEU ABSOLU\nARTHUR",
+   "style": "cri",
+   "box": [
+    70,
+    290,
+    680,
+    700
+   ],
+   "light": true,
+   "light_min": 220,
+   "max_letter": 180,
+   "grow": 7,
+   "blur_fill": 10,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "text": "LIBÉRATION\nTOTALE",
+   "style": "cri",
+   "box": [
+    20,
+    1820,
+    600,
+    2220
+   ],
+   "light": true,
+   "light_min": 220,
+   "max_letter": 230,
+   "grow": 7,
+   "blur_fill": 10,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

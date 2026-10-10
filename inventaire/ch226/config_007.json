@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-226/007.webp",
+ "output": "chapters_fr/chapter-226/007.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MIRAGE-NIM...",
+   "style": "italique",
+   "point": [
+    412,
+    1374
+   ]
+  },
+  {
+   "id": 3,
+   "text": "VOUS NE POUVEZ PAS PERDRE, QUOI QU’IL ARRIVE !",
+   "style": "italique",
+   "point": [
+    352,
+    2122
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CE SERPENT... MA MAIN GAUCHE L’A TOUCHÉ.",
+   "style": "italique",
+   "point": [
+    434,
+    8480
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET POURTANT, LA \"RÉCUPÉRATION\" NE S’ACTIVE PAS.",
+   "style": "italique",
+   "point": [
+    411,
+    9898
+   ]
+  },
+  {
+   "id": 7,
+   "text": "INTÉRESSANT.",
+   "style": "dialogue",
+   "point": [
+    396,
+    10683
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ON DIRAIT QUE TU T’ES PRÉPARÉ PLUS SÉRIEUSEMENT QUE PRÉVU...",
+   "style": "dialogue",
+   "point": [
+    395,
+    12746
+   ]
+  }
+ ]
+}

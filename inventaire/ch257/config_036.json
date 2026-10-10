@@ -1,0 +1,92 @@
+{
+ "source": "chapters_en/chapter-257/036.webp",
+ "output": "chapters_fr/chapter-257/036.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE COMPTE SIMPLEMENT LES METTRE À L’ÉPREUVE AUSSI.",
+   "style": "dialogue",
+   "point": [
+    503,
+    87
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LES CONVICTIONS DE CET HOMME...",
+   "style": "cartouche",
+   "point": [
+    408,
+    1295
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IMPORTAIENT PEU À LUCIA.",
+   "style": "cartouche",
+   "point": [
+    423,
+    2950
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CEPENDANT...",
+   "style": "cartouche",
+   "point": [
+    400,
+    4056
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "cartouche",
+   "box": [
+    90,
+    4895,
+    545,
+    5000
+   ],
+   "ink_max": 130,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    253,
+    253,
+    253
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ELLE CROYAIT FERMEMENT\nQUE CETTE ÂME",
+   "style": "cartouche",
+   "box": [
+    90,
+    4895,
+    545,
+    5000
+   ],
+   "target": [
+    105,
+    4905,
+    530,
+    5000
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 40
+  }
+ ]
+}

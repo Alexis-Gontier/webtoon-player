@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-235/015.webp",
+ "output": "chapters_fr/chapter-235/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "?!",
+   "style": "dialogue",
+   "point": [
+    478,
+    1249
+   ]
+  },
+  {
+   "id": 2,
+   "text": "... JE L’AI INSULTÉ ! J’AI VRAIMENT INSULTÉ ! SÉRIEUX ?!",
+   "style": "italique",
+   "point": [
+    377,
+    2183
+   ]
+  },
+  {
+   "id": 4,
+   "text": "J’AI INSULTÉ LE DIEU ABSOLU !",
+   "style": "italique",
+   "point": [
+    485,
+    3297
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE CROIS QUE C’EST...",
+   "style": "italique",
+   "point": [
+    392,
+    4149
+   ]
+  },
+  {
+   "id": 6,
+   "text": "VRAIMENT L’HEURE DE MOURIR !",
+   "style": "italique",
+   "point": [
+    407,
+    5879
+   ]
+  },
+  {
+   "id": 7,
+   "text": "GUIDE-MOI.",
+   "style": "dialogue",
+   "point": [
+    449,
+    6738
+   ]
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+# Chapitre 250 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+001.3 | systeme | -
+# EN: I AM...
+001.4 | systeme {"box": [235, 2645, 490, 2760], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | JE SUIS...
+# EN: ...AN EGO WEAPON.
+001.5 | systeme {"box": [60, 3220, 660, 3325], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | ...UNE ARME D’EGO.
+# EN: A TOOL CREATED FOR THIS VERY MOMENT.
+001.6 | systeme {"box": [100, 4085, 620, 4235], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [190,30,40], "outline_width": 2} | UN OUTIL CRÉÉ\nPOUR CET INSTANT PRÉCIS.
+
+## 002.webp
+002.1 | dialogue | -
+# EN: I'M JEALOUS OF YOU, REY.
+002.2 | italique | JE T’ENVIE,\nRAY.
+002.3 | dialogue | -
+# EN: BEING ABLE TO FULFILL YOUR ROLE AS A TOOL...
+002.4 | italique | TU PEUX REMPLIR TON RÔLE D’OUTIL...
+
+## 003.webp
+003.1 | dialogue | -
+# EN: FUCK...!
+003.2 | dialogue | PUTAIN...!
+
+## 004.webp
+
+## 005.webp
+# EN: EVEN NOW...
+005.1 | systeme {"box": [100, 0, 620, 100], "target": [110, 15, 610, 92], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | MÊME MAINTENANT...
+# EN: AM I STILL HESITATING? WORRYING ABOUT THE ENEMY?
+005.2 | systeme {"box": [90, 760, 630, 960], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | J’HÉSITE ENCORE ?\nJE M’INQUIÈTE\nPOUR L’ENNEMI ?
+# EN: AND IN THE END...
+005.3 | systeme {"box": [75, 1440, 640, 1528], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | ET AU BOUT DU COMPTE...
+# EN: I CAN'T EVEN PROTECT WHAT REALLY MATTERS!
+005.4 | systeme {"box": [80, 2330, 640, 2540], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | JE NE PEUX MÊME PAS\nPROTÉGER CE QUI\nCOMPTE VRAIMENT !
+# EN: HOW PATHETIC!
+005.5 | systeme {"box": [80, 3040, 640, 3150], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | QUEL MINABLE !
+
+## 006.webp
+006.1 | dialogue | -
+006.2 | dialogue | -
+
+## 007.webp
+# EN: YEAH.
+007.1 | dialogue | OUAIS.
+# EN: I'VE COME THIS FAR CARRYING THE HOPES OF SO MANY PEOPLE.
+007.2 | dialogue | JE SUIS ARRIVÉ JUSQU’ICI EN PORTANT LES ESPOIRS DE TANT DE GENS.
+007.3 | dialogue | -
+
+## 008.webp
+# EN: I HAVE TO WIN.
+008.1 | systeme {"box": [110, 1645, 650, 1760], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | JE DOIS GAGNER.
+# EN: FOR THE FUTURE THAT WE ALL DESIRE.
+008.2 | systeme {"box": [85, 3700, 635, 3965], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | POUR L’AVENIR\nQUE NOUS SOUHAITONS\nTOUS.
+
+## 009.webp
+009.1 | dialogue | -
+# EN: NOW!
+009.2 | cri | MAIN-\nTENANT !
+# EN: LORD ARTHUR!
+009.3 | cri | SEIGNEUR\nARTHUR !
+
+## 010.webp
+# EN: NICE~!
+010.1 | dialogue | PAS MAL~ !
+
+## 011.webp
+011.1 | dialogue | -
+# EN: GO FORWARD. (ligne coupée entre les pages 11 et 12)
+011.100 | systeme {"box": [150, 4950, 580, 5000], "light": true, "grow": 5} | (effacer)
+
+## 012.webp
+# EN: GO FORWARD. FOR THE FUTURE WE DESIRE.
+012.1 | systeme {"box": [110, 0, 610, 190], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]]} | AVANCE.\nPOUR L’AVENIR\nQUE NOUS SOUHAITONS.
+# EN: THAT GUY...
+012.2 | dialogue | CE TYPE...
+# EN: HE KEEPS INTERFERING UNTIL THE VERY END!
+012.3 | dialogue | IL S’INTERPOSE JUSQU’AU BOUT !
+012.4 | systeme | -
+
+## 013.webp
+# EN: WELL, IT'S LACKING A BIT OF VARIETY, BUT...
+013.1 | dialogue | BON, ÇA MANQUE UN PEU DE VARIÉTÉ, MAIS...
+
+## 014.webp
+# EN: THIS KIND OF DEVELOPMENT ISN'T BAD EITHER.
+014.1 | dialogue | CE GENRE DE RETOURNEMENT N’EST PAS MAL NON PLUS.
+014.2 | dialogue | -
+# EN: FORM TRANSFORMATION...?!
+014.3 | italique | CHANGEMENT DE FORME...?!
+
+## 015.webp
+# EN: D-DIE...!
+015.1 | dialogue | M-MEURS...!
+# EN: YES.
+015.2 | italique | OUI.
+# EN: CROSS THE / LINE! (bulle coupée entre les pages 15 et 16)
+015.3 | italique | -
+015.100 | italique {"box": [310, 4920, 600, 5000], "ink_max": 120, "max_letter": 55, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 32} | FRANCHIS LA
+
+## 016.webp
+016.1 | dialogue | -
+016.100 | italique {"box": [340, 0, 570, 48], "target": [350, 2, 560, 44], "ink_max": 120, "max_letter": 45, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 32} | LIGNE !
+# EN: THE ENDING IS ALREADY DECIDED.
+016.2 | italique | LA FIN EST DÉJÀ ÉCRITE.
+# EN: IT'S BEEN FAR TOO LONG.
+016.3 | italique | ÇA A DURÉ BIEN TROP LONGTEMPS.
+016.4 | systeme | -
+# EN: WITH THE NEXT STEP, THIS BOREDOM WILL...!
+016.5 | italique | AU PROCHAIN COUP, CET ENNUI VA...!
+# EN: LIBUR...
+016.6 | dialogue | LIBUR...
+# EN: FOUND YOU!
+016.7 | cri | JE T’AI\nTROUVÉ !
+
+## 017.webp
+017.1 | dialogue | -
+# EN: LIBUR...?
+017.2 | dialogue | LIBUR...?
+
+## 018.webp
+# EN: HUM~
+018.1 | dialogue | HMM~
+# EN: IS HE ASLEEP? HE'S NOT RESPONDING...
+018.2 | dialogue | IL DORT ? IL NE RÉAGIT PAS...
+# EN: HUH...?
+018.3 | dialogue | HEIN...?
+018.4 | dialogue | -
+
+## 019.webp
+# EN: AH!
+019.1 | italique | AH !
+# EN: WHAT THE HELL IS THIS?!
+019.2 | italique | C’EST QUOI, ÇA ?!
+
+## 020.webp
+# EN: IS IT TRYING TO TEAR ME AWAY FROM SEOL-JIN...?!
+020.1 | italique | ÇA ESSAIE DE M’ARRACHER À SEOL-JIN...?!
+# EN: THIS SINISTER KARMA FLOW... I'M SURE OF IT!
+020.2 | italique | CE FLUX DE KARMA SINISTRE... J’EN SUIS SÛRE !
+# EN: IT'S JUST LIKE THOSE BASTARDS!
+020.3 | italique | C’EST COMME CES SALAUDS !
+# EN: COULD IT BE THAT SEOL-JIN IS FIGHTING ALONE USING THAT POWER...?!
+020.4 | italique | SE POURRAIT-IL QUE SEOL-JIN SE BATTE SEUL AVEC CE POUVOIR...?!
+
+## 021.webp
+# EN: YOU FOOL...! OF ALL PEOPLE, YOU SHOULD KNOW THAT BEST, SHOULDN'T YOU?
+021.1 | dialogue | IMBÉCILE...! TU DEVRAIS LE SAVOIR MIEUX QUE PERSONNE, NON ?
+021.2 | dialogue | -
+021.3 | dialogue | -
+# EN: WHY ARE YOU DOING THIS POWER BY YOURSELF...?!
+021.4 | dialogue | POURQUOI TU UTILISES CE POUVOIR TOUT SEUL...?!
+# EN: IF YOU KEEP FIGHTING LIKE THIS, YOU'LL NEVER BE ABLE TO COME BACK!
+021.5 | dialogue | SI TU CONTINUES À TE BATTRE COMME ÇA, TU NE POURRAS JAMAIS REVENIR !
+# EN: WAKE UP...
+021.6 | dialogue | RÉVEILLE-TOI...
+# EN: OPEN YOUR EYES...!
+021.7 | dialogue | OUVRE LES\nYEUX...!
+
+## 022.webp
+# EN: DON'T LEAVE ME BEHIND,
+022.1 | cri | NE ME\nLAISSE PAS,
+# EN: HEO SEOL-JIN!
+022.2 | cri | SEOL-JIN\nHEO !
+# EN: FINE... SO YOU STILL WON'T WAKE UP?
+022.3 | dialogue | BIEN... TU NE VEUX TOUJOURS PAS TE RÉVEILLER ?
+
+## 023.webp
+# EN: THEN I'LL WAKE YOU UP NO MATTER WHAT IT TAKES!
+023.1 | dialogue | ALORS JE TE RÉVEILLERAI, QUOI QU’IL EN COÛTE !
+# EN: LET'S SEE HOW MUCH YOU CAN HANDLE!
+023.2 | dialogue | VOYONS CE QUE TU PEUX ENCAISSER !
+# EN: I...
+023.3 | dialogue | JE...
+
+## 024.webp
+# EN: ...SOMEHOW FOUND MY WAY BACK HERE AGAIN.
+024.1 | dialogue | ...SUIS ENCORE REVENU ICI, ALLEZ SAVOIR COMMENT.
+# EN: I THINK I FINALLY UNDERSTAND NOW...
+024.2 | italique | JE CROIS QUE JE COMPRENDS ENFIN...
+# EN: ...WHAT THIS PLACE TRULY IS.
+024.3 | italique | ...CE QU’EST VRAIMENT CET ENDROIT.
+# EN: YEAH...
+024.4 | dialogue | OUAIS...
+# EN: THERE'S NO GOING BACK ANYMORE.
+024.5 | dialogue | IMPOSSIBLE DE FAIRE MARCHE ARRIÈRE.
+# EN: THIS TIME, I CHOSE TO STEP IN ON MY OWN.
+024.6 | italique | CETTE FOIS, J’AI CHOISI D’Y ENTRER DE MOI-MÊME.
+
+## 025.webp
+025.1 | dialogue | -
+# EN: I DON'T REGRET IT.
+025.2 | italique | JE NE LE REGRETTE PAS.
+# EN: EVERYONE ELSE HAS ALREADY RISKED EVERYTHING.
+025.3 | italique | TOUS LES AUTRES ONT DÉJÀ TOUT RISQUÉ.
+# EN: I WAS FOOLISH TO THINK I'D BE ANY DIFFERENT.
+025.4 | italique | J’ÉTAIS BÊTE DE CROIRE QUE JE FERAIS EXCEPTION.
+# EN: THAT'S RIGHT.
+025.5 | italique | C’EST ÇA.
+# EN: IF IT MEANS REACHING THE FUTURE WE ALL LONG FOR...
+025.6 | italique | SI C’EST POUR ATTEINDRE L’AVENIR QUE NOUS ESPÉRONS TOUS...
+
+## 026.webp
+# EN: DON'T LEAVE ME BEHIND, HEO SEOL-JIN!
+026.1 | cri | NE ME LAISSE PAS,\nSEOL-JIN HEO !
+
+## 027.webp
+027.1 | dialogue | -
+# EN: LIBUR?
+027.100 | dialogue {"point": [350, 738]} | LIBUR ?
+027.2 | dialogue | -
+027.3 | dialogue | -
+# EN: WH-WHAT ARE YOU DOING?!
+027.4 | italique | QU-QU’EST-CE QUE TU FAIS ?!
+# EN: NO, HOW DID YOU WAKE UP?!
+027.5 | italique | NON, COMMENT TU T’ES RÉVEILLÉE ?!
+
+## 028.webp
+# EN: I-I HEARD YOUR VOICE CALLING ME...
+028.1 | dialogue | J-J’AI ENTENDU TA VOIX M’APPELER...
+# EN: WHAT?! IF THAT'S ALL IT TOOK, YOU SHOULD'VE DONE IT SOONER, YOU IDIOT!
+028.2 | italique | QUOI ?! SI C’ÉTAIT AUSSI SIMPLE, IL FALLAIT LE FAIRE PLUS TÔT, IDIOT !
+# EN: AH!
+028.3 | dialogue | AH !
+028.4 | dialogue | -
+# EN: SERIOUSLY...!
+028.5 | dialogue | SÉRIEUX...!
+028.6 | dialogue | -
+
+## 029.webp
+# EN: ALL YOU DO IS WORRY ME...!
+029.1 | dialogue | TU NE FAIS QUE M’INQUIÉTER...!
+# EN: WHY ARE YOU SO SEVERELY HURT?
+029.2 | dialogue | POURQUOI TU ES SI GRIÈVEMENT BLESSÉ ?
+# EN: THIS MAKES ME FEEL TERRIBLE...
+029.3 | dialogue | ÇA ME FAIT TELLEMENT DE PEINE...
+# EN: SORRY... I TRIED TO HANDLE IT SOMEHOW...
+029.4 | dialogue | DÉSOLÉ... J’AI ESSAYÉ DE M’EN SORTIR...
+# EN: I GUESS I REALLY CAN'T DO ANYTHING RIGHT ON MY OWN...
+029.5 | dialogue | FAUT CROIRE QUE JE NE SAIS RIEN FAIRE DE BIEN TOUT SEUL...
+
+## 030.webp
+# EN: HEHE...
+030.1 | dialogue | HÉHÉ...
+# EN: TELL ME, SEOL-JIN.
+030.2 | dialogue | DIS-MOI,\nSEOL-JIN.
+# EN: WHAT HAPPENED WHILE I WAS SLEEPING?
+030.3 | dialogue | QU’EST-IL ARRIVÉ PENDANT QUE JE DORMAIS ?
+# EN: HOW'S THE SITUATION OUTSIDE?
+030.4 | dialogue | COMMENT ÇA SE PASSE DEHORS ?
+# EN: GUH!
+030.100 | italique {"point": [148, 4288]} | GUH !
+
+## 031.webp
+# EN: UGH!
+031.100 | italique {"point": [525, 188]} | UGH !
+# EN: ARGH...!
+031.101 | italique {"point": [400, 875]} | ARGH...!
+# EN: WHAT? THE KILLING INTENT VANISHED!
+031.1 | italique | QUOI ? L’INTENTION MEURTRIÈRE A DISPARU !
+# EN: IT'S LIKE EVERYTHING JUST STOPPED...!
+031.2 | italique | COMME SI TOUT S’ÉTAIT ARRÊTÉ...!
+# EN: WHAT WAS THAT?
+031.3 | dialogue | C’ÉTAIT QUOI, ÇA ?
+# EN: WHY IS HE LIKE THAT?
+031.4 | dialogue | POURQUOI IL EST COMME ÇA ?
+
+## 032.webp
+# EN: WHAT THE FUCK?!
+032.1 | italique | C’EST QUOI\nCE BORDEL ?!
+032.2 | dialogue | -
+# EN: YOU DID ALL THIS JUST 'CAUSE ARTHUR HIT ME?! ARE YOU INSANE?!
+032.3 | italique | T’AS FAIT TOUT ÇA JUSTE PARCE QU’ARTHUR M’A FRAPPÉE ?! T’ES DINGUE ?!
+# EN: WHAT'S WRONG WITH YOU? I'M NOT MADE OF PAPER!
+032.4 | italique | QU’EST-CE QUI TE PREND ? JE NE SUIS PAS EN PAPIER !
+# EN: TAKING A COUPLE OF HITS IS NO BIG DEAL!
+032.5 | italique | ENCAISSER QUELQUES COUPS, CE N’EST RIEN !
+# EN: I'M SORRY...
+032.6 | dialogue | PARDON...
+# EN: IT'S JUST...
+032.7 | dialogue | C’EST JUSTE...
+032.8 | dialogue | -
+# EN: ARTHUR'S (bulle coupée entre les pages 32 et 33)
+032.9 | dialogue | -
+032.100 | dialogue {"box": [340, 4970, 505, 5000], "ink_max": 120, "grow": 2, "fill": [255,255,255]} | (effacer)
+
+## 033.webp
+# EN: ARTHUR'S SOMEONE SPECIAL TO YOU, RIGHT?
+033.1 | dialogue | -
+033.101 | dialogue {"box": [300, 0, 500, 22], "ink_max": 120, "grow": 2, "fill": [255,255,255]} | (effacer)
+033.100 | dialogue {"point": [420, 68]} | ARTHUR COMPTE\nBEAUCOUP POUR TOI,\nPAS VRAI ?
+# EN: YEAH, ARTHUR IS SPECIAL...
+033.2 | dialogue | OUI, ARTHUR EST SPÉCIAL...
+# EN: HE'S IRREPLACEABLE.
+033.3 | dialogue | IL EST\nIRREMPLAÇABLE.
+033.4 | dialogue | -
+# EN: BUT...
+033.5 | dialogue | MAIS...
+# EN: HE'S NOT IMPORTANT ENOUGH FOR ME TO HURT THE PERSON WHO MATTERS MOST TO ME NOW.
+033.6 | dialogue | IL N’EST PAS ASSEZ IMPORTANT POUR QUE JE BLESSE LA PERSONNE QUI COMPTE LE PLUS POUR MOI AUJOURD’HUI.
+# EN: THIS IS THE CHOICE I'VE MADE.
+033.7 | dialogue | C’EST LE CHOIX QUE J’AI FAIT.
+
+## 034.webp
+# EN: SO, SEOL-JIN...
+034.1 | dialogue | ALORS,\nSEOL-JIN...
+# EN: IF YOU CAN ACCEPT SOMEONE LIKE ME...
+034.2 | dialogue | SI TU PEUX ACCEPTER QUELQU’UN COMME MOI...
+# EN: I DO.
+034.3 | dialogue | OUI.
+# EN: LET'S GO TOGETHER, LIBUR.
+034.4 | dialogue | ALLONS-Y ENSEMBLE, LIBUR.
+
+## 035.webp
+# EN: IF YOU'LL ACCEPT SOMEONE LIKE ME...
+035.1 | dialogue | SI TU ACCEPTES QUELQU’UN COMME MOI...
+# EN: WILL YOU WALK WITH ME?
+035.2 | dialogue | MARCHERAS-TU AVEC MOI ?
+# EN: YES.
+035.3 | dialogue | OUI.
+# EN: NEITHER OF US IS PERFECT.
+035.4 | dialogue | AUCUN DE NOUS DEUX N’EST PARFAIT.
+# EN: THAT'S WHY...
+035.5 | dialogue | C’EST POUR ÇA...
+
+## 036.webp
+# EN: ...WE NEED EACH OTHER.
+036.1 | dialogue | ...QU’ON A BESOIN L’UN DE L’AUTRE.
+
+## 037.webp
+# EN: AH... LIBUR...?!
+037.1 | dialogue | AH...\nLIBUR...?!
+# EN: TCH.
+037.2 | dialogue | TCH.
+# EN: HOW DID YOU GET IN HERE...?
+037.3 | dialogue | COMMENT TU ES ENTRÉE ICI...?
+# EN: SEOL-JIN...
+037.4 | dialogue | SEOL-JIN...
+
+## 038.webp
+# EN: LIBUR...
+038.1 | dialogue | LIBUR...
+# EN: DID YOU TWO...
+038.2 | cri | VOUS\nDEUX...
+# EN: ...JUST KISS?
+038.3 | cri | ...VOUS VOUS ÊTES\nEMBRASSÉS ?
+
+## 039.webp
+# EN: HEY!
+039.1 | dialogue | HÉ !
+# EN: IS YOUR BRAIN GLITCHING OR SOMETHING?
+039.2 | dialogue | TON CERVEAU A BUGUÉ OU QUOI ?
+# EN: HAA, YOU IDIOT!
+039.3 | dialogue | HAA, IDIOT !
+# EN: LOOK AT YOUR FACE!
+039.4 | dialogue | REGARDE TA TÊTE !
+# EN: WHAT THE HELL IS GOING ON IN THERE?
+039.5 | dialogue | QU’EST-CE QUI SE PASSE LÀ-DEDANS ?
+
+## 040.webp
+040.1 | dialogue | -
+040.2 | dialogue | -
+040.3 | systeme | -

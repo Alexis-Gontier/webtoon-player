@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-246/006.webp",
+ "output": "chapters_fr/chapter-246/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE N’AI PAS\nQUE PEUR !",
+   "style": "cri",
+   "point": [
+    414,
+    2000
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VRAIMENT~ ?",
+   "style": "dialogue",
+   "point": [
+    407,
+    4347
+   ]
+  }
+ ]
+}

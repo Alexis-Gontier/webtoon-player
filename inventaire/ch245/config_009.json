@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-245/009.webp",
+ "output": "chapters_fr/chapter-245/009.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "LE BOSS\nFINAL",
+   "style": "cri",
+   "point": [
+    400,
+    3787
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ENTRE EN\nSCÈNE !",
+   "style": "cri",
+   "point": [
+    390,
+    5950
+   ]
+  }
+ ]
+}

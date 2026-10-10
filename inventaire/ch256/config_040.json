@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-256/040.webp",
+ "output": "chapters_fr/chapter-256/040.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOUT BIEN CONSIDÉRÉ, CE N’ÉTAIT PAS SI MAL, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    401,
+    583
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CELA DIT,",
+   "style": "dialogue",
+   "point": [
+    401,
+    2277
+   ]
+  },
+  {
+   "id": 3,
+   "text": "RETROUVONS-NOUS UN AUTRE JOUR, DANS UNE AUTRE HISTOIRE.",
+   "style": "dialogue",
+   "point": [
+    415,
+    3925
+   ]
+  }
+ ]
+}

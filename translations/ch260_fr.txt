@@ -1,0 +1,219 @@
+# Chapitre 260 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+# Onomatopées coréennes gardées. Cœurs ♥ conservés.
+
+## 001.webp
+001.1 | dialogue | -
+# EN: YOU BETTER GIVE / HIM BACK... (bulle coupée entre les pages 1 et 2)
+001.2 | dialogue | -
+001.100 | dialogue {"box": [230, 4890, 580, 5000], "target": [250, 4900, 560, 4995], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | TU AS INTÉRÊT
+
+## 002.webp
+002.1 | dialogue | -
+002.100 | dialogue {"box": [200, 0, 600, 115], "target": [240, 10, 560, 105], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | À ME LE\nRENDRE...
+# EN: YOU BITCH!
+002.2 | dialogue | ESPÈCE DE\nGARCE !
+# EN: 97TH GENERATION
+002.101 | systeme {"box": [140, 4880, 660, 5000], "max_letter": 100, "light": true, "light_min": 200, "grow": 8, "colors": [[255,255,255],[255,255,255]], "outline": [20,30,80], "outline_width": 3} | 97E GÉNÉRATION
+
+## 003.webp
+# EN: PLAYERS JOINT SKILL
+003.1 | systeme {"box": [100, 0, 700, 110], "max_letter": 90, "light": true, "light_min": 200, "grow": 8, "colors": [[255,255,255],[255,255,255]], "outline": [20,30,80], "outline_width": 3} | COMPÉTENCE CONJOINTE DES PLAYERS
+# EN: KARMA TRANSFORMATION
+003.100 | systeme {"box": [50, 1400, 750, 1580], "max_letter": 90, "light": true, "light_min": 200, "grow": 8, "colors": [[255,255,255],[255,255,255]], "outline": [20,30,80], "outline_width": 3} | TRANSFORMATION DU KARMA
+# EN: PURGATORY
+003.101 | systeme {"box": [90, 3700, 710, 3910], "max_letter": 160, "light": true, "light_min": 200, "grow": 8, "blur_fill": 40, "colors": [[255,255,255],[255,255,255]], "outline": [20,30,80], "outline_width": 3} | PURGATOIRE
+
+## 004.webp
+
+## 005.webp
+# EN: SO, WHAT DO YOU THINK OF MY COMPANIONS?
+005.1 | dialogue | ALORS, QUE PENSES-TU DE MES COMPAGNONS ?
+005.2 | dialogue | -
+
+## 006.webp
+# EN: INCREDIBLE, ISN'T IT?
+006.1 | dialogue | INCROYABLE,\nNON ?
+# EN: UGH...
+006.2 | systeme {"box": [125, 2295, 260, 2380], "ink_max": 110, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "chuchotement"} | UGH...
+# EN: COM... PA... NIONS...
+006.3 | dialogue | COM... PA...\nGNONS...
+# EN: AH...
+006.100 | systeme {"box": [530, 2780, 660, 2860], "ink_max": 110, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "chuchotement"} | AH...
+
+## 007.webp
+# EN: LOOKS LIKE THE TIME HAS FINALLY COME.
+007.1 | dialogue | ON DIRAIT QUE LE MOMENT EST ENFIN VENU.
+# EN: HEY, BIG GUY. THEY'RE LOOKING FOR YOU.
+007.2 | dialogue | HÉ, MON GRAND. ON TE CHERCHE.
+007.3 | dialogue | -
+007.4 | dialogue | -
+# EN: GO ON, BEAT IT! HURRY UP!
+007.5 | dialogue | ALLEZ, FILE ! DÉPÊCHE-TOI !
+
+## 008.webp
+# EN: ARTHUR...
+008.1 | dialogue | ARTHUR...
+# EN: YOU...
+008.2 | dialogue | TOI...
+# EN: ARE YOU SURE YOU'RE NOT COMING ALONG?
+008.3 | dialogue | TU ES SÛR DE NE PAS VENIR ?
+008.4 | dialogue | -
+# EN: WELL, I'VE ALREADY SEEN EVERYTHING INTERESTING.
+008.5 | dialogue | BAH, J’AI DÉJÀ VU TOUT CE QUI ÉTAIT INTÉRESSANT.
+
+## 009.webp
+# EN: IT'S ANNOYING HAVING MY SPOT AS THE FINAL BOSS STOLEN, BUT WHAT CAN I DO ABOUT IT?
+009.1 | dialogue | C’EST AGAÇANT DE ME FAIRE VOLER MA PLACE DE BOSS FINAL, MAIS QU’Y PUIS-JE ?
+# EN: ANYWAY, GIVE IT YOUR ALL, HEO SEOL-JIN.
+009.2 | dialogue {"point": [398, 1900]} | BREF, DONNE TOUT CE QUE TU AS, SEOL-JIN HEO.
+# EN: JUST LIKE YOU'VE BEEN DOING UNTIL NOW.
+009.3 | dialogue | COMME TU L’AS TOUJOURS FAIT JUSQU’ICI.
+
+## 010.webp
+# EN: YOU GOT IT!
+010.1 | dialogue | COMPTE\nSUR MOI !
+# EN: WELL, THEN...
+010.2 | dialogue | BON,\nALORS...
+# EN: UGH...
+010.3 | dialogue | UGH...
+
+## 011.webp
+# EN: GO AND COME BACK SAFELY!
+011.1 | dialogue | VAS-Y, ET REVIENS SAIN ET SAUF !
+011.2 | dialogue | -
+
+## 012.webp
+# EN: ARGH...
+012.100 | cri {"point": [275, 100]} | ARGH...
+
+## 013.webp
+013.1 | dialogue | -
+# EN: SEOL-JIN!
+013.100 | italique {"point": [300, 1500]} | SEOL-JIN !
+013.2 | dialogue | -
+# EN: LIBUR!!
+013.101 | italique {"point": [405, 3400]} | LIBUR !!
+
+## 014.webp
+# EN: AH... AAAH...♥
+014.1 | dialogue | AH...\nAAAH...♥
+# EN: UHH...♥
+014.2 | dialogue | UHH...♥
+# EN: HOW CAN YOU SHINE SO BRIGHTLY...?!
+014.3 | dialogue | COMMENT PEUX-TU BRILLER AUTANT...?!
+
+## 015.webp
+# EN: IT REALLY IS...
+015.1 | dialogue | C’EST\nVRAIMENT...
+# EN: THE LIGHT OF A "TRUE HERO"...♥
+015.2 | dialogue | LA LUMIÈRE D’UN "VRAI HÉROS"...♥
+
+## 016.webp
+
+## 017.webp
+# EN: !
+017.100 | dialogue {"point": [418, 3575]} | !
+
+## 018.webp
+018.1 | dialogue | -
+
+## 019.webp
+# EN: GO!
+019.100 | cri {"point": [375, 325]} | VAS-Y !
+# EN: PROTAGONIST!
+019.101 | cri {"point": [390, 2520]} | HÉROS !
+
+## 020.webp
+# EN: KYAAA♥
+020.100 | cri {"point": [355, 2700]} | KYAAA♥
+
+## 021.webp
+# EN: AH...♥
+021.100 | cri {"point": [250, 300]} | AH...♥
+# EN: IT CAN'T BE...♥
+021.1 | cri | CE N’EST\nPAS VRAI...♥
+021.2 | dialogue | -
+021.3 | dialogue | -
+
+## 022.webp
+# EN: IF YOU LOOK AT ME WITH THOSE EYES...
+022.1 | dialogue | SI TU ME REGARDES AVEC CES YEUX-LÀ...
+# EN: YOU'LL END UP SEEING EVERYTHING...♥
+022.2 | dialogue | TU VAS FINIR PAR TOUT VOIR...♥
+
+## 023.webp
+# EN: IT'S THE FIRST TIME...
+023.1 | cartouche | C’EST LA\nPREMIÈRE FOIS...
+
+## 024.webp
+
+## 025.webp
+# EN: SEOL-JIN.
+025.1 | dialogue | SEOL-JIN.
+# EN: THIS IS...
+025.2 | dialogue | C’EST...
+# EN: YES, LIBUR.
+025.3 | dialogue | OUI,\nLIBUR.
+# EN: WE HAVE NO / CHOICE BUT TO CUT THROUGH. (bulle coupée entre les pages 25 et 26)
+025.4 | dialogue | -
+025.100 | dialogue {"box": [250, 4935, 560, 5000], "target": [270, 4950, 540, 5000], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 36} | ON N’A PAS
+
+## 026.webp
+026.1 | dialogue | -
+026.100 | dialogue {"box": [210, 0, 590, 120], "target": [235, 0, 560, 112], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 36} | LE CHOIX,\nIL FAUT\nTRANCHER.
+# EN: YOU HEAR THAT, EVERYONE?
+026.2 | dialogue | VOUS AVEZ ENTENDU, TOUT LE MONDE ?
+# EN: THE LEADER HAS MADE HIS DECISION.
+026.3 | dialogue | LE CHEF A PRIS SA DÉCISION.
+
+## 027.webp
+# EN: AH...♥
+027.1 | dialogue | AH...♥
+027.2 | dialogue | AH...♥
+# EN: FOR THE SAKE OF OUR PROTAGONIST...
+027.3 | dialogue | POUR NOTRE HÉROS...
+# EN: LET'S SET THE BEST STAGE POSSIBLE FOR HIM!
+027.4 | dialogue | OFFRONS-LUI LA PLUS BELLE SCÈNE POSSIBLE !
+
+## 028.webp
+# EN: AH~ WHAT A WASTE.
+028.1 | dialogue | AH~ QUEL GÂCHIS.
+# EN: TO JUST SPLIT THE "HALF" YOU WORKED SO HARD TO GET LIKE THAT.
+028.2 | dialogue | DE PARTAGER COMME ÇA LA "MOITIÉ" QUE TU AS EUE TANT DE MAL À OBTENIR.
+# EN: I KNOW.
+028.3 | dialogue {"box": [168, 4565, 450, 4649], "fill": [255, 255, 255], "ink_max": 150, "max_letter": 90, "colors": [[0, 0, 0], [0, 0, 0]]} | JE SAIS.
+# EN: THAT FIRST STRIKE WAS EVERYTHING YOU HAD, / WASN'T IT? (bulle coupée entre les pages 28 et 29)
+028.4 | dialogue | -
+028.100 | dialogue {"box": [280, 4855, 700, 5000], "target": [300, 4865, 680, 4995], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | CE PREMIER COUP,\nC’ÉTAIT TOUT\nCE QUE TU AVAIS,
+
+## 029.webp
+029.1 | dialogue | -
+029.100 | dialogue {"box": [340, 0, 610, 60], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | HEIN ?
+# EN: SO THEN, WHAT ARE YOU GOING TO DO?
+029.2 | dialogue | ALORS, QU’EST-CE QUE TU VAS FAIRE ?
+# EN: WITH YOUR CURRENT KARMA, YOU WON'T BE ABLE TO CUT ME...
+029.3 | dialogue | AVEC TON KARMA ACTUEL, TU NE POURRAS PAS ME TRANCHER...
+
+## 030.webp
+030.1 | dialogue | -
+# EN: ...
+030.100 | dialogue {"point": [412, 875]} | ...
+
+## 031.webp
+# EN: BUT...
+031.1 | italique | MAIS...
+# EN: YES.
+031.2 | italique | OUI.
+031.3 | dialogue | -
+# EN: IF IT'S YOU... THEN CERTAINLY...♥
+031.4 | italique | SI C’EST TOI...\nALORS SÛREMENT...♥
+
+## 032.webp
+032.1 | dialogue | -
+# EN: SWORD OF AWAKENING...!
+032.2 | cri | ÉPÉE DE\nL’ÉVEIL...!
+# EN: AH!♥
+032.3 | dialogue | AH !♥
+032.4 | dialogue | -
+
+## 033.webp

@@ -1,0 +1,66 @@
+{
+ "source": "chapters_en/chapter-247/006.webp",
+ "output": "chapters_fr/chapter-247/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE VIDE QUE JE NE\nPOURRAIS AFFRONTER\nSI JE LÂCHAIS PRISE...",
+   "style": "systeme",
+   "box": [
+    100,
+    310,
+    620,
+    540
+   ],
+   "vfill": true,
+   "light": true,
+   "grow": 9,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 2,
+   "text": "PEU IMPORTE COMBIEN DE NOUVEAUX SOUVENIRS JE ME FAIS...",
+   "style": "dialogue",
+   "point": [
+    374,
+    1558
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VIVRAI SANS DOUTE À JAMAIS DANS L’OMBRE DU SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    393,
+    3254
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUELQU’UN COMME MOI... LE COMBATTRE ?",
+   "style": "dialogue",
+   "point": [
+    373,
+    4597
+   ]
+  }
+ ]
+}

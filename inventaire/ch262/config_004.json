@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-262/004.webp",
+ "output": "chapters_fr/chapter-262/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CAR C’EST\nSEULEMENT ALORS...",
+   "style": "italique",
+   "point": [
+    351,
+    189
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE TU POURRAS CONQUÉRIR CE QUE TU DÉSIRES.",
+   "style": "italique",
+   "point": [
+    439,
+    523
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE QUE JE\nDÉSIRE...",
+   "style": "italique",
+   "point": [
+    378,
+    2533
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS, VAN...",
+   "style": "italique",
+   "point": [
+    388,
+    4302
+   ]
+  }
+ ]
+}

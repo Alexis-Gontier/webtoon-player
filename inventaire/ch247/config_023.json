@@ -1,0 +1,70 @@
+{
+ "source": "chapters_en/chapter-247/023.webp",
+ "output": "chapters_fr/chapter-247/023.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ET FAIRE\nQUOI ?",
+   "style": "dialogue",
+   "point": [
+    381,
+    890
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MON ÂME EST RONGÉE PAR L’HÉSITATION...",
+   "style": "italique",
+   "point": [
+    355,
+    1528
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE SUIS INUTILE\nCOMME ÇA.",
+   "style": "italique",
+   "point": [
+    368,
+    2592
+   ]
+  },
+  {
+   "id": 5,
+   "text": "UNE ARME D’EGO QUI NE PEUT PAS SE BATTRE...",
+   "style": "dialogue",
+   "point": [
+    286,
+    3466
+   ]
+  },
+  {
+   "id": 6,
+   "text": "COMME ÇA...",
+   "style": "dialogue",
+   "point": [
+    424,
+    4368
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    170,
+    0,
+    360,
+    20
+   ],
+   "ink_max": 100,
+   "max_letter": 25,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

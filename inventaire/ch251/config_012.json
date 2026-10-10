@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/012.webp",
+ "output": "chapters_fr/chapter-251/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMME VOUS\nL’AVEZ TOUJOURS",
+   "style": "dialogue",
+   "point": [
+    409,
+    2139
+   ]
+  },
+  {
+   "id": 2,
+   "text": "FAIT !",
+   "style": "dialogue",
+   "point": [
+    384,
+    4373
+   ]
+  }
+ ]
+}

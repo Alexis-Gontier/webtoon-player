@@ -1,0 +1,80 @@
+{
+ "source": "chapters_en/chapter-254/024.webp",
+ "output": "chapters_fr/chapter-254/024.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "J’AIMERAIS\nBIEN\nVOIR ÇA...",
+   "style": "dialogue",
+   "box": [
+    265,
+    1150,
+    545,
+    1385
+   ],
+   "ink_max": 100,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "target": [
+    270,
+    1160,
+    535,
+    1345
+   ],
+   "max_size": 60
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    494,
+    1270,
+    524,
+    1302
+   ],
+   "ink_max": 100,
+   "grow": 1,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 102,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    425,
+    1318,
+    454,
+    1352
+   ],
+   "ink_max": 100,
+   "grow": 1,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

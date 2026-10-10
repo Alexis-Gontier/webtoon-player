@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-243/002.webp",
+ "output": "chapters_fr/chapter-243/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DÉSOLÉ, LES GARS.",
+   "style": "italique",
+   "point": [
+    327,
+    267
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE N’AI PLUS RIEN À VOUS DONNER...",
+   "style": "italique",
+   "point": [
+    436,
+    680
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...HÉ, SEOL-JIN HEO.",
+   "style": "dialogue",
+   "point": [
+    456,
+    2133
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE T’ATTENDAIS.",
+   "style": "dialogue",
+   "point": [
+    515,
+    2490
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAINTENANT, JE...",
+   "style": "dialogue",
+   "point": [
+    345,
+    3653
+   ]
+  }
+ ]
+}

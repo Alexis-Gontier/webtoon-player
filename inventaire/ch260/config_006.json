@@ -1,0 +1,84 @@
+{
+ "source": "chapters_en/chapter-260/006.webp",
+ "output": "chapters_fr/chapter-260/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "INCROYABLE,\nNON ?",
+   "style": "dialogue",
+   "point": [
+    375,
+    376
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UGH...",
+   "style": "chuchotement",
+   "box": [
+    125,
+    2295,
+    260,
+    2380
+   ],
+   "ink_max": 110,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COM... PA...\nGNONS...",
+   "style": "dialogue",
+   "point": [
+    388,
+    2564
+   ]
+  },
+  {
+   "id": 100,
+   "text": "AH...",
+   "style": "chuchotement",
+   "box": [
+    530,
+    2780,
+    660,
+    2860
+   ],
+   "ink_max": 110,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

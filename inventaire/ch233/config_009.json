@@ -1,0 +1,195 @@
+{
+ "source": "chapters_en/chapter-233/009.webp",
+ "output": "chapters_fr/chapter-233/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "À MARY... ?",
+   "style": "dialogue",
+   "point": [
+    399,
+    767
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ABSOLUMENT...",
+   "style": "systeme",
+   "box": [
+    172,
+    4215,
+    613,
+    4309
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 4,
+   "text": "HÉHÉ, JE L’AI~",
+   "style": "dialogue",
+   "point": [
+    414,
+    6625
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LE DÉSESPOIR\nARRIVE TOUJOURS...",
+   "style": "systeme",
+   "box": [
+    190,
+    7590,
+    610,
+    7800
+   ],
+   "target": [
+    200,
+    7600,
+    600,
+    7790
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 6,
+   "text": "AUX MOMENTS\nLES PLUS\nCRITIQUES.",
+   "style": "systeme",
+   "box": [
+    147,
+    7889,
+    664,
+    8133
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 8,
+   "text": "C’EST POUR ÇA...",
+   "style": "dialogue",
+   "point": [
+    400,
+    11264
+   ]
+  },
+  {
+   "id": 9,
+   "text": "QU’ON DOIT AVANCER ENSEMBLE.",
+   "style": "dialogue",
+   "point": [
+    425,
+    12458
+   ]
+  },
+  {
+   "id": 10,
+   "text": "N’OUBLIE PAS.",
+   "style": "dialogue",
+   "point": [
+    427,
+    13623
+   ]
+  },
+  {
+   "id": 100,
+   "text": "CRAC",
+   "style": "cri",
+   "box": [
+    326,
+    5122,
+    569,
+    5274
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 120,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "text": "CRAC",
+   "style": "cri",
+   "box": [
+    551,
+    5929,
+    773,
+    6070
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 120,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

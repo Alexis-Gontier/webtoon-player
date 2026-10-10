@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-260/022.webp",
+ "output": "chapters_fr/chapter-260/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI TU ME REGARDES AVEC CES YEUX-LÀ...",
+   "style": "dialogue",
+   "point": [
+    399,
+    1788
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU VAS FINIR PAR TOUT VOIR...♥",
+   "style": "dialogue",
+   "point": [
+    412,
+    2909
+   ]
+  }
+ ]
+}

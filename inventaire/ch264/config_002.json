@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-264/002.webp",
+ "output": "chapters_fr/chapter-264/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE FUT UNE SEMAINE OÙ...",
+   "style": "cartouche",
+   "point": [
+    260,
+    405
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CHACUN SEMBLAIT VOULOIR PROFITER DE LA PAIX AUTANT QUE POSSIBLE...",
+   "style": "cartouche",
+   "point": [
+    424,
+    675
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMME SI...",
+   "style": "cartouche",
+   "point": [
+    381,
+    1540
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ILS SE PRÉPARAIENT À PARTIR EN QUÊTE D’UN \"NOUVEAU RÊVE\".",
+   "style": "cartouche",
+   "point": [
+    356,
+    2811
+   ]
+  }
+ ]
+}

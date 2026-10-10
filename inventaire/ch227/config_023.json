@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-227/023.webp",
+ "output": "chapters_fr/chapter-227/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE MOMENT CRUCIAL...",
+   "style": "dialogue",
+   "point": [
+    320,
+    217
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE MOMENT OÙ L’\"ESPRIT\" REGAGNE LE \"CORPS\".",
+   "style": "dialogue",
+   "point": [
+    446,
+    1676
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI J’UTILISE LE DERNIER CONTRAT QUI ME RESTE, LA VICTOIRE EST CERTAINE.",
+   "style": "italique",
+   "point": [
+    417,
+    2506
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS UTILISER \"ÇA\", ÇA VEUT DIRE...",
+   "style": "italique",
+   "point": [
+    410,
+    3599
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ENCORE UNE FOIS, POUR ATTEINDRE MON BUT...",
+   "style": "italique",
+   "point": [
+    414,
+    6027
+   ]
+  }
+ ]
+}

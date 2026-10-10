@@ -1,0 +1,52 @@
+{
+ "source": "chapters_en/chapter-245/006.webp",
+ "output": "chapters_fr/chapter-245/006.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "TRÈS BIEN !",
+   "style": "dialogue",
+   "point": [
+    409,
+    5352
+   ]
+  },
+  {
+   "id": 5,
+   "text": "FÉLICITATIONS,\nSEOL-JIN HEO !",
+   "style": "dialogue",
+   "point": [
+    409,
+    7742
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ON EST\nDEVANT\nLUI !",
+   "style": "systeme",
+   "box": [
+    195,
+    3820,
+    640,
+    4175
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

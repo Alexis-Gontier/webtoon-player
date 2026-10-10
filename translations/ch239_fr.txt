@@ -1,0 +1,168 @@
+# Chapitre 239. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | italique | DE RETOUR DE GARDE EN SOLO, HEIN.
+002.1 | italique | CET ENDROIT EST ÉTRANGEMENT CALME... ÇA ME MET MAL À L’AISE.
+002.2 | italique | CET ENDROIT EST ÉTRANGEMENT CALME... ÇA ME MET MAL À L’AISE.
+002.3 | italique | SI C’EST CES GAMINS...
+002.4 | italique | ILS ATTEINDRONT LE SOMMET, SANS AUCUN DOUTE.
+002.5 | italique | CE QUI VEUT DIRE...
+002.6 | italique | JE...
+002.7 | dialogue | HUHU.
+003.1 | dialogue | JE ME SOUVIENS DE MA PREMIÈRE ASCENSION DE LA TOUR.
+003.2 | dialogue | JE N’AURAIS JAMAIS CRU ÊTRE AUSSI HEUREUX QUE MON HISTOIRE NE SOIT PAS ENCORE FINIE !
+004.1 | dialogue | J’ATTENDRAI AU SOMMET,
+004.2 | dialogue | SEOL-JIN, LIBUR !
+005.1 | dialogue | -
+005.2 | dialogue | ...
+007.1 | dialogue | LES AMIS, VOUS ÊTES OÙ ? IL Y A TROP DE MONDE, JE NE VOIS RIEN...
+007.2 | dialogue | ARRÊTE DE REGARDER PARTOUT, ON N’EST PAS LÀ POUR TRAÎNER...
+007.3 | dialogue | QUAND MÊME, JE VOULAIS DIRE BONJOUR AVANT QUE ÇA COMMENCE ! SI TU AS LE TEMPS DE DIRE ÇA, AIDE-MOI À CHERCHER !
+007.100 | dialogue {"point": [218, 3965]} | ...
+007.4 | dialogue | QU’EST-CE QU’ELLE FAIT ?
+007.5 | dialogue | ATTENDS... ELLE NOUS CHERCHE VRAIMENT... ?
+008.1 | italique | LIBUR, COURAGE !!!
+008.2 | italique | NE SOIS PAS NERVEUSE, FAIS DE TON MIEUX !!!
+008.3 | dialogue | AH ! SUMAMA ET SHONAN ! JE LES AI TROUVÉS~ !
+008.4 | dialogue | HÉ, PAR ICI !
+008.5 | italique | NOTRE LIBUR, TU ES MA FILLE, TU ES UNE IDOLE, UNE IDOLE ! TU ES SI JOLIE !!!
+008.6 | italique | AH, PFF~ C’EST TELLEMENT GÊNANT.
+009.1 | italique | SUMAMA~ !
+009.2 | dialogue | UNE FOIS QUE C’EST FINI, JE DOIS ME REFAIRE COIFFER PLUS TARD ?
+009.3 | italique | BIEN SÛR ! VIENS ME VOIR POUR TON PROCHAIN RENDEZ-VOUS ! C’EST GRATUIT POUR SEOL-JIN !
+009.4 | dialogue | -
+009.5 | dialogue | ...LILLET EST QUELQUE PART PAR ICI AUSSI... ?
+010.1 | dialogue | -
+010.2 | italique | JE SUIS LÀ~ !
+010.3 | italique | TU M’ENTENDS BIEN ?!
+010.4 | dialogue | ...
+010.5 | dialogue | O-OUI !
+011.1 | dialogue | HUUP...
+011.2 | italique | TU AS DIT QUE CETTE NUIT-LÀ, TU PRENDRAIS TES RESPONSABILITÉS...
+011.3 | italique | TU AS INTÉRÊT À TENIR PAROLE !!!
+011.4 | dialogue | -
+011.5 | dialogue | -
+013.1 | dialogue | SEOL-JIN HEO... DE QUOI ELLE PARLE... ?
+013.2 | dialogue | -
+013.3 | italique | L-LIBUR... ? TU NE ME SERRES PAS LA MAIN UN PEU TROP FORT... ?
+013.4 | italique | CETTE NUIT-LÀ, HEIN ! CETTE NUIT-LÀ ! QUAND TU ES ALLÉ VOIR LILLET TOUT SEUL ! QU’EST-CE QUE TU LUI AS DIT, HEIN ?! DIS-LE-MOI !!!
+013.5 | italique | H-HÉ, ATTENDS ! LIBUR ! ON NE PEUT PAS SE DISPUTER ENTRE NOUS ! JE T’EXPLIQUERAI TOUT CORRECTEMENT APRÈS, D’ACCORD ?
+013.101 | dialogue {"point": [190, 3350]} | JE L’AI DIT...
+013.6 | dialogue {"box": [325, 3935, 685, 4115], "target": [335, 3940, 675, 4105], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150, "max_letter": 60, "max_size": 46} | LILLET, TU AS BIEN CHANGÉ.
+013.7 | dialogue {"box": [500, 4145, 712, 4235], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | ET CE SERAIT\nDE LA JALOUSIE... ?
+014.1 | italique | C’EST QUOI CE DÉLIRE ? VOUS FLIRTEZ DANS UNE SITUATION PAREILLE ?
+014.2 | italique | SI C’EST UN TRIANGLE AMOUREUX, CHOISIS-EN UNE, QU’ON EN FINISSE !!!
+014.3 | italique | TELLEMENT D’ÉNERGIE, C’EST DRÔLE À REGARDER !
+014.4 | dialogue | BON SANG, CES PETITS MORVEUX...
+014.5 | dialogue | QUELLE ANIMATION. SÉRIEUX.
+014.6 | dialogue | -
+014.7 | dialogue | JE NE PEUX PAS LAISSER PASSER ÇA.
+015.1 | dialogue | ARBITRE.
+016.1 | dialogue | C’EST RIDICULE.
+016.2 | dialogue | -
+016.3 | dialogue | POURQUOI QUELQU’UN D’AUSSI GRAND QUE MOI DEVRAIT-IL SE MÊLER À CES PÉQUENAUDS ?
+016.4 | dialogue | DRÔLE DE QUESTION, "EXPLORATEUR".
+016.5 | dialogue | L’ISSUE DU COMBAT EST DÉTERMINÉE PAR LE POIDS DE LEUR KARMA.
+016.6 | dialogue | ELLE DÉPEND DU KARMA ACCUMULÉ AU COURS D’UNE VIE.
+017.1 | dialogue | AUTREMENT DIT...
+017.2 | dialogue | CE COMBAT MÈNE À "L’ÉQUILIBRE DU MONDE".
+017.3 | dialogue | SI ÇA NE TE CONVIENT PAS,
+017.4 | dialogue | TU ES LIBRE DE LE CONTESTER.
+018.1 | dialogue | ...
+018.2 | dialogue | TU RACONTES VRAIMENT BEAUCOUP DE CONNERIES.
+018.3 | dialogue | -
+018.4 | dialogue | SI T’AS UN PROBLÈME, GAGNE.
+018.5 | italique | LIBUR ! ON A UNE CONVERSATION IMPORTANTE !
+018.6 | dialogue | ET VOILÀ, TU RESSORS TON ANCIENNE PERSONNALITÉ.
+019.1 | dialogue | QUAND MÊME, COUPER LA PAROLE À QUELQU’UN, C’EST IMPOLI... !
+019.2 | dialogue | ET ALORS ? ON VA FINIR PAR SE BATTRE DE TOUTE FAÇON.
+019.3 | dialogue | EUH... VRAIMENT ?
+019.4 | dialogue | -
+019.5 | dialogue | -
+019.6 | dialogue | HA...
+021.1 | dialogue | FINISSONS-EN VITE.
+021.2 | dialogue | JE NE SUIS PAS D’HUMEUR, LÀ.
+022.1 | dialogue | UNE QUANTITÉ IMMENSE DE KARMA.
+022.2 | dialogue | CETTE FORCE.
+023.1 | dialogue | JE VAIS TE LA FAIRE PAYER.
+024.1 | dialogue | "COLLECTE."
+024.2 | dialogue | -
+025.1 | dialogue | QUOI... ?
+025.2 | dialogue | OÙ EST-ELLE... ?
+025.3 | dialogue | DÉGAGE.
+026.1 | dialogue | IL N’Y A RIEN À RÉCUPÉRER ICI POUR TOI.
+027.1 | dialogue | HAHA ! ALORS CE GENRE DE TRICHE NE MARCHE PAS VRAIMENT~
+027.2 | dialogue | -
+027.3 | dialogue | SEOL-JIN HEO EST UNE PERSONNE SPÉCIALE QUI M’A DONNÉ UNE PARTIE DE MOI-MÊME.
+027.4 | dialogue | C’EST QUOI CE DÉLIRE ?! LAY, TU DIS QUE TU VAS DORMIR ?
+027.5 | dialogue | -
+027.6 | dialogue | OUAIS, OUAIS, T’ES ENCORE STRESSÉ ? PRENDS DES PLACES ! ILS FRAPPENT VRAIMENT FORT~
+027.7 | dialogue | SEIGNEUR ARTHUR.
+028.1 | dialogue | CET HOMME, QUELLE EST SA VRAIE IDENTITÉ ?
+028.2 | dialogue | EH BIEN...
+028.3 | dialogue | -
+028.4 | dialogue | TU AS OUBLIÉ ?
+028.5 | dialogue | C’EST "LE PLAYER" QUE J’AI CHOISI.
+030.1 | italique | MON ÂME...
+030.2 | italique | S’EST FAIT RETOURNER... ?
+030.3 | dialogue | -
+030.4 | italique {"cut": [[335, 1758], [592, 1710]]} | COMMENT MON ÂME PEUT-ELLE ÊTRE RABAISSÉE AU NIVEAU D’UN HUMAIN EN PLEIN JOUR... ?!
+030.5 | italique | ATTENDS...
+030.6 | italique | CES "YEUX"... !!!
+031.1 | italique | JE VOIS !
+031.2 | italique | J’AURAIS DÛ LE SAVOIR DÈS LE MOMENT DE LA VICTOIRE !
+031.3 | italique | ARTHUR... ESPÈCE DE SALAUD... TU M’AS VOLONTAIREMENT OPPOSÉ À LUI... !
+031.4 | italique | ARTHUR !!!
+031.5 | dialogue | -
+031.6 | italique {"box": [150, 4785, 670, 5000], "target": [175, 4840, 640, 5000], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 256, "grow": 0} | TU M’AS\nENCORE BERNÉ !!!
+033.1 | italique | ESPÈCE DE SALAUD ! COMBIEN DE FOIS TU M’AS HUMILIÉ, HEIN ?!
+033.2 | dialogue | -
+033.3 | italique | TU AS DÉJÀ CHOISI TON SUCCESSEUR, POURQUOI TU FAIS ÇA ?!
+033.4 | dialogue | AUCUNE IDÉE~ MDR
+033.5 | dialogue | -
+033.6 | dialogue | TU N’AS PAS ENTENDU ? SI TU PEUX LE TORDRE, TU LE GAGNES.
+033.7 | dialogue | E-ENCORE CES MOTS !!!
+034.1 | dialogue | TU AGIS TOUJOURS COMME ÇA !
+034.2 | dialogue | TU CROIS QUE C’EST UNE BLAGUE ?
+034.3 | dialogue | -
+034.4 | dialogue | -
+034.5 | dialogue | TU NE COMPRENDS TOUJOURS PAS ?
+034.6 | dialogue | TU ES LE SEUL À PLEURNICHER PARMI LES PARTICIPANTS.
+034.7 | dialogue | -
+034.100 | dialogue {"box": [185, 4840, 598, 5000], "fill": [255,255,255], "ink_max": 150, "max_letter": 60} | (effacer)
+034.101 | dialogue {"box": [215, 4790, 570, 4985], "target": [215, 4790, 570, 4985], "colors": [[0,0,0],[0,0,0]], "ink_max": 0, "max_size": 42} | SI TU VEUX\nQUELQUE CHOSE,\nPRENDS-LE DE TES\nPROPRES MAINS.
+035.100 | dialogue {"box": [260, 0, 460, 45], "fill": [255,255,255], "ink_max": 150} | (effacer)
+035.1 | dialogue | -
+035.2 | dialogue | COMME LES AUTRES PARTICIPANTS.
+036.1 | dialogue | EH BIEN...
+036.2 | dialogue | C’EST PEUT-ÊTRE TROP POUR TOI.
+036.3 | dialogue | PAUVRE PETIT.
+036.4 | dialogue | TOI.
+037.1 | dialogue | TU ES SEUL.
+037.2 | systeme {"box": [60, 3420, 780, 3600], "target": [175, 3465, 690, 3560], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 230, "grow": 6} | ENCORE ÇA.
+037.3 | systeme {"box": [120, 4170, 700, 4330], "light": true, "light_min": 170, "grow": 7, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4, "max_letter": 160} | CES YEUX.
+038.100 | systeme {"box": [80, 460, 720, 1585], "light": true, "unsat": 18, "light_min": 225, "grow": 12, "blur_fill": 25, "stretch": 2, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4, "max_letter": 200} | L’ŒIL\nQUI PERCE\nÀ JOUR\nTOUT CE QUE\nJE SUIS !
+038.101 | dialogue {"box": [50, 4200, 760, 4630], "light": true, "light_min": 70, "grow": 10, "fill": [251,3,253], "colors": [[255,255,255],[255,255,255]], "max_letter": 420} | ET ME TROUVE\nTOUJOURS.
+039.1 | dialogue {"erase_color": true} | MAINTENANT ! MON ÂME VACILLE !
+039.2 | italique | ÇA RÉSONNE AVEC MON "NOYAU".
+039.3 | italique | LE KARMA QUE J’AI RÉCUPÉRÉ JUSQU’ICI... !
+039.4 | italique | MAIS COMMENT ?! SON "ÂME" AURAIT DÛ ÊTRE COMPLÈTEMENT DÉTRUITE !
+040.1 | dialogue | JE VOIS !
+040.2 | dialogue {"erase_color": true} | PARCE QUE C’EST LUI.
+041.1 | italique | MIRAGE !
+041.2 | dialogue {"erase_color": true} | C’EST DRÔLE.
+041.3 | dialogue {"erase_color": true} | MÊME APRÈS AVOIR SURVÉCU EN SACRIFIANT TANT DE TEMPS, TON ÂME A FINI COMPLÈTEMENT VIDE.
+041.4 | dialogue {"erase_color": true} | QU’AS-TU FAIT JUSQU’À MAINTENANT ?
+041.5 | dialogue {"erase_color": true} | TAE-WON KIM ET MIRAGE T’ONT DONNÉ UNE CHANCE.
+041.6 | dialogue {"erase_color": true} | IL N’EST PAS TEMPS DE TE RÉVEILLER ?
+041.7 | dialogue {"erase_color": true} | TU T’ES TROMPÉ D’ADVERSAIRE.
+042.1 | dialogue {"erase_color": true} | ENFIN, QU’EST-CE QU’UN TYPE COMME TOI POURRAIT BIEN SAVOIR.
+042.2 | dialogue {"erase_color": true} | TU NE CONNAIS MÊME PAS TON PROPRE NOM.
+043.1 | dialogue | JE TE LE DIS D’AVANCE ?
+043.2 | dialogue | TU NE POURRAS JAMAIS BATTRE SEOL-JIN HEO.
+044.1 | dialogue | ET POUR QUELLE RAISON ?
+044.2 | dialogue | PARCE QUE "NOUS" FERONS EN SORTE QUE ÇA ARRIVE.
+044.3 | dialogue | MAINTENANT, IL EST TEMPS D’ACCEPTER TON KARMA.
+044.4 | dialogue | -
+045.1 | dialogue | L’ÊTRE SANS NOM, UNNAME !
+045.2 | dialogue | -
+030.100 | italique {"point": [440, 1560], "cut": [[335, 1758], [592, 1710]]} | IMPOSSIBLE.
+032.100 | dialogue {"box": [150, 0, 670, 40], "fill": [255,255,255], "ink_max": 256, "grow": 0} | (effacer)

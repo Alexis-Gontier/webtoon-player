@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/005.webp",
+ "output": "chapters_fr/chapter-252/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...N’AURAIT PU PRÉVOIR CE RETOURNEMENT.",
+   "style": "cartouche",
+   "point": [
+    368,
+    1317
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE VOUS\nM’AIMEZ\nBIEN ?",
+   "style": "dialogue",
+   "point": [
+    346,
+    2712
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET CE CHOC, DANS SA TOTALITÉ,",
+   "style": "cartouche",
+   "point": [
+    270,
+    3703
+   ]
+  },
+  {
+   "id": 4,
+   "text": "FUT LA STIMULATION INTENSE QUI LUI AVAIT TANT MANQUÉ.",
+   "style": "cartouche",
+   "point": [
+    430,
+    3986
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+  "source": "chapters_en/chapter-225/004.webp",
+  "output": "chapters_fr/chapter-225/004.webp",
+  "bubbles": [
+    {
+      "box": [
+        300,
+        4630,
+        565,
+        4836
+      ],
+      "text": "????\nARME D’EGO\nEN FORME\nDE HACHE",
+      "style": "cartouche",
+      "ink_max": 120,
+      "grow": 8,
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "outline": [
+        255,
+        255,
+        255
+      ],
+      "outline_width": 2
+    },
+    {
+      "box": [
+        270,
+        6200,
+        555,
+        6420
+      ],
+      "text": "???\nARME D’EGO\nEN FORME\nDE FOUET",
+      "style": "cartouche",
+      "ink_max": 120,
+      "grow": 8,
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "outline": [
+        255,
+        255,
+        255
+      ],
+      "outline_width": 2
+    },
+    {
+      "box": [
+        268,
+        8015,
+        554,
+        8235
+      ],
+      "text": "???\nARME D’EGO\nEN FORME\nDE BRASSARD",
+      "style": "cartouche",
+      "ink_max": 120,
+      "grow": 8,
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "outline": [
+        255,
+        255,
+        255
+      ],
+      "outline_width": 2
+    },
+    {
+      "box": [
+        281,
+        9743,
+        535,
+        9939
+      ],
+      "text": "???\nARME D’EGO\nEN FORME\nDE SPATULE",
+      "style": "cartouche",
+      "ink_max": 120,
+      "grow": 8,
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "outline": [
+        255,
+        255,
+        255
+      ],
+      "outline_width": 2
+    },
+    {
+      "box": [
+        276,
+        11533,
+        545,
+        11741
+      ],
+      "text": "???\nARME D’EGO\nEN FORME\nDE MARTEAU",
+      "style": "cartouche",
+      "ink_max": 120,
+      "grow": 8,
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "outline": [
+        255,
+        255,
+        255
+      ],
+      "outline_width": 2
+    },
+    {
+      "box": [
+        263,
+        13448,
+        532,
+        13655
+      ],
+      "text": "???\nARME D’EGO\nEN FORME\nDE TORCHE",
+      "style": "cartouche",
+      "ink_max": 120,
+      "grow": 8,
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "outline": [
+        255,
+        255,
+        255
+      ],
+      "outline_width": 2
+    },
+    {
+      "point": [
+        355,
+        14553
+      ],
+      "text": "MON DIEU !"
+    }
+  ]
+}

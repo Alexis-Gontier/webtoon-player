@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-236/008.webp",
+ "output": "chapters_fr/chapter-236/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS, C’ÉTAIT TOI ?",
+   "style": "dialogue",
+   "point": [
+    413,
+    1038
+   ]
+  },
+  {
+   "id": 2,
+   "text": "HUMAIN !",
+   "style": "dialogue",
+   "point": [
+    451,
+    3090
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OPÉRATION LANCÉE !",
+   "style": "italique",
+   "point": [
+    414,
+    6583
+   ]
+  },
+  {
+   "id": 100,
+   "text": "MAINTENANT !",
+   "style": "cri",
+   "point": [
+    402,
+    3507
+   ]
+  }
+ ]
+}

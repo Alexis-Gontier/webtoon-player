@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-250/022.webp",
+ "output": "chapters_fr/chapter-250/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NE ME\nLAISSE PAS,",
+   "style": "cri",
+   "point": [
+    318,
+    550
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SEOL-JIN\nHEO !",
+   "style": "cri",
+   "point": [
+    347,
+    2515
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BIEN... TU NE VEUX TOUJOURS PAS TE RÉVEILLER ?",
+   "style": "dialogue",
+   "point": [
+    344,
+    4384
+   ]
+  }
+ ]
+}

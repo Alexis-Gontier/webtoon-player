@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-250/015.webp",
+ "output": "chapters_fr/chapter-250/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "M-MEURS...!",
+   "style": "dialogue",
+   "point": [
+    338,
+    2062
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUI.",
+   "style": "italique",
+   "point": [
+    273,
+    4053
+   ]
+  },
+  {
+   "id": 100,
+   "text": "FRANCHIS LA",
+   "style": "italique",
+   "box": [
+    310,
+    4920,
+    600,
+    5000
+   ],
+   "ink_max": 120,
+   "max_letter": 55,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 29,
+   "target": [
+    340,
+    4920,
+    570,
+    5000
+   ],
+   "seam": "bottom"
+  }
+ ]
+}

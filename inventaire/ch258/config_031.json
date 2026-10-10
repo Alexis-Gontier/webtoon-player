@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/031.webp",
+ "output": "chapters_fr/chapter-258/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS EN FAIT, ÇA TOMBE BIEN.",
+   "style": "dialogue",
+   "point": [
+    418,
+    330
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST L’OCCASION RÊVÉE DE TESTER LE \"POUVOIR DE DIEU\".",
+   "style": "dialogue",
+   "point": [
+    420,
+    1538
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA MOITIÉ\nM’A ÉTÉ VOLÉE.",
+   "style": "dialogue",
+   "point": [
+    416,
+    4525
+   ]
+  }
+ ]
+}

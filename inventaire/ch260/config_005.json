@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-260/005.webp",
+ "output": "chapters_fr/chapter-260/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS, QUE PENSES-TU DE MES COMPAGNONS ?",
+   "style": "dialogue",
+   "point": [
+    400,
+    3929
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-258/028.webp",
+ "output": "chapters_fr/chapter-258/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUOI ?! C’EST TOI QUI AS DEMANDÉ DE L’AIDE, ARTHUR !",
+   "style": "italique",
+   "point": [
+    548,
+    335
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE SAIS~ ET ALORS ? ET SI TU TE FAISAIS AVALER AVEC MOI ?",
+   "style": "dialogue",
+   "point": [
+    341,
+    1612
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU ÉTAIS CENSÉ FAIRE \"FIOU~\" ET \"HOP !\" ET T’ÉCHAPPER EN VITESSE !",
+   "style": "dialogue",
+   "point": [
+    305,
+    2609
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QU’EST-CE QUE TU RACONTES ?! TU N’EN DEMANDES PAS UN PEU TROP ?!",
+   "style": "italique",
+   "point": [
+    405,
+    3670
+   ]
+  },
+  {
+   "id": 6,
+   "text": "AH~ LAISSE TOMBER ! JE N’AURAIS RIEN DÛ DIRE.",
+   "style": "dialogue",
+   "point": [
+    299,
+    4572
+   ]
+  }
+ ]
+}

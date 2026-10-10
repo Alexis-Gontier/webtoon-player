@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-248/019.webp",
+ "output": "chapters_fr/chapter-248/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE PEUX\nY ARRIVER.",
+   "style": "dialogue",
+   "point": [
+    369,
+    1301
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’AI VU COMMENT FAIRE DE MES PROPRES YEUX...",
+   "style": "dialogue",
+   "point": [
+    373,
+    2322
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE QUE JE DOIS TRANCHER...",
+   "style": "dialogue",
+   "point": [
+    362,
+    3107
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST CE QUI BLOQUE CE QUI SE TROUVE AU-DELÀ.",
+   "style": "dialogue",
+   "point": [
+    360,
+    4855
+   ]
+  }
+ ]
+}

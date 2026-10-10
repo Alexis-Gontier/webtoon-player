@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-245/016.webp",
+ "output": "chapters_fr/chapter-245/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALLONS-Y,\nLIBUR.",
+   "style": "dialogue",
+   "point": [
+    384,
+    379
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ON VA\nGAGNER !",
+   "style": "dialogue",
+   "point": [
+    399,
+    1587
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OUAIS !",
+   "style": "dialogue",
+   "point": [
+    416,
+    2728
+   ]
+  },
+  {
+   "id": 4,
+   "text": "VIENS,\nLAY !",
+   "style": "dialogue",
+   "point": [
+    418,
+    4242
+   ]
+  }
+ ]
+}

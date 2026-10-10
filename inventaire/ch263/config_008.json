@@ -1,0 +1,167 @@
+{
+ "source": "chapters_en/chapter-263/008.webp",
+ "output": "chapters_fr/chapter-263/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LAY...",
+   "style": "italique",
+   "point": [
+    375,
+    1612
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SEIGNEUR ARTHUR.",
+   "style": "systeme",
+   "point": [
+    359,
+    2719
+   ],
+   "box": [
+    130,
+    2675,
+    590,
+    2765
+   ],
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  },
+  {
+   "id": 4,
+   "text": "JE NE SAIS TOUJOURS PAS\nCE QUE C’EST QUE D’AVOIR\nMA PROPRE HISTOIRE.",
+   "style": "systeme",
+   "point": [
+    360,
+    3526
+   ],
+   "box": [
+    55,
+    3425,
+    665,
+    3625
+   ],
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  },
+  {
+   "id": 5,
+   "text": "AU MOINS POUR L’INSTANT...",
+   "style": "systeme",
+   "point": [
+    358,
+    4893
+   ],
+   "box": [
+    90,
+    4850,
+    630,
+    4940
+   ],
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  },
+  {
+   "id": 100,
+   "text": "MAIS...",
+   "style": "systeme",
+   "box": [
+    250,
+    4150,
+    470,
+    4250
+   ],
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-263/006.webp",
+ "output": "chapters_fr/chapter-263/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU ACCEPTES VRAIMENT UNE FIN PAREILLE ?",
+   "style": "dialogue",
+   "point": [
+    360,
+    59
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SANS OBÉIR AUX ORDRES DE PERSONNE...",
+   "style": "italique",
+   "point": [
+    371,
+    895
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST LA PREMIÈRE DÉCISION QUE JE PRENDS SEULE DEPUIS MA NAISSANCE.",
+   "style": "italique",
+   "point": [
+    338,
+    2807
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ALORS...",
+   "style": "italique",
+   "point": [
+    304,
+    3588
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ENCOURAGE-\nMOI, GRANDE\nSŒUR.",
+   "style": "italique",
+   "point": [
+    409,
+    4805
+   ]
+  }
+ ]
+}

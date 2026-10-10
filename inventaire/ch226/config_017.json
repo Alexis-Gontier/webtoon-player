@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-226/017.webp",
+ "output": "chapters_fr/chapter-226/017.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "...OÙ SUIS-JE ?",
+   "style": "dialogue",
+   "point": [
+    398,
+    4262
+   ]
+  }
+ ]
+}

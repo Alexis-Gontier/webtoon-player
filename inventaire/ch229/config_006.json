@@ -1,0 +1,154 @@
+{
+ "source": "chapters_en/chapter-229/006.webp",
+ "output": "chapters_fr/chapter-229/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AVEC ÇA...",
+   "style": "dialogue",
+   "point": [
+    369,
+    291
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE PREMIER ROUND EST TERMINÉ.",
+   "style": "dialogue",
+   "point": [
+    429,
+    1939
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VAIS TIRER LE DEUXIÈME DUEL.",
+   "style": "dialogue",
+   "point": [
+    447,
+    3285
+   ],
+   "cut": [
+    [
+     168,
+     3091
+    ],
+    [
+     477,
+     3091
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QU’EST-CE QUI...",
+   "style": "italique",
+   "point": [
+    319,
+    5702
+   ]
+  },
+  {
+   "id": 5,
+   "text": "VIENT DE SE PASSER ?",
+   "style": "italique",
+   "point": [
+    470,
+    7765
+   ]
+  },
+  {
+   "id": 6,
+   "text": "IL EST MORT ?",
+   "style": "italique",
+   "point": [
+    279,
+    8633
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ET TAE-WON KIM, ALORS ?",
+   "style": "italique",
+   "point": [
+    490,
+    9639
+   ]
+  },
+  {
+   "id": 9,
+   "text": "VOILÀ DONC POURQUOI ON APPELLE CE COMBAT LA \"BATAILLE FINALE\".",
+   "style": "italique",
+   "point": [
+    428,
+    11123
+   ],
+   "cut": [
+    [
+     211,
+     10895
+    ],
+    [
+     464,
+     10895
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "text": "MAINTENANT, JE COMPRENDS BIEN.",
+   "style": "italique",
+   "point": [
+    450,
+    12963
+   ]
+  },
+  {
+   "id": 11,
+   "text": "LEUR DÉTERMINATION EST DIFFÉRENTE...",
+   "style": "italique",
+   "point": [
+    413,
+    14303
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ALORS...",
+   "style": "dialogue",
+   "point": [
+    322,
+    2965
+   ],
+   "cut": [
+    [
+     168,
+     3091
+    ],
+    [
+     477,
+     3091
+    ]
+   ]
+  },
+  {
+   "id": 102,
+   "text": "JE VOIS.",
+   "style": "dialogue",
+   "point": [
+    328,
+    10757
+   ],
+   "cut": [
+    [
+     211,
+     10895
+    ],
+    [
+     464,
+     10895
+    ]
+   ]
+  }
+ ]
+}

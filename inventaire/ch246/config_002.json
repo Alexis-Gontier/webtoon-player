@@ -1,0 +1,112 @@
+{
+ "source": "chapters_en/chapter-246/002.webp",
+ "output": "chapters_fr/chapter-246/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST DIFFÉRENT.",
+   "style": "dialogue",
+   "point": [
+    276,
+    713
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET POURTANT, CE KARMA M’EST SI FAMILIER.",
+   "style": "dialogue",
+   "point": [
+    526,
+    1181
+   ]
+  },
+  {
+   "id": 3,
+   "text": "L’ÉCART ENTRE LES DEUX ME REND DINGUE.",
+   "style": "dialogue",
+   "point": [
+    417,
+    2615
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMMENT\nDÉCRIRE\nÇA ?",
+   "style": "systeme",
+   "box": [
+    204,
+    3539,
+    596,
+    3745
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PRESSION ?",
+   "style": "dialogue",
+   "point": [
+    311,
+    4828
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PEUR ?",
+   "style": "dialogue",
+   "point": [
+    527,
+    5356
+   ]
+  },
+  {
+   "id": 7,
+   "text": "DÉSESPOIR ?",
+   "style": "dialogue",
+   "point": [
+    246,
+    5720
+   ]
+  },
+  {
+   "id": 8,
+   "text": "TERREUR ?",
+   "style": "dialogue",
+   "point": [
+    471,
+    6244
+   ]
+  },
+  {
+   "id": 9,
+   "text": "NON. C’EST AUTRE CHOSE.",
+   "style": "italique",
+   "point": [
+    387,
+    7377
+   ]
+  },
+  {
+   "id": 10,
+   "text": "CETTE SENSATION, C’EST...!",
+   "style": "italique",
+   "point": [
+    416,
+    8321
+   ]
+  }
+ ]
+}

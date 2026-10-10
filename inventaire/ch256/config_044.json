@@ -1,0 +1,25 @@
+{
+ "source": "chapters_en/chapter-256/044.webp",
+ "output": "chapters_fr/chapter-256/044.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MÊME À LA FIN... J’AI L’IMPRESSION DE DANSER DANS LA PAUME DE TA MAIN.",
+   "style": "dialogue",
+   "point": [
+    408,
+    2383
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ÉPÉE DE\nLA FAILLE !",
+   "style": "italique",
+   "point": [
+    400,
+    3684
+   ],
+   "erase_color": true
+  }
+ ]
+}

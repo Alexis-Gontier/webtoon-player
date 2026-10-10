@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-262/008.webp",
+ "output": "chapters_fr/chapter-262/008.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "TCH",
+   "style": "dialogue",
+   "point": [
+    125,
+    1700
+   ]
+  }
+ ]
+}

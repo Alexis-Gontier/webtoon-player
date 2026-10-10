@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-255/036.webp",
+ "output": "chapters_fr/chapter-255/036.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "ENFIN",
+   "style": "italique",
+   "point": [
+    353,
+    1888
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MON RÊVE SE RÉALISE ENFIN.",
+   "style": "dialogue",
+   "point": [
+    348,
+    3855
+   ]
+  }
+ ]
+}

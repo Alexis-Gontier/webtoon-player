@@ -1,0 +1,32 @@
+{
+ "source": "chapters_en/chapter-227/025.webp",
+ "output": "chapters_fr/chapter-227/025.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ACCEPTE-LE.",
+   "style": "systeme",
+   "box": [
+    110,
+    6010,
+    720,
+    6230
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 200
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-246/007.webp",
+ "output": "chapters_fr/chapter-246/007.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "OUVERTURE\nDES HOSTILITÉS",
+   "style": "systeme",
+   "box": [
+    40,
+    1665,
+    760,
+    2295
+   ],
+   "light": true,
+   "light_min": 200,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

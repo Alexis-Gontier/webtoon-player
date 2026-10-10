@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-254/033.webp",
+ "output": "chapters_fr/chapter-254/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EN VÉRITÉ...",
+   "style": "cartouche",
+   "point": [
+    373,
+    676
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TOUT PLAYER QUI OBSERVAIT CE COMBAT DE PRÈS...",
+   "style": "cartouche",
+   "point": [
+    374,
+    1738
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NE POUVAIT QUE LE REMARQUER.",
+   "style": "cartouche",
+   "point": [
+    363,
+    3538
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-243/003.webp",
+ "output": "chapters_fr/chapter-243/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PAUVRES\nIDIOTS !",
+   "style": "cri",
+   "point": [
+    428,
+    5442
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VOUS BAISSEZ VOS ARMES DEVANT MOI ?",
+   "style": "italique",
+   "point": [
+    417,
+    6860
+   ]
+  }
+ ]
+}

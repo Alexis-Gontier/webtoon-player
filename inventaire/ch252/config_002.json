@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/002.webp",
+ "output": "chapters_fr/chapter-252/002.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "À SAVOIR...",
+   "style": "cartouche",
+   "point": [
+    361,
+    569
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...QU’AUCUN DES DEUX NE PEUT PLUS VRAIMENT RIEN RESSENTIR.",
+   "style": "cartouche",
+   "point": [
+    377,
+    1536
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA PLUPART DES ÉVÉNEMENTS NE LUI PROCURENT PLUS AUCUNE STIMULATION.",
+   "style": "cartouche",
+   "point": [
+    360,
+    2488
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ELLE SE CONTENTE D’EXISTER, EN REGARDANT LES INSTANTS DÉFILER...",
+   "style": "cartouche",
+   "point": [
+    314,
+    4725
+   ]
+  }
+ ]
+}

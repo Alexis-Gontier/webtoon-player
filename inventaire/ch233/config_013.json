@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-233/013.webp",
+ "output": "chapters_fr/chapter-233/013.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "SALES MÔMES.",
+   "style": "dialogue",
+   "point": [
+    398,
+    2074
+   ]
+  }
+ ]
+}

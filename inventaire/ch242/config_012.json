@@ -1,0 +1,59 @@
+{
+ "source": "chapters_en/chapter-242/012.webp",
+ "output": "chapters_fr/chapter-242/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU VEUX CONNAÎTRE LA RAISON ?",
+   "style": "dialogue",
+   "point": [
+    389,
+    246
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POURQUOI VOUS AVEZ\nCHOISI SEOL-JIN HEO ?",
+   "style": "systeme",
+   "box": [
+    178,
+    4999,
+    622,
+    5203
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 3,
+   "text": "PARCE QUE C’EST UN COMPAGNON DE NOTRE DISCIPLE BIEN-AIMÉE.",
+   "style": "dialogue",
+   "point": [
+    415,
+    5991
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BEN, C’EST QUELQU’UN QUE LE BOSS AIME BIEN AUSSI, ALORS...",
+   "style": "dialogue",
+   "point": [
+    478,
+    6975
+   ]
+  }
+ ]
+}

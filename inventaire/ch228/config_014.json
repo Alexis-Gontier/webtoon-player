@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-228/014.webp",
+ "output": "chapters_fr/chapter-228/014.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "LE PAYS TOMBA EN RUINE.",
+   "style": "dialogue",
+   "point": [
+    401,
+    1210
+   ]
+  }
+ ]
+}

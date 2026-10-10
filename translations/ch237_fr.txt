@@ -1,0 +1,142 @@
+# Chapitre 237. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | -
+001.2 | dialogue | HMM...
+001.3 | dialogue | HMM...
+001.4 | dialogue | HMM ♪
+001.5 | dialogue | -
+001.6 | dialogue | HMM ♪
+001.7 | dialogue | HMMMM ♪
+001.8 | dialogue | -
+001.9 | dialogue | -
+001.10 | dialogue | HMM ♪
+001.11 | dialogue | HMM ♪
+002.1 | dialogue | LAY !
+002.2 | dialogue | -
+002.3 | dialogue | COMMENT S’EST PASSÉ LE COMBAT ?
+002.4 | dialogue | CHUT.
+002.5 | dialogue | -
+002.6 | dialogue | OOH~ QU’EST-CE QUE C’EST QUE ÇA !
+003.1 | dialogue | JE SUIS ARRIVÉ PILE AU BON MOMENT, HEIN ?
+# 003.2-003.4 : même scène que la fin du ch. 236 (p. 27), texte aligné sur le ch. 236.
+003.2 | italique | ...C’EST LE DERNIER.
+003.3 | italique | AVEC UN SEUL COUP DE PLUS,
+003.4 | italique | IL EST TEMPS DE DÉCIDER DU VAINQUEUR.
+004.1 | systeme {"box": [140, 240, 570, 430], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | ALERTE DU SYSTÈME DE\nCOMBAT DU BOSS. TOUTES LES\nUNITÉS DE RÉSERVE\nCONSOMMÉES - 237
+004.2 | systeme {"box": [245, 1300, 650, 1550], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | TOUTES LES UNITÉS\nDE RÉSERVE ONT ÉTÉ\nENTIÈREMENT CONSOMMÉES.
+004.3 | systeme {"box": [190, 2495, 620, 2680], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | COLLECTE DES DONNÉES\nDE LA BOÎTE NOIRE
+004.4 | dialogue | TU M’ENTENDS, DEAN ?
+004.5 | dialogue | MARY GENNOS A ÉTÉ MISE EN SÉCURITÉ.
+005.1 | dialogue | S’IL TE PLAÎT.
+005.2 | italique | OUVRE-NOUS L’AVENIR.
+# EN: Phew.. (oubli : petit texte blanc sur le dessin)
+005.100 | italique {"box": [585, 285, 745, 410], "light": true, "light_min": 200, "max_letter": 60, "grow": 4, "colors": [[255,255,255],[255,255,255]]} | PFIOU...
+005.3 | dialogue | L’AVENIR...
+005.4 | dialogue | HAHA, N’IMPORTE QUOI.
+005.5 | dialogue | -
+005.6 | italique | CETTE LUMIÈRE...
+006.1 | italique | MES VIEUX SOUVENIRS REVIENNENT.
+006.2 | italique | RAN, MARY. AVEC TOUT ÇA...
+006.3 | italique | DIRIEZ-VOUS QUE MA VIE A SUFFI ?
+007.1 | dialogue | -
+007.2 | italique | ATTENDS, DEAN.
+007.3 | italique | TU ES... SÉRIEUX ?
+007.4 | dialogue | MAINTENANT, "HÉROS".
+007.5 | dialogue | J’AI MÊME EU LA GENTILLESSE D’ÉCARTER LES OBSTACLES POUR TOI.
+007.6 | dialogue | -
+007.7 | dialogue | MONTRE-MOI CE QUE TU AS DANS LE VENTRE.
+008.1 | dialogue | DANS L’ACCOMPLISSEMENT FINAL DE TA VIE !
+# EN: COME! (oubli)
+008.100 | cri {"point": [396, 9649]} | VIENS !
+008.2 | systeme {"box": [140, 930, 505, 1115], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | COLLECTE DES DONNÉES DE\nBOÎTE NOIRE DE L’UNITÉ\nDE RÉSERVE TERMINÉE.
+008.3 | systeme {"box": [330, 1255, 670, 1455], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | SYNCHRONISATION CLOUD\nEN COURS... 99 %...\n100 %.
+008.4 | systeme {"box": [195, 5350, 600, 5620], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | ATTENTE DE RENDEZ-VOUS\nDEMANDÉE. ENTRÉE DANS\nLA PHASE FINALE.
+008.5 | dialogue | -
+009.1 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 180} | PROJET : ESPOIR\nEN LIGNE
+009.2 | dialogue | DEAN, J’AI... J’AI TENU MA PART DE LA PROMESSE...
+009.3 | dialogue | TU DOIS REVENIR.
+009.4 | dialogue | -
+009.5 | dialogue | -
+009.6 | dialogue | -
+010.1 | systeme {"box": [100, 1580, 700, 1855], "target": [129, 1613, 673, 1821], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 250, "grow": 6} | TANT PIS SI JE NE PEUX\nPLUS AVANCER.
+010.2 | dialogue | -
+010.3 | systeme {"box": [220, 3345, 580, 3510], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | DANS CE BRAS\nGAUCHE, IL Y A...
+010.4 | systeme {"box": [140, 4900, 660, 5180], "fill": [0,0,0], "light": true, "light_min": 60, "grow": 10, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | MON...\nNOTRE TOUT.
+011.1 | dialogue | ACTIVATION.
+011.2 | systeme {"box": [40, 4010, 745, 4595], "ink_max": 256, "grow": 0, "stretch": 1.4, "colors": [[255,240,170],[255,150,40]]} | PROJET : ESPOIR\nMODÈLE\n000
+012.1 | dialogue | LE CHOIX DE DEAN...
+012.2 | dialogue | NE SE LIMITAIT PAS À RISQUER SA VIE.
+012.3 | systeme {"box": [190, 1270, 610, 1475], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | CE QU’IL AVAIT VERSÉ\nDANS LE "NOYAU",\nC’ÉTAIT...
+012.4 | systeme {"box": [210, 2510, 575, 2650], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 80} | UN "MONDE\nPARFAIT".
+012.5 | dialogue | LE SOUVENIR.
+012.6 | dialogue | L’ÉMOTION.
+012.7 | dialogue | L’EXPÉRIENCE.
+012.8 | dialogue | LE PASSÉ.
+012.9 | dialogue | L’AVENIR.
+012.10 | dialogue | DEAN A TOUT DONNÉ, SON PASSÉ ET SON AVENIR,
+012.11 | dialogue | ET A PLEINEMENT INCARNÉ SON POTENTIEL DE CROISSANCE.
+012.12 | dialogue | EN CHOISISSANT UNE FORME DÉFINITIVE,
+012.13 | dialogue | DEAN, À CET INSTANT PRÉCIS, ÉTAIT DEVENU COMPLET.
+013.1 | dialogue | EN VOYANT CET ÉTAT,
+013.2 | dialogue | -
+013.3 | dialogue | VAN ZICHMUND
+013.4 | dialogue | SOMBRA DANS UN PROFOND DÉSESPOIR.
+013.5 | dialogue | -
+013.6 | dialogue | IMPOSSIBLE...
+013.7 | dialogue | C’EST IMPOSSIBLE.
+013.8 | dialogue | ...
+013.9 | dialogue | ÇA NE PEUT PAS ÊTRE !!!
+014.1 | dialogue | POUR CE MONDE ORDURIER...
+014.2 | dialogue | -
+014.3 | dialogue | MON HÉROS... RENONCE À AVANCER... !
+014.4 | dialogue | -
+014.5 | dialogue | COMBIEN DE CHOSES VEUT-IL ENCORE ME PRENDRE AVANT D’ÊTRE SATISFAIT,
+014.6 | dialogue | -
+014.7 | dialogue | CE MONDE INJUSTE... !
+014.8 | dialogue | LUCIA.
+014.9 | dialogue | AURAIS-JE DÛ L’ARRÊTER ?
+014.10 | dialogue | -
+015.1 | dialogue | SI JE L’AVAIS ARRÊTÉ, ALORS MON HÉROS...
+015.2 | dialogue | AURAIT-IL PU EN FINIR SANS UN SACRIFICE AUSSI VAIN ?
+015.3 | dialogue | MON VAN, NE SOIS PAS TROP TRISTE.
+015.4 | dialogue | TON HÉROS N’A PAS TRAHI TA FOI,
+015.5 | dialogue | IL A SIMPLEMENT CHOISI DE RESTER HUMAIN JUSQU’AU BOUT.
+015.6 | dialogue | MAIS VAN, N’OUBLIE PAS.
+016.1 | dialogue | TU M’AS...
+016.2 | dialogue | MOI, PAS VRAI ?
+016.3 | dialogue | TU TE SOUVIENS, VAN ?
+016.4 | dialogue | LE JOUR DE NOTRE RENCONTRE, DANS LES TÉNÈBRES LES PLUS PROFONDES DE LA TOUR.
+016.5 | dialogue | NOUS NOUS SOMMES PROMIS
+016.6 | dialogue | DE PARTAGER NOS TÉNÈBRES.
+016.7 | dialogue | -
+017.1 | dialogue | OUI... C’EST VRAI.
+017.2 | dialogue | ...MERCI, MA LUCIA. GRÂCE À TOI, JE ME SENS MIEUX.
+017.3 | dialogue | TU AS DÛ T’INQUIÉTER.
+017.4 | italique | BON SANG~ VAN, QUEL PLEURNICHARD TU FAIS
+017.5 | italique | J’AVAIS JUSTE PEUR QUE TU MEURES TOUT SEUL COMME UN IDIOT
+017.6 | dialogue | EUH... VAN...
+017.7 | dialogue | J’AI UNE FAVEUR À TE DEMANDER.
+017.8 | dialogue | CE QUE TU M’AS DIT LE JOUR DE NOTRE RENCONTRE.
+017.9 | dialogue | TU PEUX LE REDIRE ?
+018.1 | dialogue | MA BELLE LUCIA.
+018.2 | dialogue | -
+018.3 | dialogue | -
+018.4 | dialogue | JE DEVIENDRAI TES TÉNÈBRES ÉTERNELLES.
+018.5 | dialogue | ALORS, POUR MOI,
+018.6 | dialogue | FAIS UN MONDE SINCÈRE.
+018.7 | dialogue | D’ACCORD ♥
+018.8 | dialogue | JE LE FERAI SANS FAUTE, UN MONDE SINCÈRE ♥
+018.9 | dialogue | -
+019.1 | dialogue | QUEL DOMMAGE.
+019.2 | dialogue | MÊME EN ESSAYANT, TE COMPRENDRE TOTALEMENT EST IMPOSSIBLE.
+020.1 | dialogue | JE COMPATIS SINCÈREMENT,
+020.2 | dialogue | MAÎTRE D’AVALON, VAN ZICHMUND.
+020.3 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE\nDEUXIÈME ROUND
+020.4 | dialogue | -
+020.5 | dialogue | -
+020.6 | dialogue | -
+021.1 | systeme {"box": [150, 540, 650, 1060], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 200} | VAINQUEUR\nDEAN
+021.2 | dialogue | -
+021.3 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | BATAILLE FINALE\nTROISIÈME ROUND
+021.4 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | SEOL-JIN HEO
+021.5 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | UNNAME
+021.6 | dialogue | -

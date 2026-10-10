@@ -1,0 +1,47 @@
+{
+ "source": "chapters_en/chapter-252/008.webp",
+ "output": "chapters_fr/chapter-252/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET ENSUITE...",
+   "style": "cartouche",
+   "point": [
+    347,
+    675
+   ]
+  },
+  {
+   "id": 2,
+   "text": "L’ILLUSION EXCESSIVE DU \"J’AIMERAIS QUE LA PERSONNE QUI ME PLAÎT M’AIME AUSSI !\"",
+   "style": "cartouche",
+   "point": [
+    355,
+    1402
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET L’AUTOCRITIQUE BRUTALE DU \"IMPOSSIBLE QUE CETTE PERSONNE M’AIME !\"",
+   "style": "cartouche",
+   "point": [
+    338,
+    4217
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    60,
+    4960,
+    660,
+    5000
+   ],
+   "light": true,
+   "grow": 5,
+   "blur_fill": 8
+  }
+ ]
+}

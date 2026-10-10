@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-243/011.webp",
+ "output": "chapters_fr/chapter-243/011.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "...BANDE D’ENFOIRÉS.",
+   "style": "dialogue",
+   "point": [
+    385,
+    6499
+   ]
+  },
+  {
+   "id": 5,
+   "text": "VOUS ESSAYEZ DE VOUS LIGUER CONTRE MOI ?",
+   "style": "dialogue",
+   "point": [
+    431,
+    7894
+   ]
+  },
+  {
+   "id": 100,
+   "text": "COUCOU !",
+   "style": "cri",
+   "point": [
+    393,
+    790
+   ]
+  }
+ ]
+}

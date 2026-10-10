@@ -1,0 +1,129 @@
+# Chapitre 242. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | -
+001.2 | dialogue | SEOL-JIN.
+002.1 | dialogue | PEUX-TU ME PARDONNER ?
+002.2 | dialogue | -
+002.3 | systeme {"box": [140, 5465, 655, 5630], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | DIRE QUE C’ÉTAIT\nÀ CE POINT...
+002.4 | systeme {"box": [150, 5775, 645, 5995], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | À TRAVERS MES YEUX,\nDANS LA VIE QUE\nJ’AI VUE D’ELLE,
+002.5 | systeme {"colors": [[0,0,0],[0,0,0]], "ink_max": 150} | ELLE N’ÉTAIT AIMÉE\nDE PERSONNE,
+003.1 | dialogue | -
+003.2 | systeme {"box": [185, 1190, 615, 1440], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | ET N’A PU AIMER\nPERSONNE\nSINCÈREMENT.
+003.3 | systeme {"box": [255, 1845, 545, 2010], "ink_max": 90, "grow": 5, "colors": [[0,0,0],[0,0,0]], "outline": [255,255,255], "outline_width": 3} | JUSQU’À CE\nQU’IL ME\nRENCONTRE,
+003.4 | italique | HAHA, TE PARDONNER... ?!
+003.5 | italique | TU DIS ÇA SÉRIEUSEMENT ?
+003.6 | dialogue | ...!
+003.7 | systeme {"box": [140, 6720, 660, 6895], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | JE DÉTESTAIS\nVRAIMENT ÇA.
+004.1 | italique | JE NE PEUX PAS TE PARDONNER, VIVIAN.
+004.2 | dialogue | -
+004.3 | systeme {"box": [150, 1585, 650, 1765], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | JE L’AI DÉTESTÉE\nJUSQU’AU BOUT,
+004.4 | dialogue | JE ME SOUVIENS...
+004.5 | dialogue | DE TOUT CE QUE TU AS FAIT.
+004.6 | dialogue | -
+004.7 | systeme {"box": [150, 4395, 650, 4550], "colors": [[0,0,0],[0,0,0]], "ink_max": 150} | JE NE VOULAIS PAS\nCOMPRENDRE.
+005.1 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3, "max_letter": 120} | COMPRENDRE OU NON,\nC’EST À MOI\nD’EN DÉCIDER.
+005.2 | dialogue | -
+005.3 | dialogue | MERCI, SEOL-JIN.
+005.4 | dialogue | DE M’AVOIR FAIT FACE SINCÈREMENT JUSQU’AU BOUT.
+005.5 | dialogue | JE CROIS QUE JE COMPRENDS MAINTENANT, SEIGNEUR ARTHUR.
+006.1 | dialogue | JE COMPRENDS MAINTENANT POURQUOI TU T’ES COUVERT LES YEUX.
+006.2 | dialogue | VI...
+006.3 | dialogue | VI...
+006.4 | dialogue | VI...
+006.5 | dialogue | VIAN... ?
+006.6 | dialogue | VIENS ICI.
+006.7 | dialogue | -
+006.8 | dialogue | LANCELOT.
+007.1 | dialogue | VIVIAN, JE... JE...
+007.2 | dialogue | JE LE SAVAIS.
+007.3 | dialogue | TOI AUSSI, TU ÉTAIS FATIGUÉ, HEIN ?
+008.1 | dialogue | DE CE MONDE DE MERDE.
+008.2 | dialogue | ALORS...
+008.3 | dialogue | PARTONS "ENSEMBLE", LANCELOT.
+008.4 | dialogue | -
+008.5 | dialogue | OUAIS !
+009.1 | dialogue | AH !
+009.2 | dialogue | -
+009.3 | dialogue | NON...
+009.4 | dialogue | NON !!!
+009.5 | dialogue | RÉPONDS-MOI, SEOL-JIN.
+010.1 | italique | SI C’EST COMME ÇA...
+010.2 | italique | AU MOINS, À LA FIN, J’AI PU T’AIDER, HEIN ?
+010.3 | dialogue | -
+010.4 | dialogue | ...OUAIS.
+010.5 | italique | ALORS, SOUVIENS-TOI DE MOI.
+010.6 | italique | SOUVIENS-TOI DE MOI TELLE QUE JE SUIS.
+010.7 | italique | JUSQU’AU JOUR OÙ ON SE REVERRA DANS LE PROCHAIN MONDE.
+011.1 | dialogue | HUH !
+011.2 | dialogue | JE NE SAIS PAS.
+011.3 | dialogue | POURQUOI ALLER AUSSI LOIN
+011.4 | dialogue | POUR MOI...
+012.1 | dialogue | TU VEUX CONNAÎTRE LA RAISON ?
+012.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 120} | POURQUOI VOUS AVEZ\nCHOISI SEOL-JIN HEO ?
+012.3 | dialogue | PARCE QUE C’EST UN COMPAGNON DE NOTRE DISCIPLE BIEN-AIMÉE.
+012.4 | dialogue | BEN, C’EST QUELQU’UN QUE LE BOSS AIME BIEN AUSSI, ALORS...
+013.1 | dialogue | MOI AUSSI
+013.2 | dialogue | JE FAIS JUSTE CONFIANCE AU CHOIX DU TYPE À QUI JE DOIS QUELQUE CHOSE.
+013.3 | dialogue | JE ME SUIS DIT QUE CE CAMP ME SERAIT PROFITABLE.
+013.4 | dialogue | HMM.
+013.5 | dialogue | J’AIMAIS SA DÉTERMINATION.
+013.6 | dialogue | PARCE QUE JE LUI DOIS...
+013.7 | dialogue | JE VOIS.
+013.8 | dialogue | ALORS, QU’EN PENSES-TU ?
+014.1 | dialogue | CE N’EST PAS AUTANT QUE TU LE PENSAIS, HEIN ?
+014.2 | dialogue | TAE-WON...
+014.3 | dialogue | KIM... ?
+014.4 | dialogue | NE ME DEMANDE PAS, D’ACCORD ?
+014.5 | dialogue | PARCE QUE JE NE TE LE DIRAI PAS, MÊME SI JE MEURS.
+014.6 | dialogue | ENFIN, SELON CE QUE TU FERAS, JE POURRAIS TE LE DIRE.
+015.1 | dialogue | TU ES CURIEUX ?
+015.2 | dialogue | VOUS... VRAIMENT...
+015.3 | dialogue | À VOIR VOS TÊTES, VOUS AVEZ L’AIR D’ALLER BIEN.
+015.4 | dialogue | BON, CETTE TÊTE DE DÉTERRÉ TE VA À MERVEILLE.
+015.5 | dialogue | BIEN, ALORS.
+016.1 | dialogue | NE T’AVISE PAS DE FUIR, SEOL-JIN HEO !
+016.2 | italique | MONTRE-NOUS LA SUITE !
+016.3 | italique | MONTRE-NOUS LA SUITE !
+017.1 | dialogue | HEO-
+017.2 | dialogue | -
+017.3 | italique | MERDE.
+018.1 | italique | MERDE !!!
+018.2 | dialogue | -
+018.3 | italique | MÊME AVEC L’ÂME DE NAGI, CETTE ATTAQUE...
+018.4 | italique | ATTENDS, CETTE ATTAQUE...
+018.5 | italique | SE POURRAIT-IL... QUE CE SOIT MA... ?
+019.1 | italique | PAS POSSIBLE, CE GAMIN... !
+019.2 | dialogue | -
+019.3 | dialogue | JE REÇOIS... MA PROPRE ATTAQUE ?
+019.4 | dialogue | IL N’A MÊME PAS PEUR DE LA RANCŒUR ACCUMULÉE EN MOI ?
+019.5 | italique | HA ! RIDICULE.
+019.6 | italique | BON, TRÈS BIEN. GRÂCE À ÇA, J’AI UNE CHANCE DE GAGNER.
+019.7 | italique | SI JE FAIS SEMBLANT DE JOUER LE JEU ET QUE JE RÉCUPÈRE LES ÂMES RÉUNIES ICI...
+019.8 | italique | JE POURRAI ME BATTRE À NOUVEAU... !
+020.1 | dialogue | ALORS, GAMIN.
+020.2 | dialogue | TU VAS LE PARTAGER AVEC MOI ?
+020.3 | dialogue | J’AIMERAIS BIEN, MAIS...
+020.4 | dialogue | -
+020.5 | dialogue | JE DOIS PASSER EN PREMIER.
+020.6 | dialogue | DÉSOLÉ, MAIS TU POURRAIS ATTENDRE UN PEU ?
+020.7 | dialogue | ...QUOI ?
+020.8 | dialogue | TU NE T’ENNUIERAS PAS.
+021.1 | dialogue | J’AI INVITÉ TON AMI AUSSI.
+021.2 | dialogue | ON COMMENCE, ALORS ?
+021.3 | dialogue | DENDAM LAMAKU.
+021.4 | dialogue | UN VRAI COMBAT.
+021.5 | systeme {"box": [90, 4760, 710, 5010], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 260} | DÉBUT
+021.6 | dialogue | -
+022.1 | dialogue | IL L’A ANÉANTI.
+# EN: HEO SEOL-JIN, YOU ARROGANT BRAT!!!! (oubli)
+022.100 | cri {"point": [390, 243]} | SEOL-JIN HEO,\nESPÈCE DE GAMIN\nARROGANT !!!!
+022.2 | dialogue | ÇA AUSSI... EN UN INSTANT... !
+022.3 | dialogue | QU’EST-CE QUI VIENT DE SE PASSER... ?
+022.4 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | SEOL-JIN HEO
+022.5 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 140} | UNNAME
+022.6 | systeme {"box": [90, 6880, 710, 7125], "light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 160} | VAINQUEUR,\nSEOL-JIN HEO.
+023.1 | dialogue | ENFIN, AU SUIVANT !
+024.1 | dialogue | YO, SEOL-JIN HEO !
+024.2 | dialogue | JE T’ATTENDAIS !
+024.3 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 160} | BATAILLE FINALE\nDEMI-FINALE
+024.4 | systeme {"light": true, "grow": 7, "colors": [[255,255,255],[255,255,255]], "max_letter": 160} | DEAN\nCONTRE\nSEOL-JIN HEO
+024.5 | dialogue | -

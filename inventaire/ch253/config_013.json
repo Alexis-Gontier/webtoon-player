@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-253/013.webp",
+ "output": "chapters_fr/chapter-253/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HMM... ON DIRAIT QUE C’EST L’HEURE.",
+   "style": "dialogue",
+   "point": [
+    364,
+    2225
+   ]
+  },
+  {
+   "id": 2,
+   "text": "BON, ÇA TOMBE PARFAITEMENT.",
+   "style": "dialogue",
+   "point": [
+    293,
+    2979
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DANS CETTE SITUATION, CONTRAIREMENT À SEOL-JIN...",
+   "style": "dialogue",
+   "point": [
+    308,
+    4050
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA CONSCIENCE DE CEUX QUI VOULAIENT SATISFAIRE LEURS INTÉRÊTS ÉGOÏSTES A DÛ ATTEINDRE SES LIMITES, NON ?",
+   "style": "dialogue",
+   "point": [
+    434,
+    4439
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CET ESPRIT EST TERRIFIANT, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    220,
+    4832
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-258/026.webp",
+ "output": "chapters_fr/chapter-258/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "RIEN N’EST\nENCORE FINI.",
+   "style": "italique",
+   "point": [
+    391,
+    1277
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU DOIS CROIRE EN TON MAÎTRE JUSQU’AU BOUT, RAY !",
+   "style": "italique",
+   "point": [
+    387,
+    2267
+   ]
+  }
+ ]
+}

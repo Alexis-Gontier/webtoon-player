@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-250/038.webp",
+ "output": "chapters_fr/chapter-250/038.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "VOUS\nDEUX...",
+   "style": "cri",
+   "point": [
+    285,
+    2386
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...VOUS VOUS ÊTES\nEMBRASSÉS ?",
+   "style": "cri",
+   "point": [
+    362,
+    4122
+   ]
+  }
+ ]
+}

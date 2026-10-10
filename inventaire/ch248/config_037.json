@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-248/037.webp",
+ "output": "chapters_fr/chapter-248/037.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HA, PLUTÔT INCROYABLE.",
+   "style": "dialogue",
+   "point": [
+    333,
+    1475
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DIRE QUE TU ES VRAIMENT VENU ICI DE TOI-MÊME.",
+   "style": "dialogue",
+   "point": [
+    368,
+    3670
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BAH, PEU M’IMPORTE. PRENDS-EN AUTANT QUE TU VEUX.",
+   "style": "dialogue",
+   "point": [
+    325,
+    4679
+   ]
+  }
+ ]
+}

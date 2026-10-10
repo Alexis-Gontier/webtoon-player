@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-228/023.webp",
+ "output": "chapters_fr/chapter-228/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON ESSAIE ?",
+   "style": "dialogue",
+   "point": [
+    349,
+    211
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU CROIS POUVOIR ME BATTRE SUR MON TERRITOIRE ?",
+   "style": "dialogue",
+   "point": [
+    456,
+    1311
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET SI, QUAND TU PERDS, TU RESTAIS AU SOUS-SOL À NE RIEN FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    404,
+    3072
+   ]
+  }
+ ]
+}

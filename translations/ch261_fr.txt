@@ -1,0 +1,181 @@
+# Chapitre 261 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+# Légendes noires sur fond blanc (p. 19-23) : systeme en box avec fill blanc. Onomatopées coréennes gardées.
+
+## 001.webp
+001.1 | dialogue | -
+001.2 | dialogue | -
+# EN: HEO SEOL-JIN...
+001.3 | dialogue | SEOL-JIN\nHEO...
+001.4 | dialogue | -
+
+## 002.webp
+# EN: PLEASE... (début de bulle en bas de la page 1, vide)
+002.1 | dialogue | JE T’EN PRIE...
+# EN: USE ME.
+002.2 | cri | UTILISE-MOI.
+
+## 003.webp
+003.1 | dialogue | -
+# EN: BUT...
+003.2 | dialogue | MAIS...
+
+## 004.webp
+# EN: YOU...
+004.1 | dialogue | TOI...
+
+## 005.webp
+# EN: ...
+005.1 | dialogue | ...
+005.2 | dialogue | -
+005.3 | dialogue | -
+005.4 | dialogue | -
+# EN: SEOL-JIN!
+005.5 | dialogue | SEOL-JIN !
+
+## 006.webp
+
+## 007.webp
+# EN: OKAY. LET'S DO THIS TOGETHER...
+007.1 | dialogue {"point": [370, 2010]} | D’ACCORD.\nFAISONS-LE\nENSEMBLE...
+# EN: LAY!
+007.100 | dialogue {"point": [392, 3925]} | LAY !
+
+## 008.webp
+
+## 009.webp
+009.1 | dialogue | -
+
+## 010.webp
+
+## 011.webp
+011.1 | dialogue | -
+# EN: UGH...
+011.2 | dialogue | UGH...
+
+## 012.webp
+# EN: UGH...
+012.1 | dialogue | UGH...
+# EN: WHAT DO I DO NOW?
+012.2 | dialogue | JE FAIS QUOI,\nMAINTENANT ?
+# EN: I DON'T WANT TO LOSE.
+012.3 | dialogue | JE NE VEUX\nPAS PERDRE.
+# EN: EGO WEAPON LUCIA TRANSMOGRIFICATION.
+012.4 | systeme {"box": [50, 3330, 750, 3515], "light": true, "light_min": 200, "max_letter": 90, "grow": 6, "blur_fill": 12, "colors": [[255,255,255],[255,255,255]]} | ARME D’EGO LUCIA\nMÉTAMORPHOSE.
+# EN: SPEAR OF THE END...
+012.5 | systeme {"box": [45, 4615, 410, 4805], "light": true, "light_min": 200, "max_letter": 90, "grow": 6, "blur_fill": 12, "colors": [[255,255,255],[255,255,255]]} | LANCE DE\nLA FIN...
+
+## 013.webp
+# EN: COPY.
+013.1 | systeme | -
+013.100 | systeme {"box": [360, 1000, 800, 1200], "light": true, "light_min": 210, "max_letter": 150, "grow": 7, "blur_fill": 15, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 3} | COPIE.
+
+## 014.webp
+
+## 015.webp
+015.1 | dialogue | -
+015.2 | dialogue | -
+
+## 016.webp
+# EN: LET'S GO TOGETHER TOO, VAN!
+016.1 | cri | ALLONS-Y\nENSEMBLE AUSSI,\nVAN !
+
+## 017.webp
+# EN: AH...
+017.1 | dialogue | AH...
+
+## 018.webp
+
+## 019.webp
+019.1 | dialogue | -
+# EN: INDIVIDUALLY, WE...
+019.2 | systeme {"box": [80, 585, 720, 685], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | SÉPARÉMENT, NOUS...
+# EN: MIGHT BE NOTHING MORE THAN INSIGNIFICANT EXISTENCES...
+019.3 | systeme {"box": [45, 2080, 755, 2305], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | NE SOMMES PEUT-ÊTRE\nQUE DES EXISTENCES\nINSIGNIFIANTES...
+# EN: IT LOOKS LIKE IT'S WORKING!
+019.4 | dialogue | ON DIRAIT QUE ÇA MARCHE !
+019.5 | dialogue | -
+
+## 020.webp
+# EN: LAY, LIBUR! LET'S GIVE IT EVERYTHING WE'VE GOT ONE MORE TIME!
+020.1 | dialogue | LAY, LIBUR ! ON DONNE TOUT CE QU’ON A ENCORE UNE FOIS !
+# EN: AND THAT'S WHY... WE WORRY, WE REGRET, AND EVERYTHING ELSE WE DO...
+020.2 | systeme {"box": [70, 955, 730, 1390], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | ET C’EST POUR ÇA...\nQUE NOUS NOUS INQUIÉTONS,\nQUE NOUS REGRETTONS,\nET TOUT LE RESTE...
+# EN: OKAY!
+020.3 | dialogue | OK !
+# EN: O-OKAY!
+020.4 | dialogue | O-OK !
+# EN: YET...
+020.5 | systeme {"box": [250, 4750, 540, 4875], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | POURTANT...
+
+## 021.webp
+# EN: WE NEVER STOP MOVING FORWARD.
+021.1 | systeme {"box": [125, 540, 700, 720], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | NOUS NE CESSONS\nJAMAIS D’AVANCER.
+# EN: WE STILL CONTINUE...
+021.2 | cri | NOUS\nCONTINUONS...
+
+## 022.webp
+022.1 | dialogue | -
+# EN: SOMETIMES WE'RE BEING GUIDED...
+022.2 | systeme {"box": [105, 1770, 735, 1975], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | PARFOIS, ON NOUS GUIDE...
+# EN: SOMETIMES WE'RE GUIDING...
+022.3 | systeme {"box": [125, 2845, 675, 3025], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | PARFOIS,\nNOUS GUIDONS...
+# EN: BECAUSE THIS IS...
+022.4 | systeme {"box": [105, 4235, 690, 4330], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | CAR C’EST...
+
+## 023.webp
+# EN: THE ONLY PATH TOWARD THE FUTURE WE DREAM OF.
+023.1 | systeme {"box": [80, 890, 720, 1150], "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]]} | LE SEUL CHEMIN\nVERS L’AVENIR\nDONT NOUS RÊVONS.
+# EN: SHE STILL / HAS THIS MUCH POWER LEFT?! (bulle coupée entre les pages 23 et 24)
+023.2 | dialogue | -
+023.100 | italique {"box": [150, 4930, 490, 5000], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "italique"} | ELLE A ENCORE
+
+## 024.webp
+024.1 | italique {"box": [150, 0, 490, 115], "ink_max": 100, "max_letter": 50, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "style": "italique"} | AUTANT DE\nPUISSANCE ?!
+# EN: HOW CAN AN EGO WEAPON DO SOMETHING LIKE THIS WITHOUT ITS MASTER...?!
+024.2 | italique | COMMENT UNE ARME D’EGO PEUT-ELLE FAIRE ÇA SANS SON MAÎTRE...?!
+# EN: IT'S ALRIGHT!
+024.3 | italique | TOUT\nVA BIEN !
+# EN: LIKE I SAID...
+024.4 | dialogue | COMME\nJE L’AI DIT...
+# EN: YOU JUST NEED TO TRUST THE ONE WHO'S WIELDING YOU!
+024.5 | dialogue | IL SUFFIT DE FAIRE CONFIANCE À CELUI QUI TE MANIE !
+
+## 025.webp
+# EN: IDIOT~.
+025.1 | italique | IDIOTE~.
+
+## 026.webp
+# EN: IT'S EXACTLY BECAUSE YOU GO AROUND DEVOURING EVERYTHING THAT YOU END UP IN SITUATIONS LIKE THIS.
+026.1 | italique | C’EST JUSTEMENT PARCE QUE TU DÉVORES TOUT QUE TU TE RETROUVES DANS CE GENRE DE SITUATION.
+# EN: A- / ARTHUR...?!
+026.100 | dialogue {"point": [290, 2000]} | A-
+026.101 | dialogue {"point": [420, 2280]} | ARTHUR...?!
+# EN: MR. ARTHUR!!
+026.2 | cri | MONSIEUR\nARTHUR !!
+
+## 027.webp
+# EN: NOW FOR THE FINISHING BLOW~!
+027.1 | cri | ET MAINTENANT,\nLE COUP DE\nGRÂCE~ !
+027.2 | dialogue | -
+027.3 | dialogue | -
+# EN: WE HAVE TO FINISH HER OFF COMPLETELY THIS TIME, HUH?!
+027.4 | italique | CETTE FOIS, IL FAUT L’ACHEVER POUR DE BON, HEIN ?!
+
+## 028.webp
+# EN: BUT, OF COURSE!
+028.1 | cri | MAIS\nBIEN SÛR !
+# EN: EGO WEAPONS LAY AND LIBUR TRANSMOGRIFICATION...
+028.110 | systeme {"box": [160, 3625, 640, 3925], "ink_max": 256, "grow": 0} | (effacer)
+028.111 | systeme {"box": [160, 3925, 655, 4225], "ink_max": 256, "grow": 0} | (effacer)
+028.112 | systeme {"box": [30, 4225, 780, 4515], "ink_max": 256, "grow": 0} | (effacer)
+028.115 | systeme {"box": [20, 3600, 780, 4560], "ink_max": 0, "target": [40, 3640, 765, 4505], "stretch": 3, "colors": [[255, 255, 255], [255, 255, 255]], "outline": [0, 0, 0], "outline_width": 5, "style": "cri"} | ARMES D’EGO\nLAY ET LIBUR\nMÉTAMORPHOSE...
+
+## 029.webp
+# EN: FORM: DECISIVE STRIKE
+029.1 | dialogue | -
+029.110 | systeme {"box": [140, 335, 640, 660], "ink_max": 256, "grow": 0} | (effacer)
+029.111 | systeme {"box": [95, 660, 710, 920], "ink_max": 256, "grow": 0} | (effacer)
+029.112 | systeme {"box": [145, 985, 650, 1245], "ink_max": 256, "grow": 0} | (effacer)
+029.115 | systeme {"box": [60, 280, 740, 1290], "ink_max": 0, "target": [100, 320, 700, 1250], "stretch": 3, "colors": [[255, 255, 255], [255, 255, 255]], "outline": [0, 0, 0], "outline_width": 5, "style": "cri"} | FORME :\nFRAPPE\nDÉCISIVE
+
+## 030.webp

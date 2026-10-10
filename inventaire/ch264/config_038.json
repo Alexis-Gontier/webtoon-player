@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-264/038.webp",
+ "output": "chapters_fr/chapter-264/038.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET PLUTÔT QUE LE REGRET...",
+   "style": "cartouche",
+   "point": [
+    358,
+    933
+   ]
+  },
+  {
+   "id": 2,
+   "text": "NOUS AVONS CHOISI D’ENTRETENIR L’ESPOIR.",
+   "style": "cartouche",
+   "point": [
+    372,
+    1897
+   ]
+  }
+ ]
+}

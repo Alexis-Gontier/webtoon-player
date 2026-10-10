@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-242/018.webp",
+ "output": "chapters_fr/chapter-242/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MERDE !!!",
+   "style": "italique",
+   "point": [
+    547,
+    473
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MÊME AVEC L’ÂME DE NAGI, CETTE ATTAQUE...",
+   "style": "italique",
+   "point": [
+    423,
+    1306
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ATTENDS, CETTE ATTAQUE...",
+   "style": "italique",
+   "point": [
+    418,
+    6364
+   ]
+  },
+  {
+   "id": 5,
+   "text": "SE POURRAIT-IL... QUE CE SOIT MA... ?",
+   "style": "italique",
+   "point": [
+    436,
+    7406
+   ]
+  }
+ ]
+}

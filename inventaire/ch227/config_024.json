@@ -1,0 +1,41 @@
+{
+ "source": "chapters_en/chapter-227/024.webp",
+ "output": "chapters_fr/chapter-227/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE LES TRAHIS.",
+   "style": "italique",
+   "point": [
+    397,
+    305
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET LES AVALA.",
+   "style": "systeme",
+   "box": [
+    128,
+    6391,
+    670,
+    6469
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  }
+ ]
+}

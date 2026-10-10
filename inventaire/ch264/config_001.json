@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-264/001.webp",
+ "output": "chapters_fr/chapter-264/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "DEPUIS LA DESTRUCTION DE L’ARÈNE CÉLESTE...",
+   "style": "cartouche",
+   "point": [
+    358,
+    1861
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UNE SEMAINE S’EST DÉJÀ ÉCOULÉE.",
+   "style": "cartouche",
+   "point": [
+    343,
+    2491
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AVEC LE RECUL...",
+   "style": "cartouche",
+   "point": [
+    371,
+    3356
+   ]
+  }
+ ]
+}

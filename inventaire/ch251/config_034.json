@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-251/034.webp",
+ "output": "chapters_fr/chapter-251/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON,\nPEU IMPORTE.",
+   "style": "dialogue",
+   "point": [
+    323,
+    2004
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VAIS ÊTRE GÉNÉREUSE ET LAISSER PASSER.",
+   "style": "dialogue",
+   "point": [
+    343,
+    3842
+   ]
+  },
+  {
+   "id": 4,
+   "text": "APRÈS TOUT, LIBUR N’EST QU’UNE ARME D’EGO.",
+   "style": "dialogue",
+   "point": [
+    474,
+    4217
+   ]
+  }
+ ]
+}

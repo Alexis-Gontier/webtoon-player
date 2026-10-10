@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-239/028.webp",
+ "output": "chapters_fr/chapter-239/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CET HOMME, QUELLE EST SA VRAIE IDENTITÉ ?",
+   "style": "dialogue",
+   "point": [
+    469,
+    881
+   ]
+  },
+  {
+   "id": 2,
+   "text": "EH BIEN...",
+   "style": "dialogue",
+   "point": [
+    360,
+    1676
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU AS OUBLIÉ ?",
+   "style": "dialogue",
+   "point": [
+    424,
+    2742
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST \"LE PLAYER\" QUE J’AI CHOISI.",
+   "style": "dialogue",
+   "point": [
+    418,
+    3750
+   ]
+  }
+ ]
+}

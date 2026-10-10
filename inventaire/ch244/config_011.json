@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-244/011.webp",
+ "output": "chapters_fr/chapter-244/011.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "JE TE CONFIE MON MONDE.",
+   "style": "dialogue",
+   "point": [
+    434,
+    13720
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SEOL-JIN\nHEO !",
+   "style": "dialogue",
+   "point": [
+    426,
+    9625
+   ]
+  }
+ ]
+}

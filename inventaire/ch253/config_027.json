@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-253/027.webp",
+ "output": "chapters_fr/chapter-253/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "POURQUOI T’ES-TU MONTRÉE À MOI DE TOI-MÊME ?",
+   "style": "dialogue",
+   "point": [
+    351,
+    270
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE SERAI\nBRÈVE...",
+   "style": "dialogue",
+   "point": [
+    358,
+    2843
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BRÛLE-MOI,\nKINA LILLET.",
+   "style": "cri",
+   "point": [
+    363,
+    4086
+   ]
+  }
+ ]
+}

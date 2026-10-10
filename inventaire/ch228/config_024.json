@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-228/024.webp",
+ "output": "chapters_fr/chapter-228/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TON \"RÉCEPTACLE\" T’A ÉTÉ RETIRÉ.",
+   "style": "dialogue",
+   "point": [
+    329,
+    4052
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI TU QUITTES CET ESPACE,",
+   "style": "dialogue",
+   "point": [
+    356,
+    5175
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TON EXISTENCE NE POURRA PAS SE MAINTENIR.",
+   "style": "dialogue",
+   "point": [
+    483,
+    5511
+   ]
+  }
+ ]
+}

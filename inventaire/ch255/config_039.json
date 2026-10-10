@@ -1,0 +1,45 @@
+{
+ "source": "chapters_en/chapter-255/039.webp",
+ "output": "chapters_fr/chapter-255/039.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "BATTEMENT.",
+   "style": "italique",
+   "box": [
+    260,
+    0,
+    505,
+    50
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "target": [
+    260,
+    0,
+    505,
+    50
+   ],
+   "max_size": 27,
+   "seam": "top"
+  }
+ ]
+}

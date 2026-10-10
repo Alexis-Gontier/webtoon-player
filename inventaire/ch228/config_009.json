@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-228/009.webp",
+ "output": "chapters_fr/chapter-228/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOI,",
+   "style": "dialogue",
+   "point": [
+    319,
+    186
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUI ES-TU ?",
+   "style": "dialogue",
+   "point": [
+    416,
+    1149
+   ]
+  }
+ ]
+}

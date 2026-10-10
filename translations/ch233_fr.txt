@@ -1,0 +1,116 @@
+# Chapitre 233. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | OUAIS, C’EST ÇA.
+001.2 | dialogue | C’EST ÇA !
+001.3 | dialogue | C’EST...
+002.1 | dialogue | C’EST ÇA QUE JE VOULAIS VOIR !
+002.2 | dialogue | -
+002.3 | dialogue | IL ME RESTE COMBIEN DE CŒUR, LUCIA ?
+002.4 | dialogue {"max_size": 40, "cut": [[222, 7520], [568, 7544]]} | AVEC CE QUI VIENT DE SE PASSER, ÇA FAIT 30 FOIS♥
+002.5 | dialogue {"cut": [[222, 7520], [568, 7544]]} | À PARTIR DE MAINTENANT, TU NE POURRAS EMPRUNTER MON POUVOIR QUE DEUX OU TROIS FOIS DE PLUS♥
+002.6 | dialogue | CEPENDANT...
+002.7 | dialogue | MÊME LA LUMIÈRE DE TON HÉROS A COMMENCÉ À FAIBLIR.
+002.8 | dialogue | HUHU♥
+002.9 | dialogue | QUEL CAMP VA ATTEINDRE SA LIMITE EN PREMIER, À TON AVIS ?
+002.10 | italique | LA SITUATION EST DÉFAVORABLE... !
+003.1 | italique | À PARTIR DE MAINTENANT,
+003.2 | italique | UNE SEULE "VARIABLE" DÉCIDERA DE LA VICTOIRE OU DE LA DÉFAITE... !
+003.3 | dialogue | HMPH !
+003.4 | dialogue | QUE C’EST VULGAIRE !
+003.5 | dialogue | C’EST DANS CE PETIT TROU À RATS QUE TU TE CACHAIS ?
+004.1 | dialogue | ON DIRAIT QU’ESPÉRER QUOI QUE CE SOIT NE MÈNERA QU’À LA PERTE.
+004.2 | dialogue {"box": [250, 6505, 615, 6662], "target": [305, 6450, 620, 6710], "fill": [255,255,255], "ink_max": 150, "max_letter": 60, "colors": [[0,0,0],[0,0,0]]} | ATELIER\nDES GENNOS\nZONE ULTRA-\nSECRÈTE
+004.3 | dialogue | SOUS-SOL DE L’ATELIER
+004.4 | dialogue | L’ÂME DE MARY GENNOS, EN CE MOMENT,
+004.5 | dialogue | SOUS L’ARÈNE CÉLESTE, DANS LE TERRARIUM DE LA TOUR CÉLESTE.
+004.6 | dialogue | BRÛLE AU PLUS HAUT NIVEAU !
+004.7 | italique | HOHO... QUELLE CHANCE INATTENDUE !
+005.1 | italique | L’OCCASION DE TESTER CES PROTOTYPES QUI PRENAIENT LA POUSSIÈRE EST ENFIN ARRIVÉE~ !
+005.2 | dialogue | DES PROTOTYPES... ?
+005.3 | dialogue | TU ENVOIES CE GENRE DE TRUCS DANS UN COMBAT À MORT ?
+005.4 | dialogue | TU ME PRENDS POUR QUI ?
+005.5 | dialogue | -
+005.6 | dialogue {"point": [340, 6780], "cut": [[265, 7016], [560, 6907]]} | LE TERME "PROTOTYPE" DÉSIGNE DU MATÉRIEL PEU DURABLE OU PEU EFFICACE,
+005.7 | dialogue {"point": [512, 7180], "cut": [[265, 7016], [560, 6907]]} | CE QUI LE REND INADAPTÉ À UN USAGE NORMAL.
+005.8 | dialogue | MAIS EN FAIT, IL S’AVÈRE TRÈS EFFICACE EN COMBAT DE COURTE DURÉE !
+005.9 | dialogue | -
+005.10 | dialogue | SI JE M’EN SERS SANS RETENUE, MÊME CE SALAUD DE DENN N’AURA RIEN À REDIRE, HEIN ?
+005.11 | dialogue | ÉDITION PURIFICATION D’ADMISSION À ÉMISSION D’AIR INTELLIGENTE
+005.12 | dialogue | ÉDITION RENFORCEMENT D’ÉPÉE (FAITE EN S’ARRACHANT LES ONGLES DE RAGE)
+005.13 | dialogue | ÉDITION REVOLVER ROMANTIQUE
+005.14 | italique | QU’IL SOIT AU MOINS À LA HAUTEUR DE CE QUE J’EN AI DIT...
+005.15 | dialogue | BON, IL S’EST PEUT-ÊTRE GLISSÉ QUELQUES PIÈCES DE RÉCUP...
+005.16 | dialogue | -
+006.1 | dialogue | -
+006.2 | dialogue | TU L’AS VRAIMENT TROUVÉE.
+006.3 | dialogue | "ARME D’EGO !"
+006.4 | dialogue | ON SUIT LE PLAN !
+006.5 | dialogue | ON SE CONCENTRE SUR LE SOUTIEN À DEAN !
+006.6 | dialogue | ...TU ES SÛRE QUE CE "PLAN" TIENT LA ROUTE ?
+006.7 | dialogue | COMBIEN DE TEMPS POURRONT-ILS RÉSISTER À L’ARME D’EGO DU DIEU ABSOLU...
+006.8 | dialogue | ÇA IRA.
+007.1 | dialogue | ...IL N’Y A AUCUNE PREUVE,
+007.2 | dialogue | MAIS JE NE SAIS PAS POURQUOI, CE SENTIMENT... OUAIS.
+007.3 | dialogue {"point": [311, 1991], "cut": [[135, 2118], [489, 2118]]} | POUR L’INSTANT...
+007.4 | italique | BON SANG.
+007.5 | italique | LA PUISSANCE DU NOYAU... !
+007.6 | dialogue | -
+007.7 | italique | NE T’ARRÊTE PAS !
+007.8 | italique | BRÛLE !
+007.9 | italique | MON ÂME !
+007.10 | italique | MON CORPS !
+007.100 | dialogue {"point": [440, 2335], "cut": [[135, 2118], [489, 2118]]} | FAISONS TOUT CE QU’ON PEUT POUR LA VICTOIRE DE DEAN.
+008.1 | italique {"box": [215, 150, 640, 420], "target": [255, 190, 600, 400], "fill": [255,255,255], "ink_max": 150, "max_letter": 70, "colors": [[0,0,0],[0,0,0]]} | TOUT\nMON ÊTRE !
+008.2 | italique | LUCIA !
+008.3 | dialogue {"erase_color": true} | ESPÈCE DE VOYOU !!!
+008.4 | dialogue | OUI~♥
+008.5 | systeme {"box": [120, 7640, 495, 7900], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90, "target": [150, 7735, 465, 7860], "stretch": 1.3} | ALERTE : ACTIVATION\nDU CONTACT D’URGENCE.
+008.6 | systeme {"box": [235, 8600, 680, 8800], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | LIEU D’ÉMISSION :\nFORGE GENNOS\nCONNEXION AUDIO.
+008.7 | italique | QUOI ?! JE SUIS OCCUPÉE, LÀ !
+008.8 | italique | SI CE N’EST PAS URGENT, PLUS TARD !
+008.9 | dialogue | -
+008.10 | dialogue | QUOI ?!
+008.11 | dialogue | L’ARME D’EGO D’ARTHUR.
+009.1 | dialogue | À MARY... ?
+009.2 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | ABSOLUMENT...
+009.3 | dialogue | -
+009.4 | dialogue | HÉHÉ, JE L’AI~
+# EN: CRASH / CRASH (onomatopées en bulle, oubli)
+009.100 | cri {"box": [326, 5122, 569, 5274], "fill": [255,255,255], "ink_max": 150, "max_letter": 120, "colors": [[0,0,0],[0,0,0]]} | CRAC
+009.101 | cri {"box": [551, 5929, 773, 6070], "fill": [255,255,255], "ink_max": 150, "max_letter": 120, "colors": [[0,0,0],[0,0,0]]} | CRAC
+009.5 | systeme {"box": [190, 7590, 610, 7800], "target": [200, 7600, 600, 7790], "light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | LE DÉSESPOIR\nARRIVE TOUJOURS...
+009.6 | systeme {"light": true, "grow": 6, "colors": [[255,255,255],[255,255,255]], "max_letter": 90} | AUX MOMENTS\nLES PLUS\nCRITIQUES.
+009.7 | dialogue | -
+009.8 | dialogue | C’EST POUR ÇA...
+009.9 | dialogue | QU’ON DOIT AVANCER ENSEMBLE.
+009.10 | dialogue | N’OUBLIE PAS.
+010.1 | dialogue | SIRE DEAN.
+010.2 | dialogue | TU N’ES PAS SEUL.
+010.3 | dialogue {"point": [470, 4536], "cut": [[209, 4331], [507, 4331]]} | QU’EST-CE QUE JE DOIS FAIRE ?
+010.4 | dialogue | NE T’INQUIÈTE DE RIEN ET GAGNE, C’EST TOUT.
+010.5 | dialogue | ON S’EN OCCUPE.
+010.6 | dialogue | -
+010.7 | dialogue | -
+010.100 | dialogue {"point": [357, 4223], "cut": [[209, 4331], [507, 4331]]} | ALORS...
+011.1 | italique | AUGMENTE LA PUISSANCE !
+011.2 | italique | DE QUOI ME FAIRE TREMBLER LES MAINS... !
+011.3 | dialogue | KYAK~
+011.4 | italique | "LA VARIABLE" EST APPARUE !
+011.5 | dialogue | ALORS, FAIS-MOI CONFIANCE !
+011.6 | dialogue | PASTIS !
+011.7 | dialogue | HÉ, VOUS, LES MACHINS-EGO, C’EST ÇA ?
+011.8 | dialogue | -
+011.9 | dialogue | -
+011.10 | dialogue | J’AI CRU QUE J’ALLAIS MOURIR À ATTENDRE.
+011.11 | dialogue | UN SIMPLE HUMAIN. UN DÉCHET,
+011.12 | dialogue | NE ME DIS PAS... QUE TU PENSES À ESSAYER DE NOUS ARRÊTER ?
+012.1 | dialogue | ESSAYER DE NOUS BARRER LA ROUTE...
+012.2 | dialogue | TU ES FOU ?
+012.3 | dialogue | QU’EST-CE QU’UN SIMPLE SERVITEUR COMME MOI POURRAIT BIEN UTILISER POUR ARRÊTER L’ARME D’EGO D’UN DIEU ?
+012.4 | dialogue | C’EST PATHÉTIQUE, MAIS AFFRONTER LE "DIEU ABSOLU" ME L’A FAIT COMPRENDRE À NOUVEAU, TU SAIS ?
+012.5 | dialogue | CETTE IMPUISSANCE ÉCRASANTE QU’ON RESSENT FACE À UNE CHOSE QUI DÉFIE TOUT BON SENS, C’EST DINGUE.
+012.6 | dialogue | ALORS...
+012.7 | dialogue | VOUS DEVRIEZ ESSAYER, VOUS AUSSI.
+012.8 | dialogue | BON, MAINTENANT, UN PEU DE RESPECT,
+013.1 | dialogue | -
+013.2 | dialogue | SALES MÔMES.
+013.3 | dialogue | -

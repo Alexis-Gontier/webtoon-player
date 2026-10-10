@@ -1,0 +1,168 @@
+{
+ "source": "chapters_en/chapter-232/002.webp",
+ "output": "chapters_fr/chapter-232/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL L’A PERCÉ ?",
+   "style": "italique",
+   "point": [
+    295,
+    2896
+   ]
+  },
+  {
+   "id": 3,
+   "text": "L’\"ESPACE\" OÙ SEULS LUCIA ET MOI POUVIONS ENTRER... ?!",
+   "style": "italique",
+   "point": [
+    507,
+    3815
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UNE LUMIÈRE QUI REPOUSSE LES TÉNÈBRES...",
+   "style": "italique",
+   "point": [
+    347,
+    4579
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST ÇA QUE J’APPELLE DE L’\"IMAGINATION\" !",
+   "style": "italique",
+   "point": [
+    412,
+    5546
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PROJET : ESPOIR\nSYSTÈME D’APPUI\nAU COMBAT ACTIVÉ.",
+   "style": "systeme",
+   "point": [
+    307,
+    6278
+   ],
+   "box": [
+    75,
+    6135,
+    530,
+    6370
+   ],
+   "target": [
+    101,
+    6196,
+    514,
+    6360
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90,
+   "stretch": 1.25
+  },
+  {
+   "id": 7,
+   "text": "FOURNITURE D’UNE\nARME ADAPTÉE\nÀ LA SITUATION.",
+   "style": "systeme",
+   "point": [
+    492,
+    6607
+   ],
+   "box": [
+    290,
+    6490,
+    700,
+    6710
+   ],
+   "target": [
+    307,
+    6530,
+    678,
+    6685
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90,
+   "stretch": 1.25
+  },
+  {
+   "id": 8,
+   "text": "UN FUSIL... POUR UN \"ÉPÉISTE...\" ?!",
+   "style": "dialogue",
+   "point": [
+    300,
+    9873
+   ]
+  },
+  {
+   "id": 9,
+   "text": "MARY, ESPÈCE DE FOLLE, TU AS COMPLÈTEMENT PERDU LA TÊTE !",
+   "style": "dialogue",
+   "point": [
+    430,
+    10261
+   ]
+  },
+  {
+   "id": 10,
+   "text": "CHEF-D’ŒUVRE\nDE MARY GENNOS",
+   "style": "dialogue",
+   "point": [
+    403,
+    11620
+   ],
+   "box": [
+    205,
+    11545,
+    600,
+    11695
+   ],
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "ink_max": 150,
+   "max_letter": 60,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

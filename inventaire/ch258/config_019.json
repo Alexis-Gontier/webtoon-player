@@ -1,0 +1,86 @@
+{
+ "source": "chapters_en/chapter-258/019.webp",
+ "output": "chapters_fr/chapter-258/019.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "...ET ENVAHIRENT LE MONDE\nDE CEUX QUI JOUISSAIENT\nDE LA PAIX DE L’IGNORANCE.",
+   "style": "systeme",
+   "box": [
+    68,
+    3937,
+    730,
+    4210
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    60
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    75,
+    490,
+    740,
+    740
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 101,
+   "text": "...DÉBORDÈRENT\nDES LIMITES OÙ\nILS DEVAIENT RESTER...",
+   "style": "systeme",
+   "box": [
+    75,
+    490,
+    740,
+    740
+   ],
+   "target": [
+    120,
+    530,
+    690,
+    710
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    20,
+    20,
+    60
+   ],
+   "outline_width": 3
+  }
+ ]
+}

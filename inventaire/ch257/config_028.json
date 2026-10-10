@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/028.webp",
+ "output": "chapters_fr/chapter-257/028.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ET LE FRUIT DE CE SERMENT...",
+   "style": "cartouche",
+   "point": [
+    397,
+    1539
+   ]
+  },
+  {
+   "id": 3,
+   "text": "FUT LA NAISSANCE DU PREMIER MAÎTRE D’ARME D’EGO.",
+   "style": "cartouche",
+   "point": [
+    394,
+    3278
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ZICHMUND TEIGNIT SES CHEVEUX EN NOIR.",
+   "style": "cartouche",
+   "point": [
+    394,
+    4446
+   ]
+  }
+ ]
+}

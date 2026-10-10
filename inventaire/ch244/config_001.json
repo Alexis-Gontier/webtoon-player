@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-244/001.webp",
+ "output": "chapters_fr/chapter-244/001.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ALORS, JE ME DOUTAIS QUE TU L’ACCEPTERAIS.",
+   "style": "italique",
+   "point": [
+    355,
+    1121
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SEOL-JIN\nHEO !",
+   "style": "cri",
+   "point": [
+    397,
+    1997
+   ]
+  },
+  {
+   "id": 4,
+   "text": "V16, LIBÉRATION\nDE L’ÉPÉE.",
+   "style": "cri",
+   "point": [
+    388,
+    8001
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ÉPÉE\nDÉCHIRANTE !",
+   "style": "cri",
+   "point": [
+    424,
+    8712
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-257/021.webp",
+ "output": "chapters_fr/chapter-257/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST AUSSI LA PREUVE QUE CE MONDE EST FAUX.",
+   "style": "dialogue",
+   "point": [
+    401,
+    170
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE SUIS DESCENDU ICI POUR VÉRIFIER QU’IL EXISTE.",
+   "style": "dialogue",
+   "point": [
+    378,
+    1640
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE VOULAIS LE VOIR DE MES PROPRES YEUX.",
+   "style": "dialogue",
+   "point": [
+    349,
+    3314
+   ]
+  },
+  {
+   "id": 4,
+   "text": "VOIR SI CE QUE MON RÉCEPTACLE DEVAIT CONTENIR AVAIT VRAIMENT UNE VALEUR.",
+   "style": "dialogue",
+   "point": [
+    510,
+    3737
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POUR FAIRE SIMPLE... OUI.",
+   "style": "dialogue",
+   "point": [
+    351,
+    4812
+   ]
+  }
+ ]
+}

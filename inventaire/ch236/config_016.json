@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-236/016.webp",
+ "output": "chapters_fr/chapter-236/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "INTÉRESSANT !",
+   "style": "dialogue",
+   "point": [
+    322,
+    201
+   ]
+  },
+  {
+   "id": 3,
+   "text": "VAS-Y, JE VAIS L’ESQUIVER !",
+   "style": "dialogue",
+   "point": [
+    428,
+    1419
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TELLEMENT NAÏF !",
+   "style": "dialogue",
+   "point": [
+    334,
+    4886
+   ]
+  },
+  {
+   "id": 5,
+   "text": "POURQUOI J’ESQUIVERAIS UNE ATTAQUE ÉVITABLE ?",
+   "style": "dialogue",
+   "point": [
+    443,
+    5324
+   ]
+  },
+  {
+   "id": 6,
+   "text": "DES TIRS IRRÉFLÉCHIS.",
+   "style": "dialogue",
+   "point": [
+    309,
+    7234
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ET LA PUISSANCE DE LES EXÉCUTER.",
+   "style": "dialogue",
+   "point": [
+    515,
+    7471
+   ]
+  },
+  {
+   "id": 8,
+   "text": "BON, ELLE A BIEN MORDU À L’HAMEÇON !",
+   "style": "italique",
+   "point": [
+    343,
+    8114
+   ]
+  },
+  {
+   "id": 9,
+   "text": "J’AI ASSEZ MONTRÉ MA CAPACITÉ. MAINTENANT, TOUT CE QUI RESTE...",
+   "style": "italique",
+   "point": [
+    479,
+    8374
+   ]
+  }
+ ]
+}

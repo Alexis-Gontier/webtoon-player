@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-247/012.webp",
+ "output": "chapters_fr/chapter-247/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMBAT ?",
+   "style": "dialogue",
+   "point": [
+    372,
+    2480
+   ]
+  },
+  {
+   "id": 100,
+   "text": "MON...",
+   "style": "dialogue",
+   "point": [
+    310,
+    2185
+   ]
+  }
+ ]
+}

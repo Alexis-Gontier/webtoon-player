@@ -1,0 +1,32 @@
+{
+ "source": "chapters_en/chapter-227/029.webp",
+ "output": "chapters_fr/chapter-227/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PLUS DE\nRETOUR EN ARRIÈRE.",
+   "style": "systeme",
+   "box": [
+    85,
+    660,
+    740,
+    960
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 200
+  }
+ ]
+}

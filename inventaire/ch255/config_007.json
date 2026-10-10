@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-255/007.webp",
+ "output": "chapters_fr/chapter-255/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CAR CE QU’IL VEUT PROTÉGER DEVIENT INÉBRANLABLE.",
+   "style": "italique",
+   "point": [
+    365,
+    1029
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DANS MON CAS, C’ÉTAIT LE MONT HUAGUO.",
+   "style": "italique",
+   "point": [
+    371,
+    2014
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-252/031.webp",
+ "output": "chapters_fr/chapter-252/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "APRÈS UNE LONGUE ATTENTE...",
+   "style": "cartouche",
+   "point": [
+    371,
+    3598
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LA RÉPONSE TOMBA\nENFIN.",
+   "style": "cartouche",
+   "point": [
+    350,
+    4535
+   ]
+  }
+ ]
+}

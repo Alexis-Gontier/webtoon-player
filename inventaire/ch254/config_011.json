@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-254/011.webp",
+ "output": "chapters_fr/chapter-254/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST BIEN\nVOUS, ÇA !",
+   "style": "cri",
+   "point": [
+    204,
+    1392
+   ]
+  },
+  {
+   "id": 3,
+   "text": "VOYONS...",
+   "style": "dialogue",
+   "point": [
+    405,
+    4791
+   ]
+  }
+ ]
+}

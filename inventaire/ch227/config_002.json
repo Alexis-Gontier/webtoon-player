@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-227/002.webp",
+ "output": "chapters_fr/chapter-227/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE M’APPELLE MIRAGE.",
+   "style": "dialogue",
+   "point": [
+    427,
+    2077
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE TE PROPOSE UN \"CONTRAT\".",
+   "style": "dialogue",
+   "point": [
+    408,
+    4294
+   ]
+  }
+ ]
+}

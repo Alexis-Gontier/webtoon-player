@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-238/003.webp",
+ "output": "chapters_fr/chapter-238/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...BON SANG !",
+   "style": "dialogue",
+   "point": [
+    359,
+    3859
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE M’ÉTAIS TROP HABITUÉE AU CONCEPT DE \"RÉSURRECTION\".",
+   "style": "italique",
+   "point": [
+    451,
+    5072
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AVEC L’ÉQUIPEMENT DU LABO ET MES CONNAISSANCES MÉDICALES...",
+   "style": "italique",
+   "point": [
+    278,
+    5907
+   ]
+  },
+  {
+   "id": 4,
+   "text": "C’EST LE MIEUX QUE J’AI PU FAIRE... !",
+   "style": "italique",
+   "point": [
+    413,
+    6265
+   ]
+  },
+  {
+   "id": 5,
+   "text": "À CE RYTHME,",
+   "style": "italique",
+   "point": [
+    332,
+    7394
+   ]
+  },
+  {
+   "id": 6,
+   "text": "MÊME SI CES GAMINS SURVIVENT...",
+   "style": "italique",
+   "point": [
+    477,
+    7785
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ILS NE SERONT PLUS JAMAIS DES \"PLAYERS\"... !",
+   "style": "italique",
+   "point": [
+    417,
+    8623
+   ]
+  },
+  {
+   "id": 8,
+   "text": "NE T’ARRÊTE PAS, GENNOS !",
+   "style": "italique",
+   "point": [
+    428,
+    9529
+   ]
+  },
+  {
+   "id": 9,
+   "text": "CONTINUE !",
+   "style": "italique",
+   "point": [
+    403,
+    12991
+   ]
+  },
+  {
+   "id": 10,
+   "text": "OUAIS, \"COOKIE\" !",
+   "style": "dialogue",
+   "point": [
+    343,
+    13994
+   ]
+  }
+ ]
+}

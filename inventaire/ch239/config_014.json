@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-239/014.webp",
+ "output": "chapters_fr/chapter-239/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST QUOI CE DÉLIRE ? VOUS FLIRTEZ DANS UNE SITUATION PAREILLE ?",
+   "style": "italique",
+   "point": [
+    357,
+    73
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI C’EST UN TRIANGLE AMOUREUX, CHOISIS-EN UNE, QU’ON EN FINISSE !!!",
+   "style": "italique",
+   "point": [
+    578,
+    490
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TELLEMENT D’ÉNERGIE, C’EST DRÔLE À REGARDER !",
+   "style": "italique",
+   "point": [
+    291,
+    809
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BON SANG, CES PETITS MORVEUX...",
+   "style": "dialogue",
+   "point": [
+    314,
+    1174
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUELLE ANIMATION. SÉRIEUX.",
+   "style": "dialogue",
+   "point": [
+    472,
+    1760
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE NE PEUX PAS LAISSER PASSER ÇA.",
+   "style": "dialogue",
+   "point": [
+    381,
+    4237
+   ]
+  }
+ ]
+}

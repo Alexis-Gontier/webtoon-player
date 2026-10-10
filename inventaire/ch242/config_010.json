@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-242/010.webp",
+ "output": "chapters_fr/chapter-242/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SI C’EST COMME ÇA...",
+   "style": "italique",
+   "point": [
+    403,
+    172
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AU MOINS, À LA FIN, J’AI PU T’AIDER, HEIN ?",
+   "style": "italique",
+   "point": [
+    426,
+    1893
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...OUAIS.",
+   "style": "dialogue",
+   "point": [
+    405,
+    4505
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALORS, SOUVIENS-TOI DE MOI.",
+   "style": "italique",
+   "point": [
+    352,
+    5285
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SOUVIENS-TOI DE MOI TELLE QUE JE SUIS.",
+   "style": "italique",
+   "point": [
+    402,
+    6179
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JUSQU’AU JOUR OÙ ON SE REVERRA DANS LE PROCHAIN MONDE.",
+   "style": "italique",
+   "point": [
+    406,
+    7316
+   ]
+  }
+ ]
+}

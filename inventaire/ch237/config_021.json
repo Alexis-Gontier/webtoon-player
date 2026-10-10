@@ -1,0 +1,114 @@
+{
+ "source": "chapters_en/chapter-237/021.webp",
+ "output": "chapters_fr/chapter-237/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VAINQUEUR\nDEAN",
+   "style": "systeme",
+   "point": [
+    400,
+    797
+   ],
+   "box": [
+    150,
+    540,
+    650,
+    1060
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 200
+  },
+  {
+   "id": 3,
+   "text": "BATAILLE FINALE\nTROISIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    51,
+    4957,
+    749,
+    5183
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 4,
+   "text": "SEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    154,
+    5285,
+    645,
+    5409
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 5,
+   "text": "UNNAME",
+   "style": "systeme",
+   "box": [
+    251,
+    5740,
+    585,
+    5870
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  }
+ ]
+}

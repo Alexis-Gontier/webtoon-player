@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-254/021.webp",
+ "output": "chapters_fr/chapter-254/021.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "J’Y PENSAIS TOUT À L’HEURE...",
+   "style": "dialogue",
+   "point": [
+    310,
+    3109
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SEIGNEUR\nARTHUR.",
+   "style": "dialogue",
+   "point": [
+    399,
+    4108
+   ]
+  }
+ ]
+}

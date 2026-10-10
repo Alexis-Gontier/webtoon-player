@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-235/011.webp",
+ "output": "chapters_fr/chapter-235/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PARCE QUE MOI SEUL PEUX FAIRE ÇA, JE... !",
+   "style": "italique",
+   "point": [
+    502,
+    251
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE FERAI TOUT POUR RÉUSSIR !!!",
+   "style": "italique",
+   "point": [
+    401,
+    3260
+   ]
+  },
+  {
+   "id": 5,
+   "text": "JE M’APPELLE RYUJIN.",
+   "style": "italique",
+   "point": [
+    387,
+    5006
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE SUIS VENU TE DEMANDER UNE FAVEUR.",
+   "style": "italique",
+   "point": [
+    387,
+    5975
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LE DIEU ABSOLU,\nARTHUR !",
+   "style": "italique",
+   "point": [
+    438,
+    8876
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-228/010.webp",
+ "output": "chapters_fr/chapter-228/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE VIEUX DU HAUT DE LA COLLINE.",
+   "style": "dialogue",
+   "point": [
+    321,
+    1098
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE PLUS ANCIEN DES TÉNÈBRES.",
+   "style": "dialogue",
+   "point": [
+    508,
+    1690
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE SAGE DE L’EST.",
+   "style": "dialogue",
+   "point": [
+    284,
+    2398
+   ]
+  },
+  {
+   "id": 4,
+   "text": "UN HOMME PRÉVOYANT.",
+   "style": "dialogue",
+   "point": [
+    502,
+    2980
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LE PROPHÈTE DE LA FIN.",
+   "style": "dialogue",
+   "point": [
+    288,
+    3559
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ET MAINTENANT...",
+   "style": "dialogue",
+   "point": [
+    496,
+    4543
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE DÉMON.",
+   "style": "dialogue",
+   "point": [
+    371,
+    5211
+   ]
+  },
+  {
+   "id": 8,
+   "text": "...C’EST COMME ÇA QU’ON M’APPELAIT.",
+   "style": "dialogue",
+   "point": [
+    418,
+    7418
+   ]
+  }
+ ]
+}

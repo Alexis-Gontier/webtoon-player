@@ -1,0 +1,123 @@
+{
+ "source": "chapters_en/chapter-240/009.webp",
+ "output": "chapters_fr/chapter-240/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE SUIS DEVENU UN HÉROS.",
+   "style": "dialogue",
+   "point": [
+    402,
+    1150
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET PUIS,",
+   "style": "dialogue",
+   "point": [
+    311,
+    1931
+   ]
+  },
+  {
+   "id": 3,
+   "text": "L’AMANTE AVEC QUI J’AVAIS PARLÉ D’AVENIR A COMMENCÉ À M’APPARAÎTRE COMME UN SIMPLE INSECTE.",
+   "style": "dialogue",
+   "point": [
+    455,
+    2239
+   ]
+  },
+  {
+   "id": 4,
+   "text": "À CET INSTANT, J’AI COMPRIS.",
+   "style": "dialogue",
+   "point": [
+    225,
+    3855
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DÈS L’INSTANT OÙ \"TU\" ES ENTRÉ EN \"MOI\",",
+   "style": "dialogue",
+   "point": [
+    371,
+    5577
+   ]
+  },
+  {
+   "id": 6,
+   "text": "J’AVAIS COMPLÈTEMENT OUBLIÉ QUI J’ÉTAIS.",
+   "style": "dialogue",
+   "point": [
+    486,
+    5984
+   ]
+  },
+  {
+   "id": 7,
+   "text": "N’OUBLIE PAS.",
+   "style": "dialogue",
+   "point": [
+    447,
+    7026
+   ]
+  },
+  {
+   "id": 8,
+   "text": "\"SANS-NOM.\"",
+   "style": "dialogue",
+   "point": [
+    477,
+    7795
+   ]
+  },
+  {
+   "id": 9,
+   "text": "JE SURVEILLE TOUJOURS...",
+   "style": "dialogue",
+   "point": [
+    433,
+    8716
+   ]
+  },
+  {
+   "id": 10,
+   "text": "TON KARMA.",
+   "style": "dialogue",
+   "point": [
+    436,
+    10605
+   ]
+  },
+  {
+   "id": 11,
+   "text": "TOI AUSSI.",
+   "style": "dialogue",
+   "point": [
+    397,
+    11641
+   ]
+  },
+  {
+   "id": 14,
+   "text": "TU DEVRAS UN JOUR Y FAIRE FACE.",
+   "style": "dialogue",
+   "point": [
+    409,
+    12920
+   ]
+  },
+  {
+   "id": 15,
+   "text": "D’ICI LÀ...",
+   "style": "dialogue",
+   "point": [
+    423,
+    13764
+   ]
+  }
+ ]
+}

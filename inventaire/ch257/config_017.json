@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/017.webp",
+ "output": "chapters_fr/chapter-257/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS IL L’AVAIT REFUSÉ.",
+   "style": "cartouche",
+   "point": [
+    432,
+    369
+   ]
+  },
+  {
+   "id": 2,
+   "text": "UN HOMME AUX CHEVEUX ET AUX YEUX D’OR ÉCLATANTS.",
+   "style": "cartouche",
+   "point": [
+    347,
+    1560
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUELLE\nSURPRISE.",
+   "style": "dialogue",
+   "point": [
+    399,
+    4056
+   ]
+  }
+ ]
+}

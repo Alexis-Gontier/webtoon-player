@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-237/013.webp",
+ "output": "chapters_fr/chapter-237/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "EN VOYANT CET ÉTAT,",
+   "style": "dialogue",
+   "point": [
+    300,
+    848
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SOMBRA DANS UN PROFOND DÉSESPOIR.",
+   "style": "dialogue",
+   "point": [
+    443,
+    2856
+   ]
+  },
+  {
+   "id": 6,
+   "text": "IMPOSSIBLE...",
+   "style": "dialogue",
+   "point": [
+    286,
+    4671
+   ]
+  },
+  {
+   "id": 7,
+   "text": "C’EST IMPOSSIBLE.",
+   "style": "dialogue",
+   "point": [
+    314,
+    5598
+   ]
+  },
+  {
+   "id": 8,
+   "text": "...",
+   "style": "dialogue",
+   "point": [
+    249,
+    6570
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ÇA NE PEUT PAS ÊTRE !!!",
+   "style": "dialogue",
+   "point": [
+    508,
+    6998
+   ]
+  }
+ ]
+}

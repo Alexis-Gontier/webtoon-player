@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-228/044.webp",
+ "output": "chapters_fr/chapter-228/044.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "VAINQUEUR,\nUNNAME",
+   "style": "systeme",
+   "point": [
+    400,
+    1667
+   ],
+   "box": [
+    130,
+    1520,
+    670,
+    1800
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 130
+  }
+ ]
+}

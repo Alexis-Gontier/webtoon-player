@@ -1,0 +1,101 @@
+{
+ "source": "chapters_en/chapter-250/001.webp",
+ "output": "chapters_fr/chapter-250/001.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "JE SUIS...",
+   "style": "systeme",
+   "point": [
+    360,
+    2702
+   ],
+   "box": [
+    235,
+    2645,
+    490,
+    2760
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "...UNE ARME D’EGO.",
+   "style": "systeme",
+   "point": [
+    360,
+    3272
+   ],
+   "box": [
+    60,
+    3220,
+    660,
+    3325
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "text": "UN OUTIL CRÉÉ\nPOUR CET INSTANT PRÉCIS.",
+   "style": "systeme",
+   "box": [
+    100,
+    4085,
+    620,
+    4235
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    190,
+    30,
+    40
+   ],
+   "outline_width": 2
+  }
+ ]
+}

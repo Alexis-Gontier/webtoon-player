@@ -1,0 +1,130 @@
+{
+  "source": "chapters_en/chapter-225/015.webp",
+  "output": "chapters_fr/chapter-225/015.webp",
+  "bubbles": [
+    {
+      "point": [
+        292,
+        2300
+      ],
+      "text": "J’ANNONCE MAINTENANT LE PREMIER AFFRONTEMENT.",
+      "cut": [
+        [
+          281,
+          2555
+        ],
+        [
+          502,
+          2435
+        ]
+      ]
+    },
+    {
+      "point": [
+        497,
+        2717
+      ],
+      "text": "C’EST VOTRE KARMA QUI EN DÉCIDE.",
+      "cut": [
+        [
+          281,
+          2555
+        ],
+        [
+          502,
+          2435
+        ]
+      ]
+    },
+    {
+      "point": [
+        397,
+        4950
+      ],
+      "text": "MAINTENANT,",
+      "max_size": 80
+    },
+    {
+      "point": [
+        427,
+        7480
+      ],
+      "text": "QUE LA BATAILLE FINALE COMMENCE !",
+      "max_size": 62
+    },
+    {
+      "box": [
+        150,
+        11100,
+        648,
+        11315
+      ],
+      "text": "BATAILLE FINALE\nPREMIER ROUND",
+      "style": "systeme",
+      "target": [
+        170,
+        11118,
+        638,
+        11285
+      ],
+      "ink_max": 120,
+      "grow": 4,
+      "solid": 7,
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "outline": [
+        0,
+        0,
+        0
+      ],
+      "outline_width": 3
+    },
+    {
+      "box": [
+        150,
+        11385,
+        648,
+        11505
+      ],
+      "text": "TAE-WON KIM",
+      "style": "systeme",
+      "target": [
+        172,
+        11398,
+        632,
+        11482
+      ],
+      "ink_max": 120,
+      "grow": 4,
+      "solid": 7,
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "outline": [
+        0,
+        0,
+        0
+      ],
+      "outline_width": 3
+    }
+  ]
+}

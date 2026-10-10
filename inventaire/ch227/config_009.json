@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/009.webp",
+ "output": "chapters_fr/chapter-227/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AU BOUT DU COMPTE,",
+   "style": "dialogue",
+   "point": [
+    332,
+    523
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU AS FINI PAR RESSEMBLER À CE QUE TU MÉPRISAIS LE PLUS.",
+   "style": "dialogue",
+   "point": [
+    484,
+    1794
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CELUI QUI T’ENTRAÎNE DANS L’ABÎME, C’EST TOI ET PERSONNE D’AUTRE.",
+   "style": "dialogue",
+   "point": [
+    400,
+    4939
+   ]
+  },
+  {
+   "id": 5,
+   "text": "J’AI TELLEMENT HÂTE DE VOIR.",
+   "style": "dialogue",
+   "point": [
+    405,
+    5965
+   ]
+  }
+ ]
+}

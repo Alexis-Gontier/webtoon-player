@@ -1,0 +1,77 @@
+{
+ "source": "chapters_en/chapter-229/005.webp",
+ "output": "chapters_fr/chapter-229/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DU CHOIX QUE TU AS FAIT !",
+   "style": "dialogue",
+   "point": [
+    492,
+    541
+   ]
+  },
+  {
+   "id": 2,
+   "text": "BATAILLE FINALE,\nPREMIER ROUND,\nTERMINÉ.",
+   "style": "systeme",
+   "box": [
+    54,
+    2807,
+    753,
+    3218
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 4,
+   "text": "VAINQUEUR,\nUNNAME",
+   "style": "systeme",
+   "point": [
+    398,
+    4630
+   ],
+   "box": [
+    50,
+    4480,
+    750,
+    4780
+   ],
+   "light": true,
+   "grow": 11,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 130
+  }
+ ]
+}

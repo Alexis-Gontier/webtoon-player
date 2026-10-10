@@ -1,0 +1,151 @@
+{
+ "source": "chapters_en/chapter-252/011.webp",
+ "output": "chapters_fr/chapter-252/011.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "TOUT CELA...",
+   "style": "systeme",
+   "point": [
+    360,
+    2448
+   ],
+   "box": [
+    190,
+    2405,
+    530,
+    2490
+   ],
+   "light": true,
+   "light_min": 210,
+   "max_letter": 60,
+   "grow": 6,
+   "blur_fill": 8,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 4,
+   "text": "NON...",
+   "style": "cartouche",
+   "point": [
+    385,
+    3551
+   ]
+  },
+  {
+   "id": 102,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    40,
+    900,
+    670,
+    1050
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 103,
+   "text": "...UNE IMPASSE\nSANS ISSUE.",
+   "style": "systeme",
+   "box": [
+    40,
+    900,
+    670,
+    1050
+   ],
+   "target": [
+    60,
+    915,
+    650,
+    1035
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 104,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    40,
+    2715,
+    660,
+    2968
+   ],
+   "ink_max": 256,
+   "grow": 0
+  },
+  {
+   "id": 105,
+   "text": "...À CAUSE DE L’AVENTURE\nINCESSANTE OFFERTE PAR L’ARÈNE\nCÉLESTE DANS LE TERRARIUM\nDE LA TOUR CÉLESTE...",
+   "style": "systeme",
+   "box": [
+    40,
+    2715,
+    660,
+    2968
+   ],
+   "target": [
+    50,
+    2725,
+    650,
+    2958
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  }
+ ]
+}

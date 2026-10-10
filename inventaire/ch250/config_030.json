@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-250/030.webp",
+ "output": "chapters_fr/chapter-250/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HÉHÉ...",
+   "style": "dialogue",
+   "point": [
+    277,
+    307
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DIS-MOI,\nSEOL-JIN.",
+   "style": "dialogue",
+   "point": [
+    402,
+    1044
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-IL ARRIVÉ PENDANT QUE JE DORMAIS ?",
+   "style": "dialogue",
+   "point": [
+    355,
+    2245
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMMENT ÇA SE PASSE DEHORS ?",
+   "style": "dialogue",
+   "point": [
+    362,
+    3209
+   ]
+  },
+  {
+   "id": 100,
+   "text": "GUH !",
+   "style": "italique",
+   "point": [
+    148,
+    4288
+   ]
+  }
+ ]
+}

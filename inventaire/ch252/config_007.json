@@ -1,0 +1,74 @@
+{
+ "source": "chapters_en/chapter-252/007.webp",
+ "output": "chapters_fr/chapter-252/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNE QUESTION\nDÉVASTATRICE !",
+   "style": "cartouche",
+   "point": [
+    356,
+    662
+   ]
+  },
+  {
+   "id": 2,
+   "text": "\"NE ME DITES PAS...\nQUE VOUS M’AIMEZ\nBIEN ?\"",
+   "style": "systeme",
+   "box": [
+    40,
+    990,
+    690,
+    1280
+   ],
+   "light_any": 110,
+   "grow": 7,
+   "blur_fill": 10
+  },
+  {
+   "id": 3,
+   "text": "EN UN SENS, C’ÉTAIT LE PIRE COUP POSSIBLE.",
+   "style": "cartouche",
+   "point": [
+    357,
+    1601
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAIS LE LUI REPROCHER SERAIT UN GESTE D’AMATEUR !",
+   "style": "cartouche",
+   "point": [
+    287,
+    2373
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IL Y A DEUX POINTS À COMPRENDRE DANS CETTE DÉCLARATION...",
+   "style": "cartouche",
+   "point": [
+    399,
+    3211
+   ]
+  },
+  {
+   "id": 6,
+   "text": "D’ABORD...",
+   "style": "cartouche",
+   "point": [
+    367,
+    3921
+   ]
+  },
+  {
+   "id": 7,
+   "text": "CET ENFANT EST UN \"GARÇON\", DONC ENCORE IMMATURE.",
+   "style": "cartouche",
+   "point": [
+    351,
+    4800
+   ]
+  }
+ ]
+}

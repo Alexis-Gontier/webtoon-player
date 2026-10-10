@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-252/023.webp",
+ "output": "chapters_fr/chapter-252/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "P-PARDON... D’AVOIR DIT ÇA... COMME ÇA... AU MILIEU DE TOUT ÇA...",
+   "style": "dialogue",
+   "point": [
+    293,
+    365
+   ]
+  },
+  {
+   "id": 2,
+   "text": "H-HAHA. C-C’EST TOUT À FAIT NORMAL...",
+   "style": "dialogue",
+   "point": [
+    551,
+    801
+   ]
+  },
+  {
+   "id": 4,
+   "text": "T-TU ES\nIRRÉCUPÉRABLE,\nHEIN ?!",
+   "style": "dialogue",
+   "point": [
+    241,
+    1621
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BON, J’AI COMPRIS LA SITUATION DANS LES GRANDES LIGNES.",
+   "style": "pensee",
+   "point": [
+    304,
+    3563
+   ]
+  },
+  {
+   "id": 6,
+   "text": "AVEC LES TROIS DANS CET ÉTAT, IL EST INÉVITABLE QUE RIEN N’AVANCE.",
+   "style": "pensee",
+   "point": [
+    338,
+    4473
+   ]
+  }
+ ]
+}

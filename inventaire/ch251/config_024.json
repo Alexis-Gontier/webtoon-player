@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-251/024.webp",
+ "output": "chapters_fr/chapter-251/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CAR C’EST EXACTEMENT AINSI QUE JE T’AI CRÉÉE.",
+   "style": "italique",
+   "point": [
+    396,
+    1163
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SEULS CEUX QUI FRANCHISSENT CE MUR",
+   "style": "italique",
+   "point": [
+    316,
+    2164
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PEUVENT S’EMPARER DE L’AVENIR QU’ILS VEULENT.",
+   "style": "italique",
+   "point": [
+    481,
+    3152
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IMPOSE TON MONDE AUX AUTRES.",
+   "style": "pensee",
+   "point": [
+    352,
+    3971
+   ]
+  },
+  {
+   "id": 6,
+   "text": "SOUILLE-LES.",
+   "style": "pensee",
+   "point": [
+    423,
+    4816
+   ]
+  }
+ ]
+}

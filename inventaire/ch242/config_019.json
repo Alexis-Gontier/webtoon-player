@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-242/019.webp",
+ "output": "chapters_fr/chapter-242/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PAS POSSIBLE, CE GAMIN... !",
+   "style": "italique",
+   "point": [
+    424,
+    406
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE REÇOIS... MA PROPRE ATTAQUE ?",
+   "style": "dialogue",
+   "point": [
+    322,
+    3008
+   ]
+  },
+  {
+   "id": 4,
+   "text": "IL N’A MÊME PAS PEUR DE LA RANCŒUR ACCUMULÉE EN MOI ?",
+   "style": "dialogue",
+   "point": [
+    397,
+    4100
+   ]
+  },
+  {
+   "id": 5,
+   "text": "HA ! RIDICULE.",
+   "style": "italique",
+   "point": [
+    313,
+    5121
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BON, TRÈS BIEN. GRÂCE À ÇA, J’AI UNE CHANCE DE GAGNER.",
+   "style": "italique",
+   "point": [
+    508,
+    5825
+   ]
+  },
+  {
+   "id": 7,
+   "text": "SI JE FAIS SEMBLANT DE JOUER LE JEU ET QUE JE RÉCUPÈRE LES ÂMES RÉUNIES ICI...",
+   "style": "italique",
+   "point": [
+    314,
+    6672
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE POURRAI ME BATTRE À NOUVEAU... !",
+   "style": "italique",
+   "point": [
+    533,
+    7368
+   ]
+  }
+ ]
+}

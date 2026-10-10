@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-251/015.webp",
+ "output": "chapters_fr/chapter-251/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HA ! QUARANTE MINUTES...",
+   "style": "dialogue",
+   "point": [
+    431,
+    791
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST TOUT ?",
+   "style": "dialogue",
+   "point": [
+    381,
+    2532
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EUH, SEIGNEUR ARTHUR...",
+   "style": "dialogue",
+   "point": [
+    449,
+    4574
+   ]
+  }
+ ]
+}

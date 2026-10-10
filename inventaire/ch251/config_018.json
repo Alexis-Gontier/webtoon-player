@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-251/018.webp",
+ "output": "chapters_fr/chapter-251/018.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "PEU IMPORTE. LAISSE-LA.",
+   "style": "dialogue",
+   "point": [
+    365,
+    1375
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ELLE N’EST PAS IDIOTE. SI ÇA FAIT SI MAL, ELLE VIENDRA EN RAMPANT DEMANDER À ÊTRE RÉPARÉE.",
+   "style": "dialogue",
+   "point": [
+    381,
+    2616
+   ]
+  }
+ ]
+}

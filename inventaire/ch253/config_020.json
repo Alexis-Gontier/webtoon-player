@@ -1,0 +1,68 @@
+{
+ "source": "chapters_en/chapter-253/020.webp",
+ "output": "chapters_fr/chapter-253/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST JUSTE\nUNE HYPOTHÈSE...",
+   "style": "dialogue",
+   "point": [
+    374,
+    1183
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI ELLES SE DÉCLARAIENT, COMMENT RÉAGIRAIS-TU ?",
+   "style": "dialogue",
+   "point": [
+    363,
+    2667
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CET ESPRIT...\nELLE NE LÂCHE\nVRAIMENT RIEN !",
+   "style": "italique",
+   "box": [
+    135,
+    3622,
+    600,
+    3835
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 60,
+   "grow": 7,
+   "fill": [
+    138,
+    138,
+    137
+   ],
+   "target": [
+    150,
+    3637,
+    585,
+    3822
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  }
+ ]
+}

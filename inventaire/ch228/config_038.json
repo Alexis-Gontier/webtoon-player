@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-228/038.webp",
+ "output": "chapters_fr/chapter-228/038.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...ENFIN, JE L’AI TROUVÉ ! LES DERNIERS FRAGMENTS DE NAGI !",
+   "style": "dialogue",
+   "point": [
+    390,
+    2699
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOI... TU SERAS... SACRIFIÉ... DANS LA HONTE... !",
+   "style": "dialogue",
+   "point": [
+    316,
+    4292
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU CROIS POUVOIR ME TROMPER ?",
+   "style": "dialogue",
+   "point": [
+    438,
+    4589
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LA \"CONDITION\" EST REMPLIE.",
+   "style": "dialogue",
+   "point": [
+    411,
+    6095
+   ]
+  }
+ ]
+}

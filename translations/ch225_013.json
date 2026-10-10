@@ -1,0 +1,117 @@
+{
+  "source": "chapters_en/chapter-225/013.webp",
+  "output": "chapters_fr/chapter-225/013.webp",
+  "bubbles": [
+    {
+      "point": [
+        308,
+        650
+      ],
+      "text": "LE POUVOIR DE DIEU EST \"ABSOLU\".",
+      "style": "italique"
+    },
+    {
+      "point": [
+        425,
+        1520
+      ],
+      "text": "IMPOSSIBLE DE S’Y OPPOSER.",
+      "style": "italique",
+      "cut": [
+        [
+          372,
+          1748
+        ],
+        [
+          562,
+          1712
+        ]
+      ]
+    },
+    {
+      "point": [
+        530,
+        1955
+      ],
+      "text": "AUTREMENT DIT, IMPOSSIBLE AUSSI D’ENFREINDRE LES \"RÈGLES\".",
+      "style": "italique",
+      "cut": [
+        [
+          372,
+          1748
+        ],
+        [
+          562,
+          1712
+        ]
+      ]
+    },
+    {
+      "point": [
+        347,
+        2733
+      ],
+      "text": "CEPENDANT, DANS LA \"ZONE GRISE\", OÙ RIEN N’EST TRANCHÉ...",
+      "style": "italique"
+    },
+    {
+      "point": [
+        477,
+        3612
+      ],
+      "text": "LE SEUL CRITÈRE DE JUGEMENT, C’EST \"L’AMUSEMENT\".",
+      "style": "italique"
+    },
+    {
+      "point": [
+        397,
+        4617
+      ],
+      "text": "DONC, ÇA, C’EST PERMIS, HEIN ?",
+      "style": "italique"
+    },
+    {
+      "point": [
+        402,
+        7263
+      ],
+      "text": "COMME PRÉVU, DIEU EST ABSOLU.",
+      "max_size": 56
+    },
+    {
+      "point": [
+        450,
+        9205
+      ],
+      "text": "HÉ, TAE-WON KIM, C’EST L’HEURE, ON VA COMMENCER... TU ES SÛR QUE ÇA VA ?"
+    },
+    {
+      "point": [
+        438,
+        11100
+      ],
+      "text": "SI TOUT SE PASSE COMME PRÉVU, TON \"RÉCEPTACLE\" NE SERA PAS ÉPARGNÉ NON PLUS."
+    },
+    {
+      "point": [
+        380,
+        12162
+      ],
+      "text": "TOUT CE QUI ARRIVERA PENDANT LE COMBAT N’EST-IL PAS DÉJÀ \"DANS LE CONTRAT\" ?"
+    },
+    {
+      "point": [
+        438,
+        14130
+      ],
+      "text": "ET POURQUOI TU DEMANDES, ALORS QUE J’AI FAIT TOUT CE QUE TU VOULAIS ?"
+    },
+    {
+      "point": [
+        497,
+        14700
+      ],
+      "text": "AH, HAHA, IL PARAÎT QU’IL VAUT MIEUX DEMANDER PARDON QUE LA PERMISSION, NON ?"
+    }
+  ]
+}

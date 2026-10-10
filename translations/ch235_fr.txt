@@ -1,0 +1,144 @@
+# Chapitre 235. Format : PAGE.ID | style [json] | texte  ('-' = ignorer)
+001.1 | dialogue | LA "TROISIÈME ET DERNIÈRE MÉTHODE" POUR SURVIVRE,
+001.2 | dialogue | -
+001.3 | dialogue | C’EST...
+001.4 | dialogue | QUE L’UN DE NOUS AILLE VOIR "ARTHUR" ET LUI EXPLIQUE LA SITUATION.
+001.5 | dialogue | -
+001.6 | dialogue | PEUT-ÊTRE... AVEC DE LA CHANCE, ARTHUR TROUVERA LE COMBAT DE DEAN "INTÉRESSANT".
+001.7 | dialogue | ET DÉCIDERA DE RAPPELER SON ARME D’EGO.
+001.8 | dialogue | ...D’ACCORD, J’AI COMPRIS.
+001.9 | dialogue | C’EST CLAIREMENT UN TRUC QUE MOI SEUL PEUX FAIRE, VU QUE JE SUIS LE SEUL À CIRCULER LIBREMENT DANS LA GROTTE AVEC LES MOKIKO.
+002.1 | dialogue | ...ATTENDS, ÇA N’A AUCUN SENS ! TU DIS QU’ON DEVRAIT LUI DEMANDER DE L’AIDE ?
+002.2 | dialogue | TU SAIS CE QU’IL A FAIT À LIBUR !
+002.3 | dialogue | JE SUIS CONTRE. SE SERVIR DE RYUJIN POUR UN PLAN PAREIL... !
+002.4 | dialogue {"cut": [[298, 3487], [578, 3383]]} | ARTHUR NOUS VOIT COMME DES INSECTES.
+002.5 | dialogue {"cut": [[298, 3487], [578, 3383]]} | SI ON L’APPROCHE, IL VA FAIRE SEMBLANT DE DISCUTER, PUIS NOUS TUER TOUS...
+002.6 | dialogue | PASTIS.
+002.7 | dialogue | À TON AVIS, QUEL EST LE TAUX DE RÉUSSITE ?
+002.8 | dialogue | -
+002.9 | dialogue | ...DANS LE MEILLEUR DES CAS,
+002.10 | dialogue | MOINS DE 5 %.
+003.1 | dialogue | BON...
+003.2 | dialogue | C’EST TOUJOURS MIEUX QUE D’ESSAYER DE SURVIVRE À UN COMBAT CONTRE L’ARME D’EGO DU "DIEU ABSOLU" !
+003.3 | dialogue | BON, TOUT LE MONDE ! LAISSEZ-MOI FAIRE !
+003.4 | italique {"cut": [[390, 4024], [485, 4024]]} | MANGEZ, LES MÔMES ! J’AI DES BISCUITS À REVENDRE !
+003.5 | dialogue | MO !
+003.6 | italique | DEAN, TAE-WON KIM ! BANDE DE VOYOUS~ ! VOUS REGARDEZ ?!
+003.7 | dialogue | -
+003.8 | italique | VOUS AVEZ INTÉRÊT À ÊTRE SACRÉMENT RECONNAISSANTS, HEIN ?!
+003.9 | italique | AH, C’EST ÇA ! JE CROIS QUE JE COMPRENDS MAINTENANT.
+003.10 | italique | POURQUOI "COOKIE" A CESSÉ DE MONTRER L’AVENIR DES AUTRES !
+004.1 | italique | PARCE QUE J’AI BESOIN DE CES BISCUITS
+004.2 | italique | POUR MON AVENIR !
+004.3 | italique | JE T’EN PRIE, GRAND ROI MOKIKO !
+004.4 | italique | CONDUIS-MOI JUSQU’À ARTHUR, LE DIEU ABSOLU !
+004.5 | italique | PEU M’IMPORTE QU’IL N’Y AIT "PAS DE RETOUR EN ARRIÈRE" !
+004.6 | italique | JE T’OFFRE TOUS LES BISCUITS QUE J’AI !
+004.7 | italique | ALLEZ, MAINTENANT !
+004.8 | italique | CONDUIS-MOI À ARTHUR... !
+005.1 | dialogue | TU... REFUSES ?
+005.2 | dialogue | -
+005.3 | dialogue | POURQUOI... ? POURQUOI... ?
+005.4 | dialogue | AH, CE N’EST PAS ÇA, HEIN... ?
+005.5 | italique | POURQUOI TU REFUSES ?! JE T’AI DIT QUE JE TE DONNERAIS DES BISCUITS, NON ?
+005.6 | italique | DIS-MOI ! POURQUOI TU REFUSES ?
+006.1 | dialogue | MAU.
+006.2 | dialogue | -
+006.3 | dialogue | ...!
+006.4 | dialogue | "... IMPOSSIBLE POUR QUELQU’UN DESTINÉ À MOURIR DE L’OUVRIR."
+006.5 | dialogue | TU DIS... ?
+006.6 | dialogue | MO...
+006.7 | dialogue | -
+006.8 | italique | TE FOUS PAS DE MOI, FILS DE PUTE~ !
+007.1 | italique | TU CROIS QUE JE COURS À MA MORT PARCE QUE J’EN AI ENVIE ?!
+007.2 | italique | MOI AUSSI, J’ESPÈRE QUE QUELQU’UN MOURRA À MA PLACE !
+007.3 | dialogue | ...MAIS QU’EST-CE QUE JE PEUX FAIRE ?
+007.4 | dialogue | -
+007.5 | dialogue | ILS CROIENT ENCORE EN MOI EN CE MOMENT MÊME,
+007.6 | dialogue | CHACUN DE NOUS RISQUE SA VIE POUR ACCOMPLIR SON DEVOIR... !
+# EN: PLEASE... (oubli)
+007.100 | dialogue {"point": [386, 7584]} | JE T’EN PRIE...
+007.7 | dialogue | LAISSE-MOI SERRER QUELQU’UN DANS MES BRAS, RIEN QU’UNE FOIS, D’ACCORD... ?!
+008.1 | dialogue | MO !
+008.2 | dialogue | VOUS...
+008.3 | dialogue | -
+008.4 | dialogue | VOUS M’ENCOURAGEZ VRAIMENT ?
+# EN: MOKIKO! (oubli)
+008.100 | cri {"point": [386, 7305]} | MOKIKO !
+008.5 | dialogue | -
+009.1 | dialogue | MAU...
+009.2 | italique | ON Y VA, LES GARS !
+009.3 | dialogue | -
+009.4 | italique | ON VA JUSTE LANCER UNE MALÉDICTION OU UN COUP DE POING À ARTHUR !
+010.1 | italique | JE T’EN PRIE,
+010.2 | italique | SI QUELQU’UN REGARDE, RÉPONDS-MOI.
+010.3 | italique | LE MOI D’AUJOURD’HUI...
+010.4 | italique | LEUR RESSEMBLE, HEIN ?
+010.5 | italique | LEUR RESSEMBLE, HEIN ?
+011.1 | italique | PARCE QUE MOI SEUL PEUX FAIRE ÇA, JE... !
+011.2 | dialogue | -
+011.3 | dialogue | -
+011.4 | italique | JE FERAI TOUT POUR RÉUSSIR !!!
+011.5 | italique | JE M’APPELLE RYUJIN.
+011.6 | italique | JE SUIS VENU TE DEMANDER UNE FAVEUR.
+# EN: THE ABSOLUTE GOD, ARTHUR! (oubli)
+011.100 | italique {"point": [438, 8876]} | LE DIEU ABSOLU,\nARTHUR !
+012.1 | dialogue | QUI DIABLE...
+012.2 | dialogue | ES-TU ?
+013.1 | dialogue | "HACHE", "FOUET", "BRACELET" ET "MARTEAU".
+013.2 | dialogue | -
+013.3 | dialogue | ILS SONT EN TRAIN D’INTERVENIR DANS LE COMBAT DE DEAN AU 15E ÉTAGE.
+013.4 | dialogue | SI ÇA CONTINUE, TU NE POURRAS PLUS JAMAIS VOIR DEAN SE BATTRE.
+013.5 | dialogue | J’AI BESOIN DE TON AIDE, DIEU ABSOLU, ARTHUR !
+013.6 | dialogue | TOI.
+013.7 | dialogue | -
+013.8 | dialogue | COMMENT PEUX-TU ME DEMANDER ÇA ?
+014.1 | italique | MAIS !
+014.2 | italique | N’UTILISE PAS TON AUTORITÉ D’ADMINISTRATEUR
+014.3 | italique | POUR TE MÊLER DU COMBAT DE MES CAMARADES !
+014.4 | italique | NETTOIE LE BORDEL QUE TU AS FOUTU, COMPRIS ?!
+014.5 | dialogue | -
+014.6 | italique | TU COMPRENDS, ENFOIRÉ ?!
+015.1 | dialogue | ?!
+015.2 | italique | ... JE L’AI INSULTÉ ! J’AI VRAIMENT INSULTÉ ! SÉRIEUX ?!
+015.3 | dialogue | -
+015.4 | italique | J’AI INSULTÉ LE DIEU ABSOLU !
+015.5 | italique | JE CROIS QUE C’EST...
+015.6 | italique | VRAIMENT L’HEURE DE MOURIR !
+015.7 | dialogue | GUIDE-MOI.
+016.1 | dialogue | ...QUOI ?
+016.2 | dialogue | MON BORDEL.
+016.3 | dialogue | -
+016.4 | dialogue | TU ME DEMANDES DE NETTOYER ÇA, C’EST ÇA ?
+016.5 | dialogue | ALORS, C’EST QUEL ÉTAGE ?
+016.6 | dialogue | 15E ÉTAGE... VOUS Y ALLEZ EN PERSONNE... ?
+016.7 | dialogue | BIEN, PRENDS-LE, RAY !
+017.1 | dialogue | C’EST UN OBJET PERDU QUE J’AI RAMASSÉ AVANT.
+017.2 | dialogue | TU PEUX FAIRE UNE BONNE VIDÉO AVEC ÇA ?
+017.3 | dialogue | BON, JE REVIENS !
+017.4 | dialogue | S’IL Y A QUOI QUE CE SOIT, CONTACTE-MOI !
+017.5 | italique | QU’EST-CE QUE C’EST... ?
+017.6 | dialogue | -
+018.1 | italique {"cut": [[200, 2312], [360, 2312]]} | J-J’AI CONVAINCU LE DIEU ABSOLU !
+018.2 | dialogue | -
+018.3 | dialogue | -
+018.4 | dialogue | -
+018.5 | dialogue | -
+018.6 | italique | MAIS COMMENT... QU’EST-CE QUE JE LUI AI DIT ?
+018.7 | italique | JE N’AI PAS JUSTE DIT N’IMPORTE QUOI... ?
+018.8 | italique | BON, PEU IMPORTE !
+018.9 | italique | ÇA NE FAIT QUE 30 MINUTES.
+018.10 | italique | À CE RYTHME, TOUT SE PASSE EXACTEMENT COMME PRÉVU... !
+018.11 | italique | JE L’AI FAIT. PASTIS, LILLET, SUMAMA !
+019.1 | italique | C’EST UN ÉNORME SUCCÈS !
+019.2 | dialogue | -
+019.100 | dialogue {"point": [407, 5385]} | ...HEIN ?
+019.3 | dialogue | QUOI...
+019.4 | dialogue | C’EST QUOI CE BORDEL... ?!
+020.1 | dialogue | QU’EST-CE QUE C’EST... ?
+020.2 | dialogue | POURQUOI TOUT LE MONDE... ?
+020.3 | dialogue | AH, SEIGNEUR ARTHUR !
+020.4 | dialogue | JE NE PENSAIS PAS QUE VOUS VIENDRIEZ SI VITE.
+021.1 | dialogue | -
+003.100 | italique {"point": [460, 4240], "cut": [[390, 4024], [485, 4024]]} | MAIS T’AS INTÉRÊT\nÀ BIEN ME GUIDER,\nCOMPRIS ?!
+018.100 | italique {"point": [300, 2200], "cut": [[200, 2312], [360, 2312]]} | ...J’AI RÉUSSI !

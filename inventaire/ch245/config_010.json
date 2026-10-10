@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-245/010.webp",
+ "output": "chapters_fr/chapter-245/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LIBUR !",
+   "style": "cri",
+   "point": [
+    419,
+    189
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PASSE\nDERRIÈRE MOI !",
+   "style": "cri",
+   "point": [
+    403,
+    1428
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA IRA !",
+   "style": "dialogue",
+   "point": [
+    400,
+    2281
+   ]
+  },
+  {
+   "id": 6,
+   "text": "PARCE QUE TU ES\nÀ MES CÔTÉS !",
+   "style": "dialogue",
+   "point": [
+    415,
+    4705
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE PEUX\nY ARRIVER.",
+   "style": "italique",
+   "point": [
+    315,
+    7002
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE PEUX\nY ARRIVER !",
+   "style": "italique",
+   "point": [
+    460,
+    7680
+   ]
+  }
+ ]
+}

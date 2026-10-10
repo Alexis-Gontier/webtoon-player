@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-227/007.webp",
+ "output": "chapters_fr/chapter-227/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUE C’EST PITOYABLE, MIRAGE !",
+   "style": "dialogue",
+   "point": [
+    383,
+    2444
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU VEUX QUE JE TE DISE UN TRUC INTÉRESSANT ?",
+   "style": "dialogue",
+   "point": [
+    462,
+    3399
+   ]
+  },
+  {
+   "id": 3,
+   "text": "AUX YEUX D’ASARYUN, TU AS DÛ RESSEMBLER À UN DIEU IMPUISSANT !",
+   "style": "dialogue",
+   "point": [
+    410,
+    4619
+   ]
+  }
+ ]
+}

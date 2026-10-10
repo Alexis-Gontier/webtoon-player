@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-249/012.webp",
+ "output": "chapters_fr/chapter-249/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU AS VU L’EXEMPLE\nD’INNOMBRABLES\nFOIS.",
+   "style": "systeme",
+   "box": [
+    42,
+    174,
+    678,
+    426
+   ],
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "INSÉREZ\nUNE PIÈCE",
+   "style": "cartouche",
+   "box": [
+    90,
+    1260,
+    640,
+    1665
+   ],
+   "target": [
+    120,
+    1290,
+    610,
+    1645
+   ],
+   "stretch": 1.15,
+   "line_spacing": 1.12,
+   "ink_max": 250,
+   "grow": 4,
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

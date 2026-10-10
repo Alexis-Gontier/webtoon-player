@@ -1,0 +1,26 @@
+{
+ "source": "chapters_en/chapter-239/042.webp",
+ "output": "chapters_fr/chapter-239/042.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ENFIN, QU’EST-CE QU’UN TYPE COMME TOI POURRAIT BIEN SAVOIR.",
+   "style": "dialogue",
+   "point": [
+    324,
+    188
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 2,
+   "text": "TU NE CONNAIS MÊME PAS TON PROPRE NOM.",
+   "style": "dialogue",
+   "point": [
+    474,
+    505
+   ],
+   "erase_color": true
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-228/022.webp",
+ "output": "chapters_fr/chapter-228/022.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "TU N’EN VEUX PAS ?",
+   "style": "dialogue",
+   "point": [
+    384,
+    1448
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA S’EST MIEUX PASSÉ QUE PRÉVU, POURTANT.",
+   "style": "dialogue",
+   "point": [
+    304,
+    2279
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TON POUVOIR. SI TU NE SAIS PAS T’EN SERVIR, DONNE-LE-MOI.",
+   "style": "dialogue",
+   "point": [
+    392,
+    2615
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE LE DONNERAI AUX AUTRES. PLUS ON PARTAGE, PLUS C’EST DRÔLE, JE CROIS.",
+   "style": "dialogue",
+   "point": [
+    504,
+    3921
+   ]
+  },
+  {
+   "id": 8,
+   "text": "HEIN ?",
+   "style": "dialogue",
+   "point": [
+    361,
+    5389
+   ]
+  }
+ ]
+}

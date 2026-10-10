@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-253/019.webp",
+ "output": "chapters_fr/chapter-253/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BONNE CHANCE.",
+   "style": "dialogue",
+   "point": [
+    358,
+    197
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SEOL-JIN~ !",
+   "style": "dialogue",
+   "point": [
+    360,
+    4262
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/019.webp",
+ "output": "chapters_fr/chapter-252/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE DESTIN DE LA PIÈCE DONT ON NE SORT PAS SANS SE DÉCLARER...!",
+   "style": "italique",
+   "point": [
+    300,
+    230
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’AI PEUR, MAIS JE DOIS PARLER !",
+   "style": "italique",
+   "point": [
+    323,
+    3038
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI JE TROUVE LE COURAGE AVANT LIBUR...!",
+   "style": "italique",
+   "point": [
+    441,
+    3902
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUI, JE PEUX\nY ARRIVER !",
+   "style": "italique",
+   "point": [
+    331,
+    4451
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-235/017.webp",
+ "output": "chapters_fr/chapter-235/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST UN OBJET PERDU QUE J’AI RAMASSÉ AVANT.",
+   "style": "dialogue",
+   "point": [
+    411,
+    231
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU PEUX FAIRE UNE BONNE VIDÉO AVEC ÇA ?",
+   "style": "dialogue",
+   "point": [
+    423,
+    1913
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BON, JE REVIENS !",
+   "style": "dialogue",
+   "point": [
+    436,
+    2642
+   ]
+  },
+  {
+   "id": 4,
+   "text": "S’IL Y A QUOI QUE CE SOIT, CONTACTE-MOI !",
+   "style": "dialogue",
+   "point": [
+    429,
+    3628
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QU’EST-CE QUE C’EST... ?",
+   "style": "italique",
+   "point": [
+    403,
+    7006
+   ]
+  }
+ ]
+}

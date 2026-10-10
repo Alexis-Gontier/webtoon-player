@@ -1,0 +1,107 @@
+{
+  "source": "chapters_en/chapter-259/010.jpg",
+  "output": "chapters_fr/chapter-259/010.jpg",
+  "bubbles": [
+    {
+      "point": [
+        420,
+        105
+      ],
+      "text": "SUPER ! SUPER !",
+      "style": "cri"
+    },
+    {
+      "point": [
+        410,
+        1650
+      ],
+      "text": "D’ICI, J’AI UNE VUE PARFAITE !",
+      "style": "cri"
+    },
+    {
+      "point": [
+        414,
+        3110
+      ],
+      "text": "CONTINUE DE TIRER COMME ÇA, SUMAMA !"
+    },
+    {
+      "point": [
+        400,
+        5980
+      ],
+      "text": "JE NE SAIS PAS EXACTEMENT CE QU’EST CE POUVOIR PARTAGÉ...",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        430,
+        6780
+      ],
+      "text": "MAIS JE SUIS SÛR QUE C’EST LE KARMA DE SEOL-JIN HEO.",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        290,
+        7670
+      ],
+      "text": "ET VU LA PERSONNALITÉ DE CE TYPE...",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        480,
+        8590
+      ],
+      "text": "ON DEVINE FACILEMENT CE QU’IL FERAIT.",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        390,
+        9380
+      ],
+      "text": "AUTREMENT DIT, LE KARMA PARTAGÉ...",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        440,
+        11390
+      ],
+      "text": "PEUT AUSSI ÊTRE TRANSMIS À D’AUTRES !",
+      "style": "pensee",
+      "cut": [
+        [
+          624,
+          11314
+        ],
+        [
+          640,
+          11326
+        ],
+        [
+          652,
+          11338
+        ],
+        [
+          644,
+          11352
+        ],
+        [
+          636,
+          11362
+        ]
+      ],
+      "close": 1
+    },
+    {
+      "point": [
+        410,
+        12030
+      ],
+      "text": "LILLET, JE TE CONFIE LES 97 UNITÉS."
+    }
+  ]
+}

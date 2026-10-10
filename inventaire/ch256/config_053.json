@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/053.webp",
+ "output": "chapters_fr/chapter-256/053.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS, TOI AUSSI,",
+   "style": "dialogue",
+   "point": [
+    383,
+    211
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CRÉE TA PROPRE HISTOIRE.",
+   "style": "dialogue",
+   "point": [
+    440,
+    561
+   ]
+  }
+ ]
+}

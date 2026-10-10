@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-228/005.webp",
+ "output": "chapters_fr/chapter-228/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE VIN DE RAISIN EST UNE SPÉCIALITÉ DE L’EMPIRE DU SUD.",
+   "style": "dialogue",
+   "point": [
+    399,
+    237
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’Y SUIS ALLÉ UNE FOIS.",
+   "style": "dialogue",
+   "point": [
+    358,
+    1676
+   ]
+  },
+  {
+   "id": 3,
+   "text": "GOUVERNÉ PAR LA DAME AUX CHEVEUX D’ARGENT DES CIMES SEREINES.",
+   "style": "dialogue",
+   "point": [
+    350,
+    2398
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’ÉTAIT UNE TERRE D’ABONDANCE.",
+   "style": "dialogue",
+   "point": [
+    433,
+    3912
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-251/016.webp",
+ "output": "chapters_fr/chapter-251/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "POURQUOI TU NE SOIGNES PAS RAY ?",
+   "style": "dialogue",
+   "point": [
+    378,
+    472
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DIS-MOI.",
+   "style": "dialogue",
+   "point": [
+    277,
+    3772
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POURQUOI DEVRAIS-JE LA SOIGNER, À TON AVIS ?",
+   "style": "dialogue",
+   "point": [
+    459,
+    4099
+   ]
+  }
+ ]
+}

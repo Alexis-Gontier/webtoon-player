@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-234/012.webp",
+ "output": "chapters_fr/chapter-234/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE CROIS QUE JE COMPRENDS CE QUE TU VEUX DIRE, MAINTENANT !",
+   "style": "italique",
+   "point": [
+    404,
+    216
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MES SENS ME DISENT D’ALLER À GAUCHE !",
+   "style": "italique",
+   "point": [
+    427,
+    7228
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE VOIS CLAIREMENT LEURS MOUVEMENTS !",
+   "style": "italique",
+   "point": [
+    398,
+    9006
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AH... LAISSER MON CORPS À MON INSTINCT...",
+   "style": "italique",
+   "point": [
+    310,
+    10160
+   ]
+  },
+  {
+   "id": 9,
+   "text": "ÇA FAIT TELLEMENT DU BIEN !",
+   "style": "italique",
+   "point": [
+    493,
+    10695
+   ]
+  }
+ ]
+}

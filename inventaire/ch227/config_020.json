@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-227/020.webp",
+ "output": "chapters_fr/chapter-227/020.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BIEN, J’ATTENDRAI.",
+   "style": "dialogue",
+   "point": [
+    394,
+    267
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MIRAGE !",
+   "style": "dialogue",
+   "point": [
+    422,
+    2336
+   ]
+  },
+  {
+   "id": 3,
+   "text": "J’AI HÂTE DU JOUR OÙ ON SE REVERRA.",
+   "style": "dialogue",
+   "point": [
+    411,
+    4681
+   ]
+  }
+ ]
+}

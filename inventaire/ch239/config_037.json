@@ -1,0 +1,92 @@
+{
+ "source": "chapters_en/chapter-239/037.webp",
+ "output": "chapters_fr/chapter-239/037.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU ES SEUL.",
+   "style": "dialogue",
+   "point": [
+    425,
+    613
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ENCORE ÇA.",
+   "style": "systeme",
+   "point": [
+    230,
+    3512
+   ],
+   "box": [
+    60,
+    3420,
+    780,
+    3600
+   ],
+   "target": [
+    175,
+    3465,
+    690,
+    3560
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 230,
+   "grow": 6
+  },
+  {
+   "id": 3,
+   "text": "CES YEUX.",
+   "style": "systeme",
+   "point": [
+    407,
+    4248
+   ],
+   "box": [
+    120,
+    4170,
+    700,
+    4330
+   ],
+   "light": true,
+   "light_min": 170,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4,
+   "max_letter": 160
+  }
+ ]
+}

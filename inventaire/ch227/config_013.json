@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/013.webp",
+ "output": "chapters_fr/chapter-227/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "POUR UN PLAYER QUI REGARDAIT CETTE SCÈNE,",
+   "style": "dialogue",
+   "point": [
+    396,
+    154
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IMPOSSIBLE DE NE PAS LE REMARQUER.",
+   "style": "dialogue",
+   "point": [
+    412,
+    1006
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE QUE MIRAGE AVAIT UTILISÉ POUR OBTENIR...",
+   "style": "dialogue",
+   "point": [
+    310,
+    1791
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LA VICTOIRE...",
+   "style": "dialogue",
+   "point": [
+    450,
+    3338
+   ]
+  }
+ ]
+}

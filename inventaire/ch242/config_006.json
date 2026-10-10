@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-242/006.webp",
+ "output": "chapters_fr/chapter-242/006.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE COMPRENDS MAINTENANT POURQUOI TU T’ES COUVERT LES YEUX.",
+   "style": "dialogue",
+   "point": [
+    385,
+    659
+   ]
+  },
+  {
+   "id": 4,
+   "text": "VI...",
+   "style": "dialogue",
+   "point": [
+    668,
+    2420
+   ]
+  },
+  {
+   "id": 5,
+   "text": "VIAN... ?",
+   "style": "dialogue",
+   "point": [
+    225,
+    3076
+   ]
+  },
+  {
+   "id": 6,
+   "text": "VIENS ICI.",
+   "style": "dialogue",
+   "point": [
+    346,
+    3662
+   ]
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "source": "chapters_en/chapter-231/004.webp",
+ "output": "chapters_fr/chapter-231/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DÉPLOIEMENT.",
+   "style": "dialogue",
+   "point": [
+    413,
+    655
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MERCI,\nDEAN.",
+   "style": "dialogue",
+   "point": [
+    377,
+    1700
+   ],
+   "box": [
+    240,
+    1615,
+    515,
+    1785
+   ],
+   "target": [
+    262,
+    1635,
+    495,
+    1765
+   ],
+   "ink_max": 90,
+   "max_letter": 90,
+   "grow": 7,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 3,
+   "text": "GRÂCE À\nTOI, J’AI PU\nME PLONGER\nDANS LES\nSOUVENIRS.",
+   "style": "dialogue",
+   "point": [
+    406,
+    3553
+   ],
+   "box": [
+    232,
+    3435,
+    580,
+    3670
+   ],
+   "target": [
+    262,
+    3462,
+    552,
+    3645
+   ],
+   "ink_max": 90,
+   "max_letter": 60,
+   "grow": 4,
+   "line_spacing": 1.15,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA FAISAIT\nSI LONGTEMPS\nQUE PERSONNE\nN’AVAIT\nENFLAMMÉ\nLA PASSION\nDE ZICHMUND.",
+   "style": "dialogue",
+   "box": [
+    248,
+    4235,
+    583,
+    4510
+   ],
+   "target": [
+    272,
+    4255,
+    562,
+    4490
+   ],
+   "ink_max": 90,
+   "max_letter": 60,
+   "grow": 5,
+   "line_spacing": 1.3,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAIS... ON VA METTRE FIN À TON DÉFI...",
+   "style": "dialogue",
+   "point": [
+    406,
+    7203
+   ]
+  },
+  {
+   "id": 6,
+   "text": "POUR NOTRE RÊVE.",
+   "style": "dialogue",
+   "point": [
+    424,
+    8570
+   ]
+  },
+  {
+   "id": 7,
+   "text": "L’ÉNERGIE DU NOYAU... !",
+   "style": "italique",
+   "point": [
+    395,
+    11578
+   ]
+  },
+  {
+   "id": 8,
+   "text": "EST-CE QUE J’AI VRAIMENT PEUR ?",
+   "style": "italique",
+   "point": [
+    339,
+    13097
+   ]
+  },
+  {
+   "id": 9,
+   "text": "MOI ?",
+   "style": "italique",
+   "point": [
+    493,
+    13845
+   ]
+  },
+  {
+   "id": 10,
+   "text": "...HAHA !",
+   "style": "dialogue",
+   "point": [
+    388,
+    14700
+   ]
+  }
+ ]
+}

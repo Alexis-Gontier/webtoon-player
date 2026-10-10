@@ -1,0 +1,89 @@
+{
+ "source": "chapters_en/chapter-261/012.webp",
+ "output": "chapters_fr/chapter-261/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UGH...",
+   "style": "dialogue",
+   "point": [
+    600,
+    99
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE FAIS QUOI,\nMAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    536,
+    922
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE NE VEUX\nPAS PERDRE.",
+   "style": "dialogue",
+   "point": [
+    411,
+    2366
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ARME D’EGO LUCIA\nMÉTAMORPHOSE.",
+   "style": "systeme",
+   "box": [
+    50,
+    3330,
+    750,
+    3515
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 90,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LANCE DE\nLA FIN...",
+   "style": "systeme",
+   "box": [
+    45,
+    4615,
+    410,
+    4805
+   ],
+   "light": true,
+   "light_min": 200,
+   "max_letter": 90,
+   "grow": 6,
+   "blur_fill": 12,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

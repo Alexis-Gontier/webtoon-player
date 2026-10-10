@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/031.webp",
+ "output": "chapters_fr/chapter-248/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BREF...",
+   "style": "dialogue",
+   "point": [
+    371,
+    3488
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAINTENANT,\nC’EST MON TOUR !",
+   "style": "dialogue",
+   "point": [
+    391,
+    4534
+   ]
+  }
+ ]
+}

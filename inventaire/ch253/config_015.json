@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-253/015.webp",
+ "output": "chapters_fr/chapter-253/015.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "COMME JE SUIS ENTRÉE PAR UN AUTRE CHEMIN...",
+   "style": "dialogue",
+   "point": [
+    294,
+    181
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IL SERA SANS DOUTE PLUS SÛR DE REPARTIR PAR LÀ. ALORS, PARTEZ DEVANT, VOUS DEUX.",
+   "style": "dialogue",
+   "point": [
+    416,
+    1124
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA IRA, POUR LE SEIGNEUR ARTHUR ?",
+   "style": "dialogue",
+   "point": [
+    326,
+    3739
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUI. JE VAIS EN PROFITER POUR L’AFFRONTER VRAIMENT.",
+   "style": "dialogue",
+   "point": [
+    394,
+    4774
+   ]
+  }
+ ]
+}

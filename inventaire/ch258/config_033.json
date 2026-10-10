@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-258/033.webp",
+ "output": "chapters_fr/chapter-258/033.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON SE BATTRA\nJUSQU’AU BOUT.",
+   "style": "italique",
+   "point": [
+    413,
+    404
+   ]
+  },
+  {
+   "id": 3,
+   "text": "À NOTRE\nFAÇON.",
+   "style": "italique",
+   "point": [
+    393,
+    2606
+   ]
+  },
+  {
+   "id": 100,
+   "text": "CRAC !",
+   "style": "cri",
+   "point": [
+    200,
+    1962
+   ]
+  }
+ ]
+}

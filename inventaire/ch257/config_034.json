@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/034.webp",
+ "output": "chapters_fr/chapter-257/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CE N’EST QUE LA PREMIÈRE VRAIE EMPREINTE...",
+   "style": "dialogue",
+   "point": [
+    362,
+    1270
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE NOUS LAISSERONS DANS CE FAUX MONDE.",
+   "style": "dialogue",
+   "point": [
+    479,
+    1649
+   ]
+  },
+  {
+   "id": 4,
+   "text": "À PARTIR DE MAINTENANT, NOUS ALLONS ABATTRE DIEU.",
+   "style": "dialogue",
+   "point": [
+    436,
+    4705
+   ]
+  }
+ ]
+}

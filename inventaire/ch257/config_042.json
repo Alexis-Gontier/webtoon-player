@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-257/042.webp",
+ "output": "chapters_fr/chapter-257/042.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "POURQUOI DIEU NE ME PUNIT-IL PAS ?",
+   "style": "italique",
+   "point": [
+    492,
+    664
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMMENT\nPEUX-TU...",
+   "style": "italique",
+   "point": [
+    294,
+    4534
+   ]
+  },
+  {
+   "id": 100,
+   "text": "AH...",
+   "style": "italique",
+   "point": [
+    325,
+    1850
+   ]
+  },
+  {
+   "id": 101,
+   "text": "Ô DIEU.",
+   "style": "italique",
+   "point": [
+    450,
+    2125
+   ]
+  },
+  {
+   "id": 102,
+   "text": "",
+   "style": "italique",
+   "box": [
+    300,
+    4972,
+    715,
+    5000
+   ],
+   "ink_max": 130,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

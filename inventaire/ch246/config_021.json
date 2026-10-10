@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-246/021.webp",
+ "output": "chapters_fr/chapter-246/021.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "...C’EST\nMA FAUTE.",
+   "style": "dialogue",
+   "point": [
+    413,
+    6538
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PARCE QUE\nJ’AI HÉSITÉ...!",
+   "style": "dialogue",
+   "point": [
+    384,
+    7387
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LÈVE-TOI, SEOL-JIN HEO.",
+   "style": "dialogue",
+   "point": [
+    400,
+    9394
+   ]
+  }
+ ]
+}

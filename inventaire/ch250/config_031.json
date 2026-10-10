@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-250/031.webp",
+ "output": "chapters_fr/chapter-250/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUOI ? L’INTENTION MEURTRIÈRE A DISPARU !",
+   "style": "italique",
+   "point": [
+    260,
+    1703
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COMME SI TOUT S’ÉTAIT ARRÊTÉ...!",
+   "style": "italique",
+   "point": [
+    382,
+    2805
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’ÉTAIT QUOI, ÇA ?",
+   "style": "dialogue",
+   "point": [
+    353,
+    3502
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POURQUOI IL EST COMME ÇA ?",
+   "style": "dialogue",
+   "point": [
+    354,
+    4575
+   ]
+  },
+  {
+   "id": 100,
+   "text": "UGH !",
+   "style": "italique",
+   "point": [
+    525,
+    188
+   ]
+  },
+  {
+   "id": 101,
+   "text": "ARGH...!",
+   "style": "italique",
+   "point": [
+    400,
+    875
+   ]
+  }
+ ]
+}

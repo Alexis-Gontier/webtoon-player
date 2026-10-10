@@ -1,0 +1,106 @@
+{
+ "source": "chapters_en/chapter-240/001.webp",
+ "output": "chapters_fr/chapter-240/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "LE JOUR EST ENFIN VENU.",
+   "style": "dialogue",
+   "point": [
+    398,
+    2563
+   ]
+  },
+  {
+   "id": 4,
+   "text": "J’AI ATTENDU CE MOMENT.",
+   "style": "dialogue",
+   "point": [
+    363,
+    3915
+   ]
+  },
+  {
+   "id": 5,
+   "text": "\"KARMA.\"",
+   "style": "dialogue",
+   "point": [
+    401,
+    4959
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 6,
+   "text": "LE POUVOIR QUE TU M’AS ACCORDÉ,",
+   "style": "dialogue",
+   "point": [
+    293,
+    6185
+   ]
+  },
+  {
+   "id": 7,
+   "text": "CERTAINS L’APPELLENT AINSI.",
+   "style": "dialogue",
+   "point": [
+    465,
+    6461
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LE \"KARMA\", HEIN ?",
+   "style": "dialogue",
+   "point": [
+    398,
+    8374
+   ]
+  },
+  {
+   "id": 9,
+   "text": "HÉHÉ... UNE APPROCHE INTÉRESSANTE.",
+   "style": "dialogue",
+   "point": [
+    422,
+    9298
+   ]
+  },
+  {
+   "id": 10,
+   "text": "MAINTENANT QUE J’AI VU TA FIN,",
+   "style": "dialogue",
+   "point": [
+    292,
+    9994
+   ]
+  },
+  {
+   "id": 11,
+   "text": "CE N’EST PAS COMPLÈTEMENT FAUX.",
+   "style": "dialogue",
+   "point": [
+    410,
+    10281
+   ]
+  },
+  {
+   "id": 15,
+   "text": "...!",
+   "style": "dialogue",
+   "point": [
+    446,
+    12579
+   ]
+  },
+  {
+   "id": 16,
+   "text": "J’ATTENDAIS AVEC IMPATIENCE LE JOUR DE NOTRE RENCONTRE.",
+   "style": "dialogue",
+   "point": [
+    469,
+    13632
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-229/009.webp",
+ "output": "chapters_fr/chapter-229/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MESDAMES ET MESSIEURS, JE SAIS QUE VOUS AVEZ HÂTE !!!",
+   "style": "italique",
+   "point": [
+    388,
+    523
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ALORS, AVANT QUE\nLA FIÈVRE DU PREMIER\nROUND RETOMBE !\nROUND 2~~~ !",
+   "style": "italique",
+   "point": [
+    405,
+    3576
+   ],
+   "close": 3
+  },
+  {
+   "id": 4,
+   "text": "AAAAAH !!!",
+   "style": "dialogue",
+   "point": [
+    577,
+    5101
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BATAILLE FINALE\nDEUXIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    40,
+    6440,
+    760,
+    6830
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 140
+  },
+  {
+   "id": 10,
+   "text": "ARRÊTE DE DEMANDER, DEAN.",
+   "style": "dialogue",
+   "point": [
+    417,
+    13009
+   ]
+  },
+  {
+   "id": 11,
+   "text": "CE COMBAT DÉCIDE QUI DEVIENDRA LE DIEU.",
+   "style": "dialogue",
+   "point": [
+    337,
+    14018
+   ]
+  }
+ ]
+}

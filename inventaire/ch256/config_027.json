@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/027.webp",
+ "output": "chapters_fr/chapter-256/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE N’AI PAS\nBESOIN DE VOIR.",
+   "style": "dialogue",
+   "point": [
+    403,
+    2135
+   ]
+  },
+  {
+   "id": 3,
+   "text": "APRÈS TOUT, MA VOIE EST DÉJÀ TRACÉE.",
+   "style": "dialogue",
+   "point": [
+    383,
+    3576
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "source": "chapters_en/chapter-228/002.webp",
+ "output": "chapters_fr/chapter-228/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OH, TU AS REPRIS TES ESPRITS.",
+   "style": "dialogue",
+   "point": [
+    399,
+    214
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PETIT, TU AS FRÔLÉ LA MORT.",
+   "style": "dialogue",
+   "point": [
+    419,
+    1178
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-CE QUE TU FAISAIS ?",
+   "style": "dialogue",
+   "point": [
+    401,
+    3277
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PAR UN\nTEMPS PAREIL.",
+   "style": "dialogue",
+   "point": [
+    417,
+    4155
+   ],
+   "box": [
+    235,
+    4085,
+    600,
+    4225
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  }
+ ]
+}

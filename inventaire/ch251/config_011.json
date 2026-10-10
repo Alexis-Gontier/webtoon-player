@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-251/011.webp",
+ "output": "chapters_fr/chapter-251/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "FAIS CONFIANCE\nÀ TES CAMARADES.",
+   "style": "dialogue",
+   "point": [
+    429,
+    331
+   ]
+  },
+  {
+   "id": 2,
+   "text": "POUR L’INSTANT,",
+   "style": "dialogue",
+   "point": [
+    419,
+    2985
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA SUFFIT.",
+   "style": "dialogue",
+   "point": [
+    436,
+    4667
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-246/018.webp",
+ "output": "chapters_fr/chapter-246/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU HÉSITES.",
+   "style": "dialogue",
+   "point": [
+    390,
+    1571
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU RETIENS TON MAÎTRE... TU ES VRAIMENT UN \"PRODUIT DÉFECTUEUX\".",
+   "style": "dialogue",
+   "point": [
+    391,
+    2490
+   ]
+  },
+  {
+   "id": 4,
+   "text": "PAS ÉTONNANT QU’ARTHUR N’AIT JAMAIS PRIS LA PEINE DE T’UTILISER.",
+   "style": "dialogue",
+   "point": [
+    390,
+    3987
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUOI...?!",
+   "style": "dialogue",
+   "point": [
+    400,
+    5310
+   ]
+  }
+ ]
+}

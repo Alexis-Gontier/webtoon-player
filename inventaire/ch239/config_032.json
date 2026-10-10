@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-239/032.webp",
+ "output": "chapters_fr/chapter-239/032.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    150,
+    0,
+    670,
+    40
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 256,
+   "grow": 0
+  }
+ ]
+}

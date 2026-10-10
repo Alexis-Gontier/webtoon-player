@@ -1,0 +1,155 @@
+{
+ "source": "chapters_en/chapter-232/008.webp",
+ "output": "chapters_fr/chapter-232/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE FAIT QUE TU M’APPELLES DIRECTEMENT...",
+   "style": "dialogue",
+   "point": [
+    344,
+    231
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA VEUT DIRE QUE\nTU ME DEMANDES\nDE L’AIDE... ?\nJ-JE VEUX DIRE...",
+   "style": "dialogue",
+   "point": [
+    393,
+    2190
+   ],
+   "cut": [
+    [
+     460,
+     2476
+    ],
+    [
+     580,
+     2476
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE VEUX DIRE, TU VAS VRAIMENT~",
+   "style": "dialogue",
+   "point": [
+    400,
+    2600
+   ],
+   "cut": [
+    [
+     460,
+     2476
+    ],
+    [
+     580,
+     2476
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    403,
+    3644
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE ME SUIS TROMPÉ, LUCIA.",
+   "style": "dialogue",
+   "point": [
+    410,
+    4756
+   ]
+  },
+  {
+   "id": 9,
+   "text": "CE GARÇON EST UN HÉROS !",
+   "style": "dialogue",
+   "point": [
+    381,
+    7762
+   ]
+  },
+  {
+   "id": 10,
+   "text": "VRAIMENT, VAN ?",
+   "style": "dialogue",
+   "point": [
+    299,
+    8709
+   ],
+   "cut": [
+    [
+     455,
+     9706
+    ],
+    [
+     545,
+     9706
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "text": "J’Y VAIS À FOND !",
+   "style": "dialogue",
+   "point": [
+    530,
+    9900
+   ],
+   "cut": [
+    [
+     455,
+     9706
+    ],
+    [
+     545,
+     9706
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "text": "ÇA VA... SI J’ARRÊTE DE ME RETENIR, MAINTENANT... ?",
+   "style": "dialogue",
+   "point": [
+    345,
+    10647
+   ]
+  },
+  {
+   "id": 15,
+   "text": "OUI, LUCIA !",
+   "style": "dialogue",
+   "point": [
+    388,
+    11859
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ALORS...",
+   "style": "dialogue",
+   "point": [
+    425,
+    9515
+   ],
+   "cut": [
+    [
+     455,
+     9706
+    ],
+    [
+     545,
+     9706
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "source": "chapters_en/chapter-242/024.webp",
+ "output": "chapters_fr/chapter-242/024.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "YO, SEOL-JIN HEO !",
+   "style": "dialogue",
+   "point": [
+    348,
+    256
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE T’ATTENDAIS !",
+   "style": "dialogue",
+   "point": [
+    417,
+    2343
+   ]
+  },
+  {
+   "id": 3,
+   "text": "BATAILLE FINALE\nDEMI-FINALE",
+   "style": "systeme",
+   "box": [
+    70,
+    3934,
+    731,
+    4198
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 160
+  },
+  {
+   "id": 4,
+   "text": "DEAN\nCONTRE\nSEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    81,
+    4432,
+    717,
+    4906
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 160
+  }
+ ]
+}

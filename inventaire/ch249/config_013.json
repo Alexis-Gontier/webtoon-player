@@ -1,0 +1,92 @@
+{
+ "source": "chapters_en/chapter-249/013.webp",
+ "output": "chapters_fr/chapter-249/013.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    100,
+    2800,
+    650,
+    3620
+   ],
+   "ink_max": 100,
+   "solid": 7,
+   "grow": 6
+  },
+  {
+   "id": 101,
+   "text": "CHANGEMENT\nDE FORME :",
+   "style": "systeme",
+   "box": [
+    110,
+    2820,
+    610,
+    3250
+   ],
+   "target": [
+    130,
+    2845,
+    590,
+    3235
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4
+  },
+  {
+   "id": 102,
+   "text": "MOGLAY",
+   "style": "systeme",
+   "box": [
+    110,
+    3370,
+    610,
+    3610
+   ],
+   "target": [
+    125,
+    3385,
+    595,
+    3600
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4
+  }
+ ]
+}

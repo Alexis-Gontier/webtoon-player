@@ -1,0 +1,119 @@
+{
+ "source": "chapters_en/chapter-263/009.webp",
+ "output": "chapters_fr/chapter-263/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE VEUX QUE LA LUMIÈRE\nQU’ILS M’ONT MONTRÉE...",
+   "style": "systeme",
+   "point": [
+    358,
+    564
+   ],
+   "box": [
+    80,
+    480,
+    640,
+    650
+   ],
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  },
+  {
+   "id": 2,
+   "text": "BRILLE ENCORE\nUN PEU.",
+   "style": "systeme",
+   "point": [
+    358,
+    2560
+   ],
+   "box": [
+    110,
+    2480,
+    610,
+    2640
+   ],
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  },
+  {
+   "id": 100,
+   "text": "C’EST POURQUOI...",
+   "style": "systeme",
+   "box": [
+    90,
+    3270,
+    630,
+    3410
+   ],
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 2
+  }
+ ]
+}

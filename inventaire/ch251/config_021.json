@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-251/021.webp",
+ "output": "chapters_fr/chapter-251/021.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AVANT QUE SES CROCS N’ATTEIGNENT LE SEIGNEUR ARTHUR...!",
+   "style": "pensee",
+   "point": [
+    443,
+    382
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE N’EST PAS ÇA, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    439,
+    813
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CE N’EST PAS\nTON RÔLE.",
+   "style": "dialogue",
+   "point": [
+    401,
+    2201
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE NE SUIS PAS COMME CES RATÉS.",
+   "style": "dialogue",
+   "point": [
+    411,
+    4871
+   ]
+  }
+ ]
+}

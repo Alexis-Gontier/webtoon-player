@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/008.webp",
+ "output": "chapters_fr/chapter-257/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNE PETITE FISSURE SUFFIRAIT.",
+   "style": "cartouche",
+   "point": [
+    339,
+    1525
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI SEULEMENT ELLE POUVAIT LUI LAISSER LA MOINDRE CICATRICE...",
+   "style": "cartouche",
+   "point": [
+    522,
+    1827
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI SEULEMENT IL Y AVAIT UNE PETITE OBSCURITÉ OÙ UNE OMBRE PUISSE SE PROJETER...",
+   "style": "cartouche",
+   "point": [
+    345,
+    3595
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ELLE POURRAIT LE FAIRE SIEN.",
+   "style": "cartouche",
+   "point": [
+    505,
+    3919
+   ]
+  }
+ ]
+}

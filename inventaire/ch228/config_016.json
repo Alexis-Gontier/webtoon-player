@@ -1,0 +1,39 @@
+{
+ "source": "chapters_en/chapter-228/016.webp",
+ "output": "chapters_fr/chapter-228/016.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "LES DIEUX\nACCORDENT LE POUVOIR\nAUX HUMAINS,",
+   "style": "systeme",
+   "box": [
+    160,
+    1325,
+    640,
+    1550
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 80,
+   "stretch": 1.4
+  }
+ ]
+}

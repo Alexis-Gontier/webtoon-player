@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/038.webp",
+ "output": "chapters_fr/chapter-254/038.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CES\nSALAUDS...",
+   "style": "italique",
+   "point": [
+    296,
+    1019
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CHACUN D’EUX MAÎTRISE UNE ARME D’EGO !",
+   "style": "italique",
+   "point": [
+    387,
+    2389
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST ÇA. NOUS SOMMES CES \"ÂMES INSIGNIFIANTES\" QUE TU AS IGNORÉES AUTREFOIS.",
+   "style": "italique",
+   "point": [
+    373,
+    3702
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON VA TE DONNER UNE LEÇON, ARTHUR.",
+   "style": "italique",
+   "point": [
+    366,
+    4679
+   ]
+  }
+ ]
+}

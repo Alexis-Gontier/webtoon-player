@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-239/004.webp",
+ "output": "chapters_fr/chapter-239/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’ATTENDRAI AU SOMMET,",
+   "style": "dialogue",
+   "point": [
+    422,
+    498
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SEOL-JIN, LIBUR !",
+   "style": "dialogue",
+   "point": [
+    414,
+    3083
+   ]
+  }
+ ]
+}

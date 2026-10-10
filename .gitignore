@@ -1,0 +1,26 @@
+# Planches (1,4 Go) : hors du dépôt pour l'instant, à versionner plus tard sous une forme allégée.
+chapters_en/
+chapters_fr/
+
+# Dossier de travail régénérable : on garde seulement les inventaire.json (évitent de refaire l'OCR).
+inventaire/**/*.png
+inventaire/**/*.log
+inventaire/*.json
+
+# Modèles ONNX (201 Mo), téléchargeables : voir README.
+models/*.onnx
+
+__pycache__/
+.pytest_cache/
+
+# Site Astro
+site/node_modules/
+site/dist/
+site/.astro/
+site/public/thumbs/
+site/test-results/
+site/playwright-report/
+
+# Journaux d’outils
+.playwright-mcp/
+.claude/settings.local.json

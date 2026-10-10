@@ -1,0 +1,102 @@
+{
+ "source": "chapters_en/chapter-246/001.webp",
+ "output": "chapters_fr/chapter-246/001.webp",
+ "bubbles": [
+  {
+   "id": 5,
+   "text": "QU’EST-CE QUE C’EST... CETTE SENSATION ?",
+   "style": "italique",
+   "point": [
+    329,
+    5504
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MON CŒUR...!",
+   "style": "italique",
+   "point": [
+    486,
+    6528
+   ]
+  },
+  {
+   "id": 8,
+   "text": "CE N’EST PAS SEULEMENT QU’IL EST IMMENSE.",
+   "style": "italique",
+   "point": [
+    405,
+    7656
+   ]
+  },
+  {
+   "id": 9,
+   "text": "CE KARMA... DEPUIS QUAND EST-IL AUSSI INTENSE ?!",
+   "style": "italique",
+   "point": [
+    446,
+    8747
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LA BATAILLE\nFINALE",
+   "style": "systeme",
+   "box": [
+    80,
+    1600,
+    720,
+    2235
+   ],
+   "unsat": 30,
+   "light_min": 170,
+   "grow": 10,
+   "blur_fill": 15,
+   "stretch": 2.2,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    200,
+    80,
+    120
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 101,
+   "text": "SEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    120,
+    3365,
+    690,
+    3495
+   ],
+   "unsat": 30,
+   "light_min": 200,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

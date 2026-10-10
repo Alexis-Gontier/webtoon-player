@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-263/027.webp",
+ "output": "chapters_fr/chapter-263/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET TON CORPS ? COMMENT TU TE SENS ?",
+   "style": "dialogue",
+   "point": [
+    365,
+    2553
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PRESQUE REMIS. RÉCUPÉRER MON KARMA PRENDRA ENCORE UN PEU DE TEMPS, MAIS...",
+   "style": "dialogue",
+   "point": [
+    292,
+    3363
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMME LIBUR EST RESTÉE AVEC MOI TOUTE LA JOURNÉE, JE N’AI MÊME PAS EU LE TEMPS DE M’ENNUYER.",
+   "style": "dialogue",
+   "point": [
+    454,
+    4665
+   ]
+  }
+ ]
+}

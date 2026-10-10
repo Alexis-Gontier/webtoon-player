@@ -1,0 +1,28 @@
+{
+  "source": "chapters_en/chapter-259/008.jpg",
+  "output": "chapters_fr/chapter-259/008.jpg",
+  "bubbles": [
+    {
+      "point": [
+        440,
+        195
+      ],
+      "text": "ATTENDONS."
+    },
+    {
+      "point": [
+        390,
+        1870
+      ],
+      "text": "CE N’EST PAS ENCORE NOTRE TOUR !"
+    },
+    {
+      "point": [
+        410,
+        10220
+      ],
+      "text": "WAOUH ♥",
+      "style": "cri"
+    }
+  ]
+}

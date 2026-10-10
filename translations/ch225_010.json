@@ -1,0 +1,102 @@
+{
+  "source": "chapters_en/chapter-225/010.webp",
+  "output": "chapters_fr/chapter-225/010.webp",
+  "bubbles": [
+    {
+      "point": [
+        428,
+        992
+      ],
+      "text": "IL A VOULU POIGNARDER UN AUTRE CANDIDAT DANS LE DOS."
+    },
+    {
+      "point": [
+        400,
+        1642
+      ],
+      "text": "OH LÀ LÀ, J’AI PEUR."
+    },
+    {
+      "point": [
+        372,
+        2592
+      ],
+      "text": "SÉRIEUX ? TU ES CANDIDATE, TOI AUSSI ? DIS-MOI AU MOINS QUELQUE CHOSE."
+    },
+    {
+      "point": [
+        363,
+        3203
+      ],
+      "text": "ET SI JE TE LE DIS, TU FERAS QUOI ?"
+    },
+    {
+      "point": [
+        338,
+        4308
+      ],
+      "text": "JE NE FAIS QUE SUIVRE L’ORDRE DE MON MAÎTRE : \"FAIRE DE MON MIEUX\"..."
+    },
+    {
+      "point": [
+        425,
+        4725
+      ],
+      "text": "TIENS TA LANGUE.",
+      "max_size": 62
+    },
+    {
+      "point": [
+        407,
+        7480
+      ],
+      "text": "LE BLASPHÈME CONTRE DIEU MÉRITE UN CHÂTIMENT SÉVÈRE."
+    },
+    {
+      "point": [
+        342,
+        8322
+      ],
+      "text": "DIS DONC, L’ARME D’EGO, ON DISCUTE UN PEU ?"
+    },
+    {
+      "point": [
+        372,
+        9542
+      ],
+      "text": "SI TU ME CASSES LE BRAS COMME ÇA, TU VAS COMBATTRE À MA PLACE ?"
+    },
+    {
+      "point": [
+        375,
+        10375
+      ],
+      "text": "NE MONTE PAS SUR TES GRANDS CHEVAUX,",
+      "max_size": 62
+    },
+    {
+      "point": [
+        447,
+        11767
+      ],
+      "text": "HUMAIN !",
+      "max_size": 62
+    },
+    {
+      "point": [
+        402,
+        13117
+      ],
+      "text": "HAHAHA !",
+      "max_size": 80
+    },
+    {
+      "point": [
+        407,
+        14775
+      ],
+      "text": "LAISSE-LES TRANQUILLES !",
+      "max_size": 62
+    }
+  ]
+}

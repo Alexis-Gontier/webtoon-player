@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-236/027.webp",
+ "output": "chapters_fr/chapter-236/027.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NOTRE COMBAT...",
+   "style": "dialogue",
+   "point": [
+    294,
+    253
+   ]
+  },
+  {
+   "id": 2,
+   "text": "A-T-IL VRAIMENT UN SENS... ?",
+   "style": "dialogue",
+   "point": [
+    462,
+    545
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...C’EST LE DERNIER.",
+   "style": "italique",
+   "point": [
+    457,
+    3030
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AVEC UN SEUL COUP DE PLUS,",
+   "style": "italique",
+   "point": [
+    507,
+    6631
+   ]
+  },
+  {
+   "id": 5,
+   "text": "IL EST TEMPS DE DÉCIDER DU VAINQUEUR.",
+   "style": "italique",
+   "point": [
+    400,
+    7997
+   ]
+  }
+ ]
+}

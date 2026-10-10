@@ -1,0 +1,56 @@
+{
+ "source": "chapters_en/chapter-246/025.webp",
+ "output": "chapters_fr/chapter-246/025.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...SOIT ENFIN\nTERMINÉ !",
+   "style": "cri",
+   "point": [
+    411,
+    1560
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MON... COMBAT ?",
+   "style": "dialogue",
+   "point": [
+    471,
+    3656
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE COMBAT\nCOMMENCE",
+   "style": "systeme",
+   "box": [
+    133,
+    6653,
+    665,
+    6885
+   ],
+   "light": true,
+   "light_min": 150,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     240,
+     200
+    ],
+    [
+     255,
+     225,
+     170
+    ]
+   ],
+   "outline": [
+    190,
+    40,
+    30
+   ],
+   "outline_width": 3
+  }
+ ]
+}

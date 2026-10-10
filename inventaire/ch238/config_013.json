@@ -1,0 +1,123 @@
+{
+ "source": "chapters_en/chapter-238/013.webp",
+ "output": "chapters_fr/chapter-238/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BON, ALORS.",
+   "style": "dialogue",
+   "point": [
+    484,
+    147
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ON SE REVERRA PLUS TARD, LAY.",
+   "style": "dialogue",
+   "point": [
+    393,
+    1566
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMMENT OSE...",
+   "style": "dialogue",
+   "point": [
+    297,
+    2838
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMMENT OSE-T-IL, COMMENT OSE-T-IL !!!",
+   "style": "dialogue",
+   "point": [
+    463,
+    3426
+   ]
+  },
+  {
+   "id": 5,
+   "text": "EUH, LIBUR, TU N’ES PAS UN PEU TROP PRÈS ?",
+   "style": "dialogue",
+   "point": [
+    335,
+    8275
+   ]
+  },
+  {
+   "id": 6,
+   "text": "QUOIII~ ?!",
+   "style": "dialogue",
+   "point": [
+    394,
+    9798
+   ]
+  },
+  {
+   "id": 7,
+   "text": "TU ÉTAIS COLLÉ À CETTE FILLE TOUT À L’HEURE, POURTANT !",
+   "style": "dialogue",
+   "point": [
+    491,
+    10115
+   ]
+  },
+  {
+   "id": 8,
+   "text": "C-C’ÉTAIT UN ACCIDENT... !",
+   "style": "dialogue",
+   "point": [
+    363,
+    10611
+   ]
+  },
+  {
+   "id": 9,
+   "text": "OH, VRAIMENT, UN ACCIDENT, HEIN ? NON ! ÇA NE VA PAS.",
+   "style": "dialogue",
+   "point": [
+    322,
+    11463
+   ]
+  },
+  {
+   "id": 10,
+   "text": "JE VAIS LE DIRE À LILLET AUSSI.",
+   "style": "dialogue",
+   "point": [
+    447,
+    11780
+   ]
+  },
+  {
+   "id": 11,
+   "text": "HÉ ! COMMENT LA CONVERSATION EN EST ARRIVÉE LÀ ?!",
+   "style": "italique",
+   "point": [
+    325,
+    12615
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SEOL-JIN HEO !",
+   "style": "italique",
+   "point": [
+    401,
+    6554
+   ]
+  },
+  {
+   "id": 101,
+   "text": "COMMENT OSES-TU\nM’INSULTER ?!",
+   "style": "cri",
+   "point": [
+    410,
+    4190
+   ]
+  }
+ ]
+}

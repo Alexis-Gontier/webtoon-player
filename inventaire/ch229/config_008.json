@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-229/008.webp",
+ "output": "chapters_fr/chapter-229/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OÙ EST-CE QU’ELLE A TROUVÉ TOUT CET ENTRAIN, D’UN COUP ?!",
+   "style": "italique",
+   "point": [
+    428,
+    525
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU AS BIEN TRAVAILLÉ, TAE-WON KIM, MIRAGE...",
+   "style": "italique",
+   "point": [
+    363,
+    1347
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’ÉTAIT UN COMBAT DIGNE DE VOUS TOUS, AU POINT QUE JE VOUS ENVIE.",
+   "style": "italique",
+   "point": [
+    404,
+    3184
+   ]
+  },
+  {
+   "id": 4,
+   "text": "DÉSORMAIS, LA DESTRUCTION DE \"CET ENDROIT\" EST ACHEVÉE.",
+   "style": "italique",
+   "point": [
+    306,
+    4113
+   ]
+  },
+  {
+   "id": 5,
+   "text": "MAINTENANT, DOUCEMENT...",
+   "style": "italique",
+   "point": [
+    492,
+    4834
+   ]
+  },
+  {
+   "id": 9,
+   "text": "J’AI BESOIN DE TON AIDE.",
+   "style": "dialogue",
+   "point": [
+    416,
+    8905
+   ]
+  },
+  {
+   "id": 10,
+   "text": "J’ATTENDAIS ÇA !",
+   "style": "dialogue",
+   "point": [
+    398,
+    14256
+   ]
+  }
+ ]
+}

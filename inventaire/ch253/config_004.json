@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-253/004.webp",
+ "output": "chapters_fr/chapter-253/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "NE CHOISIR\nNI L’UNE\nNI L’AUTRE...",
+   "style": "dialogue",
+   "point": [
+    294,
+    456
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST LA RÉPONSE LA PLUS IRRESPONSABLE QUE J’AIE JAMAIS ENTENDUE. SI TU NE T’EXPLIQUES PAS...",
+   "style": "dialogue",
+   "point": [
+    332,
+    1623
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU DEVRAS M’AFFRONTER AVANT DE TE BATTRE CONTRE ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    371,
+    3980
+   ]
+  }
+ ]
+}

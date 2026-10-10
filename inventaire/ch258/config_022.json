@@ -1,0 +1,65 @@
+{
+ "source": "chapters_en/chapter-258/022.webp",
+ "output": "chapters_fr/chapter-258/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA FÊTE EST FINIE !\nRÉSISTEZ, BANDE\nDE SALAUDS !",
+   "style": "italique",
+   "point": [
+    351,
+    104
+   ],
+   "box": [
+    150,
+    0,
+    610,
+    240
+   ],
+   "target": [
+    170,
+    25,
+    590,
+    225
+   ],
+   "ink_max": 100,
+   "max_letter": 62,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "VOUS QUI AVEZ ENCORE DU KARMA, UTILISEZ VOS COMPÉTENCES ET BRÛLEZ TOUT !",
+   "style": "italique",
+   "point": [
+    460,
+    1399
+   ]
+  },
+  {
+   "id": 7,
+   "text": "RÉSISTEZ\nJUSQU’AU BOUT.",
+   "style": "italique",
+   "point": [
+    368,
+    4552
+   ]
+  }
+ ]
+}

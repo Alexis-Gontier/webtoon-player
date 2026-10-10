@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-226/002.webp",
+ "output": "chapters_fr/chapter-226/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNE CORVÉE POUR MIRAGE.",
+   "style": "dialogue",
+   "point": [
+    407,
+    659
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TANT QUE L’AUTRE PARTIE N’AVAIT PAS TOUT COMPRIS,",
+   "style": "dialogue",
+   "point": [
+    291,
+    1635
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MIRAGE DEVAIT SUBIR AVEC ELLE CE \"TEMPS FIGÉ\".",
+   "style": "dialogue",
+   "point": [
+    439,
+    1971
+   ]
+  },
+  {
+   "id": 4,
+   "text": "À CE RYTHME, JE VAIS MOURIR DE VIEILLESSE. ILS SONT BÊTES À CE POINT ?",
+   "style": "italique",
+   "point": [
+    465,
+    3639
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PENDANT CE TEMPS, MIRAGE",
+   "style": "dialogue",
+   "point": [
+    276,
+    4920
+   ]
+  },
+  {
+   "id": 6,
+   "text": "EUT UNE IDÉE ÉTRANGE.",
+   "style": "dialogue",
+   "point": [
+    505,
+    6307
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LES CONTRATS ACCUMULÉS AU FIL DU TEMPS",
+   "style": "dialogue",
+   "point": [
+    403,
+    8174
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SE MIRENT À S’ACTIVER TOUS EN MÊME TEMPS À PARTIR D’UN CERTAIN MOMENT.",
+   "style": "dialogue",
+   "point": [
+    420,
+    10659
+   ]
+  },
+  {
+   "id": 9,
+   "text": "DES CONTRATS \"ACTIVÉS\" MAIS PAS ENCORE \"UTILISÉS\".",
+   "style": "dialogue",
+   "point": [
+    403,
+    12313
+   ]
+  },
+  {
+   "id": 10,
+   "text": "GRÂCE À EUX, MIRAGE...",
+   "style": "dialogue",
+   "point": [
+    402,
+    13866
+   ]
+  }
+ ]
+}

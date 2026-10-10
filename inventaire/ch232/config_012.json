@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-232/012.webp",
+ "output": "chapters_fr/chapter-232/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE T’EN PRIE.",
+   "style": "italique",
+   "point": [
+    402,
+    3855
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE T’EN SUPPLIE,",
+   "style": "italique",
+   "point": [
+    429,
+    5515
+   ]
+  },
+  {
+   "id": 5,
+   "text": "PERSONNE NE DOIT GÂCHER CE MOMENT !",
+   "style": "italique",
+   "point": [
+    395,
+    7543
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AH...",
+   "style": "dialogue",
+   "point": [
+    234,
+    11177
+   ]
+  },
+  {
+   "id": 8,
+   "text": "LA VOILÀ.",
+   "style": "dialogue",
+   "point": [
+    403,
+    12109
+   ]
+  }
+ ]
+}

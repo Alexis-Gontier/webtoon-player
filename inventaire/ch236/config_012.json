@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-236/012.webp",
+ "output": "chapters_fr/chapter-236/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QU’EST-CE QUE TU RACONTES ? C’EST LA FILLE D’UN GOBELIN.",
+   "style": "dialogue",
+   "point": [
+    407,
+    1242
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI ELLE PASSE LA PORTE, QUI VA LA GARDER ?",
+   "style": "dialogue",
+   "point": [
+    445,
+    2195
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...POURQUOI ?",
+   "style": "dialogue",
+   "point": [
+    320,
+    4188
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ET... PASTIS EST TOUT SEUL...",
+   "style": "dialogue",
+   "point": [
+    433,
+    5108
+   ]
+  },
+  {
+   "id": 5,
+   "text": "...JE VOIS.",
+   "style": "dialogue",
+   "point": [
+    316,
+    5971
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ALORS MON RÔLE... C’EST DE CONVAINCRE CETTE ENFANT.",
+   "style": "dialogue",
+   "point": [
+    438,
+    6801
+   ]
+  }
+ ]
+}

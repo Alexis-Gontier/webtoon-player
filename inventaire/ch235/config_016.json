@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-235/016.webp",
+ "output": "chapters_fr/chapter-235/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "...QUOI ?",
+   "style": "dialogue",
+   "point": [
+    354,
+    841
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MON BORDEL.",
+   "style": "dialogue",
+   "point": [
+    335,
+    1698
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU ME DEMANDES DE NETTOYER ÇA, C’EST ÇA ?",
+   "style": "dialogue",
+   "point": [
+    476,
+    2894
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALORS, C’EST QUEL ÉTAGE ?",
+   "style": "dialogue",
+   "point": [
+    444,
+    4969
+   ]
+  },
+  {
+   "id": 6,
+   "text": "15E ÉTAGE... VOUS Y ALLEZ EN PERSONNE... ?",
+   "style": "dialogue",
+   "point": [
+    483,
+    6626
+   ]
+  },
+  {
+   "id": 7,
+   "text": "BIEN, PRENDS-LE, RAY !",
+   "style": "dialogue",
+   "point": [
+    394,
+    7560
+   ]
+  }
+ ]
+}

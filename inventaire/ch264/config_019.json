@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-264/019.webp",
+ "output": "chapters_fr/chapter-264/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AU FINAL, ÇA VALAIT LE COUP DE TOUT DONNER, NON ?",
+   "style": "dialogue",
+   "point": [
+    413,
+    1303
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ENFIN QUELQUE\nCHOSE À FAIRE !",
+   "style": "italique",
+   "point": [
+    320,
+    4341
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    250,
+    4975,
+    560,
+    5000
+   ],
+   "ink_max": 100,
+   "grow": 2,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

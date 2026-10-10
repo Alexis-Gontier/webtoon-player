@@ -1,0 +1,110 @@
+{
+ "source": "chapters_en/chapter-237/008.webp",
+ "output": "chapters_fr/chapter-237/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "DANS L’ACCOMPLISSEMENT FINAL DE TA VIE !",
+   "style": "dialogue",
+   "point": [
+    380,
+    254
+   ]
+  },
+  {
+   "id": 2,
+   "text": "COLLECTE DES DONNÉES DE\nBOÎTE NOIRE DE L’UNITÉ\nDE RÉSERVE TERMINÉE.",
+   "style": "systeme",
+   "point": [
+    322,
+    1022
+   ],
+   "box": [
+    140,
+    930,
+    505,
+    1115
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 3,
+   "text": "SYNCHRONISATION CLOUD\nEN COURS... 99 %...\n100 %.",
+   "style": "systeme",
+   "point": [
+    500,
+    1356
+   ],
+   "box": [
+    330,
+    1255,
+    670,
+    1455
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 4,
+   "text": "ATTENTE DE RENDEZ-VOUS\nDEMANDÉE. ENTRÉE DANS\nLA PHASE FINALE.",
+   "style": "systeme",
+   "box": [
+    195,
+    5350,
+    600,
+    5620
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 80
+  },
+  {
+   "id": 100,
+   "text": "VIENS !",
+   "style": "cri",
+   "point": [
+    396,
+    9649
+   ]
+  }
+ ]
+}

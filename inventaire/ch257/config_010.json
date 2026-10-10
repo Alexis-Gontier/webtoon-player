@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-257/010.webp",
+ "output": "chapters_fr/chapter-257/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "APAISANT UNE FAIM VIDE QUI NE POURRAIT JAMAIS ÊTRE COMBLÉE...",
+   "style": "cartouche",
+   "point": [
+    414,
+    382
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET ALORS...",
+   "style": "cartouche",
+   "point": [
+    419,
+    2542
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE TEMPS PASSA LENTEMENT.",
+   "style": "cartouche",
+   "point": [
+    435,
+    3706
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-248/013.webp",
+ "output": "chapters_fr/chapter-248/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CET ENDROIT... OÙ SUIS-JE ?",
+   "style": "dialogue",
+   "point": [
+    360,
+    2068
+   ]
+  },
+  {
+   "id": 2,
+   "text": "REPOSE-TOI, LIBUR.",
+   "style": "dialogue",
+   "point": [
+    298,
+    3442
+   ]
+  }
+ ]
+}

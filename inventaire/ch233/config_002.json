@@ -1,0 +1,108 @@
+{
+ "source": "chapters_en/chapter-233/002.webp",
+ "output": "chapters_fr/chapter-233/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST ÇA QUE JE VOULAIS VOIR !",
+   "style": "dialogue",
+   "point": [
+    400,
+    948
+   ]
+  },
+  {
+   "id": 3,
+   "text": "IL ME RESTE COMBIEN DE CŒUR, LUCIA ?",
+   "style": "dialogue",
+   "point": [
+    418,
+    5078
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AVEC CE QUI VIENT DE SE PASSER, ÇA FAIT 30 FOIS♥",
+   "style": "dialogue",
+   "point": [
+    379,
+    7354
+   ],
+   "max_size": 40,
+   "cut": [
+    [
+     222,
+     7520
+    ],
+    [
+     568,
+     7544
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "text": "À PARTIR DE MAINTENANT, TU NE POURRAS EMPRUNTER MON POUVOIR QUE DEUX OU TROIS FOIS DE PLUS♥",
+   "style": "dialogue",
+   "point": [
+    464,
+    7811
+   ],
+   "cut": [
+    [
+     222,
+     7520
+    ],
+    [
+     568,
+     7544
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CEPENDANT...",
+   "style": "dialogue",
+   "point": [
+    307,
+    8931
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MÊME LA LUMIÈRE DE TON HÉROS A COMMENCÉ À FAIBLIR.",
+   "style": "dialogue",
+   "point": [
+    478,
+    9778
+   ]
+  },
+  {
+   "id": 8,
+   "text": "HUHU♥",
+   "style": "dialogue",
+   "point": [
+    397,
+    11034
+   ]
+  },
+  {
+   "id": 9,
+   "text": "QUEL CAMP VA ATTEINDRE SA LIMITE EN PREMIER, À TON AVIS ?",
+   "style": "dialogue",
+   "point": [
+    384,
+    13614
+   ]
+  },
+  {
+   "id": 10,
+   "text": "LA SITUATION EST DÉFAVORABLE... !",
+   "style": "italique",
+   "point": [
+    438,
+    14639
+   ]
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "source": "chapters_en/chapter-240/010.webp",
+ "output": "chapters_fr/chapter-240/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU DOIS LE REGARDER.",
+   "style": "dialogue",
+   "point": [
+    434,
+    556
+   ]
+  },
+  {
+   "id": 2,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    396,
+    1837
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMME PRÉVU, UN CORPS D’HOMME CONVIENT MIEUX.",
+   "style": "dialogue",
+   "point": [
+    419,
+    3406
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BIEN.",
+   "style": "dialogue",
+   "point": [
+    316,
+    4264
+   ]
+  },
+  {
+   "id": 7,
+   "text": "OÙ EST-CE QUE JE VAIS, MAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    427,
+    6776
+   ]
+  },
+  {
+   "id": 8,
+   "text": "AU MIEUX, C’EST LA DERNIÈRE\nTENTATIVE DÉSESPÉRÉE\nDES HUMAINS.",
+   "style": "systeme",
+   "box": [
+    35,
+    7740,
+    766,
+    7976
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 9,
+   "text": "MAIS ÇA NE ME\nDÉRANGEAIT PAS DU TOUT.",
+   "style": "systeme",
+   "box": [
+    144,
+    8354,
+    647,
+    8565
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 10,
+   "text": "ÇA DOIT\nÊTRE LE CAS.",
+   "style": "systeme",
+   "box": [
+    140,
+    8832,
+    659,
+    9040
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 12,
+   "text": "AU BOUT D’UN MOMENT...",
+   "style": "systeme",
+   "box": [
+    74,
+    13691,
+    725,
+    13793
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 13,
+   "text": "JE PEUX ACHEVER CE\nRÉCEPTACLE PLUS TÔT.",
+   "style": "systeme",
+   "box": [
+    35,
+    14098,
+    765,
+    14275
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  }
+ ]
+}

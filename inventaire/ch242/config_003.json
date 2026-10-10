@@ -1,0 +1,124 @@
+{
+ "source": "chapters_en/chapter-242/003.webp",
+ "output": "chapters_fr/chapter-242/003.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ET N’A PU AIMER\nPERSONNE\nSINCÈREMENT.",
+   "style": "systeme",
+   "point": [
+    399,
+    1315
+   ],
+   "box": [
+    185,
+    1190,
+    615,
+    1440
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 3,
+   "text": "JUSQU’À CE\nQU’IL ME\nRENCONTRE,",
+   "style": "systeme",
+   "point": [
+    399,
+    1928
+   ],
+   "box": [
+    255,
+    1845,
+    545,
+    2010
+   ],
+   "ink_max": 90,
+   "grow": 5,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 4,
+   "text": "HAHA, TE PARDONNER... ?!",
+   "style": "italique",
+   "point": [
+    415,
+    2762
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU DIS ÇA SÉRIEUSEMENT ?",
+   "style": "italique",
+   "point": [
+    411,
+    4481
+   ]
+  },
+  {
+   "id": 6,
+   "text": "...!",
+   "style": "dialogue",
+   "point": [
+    286,
+    4996
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE DÉTESTAIS\nVRAIMENT ÇA.",
+   "style": "systeme",
+   "point": [
+    400,
+    6807
+   ],
+   "box": [
+    140,
+    6720,
+    660,
+    6895
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-228/034.webp",
+ "output": "chapters_fr/chapter-228/034.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "L’\"IMITATION\" D’ARME D’EGO",
+   "style": "dialogue",
+   "point": [
+    413,
+    630
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU AS RÉFLÉCHI UN PEU ?",
+   "style": "dialogue",
+   "point": [
+    376,
+    1543
+   ]
+  }
+ ]
+}

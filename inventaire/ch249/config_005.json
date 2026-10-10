@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-249/005.webp",
+ "output": "chapters_fr/chapter-249/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VOUS LE\nSENTEZ ?",
+   "style": "dialogue",
+   "point": [
+    323,
+    1278
+   ]
+  },
+  {
+   "id": 2,
+   "text": "AUCUN DOUTE, ÇA VA BIENTÔT COMMENCER...",
+   "style": "dialogue",
+   "point": [
+    384,
+    2868
+   ]
+  },
+  {
+   "id": 3,
+   "text": "UN NOUVEAU MONDE POUR NOTRE DÉSIR DE TOUJOURS~",
+   "style": "dialogue",
+   "point": [
+    362,
+    3946
+   ]
+  }
+ ]
+}

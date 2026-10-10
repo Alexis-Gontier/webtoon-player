@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-253/017.webp",
+ "output": "chapters_fr/chapter-253/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "VIENS ICI.",
+   "style": "dialogue",
+   "point": [
+    372,
+    268
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LIBUR,\nSEOL-JIN...",
+   "style": "dialogue",
+   "point": [
+    302,
+    4111
+   ]
+  }
+ ]
+}

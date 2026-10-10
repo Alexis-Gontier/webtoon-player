@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-239/017.webp",
+ "output": "chapters_fr/chapter-239/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AUTREMENT DIT...",
+   "style": "dialogue",
+   "point": [
+    394,
+    880
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE COMBAT MÈNE À \"L’ÉQUILIBRE DU MONDE\".",
+   "style": "dialogue",
+   "point": [
+    394,
+    2502
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI ÇA NE TE CONVIENT PAS,",
+   "style": "dialogue",
+   "point": [
+    446,
+    3258
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU ES LIBRE DE LE CONTESTER.",
+   "style": "dialogue",
+   "point": [
+    354,
+    4311
+   ]
+  }
+ ]
+}

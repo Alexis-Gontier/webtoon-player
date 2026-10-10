@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-233/006.webp",
+ "output": "chapters_fr/chapter-233/006.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "TU L’AS VRAIMENT TROUVÉE.",
+   "style": "dialogue",
+   "point": [
+    382,
+    6283
+   ]
+  },
+  {
+   "id": 3,
+   "text": "\"ARME D’EGO !\"",
+   "style": "dialogue",
+   "point": [
+    363,
+    7019
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON SUIT LE PLAN !",
+   "style": "dialogue",
+   "point": [
+    401,
+    10114
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ON SE CONCENTRE SUR LE SOUTIEN À DEAN !",
+   "style": "dialogue",
+   "point": [
+    387,
+    11219
+   ]
+  },
+  {
+   "id": 6,
+   "text": "...TU ES SÛRE QUE CE \"PLAN\" TIENT LA ROUTE ?",
+   "style": "dialogue",
+   "point": [
+    394,
+    12236
+   ]
+  },
+  {
+   "id": 7,
+   "text": "COMBIEN DE TEMPS POURRONT-ILS RÉSISTER À L’ARME D’EGO DU DIEU ABSOLU...",
+   "style": "dialogue",
+   "point": [
+    408,
+    13430
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ÇA IRA.",
+   "style": "dialogue",
+   "point": [
+    384,
+    14313
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-244/007.webp",
+ "output": "chapters_fr/chapter-244/007.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "À MOI...",
+   "style": "dialogue",
+   "point": [
+    397,
+    3462
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DE JOUER !",
+   "style": "dialogue",
+   "point": [
+    425,
+    4606
+   ]
+  }
+ ]
+}

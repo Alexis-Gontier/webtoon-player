@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-253/023.webp",
+ "output": "chapters_fr/chapter-253/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET POUR UN TEL AVENIR...",
+   "style": "dialogue",
+   "point": [
+    383,
+    199
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE VAINCRAI LE SEIGNEUR ARTHUR, C’EST SÛR !",
+   "style": "dialogue",
+   "point": [
+    379,
+    1743
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HMPF !",
+   "style": "dialogue",
+   "point": [
+    333,
+    2589
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BONNE\nRÉPONSE !",
+   "style": "dialogue",
+   "point": [
+    380,
+    3665
+   ]
+  }
+ ]
+}

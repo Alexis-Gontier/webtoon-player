@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-256/042.webp",
+ "output": "chapters_fr/chapter-256/042.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    359,
+    606
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÉVIDEMMENT.",
+   "style": "dialogue",
+   "point": [
+    388,
+    1506
+   ]
+  },
+  {
+   "id": 5,
+   "text": "APRÈS TOUT, C’EST LE MONDE QUE J’AI CRÉÉ.",
+   "style": "dialogue",
+   "point": [
+    427,
+    2911
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ALLEZ.",
+   "style": "dialogue",
+   "point": [
+    313,
+    3851
+   ]
+  }
+ ]
+}

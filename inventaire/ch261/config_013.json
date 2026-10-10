@@ -1,0 +1,40 @@
+{
+ "source": "chapters_en/chapter-261/013.webp",
+ "output": "chapters_fr/chapter-261/013.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "COPIE.",
+   "style": "systeme",
+   "box": [
+    360,
+    1000,
+    800,
+    1200
+   ],
+   "light": true,
+   "light_min": 210,
+   "max_letter": 150,
+   "grow": 7,
+   "blur_fill": 15,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  }
+ ]
+}

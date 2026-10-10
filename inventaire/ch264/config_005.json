@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-264/005.webp",
+ "output": "chapters_fr/chapter-264/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SE PARLÈRENT POUR LA PREMIÈRE FOIS.",
+   "style": "cartouche",
+   "point": [
+    359,
+    656
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CE FUT LAY QUI MENA LA CONVERSATION...",
+   "style": "cartouche",
+   "point": [
+    340,
+    1782
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ET ELLE PARLA SURTOUT DE SES PROJETS D’AVENIR.",
+   "style": "cartouche",
+   "point": [
+    410,
+    2822
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA RAISON DE SA VISITE...",
+   "style": "cartouche",
+   "point": [
+    303,
+    3790
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ÉTAIT DE DEMANDER LA PERMISSION À SEOL-JIN.",
+   "style": "cartouche",
+   "point": [
+    394,
+    4625
+   ]
+  }
+ ]
+}

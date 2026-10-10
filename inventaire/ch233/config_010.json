@@ -1,0 +1,80 @@
+{
+ "source": "chapters_en/chapter-233/010.webp",
+ "output": "chapters_fr/chapter-233/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SIRE DEAN.",
+   "style": "dialogue",
+   "point": [
+    475,
+    274
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU N’ES PAS SEUL.",
+   "style": "dialogue",
+   "point": [
+    418,
+    1522
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-CE QUE JE DOIS FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    470,
+    4536
+   ],
+   "cut": [
+    [
+     209,
+     4331
+    ],
+    [
+     507,
+     4331
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "NE T’INQUIÈTE DE RIEN ET GAGNE, C’EST TOUT.",
+   "style": "dialogue",
+   "point": [
+    407,
+    6423
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ON S’EN OCCUPE.",
+   "style": "dialogue",
+   "point": [
+    416,
+    8116
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ALORS...",
+   "style": "dialogue",
+   "point": [
+    357,
+    4223
+   ],
+   "cut": [
+    [
+     209,
+     4331
+    ],
+    [
+     507,
+     4331
+    ]
+   ]
+  }
+ ]
+}

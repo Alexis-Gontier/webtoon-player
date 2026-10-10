@@ -1,0 +1,76 @@
+{
+ "source": "chapters_en/chapter-264/029.webp",
+ "output": "chapters_fr/chapter-264/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LA TÂCHE QUE TU M’AS CONFIÉE EST TERMINÉE.",
+   "style": "dialogue",
+   "point": [
+    362,
+    568
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU AS VRAIMENT RÉUSSI À FABRIQUER CE TRUC GÉANT...",
+   "style": "dialogue",
+   "point": [
+    332,
+    3272
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EN SEULEMENT DEUX SEMAINES...",
+   "style": "dialogue",
+   "point": [
+    346,
+    4392
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TOUT ÇA, C’EST",
+   "style": "dialogue",
+   "point": [
+    312,
+    4958
+   ],
+   "box": [
+    160,
+    4930,
+    470,
+    5000
+   ],
+   "target": [
+    180,
+    4938,
+    450,
+    4996
+   ],
+   "ink_max": 100,
+   "max_letter": 45,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 29,
+   "seam": "bottom"
+  }
+ ]
+}

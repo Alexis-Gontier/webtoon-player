@@ -1,0 +1,127 @@
+{
+ "source": "chapters_en/chapter-245/001.webp",
+ "output": "chapters_fr/chapter-245/001.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "BATAILLE FINALE\nDEMI-FINALE",
+   "style": "systeme",
+   "box": [
+    150,
+    565,
+    660,
+    775
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 3,
+   "text": "SEOL-JIN HEO",
+   "style": "systeme",
+   "box": [
+    150,
+    1240,
+    650,
+    1345
+   ],
+   "light": true,
+   "grow": 7,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 100,
+   "text": "VAINQUEUR :",
+   "style": "systeme",
+   "box": [
+    180,
+    2745,
+    600,
+    2868
+   ],
+   "grow": 6,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4,
+   "max_letter": 145
+  },
+  {
+   "id": 101,
+   "text": "SEOL-JIN HEO.",
+   "style": "systeme",
+   "box": [
+    75,
+    2870,
+    732,
+    3002
+   ],
+   "target": [
+    86,
+    2879,
+    721,
+    2993
+   ],
+   "ink_max": 256,
+   "grow": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4,
+   "max_letter": 230
+  }
+ ]
+}

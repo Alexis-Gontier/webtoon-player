@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-230/002.webp",
+ "output": "chapters_fr/chapter-230/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TU ES SÛRE QUE ÇA VA DE NE PAS REGARDER LE COMBAT DE M. DEAN, JE VEUX DIRE ?",
+   "style": "dialogue",
+   "point": [
+    373,
+    6337
+   ]
+  },
+  {
+   "id": 2,
+   "text": "PEU IMPORTE.",
+   "style": "dialogue",
+   "point": [
+    379,
+    8071
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QUE JE LE REGARDE OU NON, JE SERAI JUSTE ENCORE PLUS FRUSTRÉE.",
+   "style": "dialogue",
+   "point": [
+    464,
+    9582
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MÊME SÉPARÉS, ON SAURA QUAND MÊME COMMENT VA L’AUTRE.",
+   "style": "dialogue",
+   "point": [
+    339,
+    10442
+   ]
+  },
+  {
+   "id": 5,
+   "text": "BON, ON Y EST.",
+   "style": "dialogue",
+   "point": [
+    409,
+    12717
+   ]
+  }
+ ]
+}

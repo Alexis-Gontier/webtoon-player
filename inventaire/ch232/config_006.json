@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-232/006.webp",
+ "output": "chapters_fr/chapter-232/006.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "MOI AUSSI, DE TOUTES MES FORCES...",
+   "style": "dialogue",
+   "point": [
+    410,
+    4087
+   ]
+  },
+  {
+   "id": 4,
+   "text": "J’ESSAIERAI D’ÊTRE À LA HAUTEUR DE VOS ATTENTES !",
+   "style": "dialogue",
+   "point": [
+    374,
+    5563
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SI ÇA CONTINUE COMME ÇA~",
+   "style": "dialogue",
+   "point": [
+    400,
+    9161
+   ]
+  },
+  {
+   "id": 101,
+   "text": "P-PAS QUESTION~",
+   "style": "dialogue",
+   "point": [
+    400,
+    8241
+   ]
+  }
+ ]
+}

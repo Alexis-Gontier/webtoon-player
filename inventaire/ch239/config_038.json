@@ -1,0 +1,74 @@
+{
+ "source": "chapters_en/chapter-239/038.webp",
+ "output": "chapters_fr/chapter-239/038.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "L’ŒIL\nQUI PERCE\nÀ JOUR\nTOUT CE QUE\nJE SUIS !",
+   "style": "systeme",
+   "box": [
+    80,
+    460,
+    720,
+    1585
+   ],
+   "light": true,
+   "unsat": 18,
+   "light_min": 225,
+   "grow": 12,
+   "blur_fill": 25,
+   "stretch": 2,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 4,
+   "max_letter": 200
+  },
+  {
+   "id": 101,
+   "text": "ET ME TROUVE\nTOUJOURS.",
+   "style": "dialogue",
+   "box": [
+    50,
+    4200,
+    760,
+    4630
+   ],
+   "light": true,
+   "light_min": 70,
+   "grow": 10,
+   "fill": [
+    251,
+    3,
+    253
+   ],
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 420
+  }
+ ]
+}

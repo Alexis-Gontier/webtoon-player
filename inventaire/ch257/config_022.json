@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-257/022.webp",
+ "output": "chapters_fr/chapter-257/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’ÉTAIT LE \"DOUTE\".",
+   "style": "dialogue",
+   "point": [
+    516,
+    941
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET CE DOUTE...",
+   "style": "dialogue",
+   "point": [
+    324,
+    1906
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EST DEVENU UNE CERTITUDE QUAND JE T’AI RENCONTRÉE ICI.",
+   "style": "dialogue",
+   "point": [
+    499,
+    2950
+   ]
+  },
+  {
+   "id": 4,
+   "text": "COMME JE LE PENSAIS, MON \"RÉCEPTACLE VIDE\"...",
+   "style": "dialogue",
+   "point": [
+    360,
+    3986
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-227/008.webp",
+ "output": "chapters_fr/chapter-227/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST VRAIMENT DRÔLE, NON ?",
+   "style": "dialogue",
+   "point": [
+    372,
+    507
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU AURAIS DÛ ACCEPTER LA RÉALITÉ ET PASSER À AUTRE CHOSE.",
+   "style": "dialogue",
+   "point": [
+    401,
+    1612
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST COMME ÇA QUE LE MONDE FONCTIONNE, TU SAIS.",
+   "style": "dialogue",
+   "point": [
+    354,
+    2449
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MENSONGE OU VÉRITÉ.",
+   "style": "dialogue",
+   "point": [
+    512,
+    3050
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU NE PEUX PAS T’EMPÊCHER DE T’ACCROCHER À UNE CHOSE AUSSI VAINE,",
+   "style": "dialogue",
+   "point": [
+    316,
+    3874
+   ]
+  },
+  {
+   "id": 6,
+   "text": "À NIER, VOLER ET TROMPER D’INNOMBRABLES AUTRES RIEN QUE POUR AFFIRMER TA PROPRE EXISTENCE...",
+   "style": "dialogue",
+   "point": [
+    462,
+    4210
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ET MÊME À TE JUSTIFIER AVEC UNE BELLE EXCUSE, COMME ÊTRE UN \"CHERCHEUR DE VÉRITÉ\"...",
+   "style": "dialogue",
+   "point": [
+    442,
+    6655
+   ]
+  }
+ ]
+}

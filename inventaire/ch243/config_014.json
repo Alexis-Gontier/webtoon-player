@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-243/014.webp",
+ "output": "chapters_fr/chapter-243/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "PARCE QUE C’EST UNE ÉPÉE QUI RENFERME LE MONDE IDÉAL QUE DEAN VEUT PROTÉGER,",
+   "style": "dialogue",
+   "point": [
+    306,
+    166
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ELLE NE PEUT TRANCHER QUE CE QUI FAIT OBSTACLE À CET IDÉAL,",
+   "style": "dialogue",
+   "point": [
+    465,
+    479
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PARCE QUE CE SONT DES GENS QUI EXISTENT DANS LE MONDE QUE DEAN VEUT PROTÉGER.",
+   "style": "dialogue",
+   "point": [
+    443,
+    1236
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CEPENDANT...",
+   "style": "dialogue",
+   "point": [
+    405,
+    2437
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TOUT VA BIEN, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    428,
+    2810
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BON, ALORS...",
+   "style": "dialogue",
+   "point": [
+    426,
+    4487
+   ]
+  },
+  {
+   "id": 7,
+   "text": "JE ME DOUTAIS QUE TU ACCEPTERAIS.",
+   "style": "dialogue",
+   "point": [
+    405,
+    5509
+   ]
+  },
+  {
+   "id": 8,
+   "text": "SEOL-JIN HEO !",
+   "style": "dialogue",
+   "point": [
+    397,
+    6411
+   ]
+  }
+ ]
+}

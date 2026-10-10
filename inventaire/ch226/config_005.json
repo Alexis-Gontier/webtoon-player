@@ -1,0 +1,106 @@
+{
+ "source": "chapters_en/chapter-226/005.webp",
+ "output": "chapters_fr/chapter-226/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS QUE LE COMBAT DÉCISIF COMMENÇAIT,",
+   "style": "dialogue",
+   "point": [
+    399,
+    661
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LES CONTRATS \"INUTILISÉS\" QUI AVAIENT REMPLI LEUR RÔLE",
+   "style": "dialogue",
+   "point": [
+    267,
+    1816
+   ]
+  },
+  {
+   "id": 3,
+   "text": "COMMENCÈRENT À CONVERGER EN UN SEUL.",
+   "style": "dialogue",
+   "point": [
+    497,
+    2639
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POUR SE CONSUMER EN CET UNIQUE INSTANT,",
+   "style": "dialogue",
+   "point": [
+    408,
+    3510
+   ]
+  },
+  {
+   "id": 5,
+   "text": "UN INSTANT QU’ILS CROYAIENT NE JAMAIS VOIR ARRIVER.",
+   "style": "dialogue",
+   "point": [
+    403,
+    5714
+   ]
+  },
+  {
+   "id": 6,
+   "text": "\"SALUT, MIRAGE DE PACOTILLE.\"",
+   "style": "dialogue",
+   "point": [
+    384,
+    7325
+   ]
+  },
+  {
+   "id": 7,
+   "text": "-LE DIVIN FRUIT DU\nBIEN ET DU MAL-",
+   "style": "cri",
+   "point": [
+    421,
+    9132
+   ],
+   "box": [
+    64,
+    8915,
+    778,
+    9145
+   ],
+   "light": true,
+   "light_min": 180,
+   "grow": 5,
+   "max_letter": 130,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "target": [
+    90,
+    8935,
+    720,
+    9125
+   ]
+  },
+  {
+   "id": 8,
+   "text": "\"UNNAME\"... C’EST VRAIMENT TON VRAI NOM ?",
+   "style": "dialogue",
+   "point": [
+    417,
+    12308
+   ]
+  }
+ ]
+}

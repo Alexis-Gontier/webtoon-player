@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-255/002.webp",
+ "output": "chapters_fr/chapter-255/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CETTE\nPRÉSENCE...",
+   "style": "cri",
+   "point": [
+    366,
+    201
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ON DIRAIT QUE L’ARMURE DU DRAGON A ENFIN CHOISI SON MAÎTRE.",
+   "style": "dialogue",
+   "point": [
+    351,
+    2198
+   ]
+  },
+  {
+   "id": 3,
+   "text": "GRAND SAGE, L’ÉNERGIE DE LA TOUR COMMENCE À AFFECTER LE MONT HUAGUO AUSSI.",
+   "style": "dialogue",
+   "point": [
+    374,
+    3266
+   ]
+  }
+ ]
+}

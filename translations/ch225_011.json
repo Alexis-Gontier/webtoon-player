@@ -1,0 +1,86 @@
+{
+  "source": "chapters_en/chapter-225/011.webp",
+  "output": "chapters_fr/chapter-225/011.webp",
+  "bubbles": [
+    {
+      "point": [
+        383,
+        2217
+      ],
+      "text": "C’EST VRAI ?",
+      "max_size": 80
+    },
+    {
+      "point": [
+        360,
+        3075
+      ],
+      "text": "DÉSORMAIS, EN DEHORS DES COMBATS, INTERDIT DE VOUS TOUCHER !",
+      "cut": [
+        [
+          226,
+          3297
+        ],
+        [
+          572,
+          3245
+        ]
+      ]
+    },
+    {
+      "point": [
+        413,
+        3403
+      ],
+      "text": "BON, C’EST RÉGLÉ ! ÇA VOUS VA ?",
+      "cut": [
+        [
+          226,
+          3297
+        ],
+        [
+          572,
+          3245
+        ]
+      ]
+    },
+    {
+      "point": [
+        397,
+        4558
+      ],
+      "text": "ÇA ME VA, SI C’EST L’ORDRE DU DIEU ABSOLU."
+    },
+    {
+      "point": [
+        393,
+        6683
+      ],
+      "text": "HÉ ! ATTENDS !",
+      "max_size": 62
+    },
+    {
+      "point": [
+        395,
+        8188
+      ],
+      "text": "TU AS ENCORE QUELQUE CHOSE À DIRE ?"
+    },
+    {
+      "point": [
+        397,
+        12342
+      ],
+      "text": "...HA !",
+      "max_size": 80
+    },
+    {
+      "point": [
+        422,
+        14280
+      ],
+      "text": "CE TYPE, C’EST \"MIRAGE\"... ?",
+      "style": "italique"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-227/019.webp",
+ "output": "chapters_fr/chapter-227/019.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "APRÈS AVOIR PLEINEMENT SAISI LA SITUATION,",
+   "style": "dialogue",
+   "point": [
+    310,
+    465
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LA PREMIÈRE RÉACTION D’UNNAME...",
+   "style": "dialogue",
+   "point": [
+    487,
+    782
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PFFF !",
+   "style": "dialogue",
+   "point": [
+    487,
+    1832
+   ]
+  },
+  {
+   "id": 4,
+   "text": "FUT DE RIRE.",
+   "style": "dialogue",
+   "point": [
+    435,
+    2206
+   ]
+  }
+ ]
+}

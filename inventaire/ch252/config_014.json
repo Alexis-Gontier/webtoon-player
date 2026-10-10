@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-252/014.webp",
+ "output": "chapters_fr/chapter-252/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET ELLES ONT DÛ S’EN RENDRE COMPTE !",
+   "style": "italique",
+   "point": [
+    364,
+    545
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI ELLES EN SONT\nARRIVÉES LÀ...",
+   "style": "italique",
+   "point": [
+    383,
+    1455
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ELLES SAVENT QUE LA VICTOIRE REVIENT À CELLE QUI SE DÉCLARE EN PREMIER !",
+   "style": "italique",
+   "point": [
+    336,
+    2399
+   ]
+  }
+ ]
+}

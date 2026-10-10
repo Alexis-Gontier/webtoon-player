@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-262/029.webp",
+ "output": "chapters_fr/chapter-262/029.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ON N’A PAS LE TEMPS DE RÉFLÉCHIR.",
+   "style": "dialogue",
+   "point": [
+    351,
+    1110
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LA SEULE SOLUTION, C’EST DE L’ANNULER EN UTILISANT AUTANT DE KARMA QUE LUCIA.",
+   "style": "dialogue",
+   "point": [
+    361,
+    3631
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ATTENDS, SEOL-JIN ! C’EST TROP DANGEREUX !",
+   "style": "italique",
+   "point": [
+    263,
+    4491
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SI TU CONSOMMES\nENCORE DU KARMA",
+   "style": "italique",
+   "box": [
+    150,
+    4905,
+    570,
+    5000
+   ],
+   "target": [
+    175,
+    4915,
+    545,
+    4995
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 28,
+   "seam": "bottom"
+  }
+ ]
+}

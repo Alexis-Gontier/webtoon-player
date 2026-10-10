@@ -1,0 +1,75 @@
+{
+  "source": "chapters_en/chapter-259/004.jpg",
+  "output": "chapters_fr/chapter-259/004.jpg",
+  "bubbles": [
+    {
+      "point": [
+        394,
+        3580
+      ],
+      "text": "QUELLE BÊTISE. APRÈS UNE TELLE RACLÉE, TU NE COMPRENDS TOUJOURS PAS ?"
+    },
+    {
+      "point": [
+        386,
+        4440
+      ],
+      "text": "NOUS\nATTENDONS.",
+      "style": "cri"
+    },
+    {
+      "point": [
+        400,
+        6180
+      ],
+      "text": "LE HÉROS DE LA NOUVELLE ÈRE !",
+      "style": "cri",
+      "cut": [
+        [
+          228,
+          6343
+        ],
+        [
+          240,
+          6352
+        ],
+        [
+          260,
+          6368
+        ],
+        [
+          285,
+          6385
+        ],
+        [
+          310,
+          6398
+        ],
+        [
+          335,
+          6406
+        ],
+        [
+          362,
+          6410
+        ]
+      ]
+    },
+    {
+      "point": [
+        400,
+        8130
+      ],
+      "text": "QUI...",
+      "style": "cri"
+    },
+    {
+      "point": [
+        410,
+        10730
+      ],
+      "text": "ES-TU ?",
+      "style": "cri"
+    }
+  ]
+}

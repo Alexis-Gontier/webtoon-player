@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-260/025.webp",
+ "output": "chapters_fr/chapter-260/025.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "C’EST...",
+   "style": "dialogue",
+   "point": [
+    378,
+    1184
+   ]
+  },
+  {
+   "id": 3,
+   "text": "OUI,\nLIBUR.",
+   "style": "dialogue",
+   "point": [
+    392,
+    4012
+   ]
+  },
+  {
+   "id": 100,
+   "text": "ON N’A PAS",
+   "style": "dialogue",
+   "box": [
+    250,
+    4935,
+    560,
+    5000
+   ],
+   "target": [
+    270,
+    4950,
+    540,
+    5000
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 36,
+   "seam": "bottom"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "source": "chapters_en/chapter-239/013.webp",
+ "output": "chapters_fr/chapter-239/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SEOL-JIN HEO... DE QUOI ELLE PARLE... ?",
+   "style": "dialogue",
+   "point": [
+    360,
+    264
+   ]
+  },
+  {
+   "id": 3,
+   "text": "L-LIBUR... ? TU NE ME SERRES PAS LA MAIN UN PEU TROP FORT... ?",
+   "style": "italique",
+   "point": [
+    485,
+    1698
+   ]
+  },
+  {
+   "id": 4,
+   "text": "CETTE NUIT-LÀ, HEIN ! CETTE NUIT-LÀ ! QUAND TU ES ALLÉ VOIR LILLET TOUT SEUL ! QU’EST-CE QUE TU LUI AS DIT, HEIN ?! DIS-LE-MOI !!!",
+   "style": "italique",
+   "point": [
+    284,
+    2568
+   ]
+  },
+  {
+   "id": 5,
+   "text": "H-HÉ, ATTENDS ! LIBUR ! ON NE PEUT PAS SE DISPUTER ENTRE NOUS ! JE T’EXPLIQUERAI TOUT CORRECTEMENT APRÈS, D’ACCORD ?",
+   "style": "italique",
+   "point": [
+    505,
+    3028
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LILLET, TU AS BIEN CHANGÉ.",
+   "style": "dialogue",
+   "point": [
+    503,
+    4022
+   ],
+   "box": [
+    325,
+    3935,
+    685,
+    4115
+   ],
+   "target": [
+    335,
+    3940,
+    675,
+    4105
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150,
+   "max_letter": 60,
+   "max_size": 46
+  },
+  {
+   "id": 7,
+   "text": "ET CE SERAIT\nDE LA JALOUSIE... ?",
+   "style": "dialogue",
+   "point": [
+    605,
+    4190
+   ],
+   "box": [
+    500,
+    4145,
+    712,
+    4235
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150
+  },
+  {
+   "id": 101,
+   "text": "JE L’AI DIT...",
+   "style": "dialogue",
+   "point": [
+    190,
+    3350
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-248/035.webp",
+ "output": "chapters_fr/chapter-248/035.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "WAOUH~",
+   "style": "dialogue",
+   "point": [
+    347,
+    444
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST TELLEMENT\nAMUSANT !",
+   "style": "dialogue",
+   "point": [
+    354,
+    1790
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE COMPRENDS CE QUE TU RESSENS...",
+   "style": "dialogue",
+   "point": [
+    402,
+    4695
+   ]
+  }
+ ]
+}

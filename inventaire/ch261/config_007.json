@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-261/007.webp",
+ "output": "chapters_fr/chapter-261/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "D’ACCORD.\nFAISONS-LE\nENSEMBLE...",
+   "style": "dialogue",
+   "point": [
+    370,
+    2010
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LAY !",
+   "style": "dialogue",
+   "point": [
+    392,
+    3925
+   ]
+  }
+ ]
+}

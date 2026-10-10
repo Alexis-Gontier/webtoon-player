@@ -1,0 +1,110 @@
+{
+ "source": "chapters_en/chapter-264/020.webp",
+ "output": "chapters_fr/chapter-264/020.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "TU AS DIT QU’IL TE FAUDRAIT QUATRE SEMAINES POUR RÉCUPÉRER TON KARMA, NON ?",
+   "style": "dialogue",
+   "point": [
+    323,
+    851
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EH BIEN, JE T’EN DONNE DEUX.",
+   "style": "dialogue",
+   "point": [
+    413,
+    2555
+   ]
+  },
+  {
+   "id": 5,
+   "text": "EN ATTENDANT, ON CHERCHERA UN MOYEN DE FAIRE CE QUE TU VEUX...",
+   "style": "dialogue",
+   "point": [
+    366,
+    3328
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ALORS SOIS À 100 % D’ICI LÀ.",
+   "style": "dialogue",
+   "point": [
+    392,
+    4711
+   ]
+  },
+  {
+   "id": 101,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    228,
+    0,
+    590,
+    160
+   ],
+   "ink_max": 130,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 102,
+   "text": "JE COMMENÇAIS À DEVENIR DINGUE, IL N’Y A RIEN À FAIRE ICI~ !",
+   "style": "dialogue",
+   "box": [
+    228,
+    20,
+    590,
+    165
+   ],
+   "target": [
+    232,
+    28,
+    586,
+    160
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 48
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    230,
+    0,
+    590,
+    24
+   ],
+   "ink_max": 130,
+   "grow": 2,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

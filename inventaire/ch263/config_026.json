@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-263/026.webp",
+ "output": "chapters_fr/chapter-263/026.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL FAIT SUPER BEAU AUJOURD’HUI, TU NE TROUVES PAS ?",
+   "style": "dialogue",
+   "point": [
+    315,
+    189
+   ]
+  },
+  {
+   "id": 2,
+   "text": "C’EST VRAI. MAINTENANT QUE LE TERRARIUM ET LES BÂTIMENTS D’AVALON ONT DISPARU, LA VUE EST BIEN MEILLEURE.",
+   "style": "dialogue",
+   "point": [
+    407,
+    1630
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ÇA FAIT DÉJÀ UNE SEMAINE DEPUIS CE JOUR-LÀ.",
+   "style": "dialogue",
+   "point": [
+    384,
+    3564
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LE TEMPS\nFILE VRAIMENT.",
+   "style": "dialogue",
+   "point": [
+    362,
+    4465
+   ]
+  }
+ ]
+}

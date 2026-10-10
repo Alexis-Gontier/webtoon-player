@@ -1,0 +1,67 @@
+{
+  "source": "chapters_en/chapter-225/002.webp",
+  "output": "chapters_fr/chapter-225/002.webp",
+  "bubbles": [
+    {
+      "point": [
+        383,
+        1125
+      ],
+      "text": "SEOL-JIN HEO, TU..."
+    },
+    {
+      "point": [
+        417,
+        2183
+      ],
+      "text": "TU VAS VRAIMENT AFFRONTER UN MONSTRE PAREIL... ?"
+    },
+    {
+      "point": [
+        435,
+        6558
+      ],
+      "text": "C’EST QUOI, ÇA ?!",
+      "style": "italique"
+    },
+    {
+      "point": [
+        310,
+        7470
+      ],
+      "text": "QUEL KARMA ÉNORME, COMME SI TOUT LE KARMA DU MONDE S’ÉTAIT RASSEMBLÉ ICI !",
+      "style": "italique"
+    },
+    {
+      "point": [
+        458,
+        8642
+      ],
+      "text": "ALORS, MAINTENANT...",
+      "style": "italique"
+    },
+    {
+      "point": [
+        333,
+        9683
+      ],
+      "text": "IL EXHIBE LE \"DOMAINE DIVIN\" DEVANT TOUT LE MONDE... ?",
+      "style": "italique"
+    },
+    {
+      "point": [
+        422,
+        11250
+      ],
+      "text": "COMME PRÉVU, IL A PERDU LA TÊTE."
+    },
+    {
+      "point": [
+        397,
+        13817
+      ],
+      "text": "\"C’EST L’ÉQUILIBRE DU MONDE... !\"",
+      "max_size": 62
+    }
+  ]
+}

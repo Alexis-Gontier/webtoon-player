@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-256/050.webp",
+ "output": "chapters_fr/chapter-256/050.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS... JE VOUS EN PRIE, NE ME LAISSEZ PAS...",
+   "style": "dialogue",
+   "point": [
+    384,
+    1586
+   ]
+  },
+  {
+   "id": 3,
+   "text": "DIS DONC, JE ME DEMANDAIS QUAND TU GRANDIRAIS ENFIN.",
+   "style": "dialogue",
+   "point": [
+    373,
+    4191
+   ]
+  }
+ ]
+}

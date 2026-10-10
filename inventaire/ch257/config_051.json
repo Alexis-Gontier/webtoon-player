@@ -1,0 +1,47 @@
+{
+ "source": "chapters_en/chapter-257/051.webp",
+ "output": "chapters_fr/chapter-257/051.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’ÉTAIT\nDÉLICIEUX",
+   "style": "cri",
+   "point": [
+    405,
+    893
+   ]
+  },
+  {
+   "id": 100,
+   "text": "PHASE CACHÉE\n\nDÉBLOQUÉE",
+   "style": "titre",
+   "box": [
+    100,
+    2960,
+    740,
+    3800
+   ],
+   "light_any": 140,
+   "grow": 12,
+   "blur_fill": 40,
+   "colors": [
+    [
+     230,
+     40,
+     90
+    ],
+    [
+     200,
+     30,
+     80
+    ]
+   ],
+   "outline": [
+    60,
+    20,
+    60
+   ],
+   "outline_width": 3
+  }
+ ]
+}

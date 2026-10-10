@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-264/036.webp",
+ "output": "chapters_fr/chapter-264/036.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS ? QU’EST-CE QUE TU VEUX FAIRE ?",
+   "style": "dialogue",
+   "point": [
+    361,
+    733
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE CHOIX\nT’APPARTIENT.",
+   "style": "dialogue",
+   "point": [
+    368,
+    2342
+   ]
+  }
+ ]
+}

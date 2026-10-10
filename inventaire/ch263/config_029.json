@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-263/029.webp",
+ "output": "chapters_fr/chapter-263/029.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "JE NE SAIS\nPAS.",
+   "style": "dialogue",
+   "point": [
+    394,
+    2466
+   ]
+  },
+  {
+   "id": 4,
+   "text": "RÉFLÉCHISSONS-Y ENSEMBLE.",
+   "style": "dialogue",
+   "point": [
+    407,
+    4488
+   ]
+  }
+ ]
+}

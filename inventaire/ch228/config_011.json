@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-228/011.webp",
+ "output": "chapters_fr/chapter-228/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TOI.",
+   "style": "dialogue",
+   "point": [
+    273,
+    456
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ENGAGER LA CONVERSATION EN SACHANT TOUT, ÇA VEUT DIRE...",
+   "style": "dialogue",
+   "point": [
+    348,
+    766
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’IL Y A QUELQUE CHOSE QUE TU DÉSIRES.",
+   "style": "dialogue",
+   "point": [
+    398,
+    2062
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ALORS, QU’EST-CE QUE C’EST ?",
+   "style": "dialogue",
+   "point": [
+    378,
+    2804
+   ]
+  },
+  {
+   "id": 5,
+   "text": "QUOI QUE CE SOIT, JE L’EXAUCERAI.",
+   "style": "dialogue",
+   "point": [
+    393,
+    4983
+   ]
+  }
+ ]
+}

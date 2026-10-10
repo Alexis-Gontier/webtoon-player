@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-258/030.webp",
+ "output": "chapters_fr/chapter-258/030.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’ÉTAIT PAREIL QUAND ON S’EST RENCONTRÉS.",
+   "style": "dialogue",
+   "point": [
+    504,
+    1074
+   ]
+  },
+  {
+   "id": 2,
+   "text": "J’IMAGINE... QU’ON PEUT SUPPOSER QU’ON EST DANS L’ESTOMAC DE LUCIA.",
+   "style": "dialogue",
+   "point": [
+    426,
+    2061
+   ]
+  },
+  {
+   "id": 4,
+   "text": "EN TOUT CAS, ÇA DOIT ÊTRE LE CHAOS TOTAL DEHORS.",
+   "style": "dialogue",
+   "point": [
+    362,
+    4193
+   ]
+  },
+  {
+   "id": 100,
+   "text": "OUAIS.",
+   "style": "dialogue",
+   "point": [
+    375,
+    738
+   ]
+  }
+ ]
+}

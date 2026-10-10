@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-242/011.webp",
+ "output": "chapters_fr/chapter-242/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HUH !",
+   "style": "dialogue",
+   "point": [
+    519,
+    1421
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE NE SAIS PAS.",
+   "style": "dialogue",
+   "point": [
+    450,
+    5508
+   ]
+  },
+  {
+   "id": 3,
+   "text": "POURQUOI ALLER AUSSI LOIN",
+   "style": "dialogue",
+   "point": [
+    438,
+    6209
+   ]
+  },
+  {
+   "id": 4,
+   "text": "POUR MOI...",
+   "style": "dialogue",
+   "point": [
+    381,
+    7020
+   ]
+  }
+ ]
+}

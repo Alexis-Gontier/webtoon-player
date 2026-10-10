@@ -1,0 +1,102 @@
+{
+  "source": "chapters_en/chapter-225/012.webp",
+  "output": "chapters_fr/chapter-225/012.webp",
+  "bubbles": [
+    {
+      "point": [
+        408,
+        1367
+      ],
+      "text": "CE N’EST SÛREMENT QU’UNE RUMEUR.",
+      "style": "italique"
+    },
+    {
+      "point": [
+        333,
+        2300
+      ],
+      "text": "BIEN, AVEC ÇA...",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        420,
+        3608
+      ],
+      "text": "LE PREMIER PLAN, \"RECONNAISSANCE\", EST ACCOMPLI.",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        377,
+        4522
+      ],
+      "text": "DE CE CÔTÉ-LÀ, INDIFFÉRENCE, COMME PRÉVU.",
+      "style": "italique"
+    },
+    {
+      "point": [
+        318,
+        5850
+      ],
+      "text": "CES IMBÉCILES QUI DÉTONNENT...",
+      "style": "italique"
+    },
+    {
+      "point": [
+        497,
+        6817
+      ],
+      "text": "ILS NE SERVENT À RIEN.",
+      "style": "italique"
+    },
+    {
+      "point": [
+        352,
+        7510
+      ],
+      "text": "ET PUIS, AUSSI...",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        438,
+        8925
+      ],
+      "text": "HAHA, QUEL CINGLÉ ! C’EST UN VRAI MIRACLE, HEIN ?",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        430,
+        10208
+      ],
+      "text": "IL \"VISE\" VRAIMENT ÇA, J’IMAGINE ?",
+      "style": "pensee"
+    },
+    {
+      "point": [
+        405,
+        11033
+      ],
+      "text": "J’IGNORE SES INTENTIONS, MAIS ÇA M’A SERVI DE BONNE \"RÉFÉRENCE\" !",
+      "style": "italique"
+    },
+    {
+      "point": [
+        402,
+        12717
+      ],
+      "text": "BREF, JE TE L’AI DIT, C’EST QUELQU’UN DONT JE NE VEUX SURTOUT PAS FAIRE UN ENNEMI !",
+      "style": "italique"
+    },
+    {
+      "point": [
+        423,
+        14817
+      ],
+      "text": "BIEN, ET MAINTENANT~ ÉCHEC ET MAT !",
+      "style": "italique"
+    }
+  ]
+}

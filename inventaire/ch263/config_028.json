@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-263/028.webp",
+ "output": "chapters_fr/chapter-263/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JE CROIS QUE JE POURRAI SORTIR DANS UN JOUR OU DEUX.",
+   "style": "dialogue",
+   "point": [
+    352,
+    392
+   ]
+  },
+  {
+   "id": 3,
+   "text": "QU’EST-CE QUE TU COMPTES FAIRE, MAINTENANT ?",
+   "style": "dialogue",
+   "point": [
+    373,
+    3530
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SEOL-JIN...",
+   "style": "dialogue",
+   "point": [
+    340,
+    2412
+   ]
+  }
+ ]
+}

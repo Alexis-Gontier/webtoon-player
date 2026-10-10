@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-239/002.webp",
+ "output": "chapters_fr/chapter-239/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CET ENDROIT EST ÉTRANGEMENT CALME... ÇA ME MET MAL À L’AISE.",
+   "style": "italique",
+   "point": [
+    363,
+    357
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI C’EST CES GAMINS...",
+   "style": "italique",
+   "point": [
+    311,
+    1321
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ILS ATTEINDRONT LE SOMMET, SANS AUCUN DOUTE.",
+   "style": "italique",
+   "point": [
+    473,
+    2444
+   ]
+  },
+  {
+   "id": 5,
+   "text": "CE QUI VEUT DIRE...",
+   "style": "italique",
+   "point": [
+    431,
+    3392
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE...",
+   "style": "italique",
+   "point": [
+    422,
+    4051
+   ]
+  },
+  {
+   "id": 7,
+   "text": "HUHU.",
+   "style": "dialogue",
+   "point": [
+    229,
+    4955
+   ]
+  }
+ ]
+}

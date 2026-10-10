@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-254/028.webp",
+ "output": "chapters_fr/chapter-254/028.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "DE COMPTER SUR LES AUTRES COMME ÇA !",
+   "style": "dialogue",
+   "point": [
+    364,
+    1186
+   ]
+  },
+  {
+   "id": 5,
+   "text": "NON.",
+   "style": "dialogue",
+   "point": [
+    272,
+    2020
+   ]
+  },
+  {
+   "id": 7,
+   "text": "AU CONTRAIRE, J’EN SUIS TRÈS FIER.",
+   "style": "dialogue",
+   "point": [
+    401,
+    3116
+   ]
+  },
+  {
+   "id": 8,
+   "text": "FIER DE POUVOIR ME BATTRE ICI...",
+   "style": "dialogue",
+   "point": [
+    385,
+    4132
+   ]
+  }
+ ]
+}

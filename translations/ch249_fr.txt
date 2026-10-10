@@ -1,0 +1,273 @@
+# Chapitre 249 : remplir la 3e colonne (texte français), '-' pour ignorer un bloc.
+
+## 001.webp
+001.1 | systeme | -
+001.2 | systeme | -
+001.3 | systeme | -
+# EN: IT'S SO DARK...
+001.4 | pensee | IL FAIT\nSI NOIR...
+# EN: BUT AS LONG AS I STAY HERE, I WON'T GET HURT...
+001.5 | pensee | MAIS TANT QUE JE RESTE ICI, JE NE SERAI PAS BLESSÉE...
+# EN: BECAUSE / SEOL-JIN WILL PROTECT ME. (bulle coupée entre les pages 1 et 2)
+001.6 | pensee {"box": [230, 4930, 570, 5000], "target": [300, 4940, 500, 4990], "ink_max": 120, "max_letter": 55, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | PARCE QUE
+
+## 002.webp
+002.1 | pensee | -
+002.100 | pensee {"box": [200, 0, 570, 105], "ink_max": 120, "max_letter": 55, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | SEOL-JIN\nME PROTÉGERA.
+# EN: BUT...
+002.2 | pensee | MAIS...
+# EN: IF IT STAYS LIKE THIS...
+002.3 | pensee | SI ÇA RESTE COMME ÇA...
+# EN: THEN WHO'S GONNA PROTECT HIM?
+002.4 | dialogue | ALORS QUI VA LE PROTÉGER, LUI ?
+
+## 003.webp
+003.1 | dialogue | -
+003.2 | systeme | -
+
+## 004.webp
+# EN: HA♥ HA♥
+004.1 | dialogue | -
+# EN: MASTER, YOU'RE PULSING SO VIOLENTLY♥
+004.2 | dialogue | MAÎTRE, VOUS PALPITEZ SI VIOLEMMENT~
+# EN: THE WORLD'S BALANCE IS SHIFTING.
+004.3 | dialogue | L’ÉQUILIBRE DU MONDE BASCULE.
+
+## 005.webp
+# EN: CAN YOU FEEL IT?
+005.1 | dialogue | VOUS LE\nSENTEZ ?
+# EN: THERE'S NO DOUBT, IT'LL START SOON...
+005.2 | dialogue | AUCUN DOUTE, ÇA VA BIENTÔT COMMENCER...
+# EN: A NEW WORLD FOR OUR LONG-HELD DESIRE♥
+005.3 | dialogue | UN NOUVEAU MONDE POUR NOTRE DÉSIR DE TOUJOURS~
+
+## 006.webp
+# EN: IT'S FINALLY BEGINNING!
+006.1 | italique | ÇA COMMENCE\nENFIN !
+
+## 007.webp
+# EN: A BATTLE WORTHY OF MY END!
+007.1 | italique | UN COMBAT\nDIGNE DE\nMA FIN !
+# EN: SWORD OF RUPTURE. (technique de Dean : ÉPÉE DÉCHIRANTE)
+007.2 | cri | ÉPÉE\nDÉCHIRANTE.
+
+## 008.webp
+# EN: MASTER ARTHUR, STAY BACK...!
+008.1 | cri | MAÎTRE\nARTHUR,\nRECULEZ...!
+008.2 | dialogue | -
+
+## 009.webp
+# EN: IT'S FINE... / I'VE GOT THIS.
+009.100 | systeme {"box": [150, 1395, 580, 1500], "fill": [253,253,253], "colors": [[0,0,0],[0,0,0]]} | ÇA VA...
+009.1 | systeme {"box": [140, 2150, 630, 2245], "fill": [253,253,253], "colors": [[0,0,0],[0,0,0]]} | JE M’EN OCCUPE.
+
+## 010.webp
+
+## 011.webp
+011.1 | dialogue | -
+
+## 012.webp
+# EN: YOU'VE SEEN THE EXAMPLE COUNTLESS TIMES.
+012.1 | systeme {"fill": [253,253,253], "colors": [[0,0,0],[0,0,0]]} | TU AS VU L’EXEMPLE\nD’INNOMBRABLES\nFOIS.
+# EN: INSERT COIN
+012.2 | dialogue | -
+012.100 | cartouche {"box": [90, 1260, 640, 1665], "target": [120, 1290, 610, 1645], "stretch": 1.15, "line_spacing": 1.12, "ink_max": 250, "grow": 4, "fill": [253,253,253], "colors": [[0,0,0],[0,0,0]]} | INSÉREZ\nUNE PIÈCE
+
+## 013.webp
+# EN: FORM CHANGE: MOGLAY
+013.1 | dialogue | -
+013.2 | dialogue | -
+013.100 | systeme {"box": [100, 2800, 650, 3620], "ink_max": 100, "solid": 7, "grow": 6} | (effacer)
+013.101 | systeme {"box": [110, 2820, 610, 3250], "target": [130, 2845, 590, 3235], "ink_max": 0, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4} | CHANGEMENT\nDE FORME :
+013.102 | systeme {"box": [110, 3370, 610, 3610], "target": [125, 3385, 595, 3600], "ink_max": 0, "colors": [[255,255,255],[255,255,255]], "outline": [0,0,0], "outline_width": 4} | MOGLAY
+
+## 014.webp
+# EN: ALRIGHT THEN! TIME TO GET SERIOUS!
+014.1 | dialogue | BON ! PASSONS AUX CHOSES SÉRIEUSES !
+# EN: THE VESSEL'S BEEN DAMAGED...
+014.2 | italique | LE RÉCEPTACLE EST ENDOMMAGÉ...
+# EN: I NEED TO—
+014.3 | italique | JE DOIS—
+# EN: LAY...
+014.4 | dialogue | -
+
+## 015.webp
+# EN: HOLD ON.
+015.1 | dialogue | TIENS BON.
+# EN: YOU CAN DO IT, RIGHT?
+015.2 | dialogue | TU PEUX LE FAIRE, PAS VRAI ?
+
+## 016.webp
+# EN: YES, MASTER ARTHUR.
+016.1 | dialogue | OUI, MAÎTRE ARTHUR.
+016.2 | dialogue | -
+
+## 017.webp
+017.1 | dialogue | -
+017.2 | dialogue | -
+
+## 018.webp
+018.1 | dialogue | -
+# EN: DON'T UNDERESTIMATE ME, HEO SEOL-JIN!
+018.2 | italique | NE ME SOUS-ESTIME PAS, SEOL-JIN HEO !
+
+## 019.webp
+
+## 020.webp
+# EN: HM?
+020.1 | dialogue | HM ?
+020.2 | dialogue | -
+020.3 | dialogue | -
+# EN: COPYING ABSOLUTE DOMAIN NOW?
+020.4 | dialogue | TU COPIES LE DOMAINE ABSOLU, MAINTENANT ?
+# EN: SERIOUSLY? / DID YOU FORGET ALREADY? (bulle coupée entre les pages 20 et 21)
+020.5 | dialogue | -
+020.100 | dialogue {"box": [205, 4905, 545, 5000], "ink_max": 120, "max_letter": 55, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | SÉRIEUX ?\nTU AS DÉJÀ
+
+## 021.webp
+021.1 | dialogue | -
+021.100 | dialogue {"box": [200, 0, 550, 85], "ink_max": 120, "max_letter": 55, "grow": 3, "fill": [255,255,255], "colors": [[0,0,0],[0,0,0]], "max_size": 30} | OUBLIÉ ?
+# EN: THAT'S NOT AN OFFENSIVE SKILL~!
+021.2 | dialogue | CE N’EST PAS UNE COMPÉTENCE OFFENSIVE~ !
+021.3 | dialogue | -
+021.4 | dialogue | -
+# EN: LET'S SEE... WAS IT LIKE THIS?
+021.5 | dialogue | VOYONS... C’ÉTAIT COMME ÇA ?
+# EN: SWORD OF RUPTURE!
+021.6 | cri | ÉPÉE\nDÉCHIRANTE !
+
+## 022.webp
+# EN: TSK.
+022.1 | dialogue | TSS.
+# EN: JUST A GRAZE, HUH?
+022.2 | dialogue | JUSTE UNE ÉRAFLURE, HEIN ?
+
+## 023.webp
+023.1 | dialogue | -
+# EN: I GET HOW YOU FEEL...
+023.2 | dialogue | JE COMPRENDS CE QUE TU RESSENS...
+# EN: BUT STAND BACK, LILLET.
+023.3 | dialogue | MAIS RESTE EN ARRIÈRE, LILLET.
+
+## 024.webp
+# EN: WHAT DO YOU THINK YOU'LL CHANGE BY GOING OUT THERE ANYWAY?
+024.1 | dialogue | DE TOUTE FAÇON, QU’EST-CE QUE TU CROIS CHANGER EN Y ALLANT ?
+# EN: LET GO. I ALREADY KNOW THAT.
+024.2 | dialogue | LÂCHE-MOI. JE LE SAIS DÉJÀ.
+# EN: IF WE'RE JUST SPECTATORS, WHY DON'T WE ACT LIKE IT AND JUST WATCH?
+024.3 | dialogue | SI ON N’EST QUE DES SPECTATEURS, POURQUOI NE PAS SE CONTENTER DE REGARDER ?
+# EN: SORRY, BUT I CAN'T DO THAT.
+024.4 | dialogue | DÉSOLÉE, MAIS JE NE PEUX PAS.
+# EN: I'M NOT THE TYPE TO JUST SIT BACK AND WATCH MY FRIENDS GET SLAUGHTERED.
+024.5 | dialogue | JE NE SUIS PAS DU GENRE À REGARDER MES AMIS SE FAIRE MASSACRER SANS RIEN FAIRE.
+
+## 025.webp
+# EN: IF YOU WANT TO REST, SIT THERE BY YOURSELF.
+025.1 | dialogue | SI TU VEUX TE REPOSER, RESTE ASSIS LÀ TOUT SEUL.
+# EN: SORRY, PASTIS, BUT I'M WITH HER ON THIS.
+025.2 | dialogue | DÉSOLÉ, PASTIS, MAIS JE SUIS DE SON AVIS.
+# EN: WELL, IF DEAN COULDN'T STOP HER, I DEFINITELY CAN'T.
+025.3 | dialogue | BON, SI DEAN N’A PAS PU L’ARRÊTER, MOI NON PLUS.
+# EN: GUESS WE'VE GOT NO CHOICE BUT TO HELP OUT TOO.
+025.4 | dialogue | FAUT CROIRE QU’ON N’A PAS LE CHOIX : ON VA AIDER AUSSI.
+025.5 | dialogue | -
+
+## 026.webp
+# EN: WANT ME TO TELL YOU?
+026.1 | dialogue | TU VEUX QUE JE TE DISE ?
+# EN: WHAT SEOL-JIN REALLY THINKS OF YOU.
+026.2 | dialogue | CE QUE SEOL-JIN PENSE VRAIMENT DE TOI.
+026.3 | dialogue | -
+
+## 027.webp
+# EN: TYPICAL OF THE GROUP'S NUMBER 2...!
+027.1 | italique | DIGNE DU NUMÉRO 2 DU GROUPE...!
+# EN: ARE YOU CRAZY?! WHY ARE YOU BRINGING THAT UP NOW?!
+027.2 | italique | T’ES FOU ?! POURQUOI TU PARLES DE ÇA MAINTENANT ?!
+027.3 | dialogue | -
+027.4 | dialogue | -
+# EN: WELL, DON'T WORRY TOO MUCH.
+027.5 | dialogue | BAH, NE T’EN FAIS PAS TROP.
+# EN: THE HOPE THEY SHOWED ME...
+027.6 | dialogue | L’ESPOIR QU’ILS M’ONT MONTRÉ...
+# EN: IT ISN'T SO FRAGILE THAT IT WOULD CRUMBLE OVER SOMETHING LIKE THIS.
+027.7 | dialogue | N’EST PAS FRAGILE AU POINT DE S’EFFONDRER POUR SI PEU.
+027.8 | dialogue | -
+
+## 028.webp
+# EN: I ENTRUSTED MY SWORD TO THEM...
+028.1 | dialogue | JE LEUR AI CONFIÉ MON ÉPÉE...
+# EN: SO THERE'S ONLY ONE THING I CAN SAY.
+028.2 | dialogue | ALORS JE N’AI QU’UNE CHOSE À DIRE.
+# EN: TRUST AND BELIEVE...
+028.3 | dialogue | AIE CONFIANCE ET CROIS...
+# EN: IN THE PROTAGONIST WE CHOSE.
+028.4 | dialogue | EN LA PERSONNE QUE NOUS AVONS CHOISIE.
+# EN: JUST LIKE SEOL-JIN AND LIBUR DID FOR US.
+028.5 | dialogue | COMME SEOL-JIN ET LIBUR L’ONT FAIT POUR NOUS.
+
+## 029.webp
+# EN: THAT SOUNDS...
+029.1 | pensee | ON DIRAIT...
+# EN: LIKE I DON'T TRUST SEOL-JIN.
+029.2 | pensee | QUE JE NE FAIS PAS CONFIANCE À SEOL-JIN.
+# EN: IT'S NOT THAT...
+029.3 | pensee | CE N’EST PAS ÇA...
+# EN: I JUST...
+029.4 | pensee | C’EST JUSTE QUE...
+029.5 | dialogue | -
+# EN: DO YOU WANT TO REACH HIM?
+029.6 | dialogue | TU VEUX LE REJOINDRE ?
+
+## 030.webp
+# EN: IT'S NOT LIKE THERE'S NO WAY AT ALL.
+030.1 | dialogue | CE N’EST PAS COMME S’IL N’Y AVAIT AUCUN MOYEN.
+# EN: IF WE DO IT NOW, MAYBE...
+030.2 | dialogue | SI ON LE FAIT MAINTENANT, PEUT-ÊTRE...
+# EN: NO, MAYBE IT'S ALREADY TOO LATE.
+030.3 | dialogue | NON, IL EST PEUT-ÊTRE DÉJÀ TROP TARD.
+
+## 031.webp
+# EN: WHAT'S YOUR DECISION?
+031.1 | dialogue | QUE DÉCIDES-TU ?
+
+## 032.webp
+# EN: SEOL-JIN, THE TRUTH IS...
+032.1 | italique | SEOL-JIN, EN VÉRITÉ...
+# EN: IT WASN'T ARTHUR I WAS AFRAID OF.
+032.2 | italique | CE N’EST PAS ARTHUR QUE JE CRAIGNAIS.
+
+## 033.webp
+# EN: I WAS SCARED...
+033.1 | italique | J’AVAIS PEUR...
+033.2 | dialogue | -
+# EN: SCARED YOU'D FIND OUT HOW I REALLY FELT.
+033.3 | italique | PEUR QUE TU DÉCOUVRES CE QUE JE RESSENTAIS VRAIMENT.
+# EN: THAT'S WHY I KEPT LOOKING AWAY...
+033.4 | italique | C’EST POUR ÇA QUE JE DÉTOURNAIS LE REGARD...
+# EN: HOW LITTLE I VALUED MYSELF...
+033.5 | italique | LE PEU DE VALEUR QUE JE M’ACCORDAIS...
+# EN: AND HOW MUCH THAT WOULD HURT YOU...!
+033.6 | italique | ET À QUEL POINT ÇA TE BLESSERAIT...!
+# EN: THE DEEP SCARS I'D LEAVE ON YOU...!
+033.7 | italique | LES PROFONDES CICATRICES QUE JE TE LAISSERAIS...!
+
+## 034.webp
+# EN: BUT NOW I CAN SAY IT...
+034.1 | italique | MAIS MAINTENANT, JE PEUX LE DIRE...
+# EN: HOW I REALLY FEEL!
+034.2 | italique | CE QUE JE RESSENS VRAIMENT !
+# EN: I'M SORRY I COULDN'T BE YOUR SWORD.
+034.3 | italique | PARDON DE N’AVOIR PAS PU ÊTRE TON ÉPÉE.
+# EN: I'M SORRY I DIDN'T THINK OF YOU.
+034.4 | italique | PARDON DE NE PAS AVOIR PENSÉ À TOI.
+# EN: I WANT TO SEE YOU.
+034.5 | italique | JE VEUX TE VOIR.
+# EN: I WANT TO BE BY YOUR SIDE.
+034.6 | italique | JE VEUX ÊTRE À TES CÔTÉS.
+
+## 035.webp
+# EN: SO PLEASE...!
+035.1 | italique | ALORS, JE T’EN PRIE...!
+035.2 | systeme | -
+035.3 | systeme | -

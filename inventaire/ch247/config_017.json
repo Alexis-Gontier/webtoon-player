@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-247/017.webp",
+ "output": "chapters_fr/chapter-247/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "TELLE ARME D’EGO, TEL MAÎTRE...",
+   "style": "pensee",
+   "point": [
+    333,
+    4269
+   ]
+  },
+  {
+   "id": 100,
+   "text": "AH...",
+   "style": "dialogue",
+   "point": [
+    238,
+    462
+   ]
+  },
+  {
+   "id": 101,
+   "text": "AAAH...",
+   "style": "dialogue",
+   "point": [
+    400,
+    638
+   ]
+  }
+ ]
+}

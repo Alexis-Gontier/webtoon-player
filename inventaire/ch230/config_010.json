@@ -1,0 +1,130 @@
+{
+ "source": "chapters_en/chapter-230/010.webp",
+ "output": "chapters_fr/chapter-230/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "OUAIS, IMPOSSIBLE\nQUE TU NE L’AIES\nPAS REMARQUÉ.",
+   "style": "systeme",
+   "box": [
+    42,
+    2706,
+    758,
+    2954
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 2,
+   "text": "PARCE QUE JE L’AI\nSENTI AUSSI.",
+   "style": "systeme",
+   "box": [
+    79,
+    3954,
+    749,
+    4202
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  },
+  {
+   "id": 4,
+   "text": "TON\nKARMA...",
+   "style": "titre",
+   "point": [
+    364,
+    10572
+   ],
+   "box": [
+    90,
+    10400,
+    640,
+    10745
+   ],
+   "ink_max": 110,
+   "solid": 7,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  },
+  {
+   "id": 6,
+   "text": "EST UNE VICTOIRE\nASSURÉE !",
+   "style": "titre",
+   "point": [
+    441,
+    14270
+   ],
+   "box": [
+    80,
+    14100,
+    740,
+    14430
+   ],
+   "ink_max": 110,
+   "solid": 7,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3
+  }
+ ]
+}

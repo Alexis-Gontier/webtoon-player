@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-264/009.webp",
+ "output": "chapters_fr/chapter-264/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’IRAI ET JE\nREVIENDRAI\nSAINE ET SAUVE.",
+   "style": "italique",
+   "point": [
+    382,
+    178
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI TU AS BESOIN DE MOI, RÉPÈTE MON NOM DANS TA TÊTE.",
+   "style": "dialogue",
+   "point": [
+    265,
+    1806
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ALORS, JE VIENDRAI À TOI.",
+   "style": "dialogue",
+   "point": [
+    423,
+    2107
+   ]
+  }
+ ]
+}

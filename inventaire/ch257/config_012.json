@@ -1,0 +1,28 @@
+{
+ "source": "chapters_en/chapter-257/012.webp",
+ "output": "chapters_fr/chapter-257/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CAR ELLE SE TROUVAIT TOUT AU FOND DE LA TOUR.",
+   "style": "cartouche",
+   "point": [
+    427,
+    4280
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    160,
+    0,
+    670,
+    60
+   ],
+   "ink_max": 110,
+   "grow": 3
+  }
+ ]
+}

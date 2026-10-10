@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-249/002.webp",
+ "output": "chapters_fr/chapter-249/002.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MAIS...",
+   "style": "pensee",
+   "point": [
+    263,
+    590
+   ]
+  },
+  {
+   "id": 3,
+   "text": "SI ÇA RESTE COMME ÇA...",
+   "style": "pensee",
+   "point": [
+    457,
+    1830
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ALORS QUI VA LE PROTÉGER, LUI ?",
+   "style": "dialogue",
+   "point": [
+    362,
+    3202
+   ]
+  },
+  {
+   "id": 100,
+   "text": "SEOL-JIN ME\nPROTÉGERA.",
+   "style": "pensee",
+   "box": [
+    200,
+    0,
+    570,
+    105
+   ],
+   "ink_max": 120,
+   "max_letter": 55,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 30,
+   "target": [
+    230,
+    0,
+    570,
+    105
+   ],
+   "seam": "top"
+  }
+ ]
+}

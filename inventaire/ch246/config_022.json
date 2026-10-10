@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-246/022.webp",
+ "output": "chapters_fr/chapter-246/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST TROP TÔT POUR RESTER À TERRE, NON ?",
+   "style": "dialogue",
+   "point": [
+    411,
+    648
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU PEUX\nENCORE CONTINUER,\nPAS VRAI ?",
+   "style": "cri",
+   "point": [
+    403,
+    3935
+   ]
+  }
+ ]
+}

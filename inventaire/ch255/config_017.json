@@ -1,0 +1,54 @@
+{
+ "source": "chapters_en/chapter-255/017.webp",
+ "output": "chapters_fr/chapter-255/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ARTHUR, POURQUOI TU HÉSITES ENCORE ?",
+   "style": "dialogue",
+   "point": [
+    312,
+    3971
+   ]
+  },
+  {
+   "id": 100,
+   "text": "C’EST TOI QUI\nL’AS CHOISI.\nTU SAIS MIEUX\nQUE PERSONNE,",
+   "style": "dialogue",
+   "box": [
+    160,
+    4855,
+    515,
+    5000
+   ],
+   "target": [
+    180,
+    4868,
+    495,
+    4995
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 30,
+   "seam": "bottom"
+  }
+ ]
+}

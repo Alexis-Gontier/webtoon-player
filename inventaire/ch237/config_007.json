@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-237/007.webp",
+ "output": "chapters_fr/chapter-237/007.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "ATTENDS, DEAN.",
+   "style": "italique",
+   "point": [
+    332,
+    3759
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU ES... SÉRIEUX ?",
+   "style": "italique",
+   "point": [
+    494,
+    5064
+   ]
+  },
+  {
+   "id": 4,
+   "text": "MAINTENANT, \"HÉROS\".",
+   "style": "dialogue",
+   "point": [
+    246,
+    7163
+   ]
+  },
+  {
+   "id": 5,
+   "text": "J’AI MÊME EU LA GENTILLESSE D’ÉCARTER LES OBSTACLES POUR TOI.",
+   "style": "dialogue",
+   "point": [
+    336,
+    7483
+   ]
+  },
+  {
+   "id": 7,
+   "text": "MONTRE-MOI CE QUE TU AS DANS LE VENTRE.",
+   "style": "dialogue",
+   "point": [
+    500,
+    9024
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "source": "chapters_en/chapter-247/022.webp",
+ "output": "chapters_fr/chapter-247/022.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "SEOL-JIN...!",
+   "style": "cri",
+   "point": [
+    421,
+    955
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE LE SAVAIS... IMPOSSIBLE D’AFFRONTER LE SEIGNEUR ARTHUR SEUL !",
+   "style": "italique",
+   "point": [
+    326,
+    1584
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE DOIS ALLER LÀ-BAS !",
+   "style": "italique",
+   "point": [
+    447,
+    1878
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    150,
+    4930,
+    380,
+    5000
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "Y ALLER...",
+   "style": "dialogue",
+   "box": [
+    150,
+    4870,
+    380,
+    4998
+   ],
+   "target": [
+    165,
+    4885,
+    365,
+    4990
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

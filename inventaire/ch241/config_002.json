@@ -1,0 +1,141 @@
+{
+ "source": "chapters_en/chapter-241/002.webp",
+ "output": "chapters_fr/chapter-241/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "UNNAME LIBÉRA L’ÂME DE LANCELOT, QUI AVAIT ÉTÉ LIÉE PAR UN \"CONTRAT\".",
+   "style": "dialogue",
+   "point": [
+    388,
+    413
+   ]
+  },
+  {
+   "id": 2,
+   "text": "ET INSUFFLA À LANCELOT TOUT LE KARMA QU’IL AVAIT RÉCOLTÉ JUSQU’ICI.",
+   "style": "dialogue",
+   "point": [
+    409,
+    1247
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’ÉTAIT À L’ORIGINE UN ATOUT CACHÉ, DESTINÉ À LA BATAILLE FINALE CONTRE ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    412,
+    2358
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON POURRAIT DIRE QUE C’ÉTAIT SON ARME SECRÈTE.",
+   "style": "dialogue",
+   "point": [
+    413,
+    3608
+   ]
+  },
+  {
+   "id": 5,
+   "text": "OUAIS...",
+   "style": "dialogue",
+   "point": [
+    341,
+    5456
+   ]
+  },
+  {
+   "id": 6,
+   "text": "CET ŒIL !",
+   "style": "dialogue",
+   "point": [
+    405,
+    7053
+   ]
+  },
+  {
+   "id": 7,
+   "text": "SANS CES YEUX... !",
+   "style": "italique",
+   "point": [
+    414,
+    7944
+   ]
+  },
+  {
+   "id": 8,
+   "text": "ARME D’EGO",
+   "style": "titre",
+   "box": [
+    40,
+    8990,
+    770,
+    9260
+   ],
+   "light": true,
+   "fill": [
+    0,
+    0,
+    0
+   ],
+   "grow": 5,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 300
+  },
+  {
+   "id": 100,
+   "text": "FORME DE LA\nGLOUTONNERIE",
+   "style": "titre",
+   "box": [
+    140,
+    10270,
+    670,
+    10770
+   ],
+   "target": [
+    150,
+    10280,
+    660,
+    10760
+   ],
+   "outlined": 4,
+   "outlined_fill": true,
+   "ink_max": 90,
+   "light_min": 200,
+   "grow": 3,
+   "stretch": 2,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/003.webp",
+ "output": "chapters_fr/chapter-252/003.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET CELA FAISAIT LONGTEMPS QU’ELLE SE LAISSAIT DÉRIVER AU FIL D’UN TEMPS QUI SEMBLAIT ÉTERNEL.",
+   "style": "cartouche",
+   "point": [
+    385,
+    936
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SI CE \"DIEU ABSOLU\" GAGNE,",
+   "style": "pensee",
+   "point": [
+    305,
+    2797
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MOI QUI SUIS DANS CETTE TOUR, JE NE SERAI PAS ÉPARGNÉE NON PLUS.",
+   "style": "pensee",
+   "point": [
+    444,
+    3138
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BAH, PARTAGER LE DESTIN DE LA DERNIÈRE ENFANT DU FEU NE SERAIT PAS SI MAL...",
+   "style": "pensee",
+   "point": [
+    328,
+    4201
+   ]
+  }
+ ]
+}

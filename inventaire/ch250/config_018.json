@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-250/018.webp",
+ "output": "chapters_fr/chapter-250/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HMM~",
+   "style": "dialogue",
+   "point": [
+    591,
+    122
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IL DORT ? IL NE RÉAGIT PAS...",
+   "style": "dialogue",
+   "point": [
+    356,
+    1567
+   ]
+  },
+  {
+   "id": 3,
+   "text": "HEIN...?",
+   "style": "dialogue",
+   "point": [
+    390,
+    2993
+   ]
+  }
+ ]
+}

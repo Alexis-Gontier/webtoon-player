@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-256/023.webp",
+ "output": "chapters_fr/chapter-256/023.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "OUAIS !",
+   "style": "cri",
+   "point": [
+    343,
+    3068
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PAS BESOIN\nDE VÉRIFIER.",
+   "style": "systeme",
+   "box": [
+    140,
+    3916,
+    664,
+    4104
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA...",
+   "style": "systeme",
+   "point": [
+    384,
+    4880
+   ],
+   "box": [
+    240,
+    4825,
+    530,
+    4935
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

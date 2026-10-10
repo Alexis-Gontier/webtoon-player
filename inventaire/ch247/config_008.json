@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-247/008.webp",
+ "output": "chapters_fr/chapter-247/008.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "JUSQU’À CE QUE TON COMBAT...",
+   "style": "dialogue",
+   "point": [
+    350,
+    2288
+   ]
+  },
+  {
+   "id": 2,
+   "text": "SOIT TERMINÉ.",
+   "style": "dialogue",
+   "point": [
+    345,
+    3079
+   ]
+  }
+ ]
+}

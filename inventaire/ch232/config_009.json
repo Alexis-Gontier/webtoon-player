@@ -1,0 +1,78 @@
+{
+ "source": "chapters_en/chapter-232/009.webp",
+ "output": "chapters_fr/chapter-232/009.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "C’EST LE VRAI HÉROS,",
+   "style": "dialogue",
+   "point": [
+    406,
+    231
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CELUI QUI INCARNERA NOS RÊVES.",
+   "style": "dialogue",
+   "point": [
+    408,
+    2263
+   ]
+  },
+  {
+   "id": 4,
+   "text": "BATTONS-NOUS ENSEMBLE.",
+   "style": "dialogue",
+   "point": [
+    441,
+    3134
+   ]
+  },
+  {
+   "id": 5,
+   "text": "LUCIA !",
+   "style": "dialogue",
+   "point": [
+    429,
+    4876
+   ]
+  },
+  {
+   "id": 6,
+   "text": "QUAND CE COMBAT SERA FINI,",
+   "style": "dialogue",
+   "point": [
+    273,
+    5561
+   ]
+  },
+  {
+   "id": 8,
+   "text": "NOUS NE FERONS PLUS QU’UN POUR TOUJOURS.",
+   "style": "dialogue",
+   "point": [
+    429,
+    6746
+   ]
+  },
+  {
+   "id": 9,
+   "text": "AH~",
+   "style": "dialogue",
+   "point": [
+    222,
+    7596
+   ]
+  },
+  {
+   "id": 10,
+   "text": "AAH~",
+   "style": "dialogue",
+   "point": [
+    538,
+    8281
+   ]
+  }
+ ]
+}

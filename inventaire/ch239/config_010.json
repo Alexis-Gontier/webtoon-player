@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-239/010.webp",
+ "output": "chapters_fr/chapter-239/010.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "JE SUIS LÀ~ !",
+   "style": "italique",
+   "point": [
+    484,
+    2672
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU M’ENTENDS BIEN ?!",
+   "style": "italique",
+   "point": [
+    324,
+    3443
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...",
+   "style": "dialogue",
+   "point": [
+    273,
+    3755
+   ]
+  },
+  {
+   "id": 5,
+   "text": "O-OUI !",
+   "style": "dialogue",
+   "point": [
+    502,
+    4274
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "source": "chapters_en/chapter-235/013.webp",
+ "output": "chapters_fr/chapter-235/013.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "\"HACHE\", \"FOUET\", \"BRACELET\" ET \"MARTEAU\".",
+   "style": "dialogue",
+   "point": [
+    407,
+    272
+   ]
+  },
+  {
+   "id": 3,
+   "text": "ILS SONT EN TRAIN D’INTERVENIR DANS LE COMBAT DE DEAN AU 15E ÉTAGE.",
+   "style": "dialogue",
+   "point": [
+    400,
+    2063
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SI ÇA CONTINUE, TU NE POURRAS PLUS JAMAIS VOIR DEAN SE BATTRE.",
+   "style": "dialogue",
+   "point": [
+    362,
+    4121
+   ]
+  },
+  {
+   "id": 5,
+   "text": "J’AI BESOIN DE TON AIDE, DIEU ABSOLU, ARTHUR !",
+   "style": "dialogue",
+   "point": [
+    415,
+    5637
+   ]
+  },
+  {
+   "id": 6,
+   "text": "TOI.",
+   "style": "dialogue",
+   "point": [
+    404,
+    6027
+   ]
+  },
+  {
+   "id": 8,
+   "text": "COMMENT PEUX-TU ME DEMANDER ÇA ?",
+   "style": "dialogue",
+   "point": [
+    418,
+    7215
+   ]
+  }
+ ]
+}

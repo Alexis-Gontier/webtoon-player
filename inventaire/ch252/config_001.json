@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-252/001.webp",
+ "output": "chapters_fr/chapter-252/001.webp",
+ "bubbles": [
+  {
+   "id": 3,
+   "text": "UN ESPRIT ANCESTRAL QUI EXISTE DEPUIS SI LONGTEMPS QU’IL A OUBLIÉ COMMENT SON EXISTENCE A COMMENCÉ...",
+   "style": "cartouche",
+   "point": [
+    361,
+    791
+   ]
+  },
+  {
+   "id": 4,
+   "text": "LA MÈRE DES\nFLAMMES.",
+   "style": "cartouche",
+   "point": [
+    360,
+    2682
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ELLE ET ARTHUR ONT UN POINT COMMUN...",
+   "style": "cartouche",
+   "point": [
+    381,
+    3991
+   ]
+  }
+ ]
+}

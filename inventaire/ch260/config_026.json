@@ -1,0 +1,63 @@
+{
+ "source": "chapters_en/chapter-260/026.webp",
+ "output": "chapters_fr/chapter-260/026.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "VOUS AVEZ ENTENDU, TOUT LE MONDE ?",
+   "style": "dialogue",
+   "point": [
+    380,
+    2560
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE CHEF A PRIS SA DÉCISION.",
+   "style": "dialogue",
+   "point": [
+    430,
+    4300
+   ]
+  },
+  {
+   "id": 100,
+   "text": "LE CHOIX,\nIL FAUT\nTRANCHER.",
+   "style": "dialogue",
+   "box": [
+    210,
+    0,
+    590,
+    120
+   ],
+   "target": [
+    235,
+    0,
+    560,
+    112
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 36,
+   "seam": "top"
+  }
+ ]
+}

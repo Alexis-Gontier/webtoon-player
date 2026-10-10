@@ -1,0 +1,72 @@
+{
+ "source": "chapters_en/chapter-245/004.webp",
+ "output": "chapters_fr/chapter-245/004.webp",
+ "bubbles": [
+  {
+   "id": 100,
+   "text": "TROP",
+   "style": "cri",
+   "box": [
+    40,
+    60,
+    790,
+    560
+   ],
+   "target": [
+    170,
+    150,
+    640,
+    450
+   ],
+   "ink_max": 70,
+   "thick": 5,
+   "grow": 8,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "stretch": 1.2
+  },
+  {
+   "id": 101,
+   "text": "BIEN !!!",
+   "style": "cri",
+   "box": [
+    30,
+    2420,
+    795,
+    2975
+   ],
+   "target": [
+    90,
+    2520,
+    700,
+    2880
+   ],
+   "ink_max": 70,
+   "thick": 5,
+   "grow": 8,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "stretch": 1.2
+  }
+ ]
+}

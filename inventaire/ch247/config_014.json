@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-247/014.webp",
+ "output": "chapters_fr/chapter-247/014.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "J’IMAGINE QUE C’EST UN BON MOYEN DE TUER LE TEMPS.",
+   "style": "dialogue",
+   "point": [
+    325,
+    595
+   ]
+  }
+ ]
+}

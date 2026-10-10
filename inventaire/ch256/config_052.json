@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-256/052.webp",
+ "output": "chapters_fr/chapter-256/052.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÉCOUTE BIEN,\nRAY.",
+   "style": "dialogue",
+   "point": [
+    370,
+    157
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JE NE PARS\nPAS.",
+   "style": "italique",
+   "point": [
+    380,
+    1715
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE DEVIENS SIMPLEMENT IMMORTEL DANS MA PROPRE HISTOIRE.",
+   "style": "italique",
+   "point": [
+    399,
+    3150
+   ]
+  }
+ ]
+}

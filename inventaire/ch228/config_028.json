@@ -1,0 +1,179 @@
+{
+ "source": "chapters_en/chapter-228/028.webp",
+ "output": "chapters_fr/chapter-228/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AU DÉBUT, J’ÉTAIS\nPLEIN DE DOUTES.",
+   "style": "systeme",
+   "box": [
+    132,
+    1005,
+    688,
+    1190
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 90
+  },
+  {
+   "id": 2,
+   "text": "ET PUIS ÇA\nRECOMMENCE.",
+   "style": "systeme",
+   "box": [
+    191,
+    3901,
+    570,
+    4051
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 3,
+   "text": "J’AVAIS BEAU LE RÉPÉTER,\nLA PENSÉE NE\nS’ARRÊTAIT JAMAIS.",
+   "style": "systeme",
+   "box": [
+    17,
+    4708,
+    499,
+    4932
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 4,
+   "text": "ET LA SITUATION\nNE SE RÈGLE PAS\nNON PLUS.",
+   "style": "systeme",
+   "box": [
+    285,
+    5802,
+    766,
+    5969
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 5,
+   "text": "JE NE PEUX\nQU’ATTENDRE LA\nFIN DU TEMPS.",
+   "style": "systeme",
+   "box": [
+    169,
+    6505,
+    631,
+    6739
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 100,
+   "text": "ALORS, JE ME\nMETS EN COLÈRE.",
+   "style": "systeme",
+   "box": [
+    130,
+    2620,
+    670,
+    2830
+   ],
+   "target": [
+    150,
+    2640,
+    650,
+    2810
+   ],
+   "ink_max": 200,
+   "grow": 8,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "outline_width": 4
+  }
+ ]
+}

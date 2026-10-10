@@ -1,0 +1,97 @@
+{
+ "source": "chapters_en/chapter-260/028.webp",
+ "output": "chapters_fr/chapter-260/028.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "AH~ QUEL GÂCHIS.",
+   "style": "dialogue",
+   "point": [
+    264,
+    2704
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DE PARTAGER COMME ÇA LA \"MOITIÉ\" QUE TU AS EUE TANT DE MAL À OBTENIR.",
+   "style": "dialogue",
+   "point": [
+    473,
+    3669
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE SAIS.",
+   "style": "dialogue",
+   "point": [
+    309,
+    4607
+   ],
+   "box": [
+    168,
+    4565,
+    450,
+    4649
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "ink_max": 150,
+   "max_letter": 90,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "CE PREMIER COUP,\nC’ÉTAIT TOUT\nCE QUE TU AVAIS,",
+   "style": "dialogue",
+   "box": [
+    280,
+    4855,
+    700,
+    5000
+   ],
+   "target": [
+    300,
+    4865,
+    680,
+    4995
+   ],
+   "ink_max": 100,
+   "max_letter": 50,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 32,
+   "seam": "bottom"
+  }
+ ]
+}

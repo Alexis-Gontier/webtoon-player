@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-252/012.webp",
+ "output": "chapters_fr/chapter-252/012.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL SERAIT PLUS JUSTE DE DIRE QUE C’ÉTAIT UN MONSTRE CRÉÉ PAR ARTHUR LUI-MÊME.",
+   "style": "cartouche",
+   "point": [
+    353,
+    655
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LES\nFILLES...?",
+   "style": "dialogue",
+   "point": [
+    337,
+    3993
+   ]
+  }
+ ]
+}

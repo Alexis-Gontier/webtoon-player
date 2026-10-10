@@ -1,0 +1,93 @@
+{
+ "source": "chapters_en/chapter-231/011.webp",
+ "output": "chapters_fr/chapter-231/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LE VOILÀ...",
+   "style": "dialogue",
+   "point": [
+    425,
+    863
+   ]
+  },
+  {
+   "id": 2,
+   "text": "LE SIGNAL !",
+   "style": "dialogue",
+   "point": [
+    414,
+    1947
+   ]
+  },
+  {
+   "id": 3,
+   "text": "PROJET : ESPOIR\nACTIVÉ.",
+   "style": "systeme",
+   "point": [
+    402,
+    6641
+   ],
+   "box": [
+    195,
+    6440,
+    615,
+    6712
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 4,
+   "text": "VÉRIFICATION DU NOYAU\nET SYNCHRONISATION.",
+   "style": "systeme",
+   "point": [
+    358,
+    7208
+   ],
+   "box": [
+    100,
+    7100,
+    620,
+    7300
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 6,
+   "text": "C’EST LÀ !",
+   "style": "dialogue",
+   "point": [
+    374,
+    11367
+   ]
+  }
+ ]
+}

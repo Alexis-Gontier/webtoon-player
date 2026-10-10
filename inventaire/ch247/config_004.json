@@ -1,0 +1,76 @@
+{
+ "source": "chapters_en/chapter-247/004.webp",
+ "output": "chapters_fr/chapter-247/004.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CONCENTRE-TOI ! NE TE LAISSE PAS ATTEINDRE PAR UNE PROVOCATION !",
+   "style": "italique",
+   "point": [
+    278,
+    231
+   ]
+  },
+  {
+   "id": 2,
+   "text": "IGNORE-LE ET CONTINUE, D’ACCORD ?",
+   "style": "italique",
+   "point": [
+    290,
+    575
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TANT DE GENS ONT ÉTÉ GENTILS AVEC MOI !",
+   "style": "italique",
+   "point": [
+    376,
+    1683
+   ]
+  },
+  {
+   "id": 4,
+   "text": "OUI, J’AI\nVRAIMENT...!",
+   "style": "italique",
+   "point": [
+    450,
+    2048
+   ]
+  },
+  {
+   "id": 5,
+   "text": "J’AI DÉJÀ OUBLIÉ LE PASSÉ...!",
+   "style": "italique",
+   "point": [
+    332,
+    3089
+   ]
+  },
+  {
+   "id": 6,
+   "text": "C’EST UN MENSONGE.",
+   "style": "systeme",
+   "box": [
+    160,
+    4885,
+    565,
+    4990
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  }
+ ]
+}

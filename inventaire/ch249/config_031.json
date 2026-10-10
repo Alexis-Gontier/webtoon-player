@@ -1,0 +1,15 @@
+{
+ "source": "chapters_en/chapter-249/031.webp",
+ "output": "chapters_fr/chapter-249/031.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "QUE DÉCIDES-TU ?",
+   "style": "dialogue",
+   "point": [
+    370,
+    216
+   ]
+  }
+ ]
+}

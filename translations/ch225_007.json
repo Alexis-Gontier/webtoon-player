@@ -1,0 +1,193 @@
+{
+  "source": "chapters_en/chapter-225/007.webp",
+  "output": "chapters_fr/chapter-225/007.webp",
+  "bubbles": [
+    {
+      "point": [
+        312,
+        2058
+      ],
+      "text": "TU ARRIVES VRAIMENT À AVALER ÇA... ?"
+    },
+    {
+      "point": [
+        413,
+        3295
+      ],
+      "text": "ET ALORS ? ON VA MOURIR BIENTÔT DE TOUTE FAÇON, AUTANT EN PROFITER.",
+      "close": 1
+    },
+    {
+      "box": [
+        430,
+        3415,
+        700,
+        3515
+      ],
+      "text": "C’EST LE POP-CORN\nPRÉFÉRÉ DE DIEU,\nPOURTANT...",
+      "style": "dialogue",
+      "ink_max": 150,
+      "fill": [
+        255,
+        255,
+        255
+      ],
+      "grow": 2,
+      "angle": 6,
+      "target": [
+        450,
+        3420,
+        650,
+        3498
+      ],
+      "colors": [
+        [
+          30,
+          30,
+          30
+        ],
+        [
+          30,
+          30,
+          30
+        ]
+      ],
+      "outline": [
+        255,
+        255,
+        255
+      ],
+      "outline_width": 2,
+      "line": [
+        [
+          648,
+          3389
+        ],
+        [
+          636,
+          3405
+        ],
+        [
+          625,
+          3417
+        ],
+        [
+          614,
+          3429
+        ],
+        [
+          601,
+          3440
+        ],
+        [
+          588,
+          3450
+        ],
+        [
+          574,
+          3459
+        ],
+        [
+          559,
+          3468
+        ],
+        [
+          543,
+          3476
+        ],
+        [
+          527,
+          3483
+        ],
+        [
+          510,
+          3489
+        ],
+        [
+          492,
+          3494
+        ],
+        [
+          474,
+          3498
+        ],
+        [
+          456,
+          3501
+        ],
+        [
+          438,
+          3503
+        ],
+        [
+          425,
+          3504
+        ]
+      ]
+    },
+    {
+      "point": [
+        338,
+        3808
+      ],
+      "text": "LÀ N’EST PAS LA QUESTION ! SÉRIEUX !"
+    },
+    {
+      "point": [
+        320,
+        4762
+      ],
+      "text": "J’AI SENTI UNE ÉNERGIE SPIRITUELLE HORS DU COMMUN,"
+    },
+    {
+      "point": [
+        468,
+        5703
+      ],
+      "text": "OUAIS.",
+      "max_size": 62
+    },
+    {
+      "point": [
+        448,
+        6597
+      ],
+      "text": "C’EST UNE BATAILLE DÉCISIVE QUI VA DÉCIDER DU SORT DU MONDE."
+    },
+    {
+      "point": [
+        383,
+        8775
+      ],
+      "text": "LE DIEU DE CE MONDE A DES IDÉES INTÉRESSANTES."
+    },
+    {
+      "point": [
+        347,
+        9650
+      ],
+      "text": "QUOI ?! LILLET ! TU AS PASSÉ UN CONTRAT AVEC UN NOUVEL ESPRIT ?"
+    },
+    {
+      "point": [
+        392,
+        11817
+      ],
+      "text": "NON, JE NE M’EN SOUVIENS PAS... QUI ES-TU ?"
+    },
+    {
+      "point": [
+        393,
+        12953
+      ],
+      "text": "TU NE TE SOUVIENS VRAIMENT PAS DE MOI ?"
+    },
+    {
+      "point": [
+        388,
+        14137
+      ],
+      "text": "APRÈS AVOIR UTILISÉ MON POUVOIR À TA GUISE..."
+    }
+  ]
+}

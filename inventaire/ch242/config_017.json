@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-242/017.webp",
+ "output": "chapters_fr/chapter-242/017.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "HEO-",
+   "style": "dialogue",
+   "point": [
+    426,
+    1773
+   ]
+  },
+  {
+   "id": 3,
+   "text": "MERDE.",
+   "style": "italique",
+   "point": [
+    359,
+    6908
+   ]
+  }
+ ]
+}

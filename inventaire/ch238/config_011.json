@@ -1,0 +1,87 @@
+{
+ "source": "chapters_en/chapter-238/011.webp",
+ "output": "chapters_fr/chapter-238/011.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LES COMBATS ENTRE FAIBLES NE M’INTÉRESSENT PAS.",
+   "style": "dialogue",
+   "point": [
+    408,
+    235
+   ]
+  },
+  {
+   "id": 2,
+   "text": "APRÈS AVOIR VU LE COMBAT ENTRE DE VRAIS COLOSSES, J’EN SUIS ENCORE PLUS SÛRE.",
+   "style": "italique",
+   "point": [
+    403,
+    2479
+   ]
+  },
+  {
+   "id": 3,
+   "text": "CEUX-LÀ N’ONT PAS LE NIVEAU POUR PRENDRE PART À CE COMBAT.",
+   "style": "italique",
+   "point": [
+    425,
+    4042
+   ]
+  },
+  {
+   "id": 4,
+   "text": "SURTOUT CE TYPE, LE \"MAÎTRE\" AU VISAGE IMPASSIBLE.",
+   "style": "italique",
+   "point": [
+    385,
+    5512
+   ]
+  },
+  {
+   "id": 5,
+   "text": "RIEN QUE DE LE REGARDER, J’EN CLAQUE DES DENTS.",
+   "style": "italique",
+   "point": [
+    418,
+    6936
+   ]
+  },
+  {
+   "id": 6,
+   "text": "JE NE VEUX PAS GÂCHER CETTE BONNE HUMEUR AVEC UN TRUC DÉSAGRÉABLE.",
+   "style": "italique",
+   "point": [
+    309,
+    8591
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ALLONS NOUS REPOSER DANS LES QUARTIERS DU SEIGNEUR ARTHUR.",
+   "style": "italique",
+   "point": [
+    514,
+    9161
+   ]
+  },
+  {
+   "id": 10,
+   "text": "QUOI ? OÙ EST-CE QUE... ?!",
+   "style": "dialogue",
+   "point": [
+    402,
+    12966
+   ]
+  },
+  {
+   "id": 11,
+   "text": "JE SUIS BIEN DANS LES QUARTIERS DU SEIGNEUR ARTHUR... !",
+   "style": "dialogue",
+   "point": [
+    479,
+    14346
+   ]
+  }
+ ]
+}

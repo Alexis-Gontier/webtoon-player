@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-253/018.webp",
+ "output": "chapters_fr/chapter-253/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA PEUT SEMBLER IRRESPONSABLE...",
+   "style": "dialogue",
+   "point": [
+    279,
+    327
+   ]
+  },
+  {
+   "id": 2,
+   "text": "MAIS JE VOUS CONFIE MON AVENIR.",
+   "style": "dialogue",
+   "point": [
+    438,
+    657
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TOUT LE\nMONDE...",
+   "style": "dialogue",
+   "point": [
+    307,
+    1317
+   ]
+  },
+  {
+   "id": 4,
+   "text": "...CROIT EN VOTRE VICTOIRE.",
+   "style": "dialogue",
+   "point": [
+    399,
+    2399
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ET BIEN SÛR, MOI AUSSI.",
+   "style": "dialogue",
+   "point": [
+    352,
+    3963
+   ]
+  }
+ ]
+}

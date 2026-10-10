@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-257/039.webp",
+ "output": "chapters_fr/chapter-257/039.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS COMME PRÉVU...",
+   "style": "cartouche",
+   "point": [
+    426,
+    722
+   ]
+  },
+  {
+   "id": 3,
+   "text": "LE HÉROS QUI SE DRESSERAIT SUR LEUR ROUTE N’APPARUT JAMAIS.",
+   "style": "cartouche",
+   "point": [
+    408,
+    3694
+   ]
+  }
+ ]
+}

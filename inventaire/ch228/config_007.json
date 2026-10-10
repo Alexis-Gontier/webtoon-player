@@ -1,0 +1,76 @@
+{
+ "source": "chapters_en/chapter-228/007.webp",
+ "output": "chapters_fr/chapter-228/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "LUI...",
+   "style": "systeme",
+   "box": [
+    313,
+    704,
+    479,
+    783
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 2,
+   "text": "ON DIRAIT QU’IL Y A QUELQUE\nCHOSE QU’IL VEUT\nQUE JE SACHE.",
+   "style": "systeme",
+   "box": [
+    120,
+    905,
+    700,
+    1120
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 90
+  },
+  {
+   "id": 3,
+   "text": "TROIS JOURS...",
+   "style": "dialogue",
+   "point": [
+    384,
+    2814
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ÇA FAIT TROIS JOURS QU’IL NEIGE.",
+   "style": "dialogue",
+   "point": [
+    415,
+    3628
+   ]
+  }
+ ]
+}

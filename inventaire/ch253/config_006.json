@@ -1,0 +1,69 @@
+{
+ "source": "chapters_en/chapter-253/006.webp",
+ "output": "chapters_fr/chapter-253/006.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "JE...\nNOUS...",
+   "style": "dialogue",
+   "point": [
+    374,
+    1836
+   ]
+  },
+  {
+   "id": 3,
+   "text": "...NOUS BATTONS POUR UN TEL AVENIR.",
+   "style": "dialogue",
+   "point": [
+    330,
+    4596
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "dialogue",
+   "box": [
+    140,
+    640,
+    590,
+    830
+   ],
+   "ink_max": 120,
+   "max_letter": 50,
+   "grow": 3
+  },
+  {
+   "id": 101,
+   "text": "...JE N’AI\nL’INTENTION DE\nRENONCER\nÀ PERSONNE.",
+   "style": "dialogue",
+   "box": [
+    140,
+    640,
+    590,
+    880
+   ],
+   "target": [
+    160,
+    665,
+    570,
+    865
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "max_size": 55
+  }
+ ]
+}

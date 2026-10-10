@@ -1,0 +1,189 @@
+{
+ "source": "chapters_en/chapter-245/013.webp",
+ "output": "chapters_fr/chapter-245/013.webp",
+ "bubbles": [
+  {
+   "id": 4,
+   "text": "NE PERDS PAS CONTRE CE TARÉ !",
+   "style": "italique",
+   "point": [
+    633,
+    6217
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 5,
+   "text": "ON CROIT EN TOI. FRAPPE-LE POUR NOUS TOUS !",
+   "style": "italique",
+   "point": [
+    162,
+    6628
+   ],
+   "erase_color": true
+  },
+  {
+   "id": 101,
+   "text": "TU NE PEUX\nPAS PERDRE !",
+   "style": "italique",
+   "point": [
+    387,
+    1675
+   ]
+  },
+  {
+   "id": 102,
+   "text": "SEOL-JIN !!!",
+   "style": "italique",
+   "point": [
+    405,
+    3857
+   ]
+  },
+  {
+   "id": 105,
+   "text": "",
+   "style": "italique",
+   "box": [
+    130,
+    4320,
+    510,
+    4450
+   ],
+   "ink_max": 130,
+   "grow": 4,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 106,
+   "text": "TIENS BON, C’EST\nPRESQUE FINI !",
+   "style": "italique",
+   "box": [
+    140,
+    4250,
+    500,
+    4500
+   ],
+   "target": [
+    160,
+    4270,
+    480,
+    4480
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     20,
+     25,
+     70
+    ],
+    [
+     20,
+     25,
+     70
+    ]
+   ]
+  },
+  {
+   "id": 107,
+   "text": "",
+   "style": "italique",
+   "box": [
+    395,
+    5020,
+    705,
+    5215
+   ],
+   "ink_max": 130,
+   "grow": 4,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 108,
+   "text": "VAS-Y !!! TU AS MÊME\nBATTU DEAN, ALORS\nPOURQUOI PAS\nMAINTENANT ?!",
+   "style": "italique",
+   "box": [
+    385,
+    5005,
+    715,
+    5215
+   ],
+   "target": [
+    395,
+    5015,
+    705,
+    5205
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     20,
+     25,
+     70
+    ],
+    [
+     20,
+     25,
+     70
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    45,
+    5425,
+    375,
+    5560
+   ],
+   "ink_max": 130,
+   "grow": 6,
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "max_letter": 60
+  },
+  {
+   "id": 104,
+   "text": "TOI, TU PEUX\nY ARRIVER !",
+   "style": "italique",
+   "box": [
+    40,
+    5415,
+    300,
+    5570
+   ],
+   "target": [
+    45,
+    5420,
+    295,
+    5565
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     20,
+     25,
+     70
+    ],
+    [
+     20,
+     25,
+     70
+    ]
+   ]
+  }
+ ]
+}

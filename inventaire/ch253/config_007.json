@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-253/007.webp",
+ "output": "chapters_fr/chapter-253/007.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET PUIS,\nJE...",
+   "style": "dialogue",
+   "point": [
+    382,
+    369
+   ]
+  },
+  {
+   "id": 2,
+   "text": "...VEUX QUE VOUS SOYEZ AUSSI DANS CET AVENIR.",
+   "style": "dialogue",
+   "point": [
+    377,
+    1763
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST DONC ÇA QUE TU\nVOULAIS DIRE EN DISANT\nQUE TU NE RENONCERAIS\nÀ RIEN ?",
+   "style": "dialogue",
+   "point": [
+    443,
+    3950
+   ],
+   "box": [
+    190,
+    3840,
+    690,
+    4110
+   ],
+   "ink_max": 230,
+   "max_letter": 50,
+   "grow": 4,
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "HA !",
+   "style": "cri",
+   "box": [
+    90,
+    3570,
+    400,
+    3810
+   ],
+   "target": [
+    130,
+    3630,
+    360,
+    3780
+   ],
+   "ink_max": 100,
+   "max_letter": 150,
+   "grow": 5,
+   "fill": [
+    253,
+    253,
+    253
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}

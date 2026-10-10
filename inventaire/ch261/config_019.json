@@ -1,0 +1,75 @@
+{
+ "source": "chapters_en/chapter-261/019.webp",
+ "output": "chapters_fr/chapter-261/019.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "SÉPARÉMENT, NOUS...",
+   "style": "systeme",
+   "point": [
+    400,
+    634
+   ],
+   "box": [
+    80,
+    585,
+    720,
+    685
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "NE SOMMES PEUT-ÊTRE\nQUE DES EXISTENCES\nINSIGNIFIANTES...",
+   "style": "systeme",
+   "box": [
+    45,
+    2080,
+    755,
+    2305
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "ON DIRAIT QUE ÇA MARCHE !",
+   "style": "dialogue",
+   "point": [
+    373,
+    2993
+   ]
+  }
+ ]
+}

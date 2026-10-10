@@ -1,0 +1,96 @@
+{
+ "source": "chapters_en/chapter-229/010.webp",
+ "output": "chapters_fr/chapter-229/010.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "MAIS, POUR TOI, CE SERA TA PREMIÈRE \"ÉLIMINATION\"...",
+   "style": "dialogue",
+   "point": [
+    455,
+    156
+   ]
+  },
+  {
+   "id": 2,
+   "text": "TU ESSAIES DE DIRE QUE JE N’AI PAS LE DROIT PARCE QUE JE N’AI PAS DE...",
+   "style": "dialogue",
+   "point": [
+    360,
+    555
+   ]
+  },
+  {
+   "id": 4,
+   "text": "\"ARME D’ÂME\" ?",
+   "style": "dialogue",
+   "point": [
+    409,
+    1525
+   ]
+  },
+  {
+   "id": 5,
+   "text": "C’EST ÇA.",
+   "style": "dialogue",
+   "point": [
+    403,
+    2533
+   ]
+  },
+  {
+   "id": 6,
+   "text": "ALORS, POURQUOI TU FAIS ENCORE...",
+   "style": "dialogue",
+   "point": [
+    409,
+    5501
+   ]
+  },
+  {
+   "id": 7,
+   "text": "CETTE TÊTE-LÀ ?",
+   "style": "dialogue",
+   "point": [
+    410,
+    6527
+   ]
+  },
+  {
+   "id": 8,
+   "text": "JE SUIS LÀ, DEBOUT...",
+   "style": "dialogue",
+   "point": [
+    433,
+    9058
+   ]
+  },
+  {
+   "id": 9,
+   "text": "COMME TOUJOURS !",
+   "style": "dialogue",
+   "point": [
+    394,
+    10170
+   ]
+  },
+  {
+   "id": 10,
+   "text": "SUR LA SCÈNE DONT RÊVENT TOUS LES PLAYERS !",
+   "style": "dialogue",
+   "point": [
+    420,
+    11103
+   ]
+  },
+  {
+   "id": 11,
+   "text": "L’ARÈNE CÉLESTE !",
+   "style": "dialogue",
+   "point": [
+    403,
+    14327
+   ]
+  }
+ ]
+}

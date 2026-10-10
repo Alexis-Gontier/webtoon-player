@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-248/016.webp",
+ "output": "chapters_fr/chapter-248/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "IL L’A\nTRANCHÉ...?!",
+   "style": "italique",
+   "point": [
+    393,
+    816
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU PASSES AUX CHOSES SÉRIEUSES, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    358,
+    2892
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU AS DONC FINI PAR EN ARRIVER LÀ POUR UTILISER ÇA, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    372,
+    3868
+   ]
+  }
+ ]
+}

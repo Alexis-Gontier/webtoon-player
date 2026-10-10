@@ -1,0 +1,146 @@
+{
+ "source": "chapters_en/chapter-230/005.webp",
+ "output": "chapters_fr/chapter-230/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "\"NOUS\" N’AVONS JAMAIS LAISSÉ AUCUN ÊTRE APPROCHER DE CET ENDROIT...",
+   "style": "dialogue",
+   "point": [
+    382,
+    137
+   ]
+  },
+  {
+   "id": 2,
+   "text": "JUSQU’À MAINTENANT.",
+   "style": "dialogue",
+   "point": [
+    397,
+    1183
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU CROIS QUE TU PEUX NOUS BATTRE ?",
+   "style": "dialogue",
+   "point": [
+    427,
+    3071
+   ]
+  },
+  {
+   "id": 5,
+   "text": "TU CROIS QUE J’EN SUIS INCAPABLE ?",
+   "style": "dialogue",
+   "point": [
+    383,
+    4430
+   ]
+  },
+  {
+   "id": 6,
+   "text": "BIEN SÛR !",
+   "style": "dialogue",
+   "point": [
+    392,
+    5768
+   ]
+  },
+  {
+   "id": 7,
+   "text": "ALORS",
+   "style": "dialogue",
+   "point": [
+    383,
+    6645
+   ]
+  },
+  {
+   "id": 8,
+   "text": "PROUVE-LE-MOI.",
+   "style": "dialogue",
+   "point": [
+    388,
+    7783
+   ]
+  },
+  {
+   "id": 9,
+   "text": "NE BOUGE PAS\nDE LÀ, VAN\nZICHMUND !",
+   "style": "dialogue",
+   "point": [
+    415,
+    8844
+   ],
+   "box": [
+    195,
+    8690,
+    615,
+    9000
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150,
+   "max_letter": 90
+  },
+  {
+   "id": 10,
+   "text": "ET PAS\nD’EXCUSES\nSI TU\nPERDS !",
+   "style": "dialogue",
+   "point": [
+    461,
+    11941
+   ],
+   "box": [
+    165,
+    11660,
+    670,
+    11995
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "ink_max": 150,
+   "max_letter": 90
+  },
+  {
+   "id": 11,
+   "text": "HUHU, DES EXCUSES ?!",
+   "style": "dialogue",
+   "point": [
+    387,
+    12639
+   ]
+  }
+ ]
+}

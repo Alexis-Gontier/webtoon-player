@@ -1,0 +1,33 @@
+{
+ "source": "chapters_en/chapter-250/023.webp",
+ "output": "chapters_fr/chapter-250/023.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ALORS JE TE RÉVEILLERAI, QUOI QU’IL EN COÛTE !",
+   "style": "dialogue",
+   "point": [
+    328,
+    205
+   ]
+  },
+  {
+   "id": 2,
+   "text": "VOYONS CE QUE TU PEUX ENCAISSER !",
+   "style": "dialogue",
+   "point": [
+    370,
+    1663
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE...",
+   "style": "dialogue",
+   "point": [
+    272,
+    4757
+   ]
+  }
+ ]
+}

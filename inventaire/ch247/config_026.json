@@ -1,0 +1,51 @@
+{
+ "source": "chapters_en/chapter-247/026.webp",
+ "output": "chapters_fr/chapter-247/026.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "PARDON.",
+   "style": "dialogue",
+   "point": [
+    357,
+    960
+   ]
+  },
+  {
+   "id": 3,
+   "text": "EN VÉRITÉ...",
+   "style": "dialogue",
+   "point": [
+    351,
+    1600
+   ]
+  },
+  {
+   "id": 4,
+   "text": "JE NE PEUX PAS ME RÉSOUDRE À FRAPPER LE SEIGNEUR ARTHUR.",
+   "style": "dialogue",
+   "point": [
+    331,
+    2556
+   ]
+  },
+  {
+   "id": 5,
+   "text": "ALORS, DÉGAGE.",
+   "style": "dialogue",
+   "point": [
+    327,
+    3279
+   ]
+  },
+  {
+   "id": 6,
+   "text": "DE TOUTE FAÇON, JE N’ATTENDAIS RIEN DE TOI.",
+   "style": "dialogue",
+   "point": [
+    341,
+    4629
+   ]
+  }
+ ]
+}

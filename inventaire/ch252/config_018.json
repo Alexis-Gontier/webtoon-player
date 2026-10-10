@@ -1,0 +1,42 @@
+{
+ "source": "chapters_en/chapter-252/018.webp",
+ "output": "chapters_fr/chapter-252/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ET POURTANT, PERSONNE NE S’EST DÉCLARÉ.",
+   "style": "cartouche",
+   "point": [
+    408,
+    121
+   ]
+  },
+  {
+   "id": 2,
+   "text": "INCROYABLE !\nINCROYABLE !",
+   "style": "italique",
+   "point": [
+    342,
+    896
+   ]
+  },
+  {
+   "id": 4,
+   "text": "QUE VA-T-IL SE PASSER ?",
+   "style": "italique",
+   "point": [
+    304,
+    2281
+   ]
+  },
+  {
+   "id": 5,
+   "text": "DANS CET\nESPACE QU’IL\nA CRÉÉ...",
+   "style": "italique",
+   "point": [
+    459,
+    2564
+   ]
+  }
+ ]
+}

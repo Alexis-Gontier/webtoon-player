@@ -1,0 +1,74 @@
+{
+ "source": "chapters_en/chapter-226/016.webp",
+ "output": "chapters_fr/chapter-226/016.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "CARTOUCHE\nOUVERTE.",
+   "style": "cri",
+   "point": [
+    402,
+    374
+   ]
+  },
+  {
+   "id": 3,
+   "text": "C’EST ÇA.",
+   "style": "dialogue",
+   "point": [
+    268,
+    6844
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AH...",
+   "style": "cri",
+   "point": [
+    226,
+    8236
+   ]
+  },
+  {
+   "id": 6,
+   "text": "VOILÀ OÙ S’ARRÊTE...",
+   "style": "dialogue",
+   "point": [
+    524,
+    8593
+   ]
+  },
+  {
+   "id": 7,
+   "text": "LE PLAN\nDE MIRAGE.",
+   "style": "systeme",
+   "box": [
+    137,
+    12704,
+    668,
+    13006
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "outline_width": 3,
+   "max_letter": 160
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-247/002.webp",
+ "output": "chapters_fr/chapter-247/002.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "POURQUOI NE PAS SIMPLEMENT L’ACCEPTER ?",
+   "style": "dialogue",
+   "point": [
+    336,
+    364
+   ]
+  },
+  {
+   "id": 2,
+   "text": "QUE TA LONGUE ATTENTE N’AVAIT AUCUN SENS.",
+   "style": "dialogue",
+   "point": [
+    367,
+    2052
+   ]
+  }
+ ]
+}

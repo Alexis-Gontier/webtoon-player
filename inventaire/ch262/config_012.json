@@ -1,0 +1,80 @@
+{
+ "source": "chapters_en/chapter-262/012.webp",
+ "output": "chapters_fr/chapter-262/012.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "AH...\nCE N’EST PAS VRAI.",
+   "style": "systeme",
+   "point": [
+    360,
+    1129
+   ],
+   "box": [
+    215,
+    1060,
+    505,
+    1200
+   ],
+   "light": true,
+   "max_letter": 60,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "text": "JE NE VOIS MÊME PAS\nUNE SECONDE\nDE L’AVENIR.",
+   "style": "systeme",
+   "box": [
+    113,
+    2045,
+    604,
+    2251
+   ],
+   "light": true,
+   "max_letter": 60,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "text": "AH.",
+   "style": "dialogue",
+   "point": [
+    247,
+    2855
+   ]
+  },
+  {
+   "id": 5,
+   "text": "AH.",
+   "style": "dialogue",
+   "point": [
+    483,
+    3616
+   ]
+  }
+ ]
+}

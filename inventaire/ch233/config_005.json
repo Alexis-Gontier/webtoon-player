@@ -1,0 +1,143 @@
+{
+ "source": "chapters_en/chapter-233/005.webp",
+ "output": "chapters_fr/chapter-233/005.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "L’OCCASION DE TESTER CES PROTOTYPES QUI PRENAIENT LA POUSSIÈRE EST ENFIN ARRIVÉE~ !",
+   "style": "italique",
+   "point": [
+    436,
+    897
+   ]
+  },
+  {
+   "id": 2,
+   "text": "DES PROTOTYPES... ?",
+   "style": "dialogue",
+   "point": [
+    343,
+    2016
+   ]
+  },
+  {
+   "id": 3,
+   "text": "TU ENVOIES CE GENRE DE TRUCS DANS UN COMBAT À MORT ?",
+   "style": "dialogue",
+   "point": [
+    388,
+    4211
+   ]
+  },
+  {
+   "id": 4,
+   "text": "TU ME PRENDS POUR QUI ?",
+   "style": "dialogue",
+   "point": [
+    404,
+    5188
+   ]
+  },
+  {
+   "id": 6,
+   "text": "LE TERME \"PROTOTYPE\" DÉSIGNE DU MATÉRIEL PEU DURABLE OU PEU EFFICACE,",
+   "style": "dialogue",
+   "point": [
+    340,
+    6780
+   ],
+   "cut": [
+    [
+     265,
+     7016
+    ],
+    [
+     560,
+     6907
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "text": "CE QUI LE REND INADAPTÉ À UN USAGE NORMAL.",
+   "style": "dialogue",
+   "point": [
+    512,
+    7180
+   ],
+   "cut": [
+    [
+     265,
+     7016
+    ],
+    [
+     560,
+     6907
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "text": "MAIS EN FAIT, IL S’AVÈRE TRÈS EFFICACE EN COMBAT DE COURTE DURÉE !",
+   "style": "dialogue",
+   "point": [
+    411,
+    7915
+   ]
+  },
+  {
+   "id": 10,
+   "text": "SI JE M’EN SERS SANS RETENUE, MÊME CE SALAUD DE DENN N’AURA RIEN À REDIRE, HEIN ?",
+   "style": "dialogue",
+   "point": [
+    422,
+    10668
+   ]
+  },
+  {
+   "id": 11,
+   "text": "ÉDITION PURIFICATION D’ADMISSION À ÉMISSION D’AIR INTELLIGENTE",
+   "style": "dialogue",
+   "point": [
+    467,
+    12166
+   ]
+  },
+  {
+   "id": 12,
+   "text": "ÉDITION RENFORCEMENT D’ÉPÉE (FAITE EN S’ARRACHANT LES ONGLES DE RAGE)",
+   "style": "dialogue",
+   "point": [
+    376,
+    12659
+   ]
+  },
+  {
+   "id": 13,
+   "text": "ÉDITION REVOLVER ROMANTIQUE",
+   "style": "dialogue",
+   "point": [
+    288,
+    13144
+   ]
+  },
+  {
+   "id": 14,
+   "text": "QU’IL SOIT AU MOINS À LA HAUTEUR DE CE QUE J’EN AI DIT...",
+   "style": "italique",
+   "point": [
+    545,
+    13221
+   ]
+  },
+  {
+   "id": 15,
+   "text": "BON, IL S’EST PEUT-ÊTRE GLISSÉ QUELQUES PIÈCES DE RÉCUP...",
+   "style": "dialogue",
+   "point": [
+    629,
+    13920
+   ]
+  }
+ ]
+}

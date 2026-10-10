@@ -1,0 +1,32 @@
+{
+ "source": "chapters_en/chapter-228/045.webp",
+ "output": "chapters_fr/chapter-228/045.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "BATAILLE FINALE\nDEUXIÈME ROUND",
+   "style": "systeme",
+   "box": [
+    106,
+    957,
+    690,
+    1162
+   ],
+   "light": true,
+   "grow": 6,
+   "colors": [
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "max_letter": 120
+  }
+ ]
+}

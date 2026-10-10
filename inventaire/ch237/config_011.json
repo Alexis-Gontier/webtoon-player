@@ -1,0 +1,36 @@
+{
+ "source": "chapters_en/chapter-237/011.webp",
+ "output": "chapters_fr/chapter-237/011.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "PROJET : ESPOIR\nMODÈLE\n000",
+   "style": "systeme",
+   "point": [
+    399,
+    4277
+   ],
+   "box": [
+    40,
+    4010,
+    745,
+    4595
+   ],
+   "ink_max": 256,
+   "grow": 0,
+   "stretch": 1.4,
+   "colors": [
+    [
+     255,
+     240,
+     170
+    ],
+    [
+     255,
+     150,
+     40
+    ]
+   ]
+  }
+ ]
+}

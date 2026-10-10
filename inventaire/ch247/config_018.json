@@ -1,0 +1,24 @@
+{
+ "source": "chapters_en/chapter-247/018.webp",
+ "output": "chapters_fr/chapter-247/018.webp",
+ "bubbles": [
+  {
+   "id": 1,
+   "text": "ÇA NE SERT À RIEN D’ATTENDRE...",
+   "style": "pensee",
+   "point": [
+    365,
+    904
+   ]
+  },
+  {
+   "id": 2,
+   "text": "CAR AU FINAL, DÉFIER LE SEIGNEUR ARTHUR EST IMPOSSIBLE.",
+   "style": "pensee",
+   "point": [
+    380,
+    1933
+   ]
+  }
+ ]
+}

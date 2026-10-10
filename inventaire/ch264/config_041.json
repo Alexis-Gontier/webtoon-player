@@ -1,0 +1,117 @@
+{
+ "source": "chapters_en/chapter-264/041.webp",
+ "output": "chapters_fr/chapter-264/041.webp",
+ "bubbles": [
+  {
+   "id": 2,
+   "text": "MERCI D’AVOIR LU\n\"PLAYER\" JUSQU’ICI.\n\nFIN.",
+   "style": "systeme",
+   "point": [
+    359,
+    1850
+   ],
+   "box": [
+    70,
+    1665,
+    650,
+    2030
+   ],
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "text": "",
+   "style": "systeme",
+   "box": [
+    240,
+    490,
+    640,
+    845
+   ],
+   "ink_max": 130,
+   "max_letter": 60,
+   "grow": 3,
+   "fill": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "id": 101,
+   "text": "\"...NOUS CLÔTURONS\nLA PREMIÈRE PARTIE\nDE NOTRE VOYAGE.\"",
+   "style": "cartouche",
+   "box": [
+    245,
+    500,
+    635,
+    780
+   ],
+   "target": [
+    262,
+    545,
+    625,
+    770
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 102,
+   "text": "- RÉCIT D’UN\nCERTAIN PLAYER.",
+   "style": "systeme",
+   "box": [
+    400,
+    785,
+    640,
+    845
+   ],
+   "target": [
+    430,
+    792,
+    630,
+    842
+   ],
+   "ink_max": 0,
+   "colors": [
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  }
+ ]
+}
