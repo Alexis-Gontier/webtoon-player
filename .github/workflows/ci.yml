@@ -1,0 +1,37 @@
+# Contrôles du site à chaque push et pull request. La mise en ligne est faite par Vercel
+# (site/vercel.json), qui reconstruit https://player-fr.vercel.app à chaque push sur main.
+name: Contrôles du site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          package_json_file: site/package.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: site/pnpm-lock.yaml
+      - run: pnpm install --frozen-lockfile
+      - name: Types, tests, lint, code mort
+        run: pnpm typecheck && pnpm test && pnpm lint && pnpm knip
+      - name: Build (comme en ligne)
+        run: pnpm build
+        env:
+          SITE_URL: https://player-fr.vercel.app
+          PAGES_SOURCE: web

@@ -48,10 +48,10 @@ Format d'une ligne de `translations/chN_fr.txt` : `PAGE.ID | style [réglages JS
 
 ## En ligne
 
-Le site est publié sur GitHub Pages à chaque push sur `main` (`.github/workflows/pages.yml`) :
-https://alexis-gontier.github.io/webtoon-player/. Le build en ligne lit les planches dans `chapters_web/` :
-après un nouveau chapitre, lancer `make_viewer.py` puis `compress_pages.py` et committer `chapters_web/`
-et `site/public/thumbs/`.
+Le site est publié sur Vercel : https://player-fr.vercel.app/ (`site/vercel.json`), reconstruit à chaque push
+sur `main`. GitHub Actions (`.github/workflows/ci.yml`) vérifie types, tests, lint et build sur chaque push et
+pull request. Le build en ligne lit les planches dans `chapters_web/` : après un nouveau chapitre, lancer
+`make_viewer.py` puis `compress_pages.py` et committer `chapters_web/` et `site/public/thumbs/`.
 
 ## Contribuer
 
