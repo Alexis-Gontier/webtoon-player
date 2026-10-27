@@ -1,7 +1,12 @@
-# Planches originales (1,4 Go) : hors du dépôt. Leurs copies allégées (WebP q80, ~600 Mo) sont
-# versionnées dans chapters_web/ (python scripts/compress_pages.py).
+# Planches du webtoon : elles appartiennent aux auteurs de « Player » et restent hors du dépôt
+# (originaux, traductions rendues et leurs copies WebP de python scripts/compress_pages.py).
 chapters_en/
 chapters_fr/
+chapters_web/
+
+# Anime Ace 2 (Blambot) : licence sans redistribution. À installer soi-même dans fonts/.
+fonts/AnimeAce2-*
+fonts/LICENSE-AnimeAce2-Blambot.txt
 
 # Dossier de travail régénérable : on garde seulement les inventaire.json (évitent de refaire l'OCR).
 inventaire/**/*.png
@@ -24,4 +29,9 @@ site/playwright-report/
 
 # Journaux d’outils
 .playwright-mcp/
+.playwright-cli/
+
+# Travail de design (captures avant / après, maquettes OpenPencil, rapports de design-taste-frontend)
+design/
+.taste-skill/
 .claude/settings.local.json

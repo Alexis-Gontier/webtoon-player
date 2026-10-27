@@ -1,0 +1,41 @@
+name: Erreur de traduction
+description: Une bulle mal traduite, une faute, un texte qui déborde ou un texte anglais oublié.
+title: "[Ch. ] page "
+labels: ["traduction"]
+body:
+  - type: input
+    id: chapitre
+    attributes:
+      label: Chapitre et page
+      placeholder: "231, page 4"
+    validations:
+      required: true
+  - type: dropdown
+    id: genre
+    attributes:
+      label: Type de problème
+      options:
+        - Sens ou formulation
+        - Faute d’orthographe ou de typographie
+        - Texte qui déborde ou mal placé
+        - Texte anglais non traduit
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: actuel
+    attributes:
+      label: Texte actuel
+      description: Copie la bulle telle qu’elle apparaît (ou décris-la).
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Ta proposition
+      description: "Rappel : UNNAME, PLAYER(S), RANKER et UNRANKER ne se traduisent pas."
+  - type: textarea
+    id: contexte
+    attributes:
+      label: Contexte
+      description: Une capture rognée sur la bulle aide beaucoup (pas de page entière).

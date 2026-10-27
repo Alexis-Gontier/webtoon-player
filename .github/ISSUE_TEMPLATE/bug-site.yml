@@ -1,0 +1,31 @@
+name: Bug du site
+description: Le lecteur ou l’accueil ne se comporte pas comme prévu.
+labels: ["bug", "site"]
+body:
+  - type: textarea
+    id: etapes
+    attributes:
+      label: Ce que tu as fait
+      placeholder: |
+        1. Ouvrir le chapitre 231
+        2. Appuyer sur 3
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: resultat
+    attributes:
+      label: Ce qui s’est passé, et ce que tu attendais
+    validations:
+      required: true
+  - type: input
+    id: environnement
+    attributes:
+      label: Navigateur et appareil
+      placeholder: "Firefox 140, Android, 390 px de large"
+    validations:
+      required: true
+  - type: textarea
+    id: capture
+    attributes:
+      label: Capture d’écran

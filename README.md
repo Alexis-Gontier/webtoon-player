@@ -14,13 +14,13 @@ Développement : `pnpm run dev`. Tests : `pnpm test`, `pnpm run test:dist` (apr�
 ```
 chapters_en/        originaux anglais (jamais modifiés)
 chapters_fr/        pages traduites, même nom de fichier que l'original
-chapters_web/       copies WebP q80 des deux dossiers ci-dessus (seules planches versionnées dans git)
+chapters_web/       copies WebP q80 des deux dossiers ci-dessus (hors du dépôt, comme toutes les planches)
 translations/       traductions : chN_fr.txt (+ configs JSON écrites à la main pour les ch. 225 et 259)
 inventaire/         dossier de travail régénérable : OCR, configs générées, images de contrôle, journaux
 scripts/            outils (voir ci-dessous)
 models/             lama_fp32.onnx : inpainting LaMa (effacement par défaut), huggingface.co/Carve/LaMa-ONNX
                     text_detection_en_ppocrv3.onnx : détecteur de texte de find_missed.py (opencv/text_detection_ppocr)
-fonts/              polices de lettrage (Anime Ace 2 complétée de Ç et Œ, Anton, Mouse Memoirs...)
+fonts/              polices de lettrage (Anton, Mouse Memoirs... ; Anime Ace 2 complétée de Ç et Œ, à installer soi-même)
 docs/               translation-reference.md : règles, glossaire, options du moteur, erreurs résolues
                     audit-2026-10-09.md : audit des règles, points restant à corriger
 site/               site Astro + Svelte (pages, lecteur, SEO) ; données écrites par scripts/make_viewer.py
@@ -38,10 +38,26 @@ python scripts/find_missed.py N [N ...]            # texte anglais oublié (dét
 python scripts/audit_render.py N [N ...]           # texte français nettement plus petit que l'anglais
 python scripts/translate_bubbles.py translations/ch225_*.json   # rendu depuis des configs JSON
 python scripts/make_viewer.py                      # données et vignettes du site
-python scripts/compress_pages.py                   # copies WebP q80 des planches dans chapters_web/ (git)
+python scripts/compress_pages.py                   # copies WebP q80 des planches dans chapters_web/
 .\scripts\download-chapter.ps1 -ChapterUrl <url du chapitre>    # télécharge les chapitres suivants
 python scripts/add_french_glyphs.py <src.ttf> <sortie.ttf>      # ajoute Ç/Œ à une police
 ```
 
 Format d'une ligne de `translations/chN_fr.txt` : `PAGE.ID | style [réglages JSON] | TEXTE`
 (`-` = bloc ignoré, `\n` = retour à la ligne). Le détail est dans `docs/translation-reference.md`.
+
+## Contribuer
+
+Corrections de traduction, bugs du site ou du moteur : voir [CONTRIBUTING.md](CONTRIBUTING.md). Les questions
+et idées vont dans les Discussions du dépôt.
+
+Les planches et la police Anime Ace 2 ne sont pas dans le dépôt : sans tes propres copies, tu peux corriger
+les textes et le code, mais pas refaire le rendu des pages.
+
+## Licence
+
+Le code (`scripts/`, `site/`, `tests/`) est sous licence [MIT](LICENSE). Le webtoon « Player » (플레이어),
+de Park Jong-seok et Oh Hyeon-jun (Naver Webtoon), appartient à ses auteurs : ses pages, sa cover et ses
+dialogues ne sont pas couverts. Les textes de `translations/` sont une traduction non officielle, faite pour
+une lecture personnelle.
+
