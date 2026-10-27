@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "pnpm install --frozen-lockfile",
+  "installCommand": "corepack enable && corepack prepare pnpm@11.27.1 --activate && pnpm install --frozen-lockfile",
   "buildCommand": "PAGES_SOURCE=web SITE_URL=https://player-fr.vercel.app pnpm build",
   "outputDirectory": "dist",
   "trailingSlash": true
