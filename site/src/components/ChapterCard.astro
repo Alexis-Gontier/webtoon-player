@@ -1,12 +1,12 @@
 ---
-import { chapterPath } from '../lib/urls';
+import { chapterPath, withBase } from '../lib/urls';
 
 interface Props { n: number; pages: number }
 const { n, pages } = Astro.props;
 ---
 <li class="card-item" data-n={n}>
   <a class="card" href={chapterPath(n)} data-chapter-card={n} data-status="">
-    <span class="thumb"><img src={`/thumbs/${n}.webp`} width="400" height="560" alt="" loading="lazy" decoding="async" /></span>
+    <span class="thumb"><img src={withBase(`/thumbs/${n}.webp`)} width="400" height="560" alt="" loading="lazy" decoding="async" /></span>
     <span class="card-body">
       <span class="card-num">Chapitre {n}</span>
       <span class="card-meta">

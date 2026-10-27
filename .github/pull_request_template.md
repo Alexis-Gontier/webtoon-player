@@ -11,7 +11,7 @@
 
 ## Vérifications
 
-- [ ] Aucune planche, page entière ou police sous licence restrictive dans les fichiers
+- [ ] Pas de planche originale (`chapters_en/`, `chapters_fr/`) ni de police sous licence restrictive
 - [ ] Traduction : UNNAME, PLAYER(S), RANKER, UNRANKER laissés tels quels ; typographie française respectée
 - [ ] Site : `pnpm typecheck && pnpm test && pnpm lint && pnpm knip` au vert
 - [ ] Changement visible : capture jointe

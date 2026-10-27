@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { SITE } from '../config';
 import { getChapters } from '../lib/chapters';
-import { absolute, chapterPath } from '../lib/urls';
+import { absolute, chapterPath, withBase } from '../lib/urls';
 
 // Résumé du site en texte brut pour les assistants IA (format llms.txt : titre, résumé, liens).
 export const GET: APIRoute = async context => {
@@ -22,8 +22,8 @@ export const GET: APIRoute = async context => {
     '',
     '## Pages',
     '',
-    `- [Accueil et liste des chapitres](${absolute('/', site)})`,
-    `- [Plan du site](${new URL('sitemap-index.xml', site).href})`,
+    `- [Accueil et liste des chapitres](${absolute(withBase('/'), site)})`,
+    `- [Plan du site](${absolute(withBase('/sitemap-index.xml'), site)})`,
     '',
     '## Chapitres',
     '',

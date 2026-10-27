@@ -10,6 +10,7 @@ import Seo from '../components/Seo.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE } from '../config';
+import { withBase } from '../lib/urls';
 import { getChapters } from '../lib/chapters';
 
 interface Props {
@@ -27,7 +28,7 @@ interface Props {
 const latest = (await getChapters()).at(-1)!;
 // Image de partage par défaut : la vignette du dernier chapitre (400 × 560).
 const {
-  title, description, image = `/thumbs/${latest.n}.webp`, imageAlt = `Player, chapitre ${latest.n}`,
+  title, description, image = withBase(`/thumbs/${latest.n}.webp`), imageAlt = `Player, chapitre ${latest.n}`,
   imageSize = [400, 560], type = 'website', noindex = false, jsonLd = [], prev = null, next = null,
 } = Astro.props;
 ---
@@ -37,9 +38,9 @@ const {
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#121212" />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="manifest" href="/manifest.webmanifest" />
-  <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
+  <link rel="manifest" href={withBase('/manifest.webmanifest')} />
+  <link rel="sitemap" href={withBase('/sitemap-index.xml')} />
   <Seo {title} {description} {image} {imageAlt} {imageSize} {type} {noindex} jsonLd={[jsonLd].flat()} {prev} {next} />
   <script is:inline>
     // Mode d’affichage et aperçus posés avant le premier rendu (pas de saut EN|FR -> FR, pas d’aperçu

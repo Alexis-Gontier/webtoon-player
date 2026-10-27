@@ -14,7 +14,7 @@ Développement : `pnpm run dev`. Tests : `pnpm test`, `pnpm run test:dist` (apr�
 ```
 chapters_en/        originaux anglais (jamais modifiés)
 chapters_fr/        pages traduites, même nom de fichier que l'original
-chapters_web/       copies WebP q80 des deux dossiers ci-dessus (hors du dépôt, comme toutes les planches)
+chapters_web/       copies WebP q80 des deux dossiers ci-dessus (seules planches versionnées, publiées avec le site)
 translations/       traductions : chN_fr.txt (+ configs JSON écrites à la main pour les ch. 225 et 259)
 inventaire/         dossier de travail régénérable : OCR, configs générées, images de contrôle, journaux
 scripts/            outils (voir ci-dessous)
@@ -38,7 +38,7 @@ python scripts/find_missed.py N [N ...]            # texte anglais oublié (dét
 python scripts/audit_render.py N [N ...]           # texte français nettement plus petit que l'anglais
 python scripts/translate_bubbles.py translations/ch225_*.json   # rendu depuis des configs JSON
 python scripts/make_viewer.py                      # données et vignettes du site
-python scripts/compress_pages.py                   # copies WebP q80 des planches dans chapters_web/
+python scripts/compress_pages.py                   # copies WebP q80 des planches dans chapters_web/ (git)
 .\scripts\download-chapter.ps1 -ChapterUrl <url du chapitre>    # télécharge les chapitres suivants
 python scripts/add_french_glyphs.py <src.ttf> <sortie.ttf>      # ajoute Ç/Œ à une police
 ```
@@ -46,12 +46,19 @@ python scripts/add_french_glyphs.py <src.ttf> <sortie.ttf>      # ajoute Ç/Œ �
 Format d'une ligne de `translations/chN_fr.txt` : `PAGE.ID | style [réglages JSON] | TEXTE`
 (`-` = bloc ignoré, `\n` = retour à la ligne). Le détail est dans `docs/translation-reference.md`.
 
+## En ligne
+
+Le site est publié sur GitHub Pages à chaque push sur `main` (`.github/workflows/pages.yml`) :
+https://alexis-gontier.github.io/webtoon-player/. Le build en ligne lit les planches dans `chapters_web/` :
+après un nouveau chapitre, lancer `make_viewer.py` puis `compress_pages.py` et committer `chapters_web/`
+et `site/public/thumbs/`.
+
 ## Contribuer
 
 Corrections de traduction, bugs du site ou du moteur : voir [CONTRIBUTING.md](CONTRIBUTING.md). Les questions
 et idées vont dans les Discussions du dépôt.
 
-Les planches et la police Anime Ace 2 ne sont pas dans le dépôt : sans tes propres copies, tu peux corriger
+Les planches originales et la police Anime Ace 2 ne sont pas dans le dépôt : sans elles, tu peux corriger
 les textes et le code, mais pas refaire le rendu des pages.
 
 ## Licence

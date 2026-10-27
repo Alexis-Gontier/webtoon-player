@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import ChapterCard from '../components/ChapterCard.astro';
 import { getChapters } from '../lib/chapters';
-import { absolute, chapterPath } from '../lib/urls';
+import { absolute, chapterPath, withBase } from '../lib/urls';
 import { SITE } from '../config';
 
 const chapters = await getChapters();
@@ -18,7 +18,7 @@ const jsonLd = [
     '@type': 'WebSite',
     name: SITE.name,
     alternateName: SITE.shortName,
-    url: absolute('/', site),
+    url: absolute(withBase('/'), site),
     inLanguage: 'fr',
     description: SITE.description,
   },
@@ -28,9 +28,9 @@ const jsonLd = [
     name: series.title,
     alternateName: series.originalTitle,
     inLanguage: 'fr',
-    url: absolute('/', site),
+    url: absolute(withBase('/'), site),
     description: series.synopsis || `${SITE.description} Chapitres ${first} à ${last}.`,
-    ...(series.cover ? { image: absolute(series.cover, site) } : {}),
+    ...(series.cover ? { image: absolute(withBase(series.cover), site) } : {}),
     ...(writers.length ? { author: writers } : {}),
     ...(artists.length ? { creator: artists } : {}),
     // Traduction : l’œuvre d’origine est le webtoon coréen publié par Naver Webtoon.
@@ -48,11 +48,11 @@ const jsonLd = [
   },
 ];
 const totalPages = new Intl.NumberFormat('fr-FR').format(chapters.reduce((sum, c) => sum + c.pages.length, 0));
-const coverSrc = series.cover || `/thumbs/${first}.webp`;
+const coverSrc = withBase(series.cover || `/thumbs/${first}.webp`);
 // Dimensions réelles de public/cover.webp (690 × 1000), sinon celles des vignettes.
 const [coverW, coverH] = series.cover ? [690, 1000] : [400, 560];
 ---
-<Base title={SITE.homeTitle} description={SITE.description} {jsonLd} image={series.cover || undefined} imageAlt="Cover du webtoon Player" imageSize={series.cover ? [coverW, coverH] : undefined}>
+<Base title={SITE.homeTitle} description={SITE.description} {jsonLd} image={series.cover ? withBase(series.cover) : undefined} imageAlt="Cover du webtoon Player" imageSize={series.cover ? [coverW, coverH] : undefined}>
   <section class="hero">
     <!-- Fond et cover : la cover officielle si elle est configurée, sinon le chapitre en cours (posé par le script). -->
     <div class="hero-backdrop" aria-hidden="true"><img id="backdrop" src={coverSrc} width={coverW} height={coverH} alt="" decoding="async" /></div>

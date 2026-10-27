@@ -2,8 +2,9 @@
 import Base from '../../layouts/Base.astro';
 import Reader from '../../components/Reader.svelte';
 import { getChapters, type Chapter } from '../../lib/chapters';
-import { absolute, chapterPath, imageUrl } from '../../lib/urls';
-import { IMAGE_BASE, SITE } from '../../config';
+import { absolute, chapterPath, withBase } from '../../lib/urls';
+import { pageSrc } from '../../lib/pages';
+import { SITE } from '../../config';
 
 export async function getStaticPaths() {
   const chapters = await getChapters();
@@ -20,7 +21,7 @@ const total = pages.length;
 const site = Astro.site!;
 // Premières pages du chapitre suivant, préchargées par le lecteur.
 const nextChapter = (await getChapters()).find(c => c.n === next);
-const prefetch = (nextChapter?.pages.slice(0, 3) ?? []).map(p => ({ en: imageUrl(IMAGE_BASE, p.en), fr: imageUrl(IMAGE_BASE, p.fr) }));
+const prefetch = (nextChapter?.pages.slice(0, 3) ?? []).map(p => ({ en: pageSrc(p.en), fr: pageSrc(p.fr) }));
 const LANGS = [
   { id: 'en', label: 'anglais' },
   { id: 'fr', label: 'français' },
@@ -36,17 +37,17 @@ const jsonLd = [
     pageEnd: total,
     inLanguage: 'fr',
     url: absolute(chapterPath(n), site),
-    image: absolute(`/thumbs/${n}.webp`, site),
+    image: absolute(withBase(`/thumbs/${n}.webp`), site),
     author: SITE.series.authors.map(a => ({ '@type': 'Person', name: a.name })),
     isPartOf: {
-      '@type': 'ComicSeries', name: SITE.series.title, alternateName: SITE.series.originalTitle, url: absolute('/', site),
+      '@type': 'ComicSeries', name: SITE.series.title, alternateName: SITE.series.originalTitle, url: absolute(withBase('/'), site),
     },
   },
   {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Accueil', item: absolute('/', site) },
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: absolute(withBase('/'), site) },
       { '@type': 'ListItem', position: 2, name: `Chapitre ${n}`, item: absolute(chapterPath(n), site) },
     ],
   },
@@ -55,14 +56,14 @@ const jsonLd = [
 <Base
   title={`Player chapitre ${n} en français — lecture EN / FR`}
   description={`Lire le chapitre ${n} de Player (${SITE.series.originalTitle}) en français : ${total} pages, seules ou à côté de la version anglaise.`}
-  image={`/thumbs/${n}.webp`}
+  image={withBase(`/thumbs/${n}.webp`)}
   imageAlt={`Player, chapitre ${n}`}
   type="article"
   {jsonLd}
   {prev}
   {next}
 >
-  <nav class="crumbs" aria-label="Fil d’Ariane"><a href="/">Accueil</a> › <span aria-current="page">Chapitre {n}</span></nav>
+  <nav class="crumbs" aria-label="Fil d’Ariane"><a href={withBase('/')}>Accueil</a> › <span aria-current="page">Chapitre {n}</span></nav>
   <section class="title-card">
     <div class="tag">// CHAPITRE</div>
     <h1>Chapitre {n}</h1>
@@ -81,7 +82,7 @@ const jsonLd = [
     {pages.flatMap((p, i) => LANGS.map(lang => (
       <img
         class={lang.id}
-        src={imageUrl(IMAGE_BASE, p[lang.id])}
+        src={pageSrc(p[lang.id])}
         width={p.w}
         height={p.h}
         alt={`Chapitre ${n}, page ${i + 1} (${lang.label})`}
@@ -100,7 +101,7 @@ const jsonLd = [
       {prev !== null && <a class="end-btn" href={chapterPath(prev)}>‹ Chapitre {prev}</a>}
       {next !== null
         ? <a class="end-btn primary" href={chapterPath(next)}>Chapitre {next} ›</a>
-        : <a class="end-btn" href="/#chapitres">Dernier chapitre disponible · Accueil</a>}
+        : <a class="end-btn" href={withBase('/#chapitres')}>Dernier chapitre disponible · Accueil</a>}
     </div>
   </section>
   <Reader slot="overlay" client:only="svelte" chapter={n} {total} {prev} {next} {prefetch} />

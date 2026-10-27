@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { absolute, withBase } from '../lib/urls';
 
 // Moteurs de recherche et assistants IA : tous autorisés, nommés pour qu’une règle ajoutée plus tard
 // au groupe « * » ne les bloque pas par accident.
@@ -15,7 +16,7 @@ export const GET: APIRoute = ({ site }) => new Response(
     ...AI_CRAWLERS.map(bot => `User-agent: ${bot}`),
     'Allow: /',
     '',
-    `Sitemap: ${new URL('sitemap-index.xml', site).href}`,
+    `Sitemap: ${absolute(withBase('/sitemap-index.xml'), site!)}`,
     '',
   ].join('\n'),
   { headers: { 'Content-Type': 'text/plain; charset=utf-8' } },

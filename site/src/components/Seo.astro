@@ -1,6 +1,6 @@
 ---
 import { SITE } from '../config';
-import { absolute, chapterPath } from '../lib/urls';
+import { absolute, chapterPath, withBase } from '../lib/urls';
 
 interface Props {
   title: string;
@@ -30,7 +30,7 @@ const imageUrl = absolute(image, site);
     </>}
 {prev !== null && <link rel="prev" href={absolute(chapterPath(prev), site)} />}
 {next !== null && <link rel="next" href={absolute(chapterPath(next), site)} />}
-<link rel="alternate" type="text/plain" href="/llms.txt" title="Résumé du site pour les assistants IA" />
+<link rel="alternate" type="text/plain" href={withBase('/llms.txt')} title="Résumé du site pour les assistants IA" />
 <meta property="og:site_name" content={SITE.name} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />

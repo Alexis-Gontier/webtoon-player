@@ -1,10 +1,11 @@
 ---
 import Base from '../layouts/Base.astro';
+import { withBase } from '../lib/urls';
 ---
 <Base title="Page introuvable — Player" description="Cette page n’existe pas." noindex>
   <section class="end not-found">
     <div class="tag">// ERREUR 404</div>
     <h1>Page introuvable</h1>
-    <div class="nav"><a class="end-btn primary" href="/">Retour à l’accueil</a></div>
+    <div class="nav"><a class="end-btn primary" href={withBase('/')}>Retour à l’accueil</a></div>
   </section>
 </Base>

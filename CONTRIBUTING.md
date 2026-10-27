@@ -3,10 +3,10 @@
 Merci de vouloir aider ! Les contributions sont bienvenues sur trois fronts : la traduction, le moteur
 de lettrage (`scripts/`) et le site de lecture (`site/`).
 
-Avant de commencer, une limite importante : **les planches du webtoon ne sont pas dans ce dépôt**
-(`chapters_en/`, `chapters_fr/`, `chapters_web/` sont ignorés par git). Elles appartiennent aux auteurs de
-« Player » et ne seront jamais versionnées ici. Sans tes propres copies, tu peux corriger un texte ou le
-code, mais pas refaire le rendu des pages.
+Avant de commencer, une limite importante : **les planches originales ne sont pas dans ce dépôt**
+(`chapters_en/` et `chapters_fr/` sont ignorés par git ; seules leurs copies allégées de `chapters_web/`
+le sont, pour le site). Le moteur a besoin des originaux : sans eux, tu peux corriger un texte ou le code,
+mais pas refaire le rendu des pages.
 
 ## Signaler un problème
 
@@ -63,7 +63,8 @@ pnpm typecheck && pnpm test && pnpm lint && pnpm knip
 pnpm build && pnpm test:dist && pnpm e2e
 ```
 
-Sans planches, les images des chapitres ne s’affichent pas en local ; le reste du site fonctionne.
+Sans les originaux, les images des chapitres ne s’affichent pas en local. Pour voir le site comme en ligne,
+avec les copies de `chapters_web/` : `PAGES_SOURCE=web pnpm build && pnpm preview`.
 
 ## Pull requests
 
@@ -72,7 +73,8 @@ Sans planches, les images des chapitres ne s’affichent pas en local ; le reste
 - Messages de commit courts, en français, au format `type(portée): résumé`
   (ex. `fix(ch231): accord de « mauvais petits »`).
 - Décris ce qui change et pourquoi ; ajoute une capture pour tout changement visible.
-- Aucune planche, capture de page entière ou fichier de police sous licence restrictive dans les commits.
+- Pas de planche originale ni de police sous licence restrictive dans les commits ; les copies de
+  `chapters_web/` ne changent qu’avec un nouveau rendu.
 
 ## Respect
 
