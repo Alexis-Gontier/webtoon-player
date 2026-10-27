@@ -7,7 +7,7 @@ import globals from 'globals';
 import svelteConfig from './svelte.config.js';
 
 export default defineConfig(
-  { ignores: ['dist/', '.astro/', 'public/', 'test-results/', 'playwright-report/'] },
+  { ignores: ['dist/', '.astro/', '.vercel/', 'public/', 'test-results/', 'playwright-report/'] },
   js.configs.recommended,
   ...tseslint.configs.recommended,
   ...astro.configs.recommended,
