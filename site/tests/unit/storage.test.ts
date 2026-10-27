@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { chapterStatus, createStore, parseView, progressKey, readKey, type KV } from '../../src/lib/storage';
+import { chapterStatus, createStore, markRead, markUnread, parseView, progressKey, readKey, type KV } from '../../src/lib/storage';
 
 function memory(): KV & { data: Map<string, string> } {
   const data = new Map<string, string>();
@@ -41,5 +41,25 @@ describe('storage', () => {
     expect(chapterStatus(store, 245)).toBe('progress');
     store.set('read:245', '1');
     expect(chapterStatus(store, 245)).toBe('read');
+  });
+  it('markUnread efface lu, position et reprise de ce chapitre seulement', () => {
+    const store = createStore(memory());
+    store.set('read:245', '1');
+    store.set('progress:245', '{"page":3,"frac":0}');
+    store.set('chapter', '245');
+    markUnread(store, 245);
+    expect(chapterStatus(store, 245)).toBeNull();
+    expect(store.get('chapter')).toBeNull();
+    store.set('read:246', '1');
+    store.set('chapter', '246');
+    markUnread(store, 245);
+    expect(store.get('chapter')).toBe('246');
+  });
+  it('markRead marque lu et oublie la position', () => {
+    const store = createStore(memory());
+    store.set('progress:245', '{"page":3,"frac":0}');
+    markRead(store, 245);
+    expect(chapterStatus(store, 245)).toBe('read');
+    expect(store.get('progress:245')).toBeNull();
   });
 });

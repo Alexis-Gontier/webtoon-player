@@ -29,3 +29,16 @@ export function chapterStatus(store: Store, n: number): 'read' | 'progress' | nu
   if (store.get(readKey(n)) === '1') return 'read';
   return store.get(progressKey(n)) ? 'progress' : null;
 }
+
+// Annule une lecture marquée par erreur : plus lu, plus de position, et plus proposé par « Reprendre ».
+export function markUnread(store: Store, n: number) {
+  store.set(readKey(n), '');
+  store.set(progressKey(n), '');
+  if (store.get('chapter') === String(n)) store.set('chapter', '');
+}
+
+// Marque un chapitre comme lu à la main (la position enregistrée n’a plus d’intérêt).
+export function markRead(store: Store, n: number) {
+  store.set(readKey(n), '1');
+  store.set(progressKey(n), '');
+}

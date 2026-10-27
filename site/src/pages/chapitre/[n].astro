@@ -32,10 +32,15 @@ const jsonLd = [
     '@type': 'ComicIssue',
     name: `${SITE.series.title}, chapitre ${n}`,
     issueNumber: n,
+    pageStart: 1,
+    pageEnd: total,
     inLanguage: 'fr',
     url: absolute(chapterPath(n), site),
     image: absolute(`/thumbs/${n}.webp`, site),
-    isPartOf: { '@type': 'ComicSeries', name: SITE.series.title, url: absolute('/', site) },
+    author: SITE.series.authors.map(a => ({ '@type': 'Person', name: a.name })),
+    isPartOf: {
+      '@type': 'ComicSeries', name: SITE.series.title, alternateName: SITE.series.originalTitle, url: absolute('/', site),
+    },
   },
   {
     '@context': 'https://schema.org',
@@ -48,9 +53,10 @@ const jsonLd = [
 ];
 ---
 <Base
-  title={`Player — Chapitre ${n}`}
-  description={`Chapitre ${n} de Player en traduction française (${total} pages), lisible seul ou à côté de la version originale anglaise.`}
+  title={`Player chapitre ${n} en français — lecture EN / FR`}
+  description={`Lire le chapitre ${n} de Player (${SITE.series.originalTitle}) en français : ${total} pages, seules ou à côté de la version anglaise.`}
   image={`/thumbs/${n}.webp`}
+  imageAlt={`Player, chapitre ${n}`}
   type="article"
   {jsonLd}
   {prev}
@@ -65,7 +71,7 @@ const jsonLd = [
       <span class="view-label" data-for="en">Anglais seul</span>
       <span class="view-label" data-for="both">Anglais · Français</span>
       <span class="view-label" data-for="fr">Français seul</span>
-      <span class="keys"><kbd>←</kbd> <kbd>→</kbd> chapitres · <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> affichage · <kbd>?</kbd> aide</span>
+      <span class="keys"><kbd>←</kbd> <kbd>→</kbd> chapitres · <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> affichage · <kbd>P</kbd> compteur · <kbd>?</kbd> aide</span>
     </div>
   </section>
 

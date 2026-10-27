@@ -8,58 +8,213 @@ import { SITE } from '../config';
 const chapters = await getChapters();
 const site = Astro.site!;
 const { series } = SITE;
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'ComicSeries',
-  name: series.title,
-  inLanguage: 'fr',
-  url: absolute('/', site),
-  ...(series.authors.length ? { author: series.authors.map(name => ({ '@type': 'Person', name })) } : {}),
-  ...(series.synopsis ? { description: series.synopsis } : {}),
-  hasPart: chapters.map(c => ({ '@type': 'ComicIssue', issueNumber: c.n, url: absolute(chapterPath(c.n), site) })),
-};
 const first = chapters[0].n, last = chapters.at(-1)!.n;
+const person = (name: string) => ({ '@type': 'Person', name });
+const writers = series.authors.filter(a => a.role === 'Scénario').map(a => person(a.name));
+const artists = series.authors.filter(a => a.role === 'Dessin').map(a => person(a.name));
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE.name,
+    alternateName: SITE.shortName,
+    url: absolute('/', site),
+    inLanguage: 'fr',
+    description: SITE.description,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ComicSeries',
+    name: series.title,
+    alternateName: series.originalTitle,
+    inLanguage: 'fr',
+    url: absolute('/', site),
+    description: series.synopsis || `${SITE.description} Chapitres ${first} à ${last}.`,
+    ...(series.cover ? { image: absolute(series.cover, site) } : {}),
+    ...(writers.length ? { author: writers } : {}),
+    ...(artists.length ? { creator: artists } : {}),
+    // Traduction : l’œuvre d’origine est le webtoon coréen publié par Naver Webtoon.
+    translationOfWork: {
+      '@type': 'ComicSeries',
+      name: series.originalTitle,
+      inLanguage: series.originalLanguage,
+      publisher: { '@type': 'Organization', name: series.publisher },
+      ...(writers.length ? { author: writers } : {}),
+    },
+    hasPart: chapters.map(c => ({
+      '@type': 'ComicIssue', issueNumber: c.n, name: `Chapitre ${c.n}`, pageStart: 1, pageEnd: c.pages.length,
+      url: absolute(chapterPath(c.n), site),
+    })),
+  },
+];
+const totalPages = new Intl.NumberFormat('fr-FR').format(chapters.reduce((sum, c) => sum + c.pages.length, 0));
+const coverSrc = series.cover || `/thumbs/${first}.webp`;
+// Dimensions réelles de public/cover.webp (690 × 1000), sinon celles des vignettes.
+const [coverW, coverH] = series.cover ? [690, 1000] : [400, 560];
 ---
-<Base title={SITE.name} description={SITE.description} {jsonLd}>
-  <section class="title-card hero">
-    <div class="tag">// WEBTOON · TRADUCTION FRANÇAISE</div>
-    <h1>Player</h1>
-    {series.synopsis && <p class="synopsis">{series.synopsis}</p>}
-    <div class="meta">
-      <span><b>{chapters.length}</b> chapitres</span>
-      <span>Chapitres <b>{first}</b> à <b>{last}</b></span>
-      {series.authors.length > 0 && <span>{series.authors.join(', ')}</span>}
-    </div>
-    <div class="hero-actions">
-      <a class="end-btn primary" id="resume" href={chapterPath(first)} hidden>Reprendre au chapitre&nbsp;<b></b></a>
-      <a class="end-btn" href={chapterPath(first)}>Commencer au chapitre {first}</a>
+<Base title={SITE.homeTitle} description={SITE.description} {jsonLd} image={series.cover || undefined} imageAlt="Cover du webtoon Player" imageSize={series.cover ? [coverW, coverH] : undefined}>
+  <section class="hero">
+    <!-- Fond et cover : la cover officielle si elle est configurée, sinon le chapitre en cours (posé par le script). -->
+    <div class="hero-backdrop" aria-hidden="true"><img id="backdrop" src={coverSrc} width={coverW} height={coverH} alt="" decoding="async" /></div>
+    <div class="hero-inner">
+      <div class="cover" id="cover" data-status="" data-official={series.cover ? '' : undefined}>
+        <span class="thumb"><img src={coverSrc} width={coverW} height={coverH} alt={series.cover ? 'Cover du webtoon Player' : ''} fetchpriority="high" decoding="async" /></span>
+      </div>
+      <div class="hero-info">
+        <h1 translate="no">Player</h1>
+        <p class="lead">{SITE.description}</p>
+        {series.synopsis && <p class="synopsis">{series.synopsis}</p>}
+        {series.authors.length > 0 && (
+          <p class="authors">
+            {series.authors.map((a, i) => <>{i > 0 && ' · '}{a.role} <b translate="no">{a.name}</b></>)}
+            {' · '}<span lang="ko" translate="no">{series.originalTitle}</span>, {series.publisher}
+          </p>
+        )}
+        <div class="reading">
+          <div class="reading-head">
+            <span id="progress-label">Progression</span>
+            <span><b id="read-count">0</b> / {chapters.length} chapitres lus</span>
+          </div>
+          <progress id="read-progress" max={chapters.length} value="0" aria-labelledby="progress-label"></progress>
+        </div>
+        <div class="hero-actions">
+          <a class="end-btn primary" id="resume" href={chapterPath(first)} hidden>Reprendre au chapitre&nbsp;<b></b></a>
+          <a class="end-btn" href={chapterPath(first)}>Commencer au chapitre {first}</a>
+        </div>
+        <dl class="stats">
+          <div><dt>chapitres</dt><dd>{chapters.length}</dd></div>
+          <div><dt>lus</dt><dd id="stat-read">0</dd></div>
+          <div><dt>pages</dt><dd>{totalPages}</dd></div>
+        </dl>
+      </div>
     </div>
   </section>
 
   <section class="chapters" id="chapitres" aria-labelledby="chapitres-titre">
-    <h2 id="chapitres-titre">Chapitres</h2>
-    <ul class="grid">
+    <div class="chapters-head">
+      <h2 id="chapitres-titre">Chapitres</h2>
+      <button type="button" class="switch" id="thumbs-toggle" aria-pressed="true">
+        <span class="switch-track" aria-hidden="true"></span>Masquer les aperçus non lus
+      </button>
+    </div>
+    <div class="tools">
+      <form class="search" role="search" id="chapter-search">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2" /><path d="m20 20-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg>
+        <input type="search" name="chapitre" inputmode="numeric" autocomplete="off" placeholder="Aller au chapitre… (ex. 240)" aria-label="Aller au chapitre" />
+      </form>
+      <button type="button" class="sort-btn" id="sort" aria-label="Du premier au dernier">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M7 4v16m0 0-3-3m3 3 3-3M17 20V4m0 0-3 3m3-3 3 3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+        <span class="sort-label" aria-hidden="true">Du premier au dernier</span>
+      </button>
+    </div>
+    <p class="no-result" id="no-result" hidden>Aucun chapitre ne correspond.</p>
+    <ul class="grid" id="chapter-list">
       {chapters.map(c => <ChapterCard n={c.n} pages={c.pages.length} />)}
     </ul>
   </section>
 </Base>
 
 <script>
-  import { chapterStatus, createStore } from '../lib/storage';
-  import { chapterPath } from '../lib/urls';
+  import { navigate } from 'astro:transitions/client';
+  import { chapterStatus, createStore, markRead, markUnread } from '../lib/storage';
 
-  // Badges « lu » / « en cours » et bouton Reprendre, d’après la progression enregistrée.
-  function decorate() {
+  // Statuts « lu » / « en cours », progression, bouton Reprendre et cover, d’après la progression enregistrée.
+  function render() {
     const store = createStore();
+    let read = 0;
     document.querySelectorAll<HTMLElement>('[data-chapter-card]').forEach(card => {
-      card.dataset.status = chapterStatus(store, Number(card.dataset.chapterCard)) ?? '';
+      const status = chapterStatus(store, Number(card.dataset.chapterCard)) ?? '';
+      card.dataset.status = status;
+      card.parentElement?.querySelector('[data-toggle]')?.setAttribute('aria-pressed', String(status === 'read'));
+      if (status === 'read') read++;
     });
-    const resume = document.querySelector<HTMLAnchorElement>('#resume');
+    document.querySelector('#read-count')!.textContent = String(read);
+    document.querySelector('#stat-read')!.textContent = String(read);
+    document.querySelector<HTMLProgressElement>('#read-progress')!.value = read;
+
+    const resume = document.querySelector<HTMLAnchorElement>('#resume')!;
     const last = store.get('chapter');
-    if (!resume || !last || !document.querySelector(`[data-chapter-card="${last}"]`)) return;
-    resume.href = chapterPath(Number(last));
-    resume.querySelector('b')!.textContent = last;
-    resume.hidden = false;
+    const current = last ? document.querySelector<HTMLAnchorElement>(`[data-chapter-card="${last}"]`) : null;
+    resume.hidden = !current;
+    if (current) {
+      resume.setAttribute('href', current.getAttribute('href')!);
+      resume.querySelector('b')!.textContent = last;
+    }
+    // Cover officielle configurée : elle reste. Sinon, chapitre en cours ou, à défaut, premier chapitre.
+    const cover = document.querySelector<HTMLElement>('#cover')!;
+    if (cover.hasAttribute('data-official')) return;
+    const card = current ?? document.querySelector<HTMLAnchorElement>('[data-chapter-card]')!;
+    const src = card.querySelector('img')!.src;
+    cover.dataset.status = card.dataset.status ?? '';
+    cover.querySelector('img')!.src = src;
+    document.querySelector<HTMLImageElement>('#backdrop')!.src = src;
+  }
+
+  const SORT_LABELS = { asc: 'Du premier au dernier', desc: 'Du dernier au premier' };
+
+  function decorate() {
+    const list = document.querySelector<HTMLUListElement>('#chapter-list');
+    if (!list) return;
+    const store = createStore();
+    const root = document.documentElement;
+
+    list.addEventListener('click', e => {
+      const button = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-toggle]');
+      if (!button) return;
+      const n = Number(button.dataset.toggle);
+      if (button.getAttribute('aria-pressed') === 'true') markUnread(store, n);
+      else markRead(store, n);
+      render();
+    });
+
+    const toggle = document.querySelector<HTMLButtonElement>('#thumbs-toggle')!;
+    toggle.setAttribute('aria-pressed', String(root.dataset.thumbs !== 'show'));
+    toggle.onclick = () => {
+      const hide = root.dataset.thumbs === 'show';
+      root.dataset.thumbs = hide ? 'hide' : 'show';
+      toggle.setAttribute('aria-pressed', String(hide));
+      store.set('thumbs', hide ? 'hide' : 'show');
+    };
+
+    // Tri : ordre des lignes inversé, choix mémorisé.
+    const sort = document.querySelector<HTMLButtonElement>('#sort')!;
+    const applySort = (order: 'asc' | 'desc') => {
+      const items = [...list.children] as HTMLElement[];
+      items.sort((a, b) => (Number(a.dataset.n) - Number(b.dataset.n)) * (order === 'asc' ? 1 : -1));
+      list.append(...items);
+      sort.dataset.order = order;
+      sort.setAttribute('aria-label', SORT_LABELS[order]);
+      sort.querySelector('.sort-label')!.textContent = SORT_LABELS[order];
+    };
+    applySort(store.get('sort') === 'desc' ? 'desc' : 'asc');
+    sort.onclick = () => {
+      const order = sort.dataset.order === 'asc' ? 'desc' : 'asc';
+      applySort(order);
+      store.set('sort', order === 'desc' ? 'desc' : '');
+    };
+
+    // Recherche par numéro ; Entrée ouvre le chapitre s’il existe.
+    const form = document.querySelector<HTMLFormElement>('#chapter-search')!;
+    const input = form.querySelector('input')!;
+    const noResult = document.querySelector<HTMLElement>('#no-result')!;
+    input.addEventListener('input', () => {
+      const q = input.value.replace(/\D/g, '');
+      let visible = 0;
+      for (const item of list.children as HTMLCollectionOf<HTMLElement>) {
+        item.hidden = q !== '' && !item.dataset.n!.includes(q);
+        if (!item.hidden) visible++;
+      }
+      noResult.hidden = visible > 0;
+    });
+    form.addEventListener('submit', e => {
+      e.preventDefault();
+      const q = input.value.replace(/\D/g, '');
+      const card = list.querySelector<HTMLAnchorElement>(`[data-chapter-card="${q}"]`)
+        ?? list.querySelector<HTMLAnchorElement>('li:not([hidden]) [data-chapter-card]');
+      if (q && card) navigate(card.getAttribute('href')!);
+    });
+
+    render();
   }
   document.addEventListener('astro:page-load', decorate);
 </script>

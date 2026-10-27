@@ -45,6 +45,19 @@ test('les boutons de mode et le compteur sont au premier plan', async ({ page })
   await expect(page.locator('html')).toHaveAttribute('data-view', 'fr');
 });
 
+test('compteur de pages masquable, choix mémorisé', async ({ page }) => {
+  await page.goto(`/chapitre/${FIRST}/`);
+  await expect(counter(page)).toBeVisible();
+  await page.getByRole('button', { name: 'Masquer le compteur de pages' }).click();
+  await expect(counter(page)).toHaveCount(0);
+  await page.reload();
+  const show = page.getByRole('button', { name: 'Afficher le compteur de pages' });
+  await expect(show).toBeVisible();
+  await page.keyboard.press('p');
+  await expect(counter(page)).toBeVisible();
+  await expect(show).toHaveCount(0);
+});
+
 test('changer de mode garde la page en cours', async ({ page }) => {
   await page.goto(`/chapitre/${FIRST}/`);
   await expect(page.locator('.seg')).toBeVisible();

@@ -26,6 +26,12 @@
   let page = $state(1);
   let progress = $state(0);
   let helpOpen = $state(false);
+  let showCounter = $state(store.get('counter') !== 'hide');
+
+  function toggleCounter() {
+    showCounter = !showCounter;
+    store.set('counter', showCounter ? '' : 'hide');
+  }
 
   const pad = (n: number) => String(n).padStart(2, '0');
   const column = () => (view === 'en' ? 'en' : 'fr');
@@ -94,6 +100,7 @@
       else if (e.key === 'ArrowRight') go(next);
       else if (e.key === '1' || e.key === '2' || e.key === '3') setView(VIEWS[Number(e.key) - 1]);
       else if (e.key === '?') helpOpen = !helpOpen;
+      else if (e.key === 'p' || e.key === 'P') toggleCounter();
       else if (e.key === 'Escape') helpOpen = false;
     };
     // Sauvegarde avant que la navigation ne remplace la page (après, la bande est détachée).
@@ -125,7 +132,21 @@
   {/each}
 </div>
 
-<aside class="page-hud" aria-live="polite">PAGE<b>{pad(page)}<span> / {pad(total)}</span></b></aside>
+<!-- Replié en pastille quand on le masque, pour pouvoir le rouvrir au doigt (pas de clavier sur mobile). -->
+<button
+  type="button"
+  class="page-hud"
+  class:collapsed={!showCounter}
+  aria-label={showCounter ? 'Masquer le compteur de pages' : 'Afficher le compteur de pages'}
+  title={showCounter ? 'Masquer le compteur (P)' : 'Afficher le compteur (P)'}
+  onclick={toggleCounter}
+>
+  {#if showCounter}
+    <span class="hud-text" aria-live="polite">PAGE<b>{pad(page)}<span> / {pad(total)}</span></b></span>
+  {:else}
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M7 3h10v18H7z M4 6v12" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" /></svg>
+  {/if}
+</button>
 
 {#if helpOpen}
   <div class="help" role="dialog" aria-labelledby="help-title">
@@ -133,6 +154,7 @@
     <dl>
       <dt><kbd>←</kbd> <kbd>→</kbd></dt><dd>Chapitre précédent / suivant</dd>
       <dt><kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd></dt><dd>Anglais / les deux / français</dd>
+      <dt><kbd>P</kbd></dt><dd>Afficher ou masquer le compteur de pages</dd>
       <dt><kbd>?</kbd></dt><dd>Afficher ou masquer cette aide</dd>
       <dt><kbd>Échap</kbd></dt><dd>Fermer</dd>
     </dl>

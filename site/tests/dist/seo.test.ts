@@ -7,7 +7,7 @@ describe('head commun (accueil)', () => {
   const page = html('index.html');
   it('langue, titre, description', () => {
     expect(page).toMatch(/<html lang="fr"/);
-    expect(page).toMatch(/<title>Player — Traduction française<\/title>/);
+    expect(page).toContain('<title>Player (플레이어) en français — webtoon EN / FR côte à côte</title>');
     expect(page).toMatch(/<meta name="description" content="[^"]+"/);
   });
   it('canonique absolue avec barre oblique finale', () =>
@@ -16,7 +16,10 @@ describe('head commun (accueil)', () => {
     for (const p of ['og:title', 'og:description', 'og:url', 'og:image', 'og:type', 'og:locale'])
       expect(page).toContain(`property="${p}"`);
     expect(page).toContain('name="twitter:card" content="summary_large_image"');
-    expect(page).toMatch(/property="og:image" content="https:\/\/player-fr\.example\/thumbs\/\d+\.webp"/);
+    expect(page).toContain('property="og:image" content="https://player-fr.example/cover.webp"');
+    expect(page).toContain('property="og:image:width" content="690"');
+    expect(page).toContain('name="twitter:image:alt" content="Cover du webtoon Player"');
+    expect(page).toContain('content="index, follow, max-image-preview:large"');
   });
   it('favicon, manifeste, sitemap', () => {
     expect(page).toContain('href="/favicon.svg"');
@@ -25,4 +28,25 @@ describe('head commun (accueil)', () => {
   });
   it('pas de Google Fonts', () => expect(page).not.toContain('fonts.googleapis.com'));
   it('lien d’évitement', () => expect(page).toContain('class="skip"'));
+});
+
+describe('données structurées et fichiers pour les robots', () => {
+  const page = html('index.html');
+  it('WebSite et ComicSeries avec auteurs et œuvre d’origine', () => {
+    expect(page).toContain('"@type":"WebSite"');
+    expect(page).toContain('"alternateName":"플레이어"');
+    expect(page).toContain('"name":"Park Jong-seok"');
+    expect(page).toContain('"translationOfWork"');
+  });
+  it('robots.txt nomme les robots des assistants IA', () => {
+    const robots = html('robots.txt');
+    for (const bot of ['GPTBot', 'ClaudeBot', 'PerplexityBot', 'Google-Extended']) expect(robots).toContain(`User-agent: ${bot}`);
+    expect(robots).not.toMatch(/Disallow: \/$/m);
+  });
+  it('llms.txt décrit le site et liste les chapitres', () => {
+    const llms = html('llms.txt');
+    expect(llms).toMatch(/^# Player/);
+    expect(llms).toContain('Park Jong-seok');
+    expect(llms).toContain('https://player-fr.example/chapitre/225/');
+  });
 });

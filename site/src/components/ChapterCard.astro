@@ -4,12 +4,21 @@ import { chapterPath } from '../lib/urls';
 interface Props { n: number; pages: number }
 const { n, pages } = Astro.props;
 ---
-<li>
+<li class="card-item" data-n={n}>
   <a class="card" href={chapterPath(n)} data-chapter-card={n} data-status="">
-    <img src={`/thumbs/${n}.webp`} width="400" height="560" alt="" loading="lazy" decoding="async" />
-    <span class="card-num">Chapitre {n}</span>
-    <span class="card-meta">{pages} pages</span>
-    <span class="badge badge-read">Lu</span>
-    <span class="badge badge-progress">En cours</span>
+    <span class="thumb"><img src={`/thumbs/${n}.webp`} width="400" height="560" alt="" loading="lazy" decoding="async" /></span>
+    <span class="card-body">
+      <span class="card-num">Chapitre {n}</span>
+      <span class="card-meta">
+        <span class="card-pages">{pages} pages</span>
+        <span class="status status-read">Lu</span>
+        <span class="status status-progress">En cours</span>
+      </span>
+    </span>
+    <svg class="card-chevron" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="m9 6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
   </a>
+  <!-- Hors du lien (pas de bouton dans un lien) : bascule lu / non lu, à la main. -->
+  <button type="button" class="read-toggle" data-toggle={n} aria-pressed="false" aria-label={`Chapitre ${n} lu`} title="Lu / non lu">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" /></svg>
+  </button>
 </li>

@@ -16,6 +16,8 @@ interface Props {
   title: string;
   description: string;
   image?: string;
+  imageAlt?: string;
+  imageSize?: [number, number];
   type?: 'website' | 'article';
   noindex?: boolean;
   jsonLd?: object | object[];
@@ -23,9 +25,10 @@ interface Props {
   next?: number | null;
 }
 const latest = (await getChapters()).at(-1)!;
+// Image de partage par défaut : la vignette du dernier chapitre (400 × 560).
 const {
-  title, description, image = `/thumbs/${latest.n}.webp`, type = 'website', noindex = false,
-  jsonLd = [], prev = null, next = null,
+  title, description, image = `/thumbs/${latest.n}.webp`, imageAlt = `Player, chapitre ${latest.n}`,
+  imageSize = [400, 560], type = 'website', noindex = false, jsonLd = [], prev = null, next = null,
 } = Astro.props;
 ---
 <!doctype html>
@@ -33,18 +36,20 @@ const {
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#07090d" />
+  <meta name="theme-color" content="#121212" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="manifest" href="/manifest.webmanifest" />
   <link rel="sitemap" href="/sitemap-index.xml" />
-  <Seo {title} {description} {image} {type} {noindex} jsonLd={[jsonLd].flat()} {prev} {next} />
+  <Seo {title} {description} {image} {imageAlt} {imageSize} {type} {noindex} jsonLd={[jsonLd].flat()} {prev} {next} />
   <script is:inline>
-    // Mode d’affichage posé avant le premier rendu (pas de saut EN|FR -> FR), et après chaque navigation.
+    // Mode d’affichage et aperçus posés avant le premier rendu (pas de saut EN|FR -> FR, pas d’aperçu
+    // qui divulgâche le temps d’un éclair), et après chaque navigation.
     (() => {
       const apply = () => {
-        let v = null;
-        try { v = localStorage.getItem('view'); } catch {}
+        let v = null, t = null;
+        try { v = localStorage.getItem('view'); t = localStorage.getItem('thumbs'); } catch { /* stockage bloqué : valeurs par défaut */ }
         document.documentElement.dataset.view = ['en', 'both', 'fr'].includes(v) ? v : 'both';
+        document.documentElement.dataset.thumbs = t === 'show' ? 'show' : 'hide';
       };
       apply();
       if (!window.__playerView) {

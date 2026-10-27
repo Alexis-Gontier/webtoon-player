@@ -7,15 +7,15 @@ const { prev = null, next = null } = Astro.props;
 const onChapter = prev !== null || next !== null;
 ---
 <header class:list={['bar', { 'has-seg': onChapter }]}>
-  <a class="logo" href="/" aria-label="Player, accueil"><span class="mark"></span>PLAYER<small>EN / FR</small></a>
+  <a class="logo" href="/" aria-label="Player, accueil" translate="no">PLAYER<small>EN / FR</small></a>
   <nav class="site-nav" aria-label="Navigation">
     {onChapter && (prev !== null
       ? <a class="icon-btn" href={chapterPath(prev)} title="Chapitre précédent (←)" aria-label="Chapitre précédent">‹</a>
-      : <span class="icon-btn" aria-disabled="true">‹</span>)}
+      : <span class="icon-btn" aria-disabled="true" aria-hidden="true">‹</span>)}
     <a class="nav-link" href="/#chapitres">Chapitres</a>
     {onChapter && (next !== null
       ? <a class="icon-btn" href={chapterPath(next)} title="Chapitre suivant (→)" aria-label="Chapitre suivant">›</a>
-      : <span class="icon-btn" aria-disabled="true">›</span>)}
+      : <span class="icon-btn" aria-disabled="true" aria-hidden="true">›</span>)}
   </nav>
   <div class="progress" id="progress"></div>
 </header>

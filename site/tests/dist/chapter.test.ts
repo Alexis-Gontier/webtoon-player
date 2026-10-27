@@ -9,7 +9,7 @@ describe('page chapitre', () => {
   it('une page par chapitre', () => { for (const c of chapters) expect(() => html(c.n)).not.toThrow(); });
   const page = html(first.n);
   it('titre, h1, fil d’Ariane', () => {
-    expect(page).toContain(`<title>Player — Chapitre ${first.n}</title>`);
+    expect(page).toContain(`<title>Player chapitre ${first.n} en français — lecture EN / FR</title>`);
     expect(page).toMatch(new RegExp(`<h1[^>]*>Chapitre ${first.n}</h1>`));
     expect(page).toContain('aria-label="Fil d’Ariane"');
   });

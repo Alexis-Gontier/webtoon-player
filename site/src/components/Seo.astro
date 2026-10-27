@@ -6,27 +6,44 @@ interface Props {
   title: string;
   description: string;
   image: string;
+  imageAlt: string;
+  imageSize: [number, number];
   type: 'website' | 'article';
   noindex: boolean;
   jsonLd: object[];
   prev: number | null;
   next: number | null;
 }
-const { title, description, image, type, noindex, jsonLd, prev, next } = Astro.props;
+const { title, description, image, imageAlt, imageSize, type, noindex, jsonLd, prev, next } = Astro.props;
 const site = Astro.site!;
 const canonical = absolute(Astro.url.pathname, site);
+const imageUrl = absolute(image, site);
 ---
 <title>{title}</title>
 <meta name="description" content={description} />
-{noindex ? <meta name="robots" content="noindex" /> : <link rel="canonical" href={canonical} />}
+{noindex
+  ? <meta name="robots" content="noindex" />
+  : <>
+      <link rel="canonical" href={canonical} />
+      <!-- Grands aperçus d’image autorisés dans les résultats (Google Discover, Images). -->
+      <meta name="robots" content="index, follow, max-image-preview:large" />
+    </>}
 {prev !== null && <link rel="prev" href={absolute(chapterPath(prev), site)} />}
 {next !== null && <link rel="next" href={absolute(chapterPath(next), site)} />}
+<link rel="alternate" type="text/plain" href="/llms.txt" title="Résumé du site pour les assistants IA" />
 <meta property="og:site_name" content={SITE.name} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
-<meta property="og:image" content={absolute(image, site)} />
+<meta property="og:image" content={imageUrl} />
+<meta property="og:image:width" content={String(imageSize[0])} />
+<meta property="og:image:height" content={String(imageSize[1])} />
+<meta property="og:image:alt" content={imageAlt} />
 <meta property="og:type" content={type} />
 <meta property="og:locale" content={SITE.locale} />
 <meta name="twitter:card" content="summary_large_image" />
-{jsonLd.map(data => <script type="application/ld+json" set:html={JSON.stringify(data)} />)}
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={imageUrl} />
+<meta name="twitter:image:alt" content={imageAlt} />
+{jsonLd.map(data => <script is:inline type="application/ld+json" set:html={JSON.stringify(data)} />)}
