@@ -3,9 +3,10 @@ export const SITE = {
   shortName: 'Player FR',
   lang: 'fr',
   locale: 'fr_FR',
-  description: 'Le webtoon Player en version originale et en traduction française, chapitre par chapitre, avec lecture côte à côte.',
+  // « VF », « manhwa » et l’auteur : les mots que les lecteurs tapent (« Player » seul désigne d’autres séries).
+  description: 'Le manhwa Player d’Oh Hyeon-jun en VF : traduction française chapitre par chapitre, seule ou côte à côte avec la version anglaise.',
   // Balise <title> de l’accueil : nom, titre original et ce que propose le site (≈ 60 caractères).
-  homeTitle: 'Player (플레이어) en français — webtoon EN / FR côte à côte',
+  homeTitle: 'Player VF (플레이어) — manhwa d’Oh Hyeon-jun en français',
   series: {
     title: 'Player',
     // Œuvre d’origine : Naver Webtoon (voir docs/audit-2026-10-09.md).

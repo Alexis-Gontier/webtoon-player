@@ -7,7 +7,7 @@ describe('head commun (accueil)', () => {
   const page = html('index.html');
   it('langue, titre, description', () => {
     expect(page).toMatch(/<html lang="fr"/);
-    expect(page).toContain('<title>Player (플레이어) en français — webtoon EN / FR côte à côte</title>');
+    expect(page).toContain('<title>Player VF (플레이어) — manhwa d’Oh Hyeon-jun en français</title>');
     expect(page).toMatch(/<meta name="description" content="[^"]+"/);
   });
   it('canonique absolue avec barre oblique finale', () =>
